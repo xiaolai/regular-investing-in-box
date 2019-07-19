@@ -40,7 +40,7 @@ https://b.watch
 
 这种波动究竟来自于何处？也许你听过一个名词，简称 “康波”，全称我永远记不住，每次引用都只好通过 Google 去 Wikipedia 拷贝再拿回来粘贴：“**康德拉季耶夫長波**”。这个 “康师傅”，是第一位研究大周期的俄国人。所谓康波，是一种约为五六十年为一循环的经济周期现象，一般将这个长波分为两个阶段，上升的 A 阶段和下降的 B 阶段。
 
-![Kondratieff_Wave](/Users/joker/github/xiaolai/regular-investing-in-box/images/Kondratieff_Wave.png)
+![Kondratieff_Wave](images/Kondratieff_Wave.png)
 
 上图解释的是在长波理论框架之下，世界经济趋势的简略情况。
 
@@ -56,11 +56,11 @@ https://b.watch
 
 而我们在看过去四十年全球股市指数价格走向图的时候，我们看到的是由许多个上升下降构成的周期连接起来的总体上上升趋势的走向。
 
-![sp500from1979.tb](/Users/joker/github/xiaolai/regular-investing-in-box/images/sp500from1979.tb.png)
+![sp500from1979.tb](images/sp500from1979.tb.png)
 
 若是我们看看比特币的价格走向，或者区块链数字资产总市值的价格走向，也都一样，是由许多个上升下降构成的周期连接起来的上升趋势走向。
 
-![blockchain_marketcap](/Users/joker/github/xiaolai/regular-investing-in-box/images/blockchain_marketcap.png)
+![blockchain_marketcap](images/blockchain_marketcap.png)
 
 那，为什么上个世纪三十年代的美国大萧条，要那么长时间才能恢复（那就是一个周期完成），而上个世纪九十年代的亚洲金融危机修复却只用了短短几年？进而，到了这个世纪，为什么美国次贷危机引发的全球经济衰退修复的时间更快？
 

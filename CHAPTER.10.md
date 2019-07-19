@@ -24,7 +24,7 @@ https://b.watch
 
 有些道理，即便摆在眼前，没有很多经历支撑，是无法理解、无法深入理解，甚至干脆就事实上拒绝接受、视而不见的。2018 年年底的时候，阿诺德·施瓦辛格有一个著名的演讲，《成功的真谛》。
 
-![Arnold-Schwarzenegger-quotes-Jealousy-you-have-to-earn](/Users/joker/github/xiaolai/regular-investing-in-box/images/Arnold-Schwarzenegger-quotes-Jealousy-you-have-to-earn.jpg)
+![Arnold-Schwarzenegger-quotes-Jealousy-you-have-to-earn](images/Arnold-Schwarzenegger-quotes-Jealousy-you-have-to-earn.jpg)
 
 > https://v.qq.com/x/page/c0818oag4pp.html
 

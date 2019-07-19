@@ -28,7 +28,7 @@ https://b.watch
 
 换言之，这是更普遍的现象 —— 决定性因素基本上都在你的主动边界之外。
 
-![003](/Users/joker/github/xiaolai/regular-investing-in-box/images/003.png)
+![003](images/003.png)
 
 有很多例子。
 

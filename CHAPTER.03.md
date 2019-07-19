@@ -24,29 +24,29 @@ https://b.watch
 
 以下是龙门基金的网站 2019 年 7 月初的截图：
 
-![longmen.web.snapshot.tb](/Users/joker/github/xiaolai/regular-investing-in-box/images/longmen.web.snapshot.tb.png)
+![longmen.web.snapshot.tb](images/longmen.web.snapshot.tb.png)
 
 为了使用这个数据作为定投的例子，我们只取每个月的数据看一看：
 
-![longmen.smiling.curve.tb](/Users/joker/github/xiaolai/regular-investing-in-box/images/longmen.smiling.curve.tb.png)
+![longmen.smiling.curve.tb](images/longmen.smiling.curve.tb.png)
 
 假设你从 2018 年 9 月开始，每月定投龙门资本 1,000 美元，一直定投了 11 个月…… 那么，数据大抵如下：
 
-![longmen.data](/Users/joker/github/xiaolai/regular-investing-in-box/images/longmen.data.tb.png)
+![longmen.data](images/longmen.data.tb.png)
 
 也就是说，在每月定投的情况下，你会错过最高点，2019 年 6 月 25 日的 \$92 美金；你也会错过最低点，2018 年 12 月 15 日的 \$23…… 但，最终你的均价为 \$54，而当前价格差不多 \$85 左右。11 个月后，你累计投资了 \$11,000；而你现在的账面价值是 \$19,141.44 —— 即便这是按照你最后一次定投时的价格，\$82 —— 竟然还比上一个月跌了 \$1…… 然而，你的收益率已经足足有 **74.01%** 了！
 
 看以下配图，你能更清楚地看到你所投入的本金和当前收益的关系：
 
-![longmen.regular.investing.tb](/Users/joker/github/xiaolai/regular-investing-in-box/images/longmen.regular.investing.tb.png)
+![longmen.regular.investing.tb](images/longmen.regular.investing.tb.png)
 
 在以上龙门基金的 11 个月的数据之中，价格曲线画出了一个迷人的 “微笑曲线”。
 
-![smilingCurve](/Users/joker/github/xiaolai/regular-investing-in-box/images/smilingCurve.png)
+![smilingCurve](images/smilingCurve.png)
 
 市场上采取定投策略的人永远是少数，而上面这个所谓的 “**微笑曲线**”，对并未采取定投策略的人来说，很可能是截然相反的 “**猥琐曲线**”。那绝对不是一张善意的笑脸，而是一张你在蝙蝠侠故事里见到过的那个小丑的邪恶的笑脸 —— 他的嘴里还在阴森地嘟囔着：“Why so serious?”
 
-![jokersFace](/Users/joker/github/xiaolai/regular-investing-in-box/images/jokersFace.png)
+![jokersFace](images/jokersFace.png)
 
 现在再看看数据，假设，你的投资方式是绝大多数人爱干的那种，所谓的“一把梭”…… 那么，你在 2018 年的 9 月份一把梭进去 \$11,000 美元，然后拿到 11 个月后，倒也没有赔，因为你会有大约 **10.81%** 的收益！—— 虽然比 **74.01%** 差远了，可毕竟没有赔啊！
 

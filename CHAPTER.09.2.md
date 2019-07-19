@@ -34,7 +34,7 @@ https://b.watch
 
 换言之，家长们在不知不觉中跨出了 “主动的边界” 而不自知。
 
-![001](/Users/joker/github/xiaolai/regular-investing-in-box/images/001.png)
+![001](images/001.png)
 
 **主动的第一个边界是自己**。
 
@@ -62,7 +62,7 @@ https://b.watch
 
 在一些事儿上，技巧起着百分之百的作用；在另外一个极端上，只有运气才起着百分之百的作用，在两个极端之间，技巧和运气成分各不相同……
 
-![002](/Users/joker/github/xiaolai/regular-investing-in-box/images/002.png)
+![002](images/002.png)
 
 上图来自于 *Michael J. Mauboussin* 于 2012 出版的书籍：**The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing**。
 
@@ -90,7 +90,7 @@ https://b.watch
 
 换言之，这是更普遍的现象 —— 决定性因素基本上都在你的主动边界之外。
 
-![003](/Users/joker/github/xiaolai/regular-investing-in-box/images/003.png)
+![003](images/003.png)
 
 有很多例子。
 

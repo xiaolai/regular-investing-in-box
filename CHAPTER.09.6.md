@@ -55,7 +55,7 @@ https://b.watch
 
 绝大多数人在面对被教育的过程（即，被系统同化的过程）中感到极度不适 —— 这很自然。然而，接下来的选择却是最能够体现挣扎者之坚强的：绝大多数人放弃了被教育，**只有极少数人选择了自教育。**自教育的人，不仅时时刻刻自教育，而且终生如此。令人瞩目的是，仔细观察历史之后，你会发现，**改变世界的人无一例外都是自教育的。**
 
-![004](/Users/joker/github/xiaolai/regular-investing-in-box/images/004.png)
+![004](images/004.png)
 
 反过来看，无论是被教育的人，还是放弃了被教育的人，他们最终还是被系统同化了 —— 被动的力量在他们身上都发挥了极为强大的影响，强大到令所有人无可奈何，最终以为那是来自神鬼的力量。
 
@@ -65,7 +65,7 @@ https://b.watch
 
 在基金管理领域，基金被分为两种，**主动型基金**和**被动型基金**。
 
-![Funds_flows_into_active_and_passive_funds.tb](/Users/joker/github/xiaolai/regular-investing-in-box/images/Funds_flows_into_active_and_passive_funds.tb.png)
+![Funds_flows_into_active_and_passive_funds.tb](images/Funds_flows_into_active_and_passive_funds.tb.png)
 
 上图展示的是，过去若干年来，全球范围内主动型基金和被动型基金的资金流入情况。为什么资本越来越青睐被动型基金呢？为什么主动型基金越来越被嫌弃呢？就是因为资本越来越清楚地认识到被动的力量。
 
@@ -77,7 +77,7 @@ https://b.watch
 
 根据 [Wall Street Journal ](https://www.wsj.com/articles/indexes-beat-stock-pickers-even-over-15-years-1492039859)（2017 年 4 月 13 日）的统计，截至 2016 年 12 月 31 日，按 15 年的表现来看，总计有 95.4% 的中型基金落后于 S&P MidCap 400，93.2% 的小型基金落后于 S&P SmallCap 600，92.2% 的大型基金落后于 S&P 500……
 
-![wall-street-journal-on-passive.tb](/Users/joker/github/xiaolai/regular-investing-in-box/images/wall-street-journal-on-passive.tb.png)
+![wall-street-journal-on-passive.tb](images/wall-street-journal-on-passive.tb.png)
 
 主动基金的拥趸们有一个貌似合理的反对意见。他们认为，随着越来越多的钱流入被动型基金，最终会使策略变成“随大流”而已，而这会使得主动基金管理相对更有优势。然而，长期投资者其实都明白市场的短期突变或者一个新的潮流会让主动基金管理者获得短暂的优势，不过，从基于 15 年的统计结果来看，长期投资者们可以将其忽略不计了……
 
