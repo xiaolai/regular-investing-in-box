@@ -75,12 +75,7 @@ https://b.watch
 
 ### 附录
 
-1. [为什么要投资区块链数字资产](Z-Appendix.md)
-2. [为什么定投 BOX](Z-Appendix.md)
-    - 2.1. BOX 细则
-    - 2.2. BOX 的优势
-    - 2.2.1. 投资区块链资产就要投资主流资产
-    - 2.2.2. 符合区块链技术发展的内在逻辑
-    - 2.2.3. 成分比例的考虑
-3. [关于 b.watch](Z-Appendix.md)
-4. [关于笑来定投课堂](Z-Appendix.md)
+1. [为什么要投资区块链数字资产](Z-Appendix.01.md)
+2. [为什么定投 BOX](Z-Appendix.02.md)
+3. [关于 b.watch](Z-Appendix.03.md)
+4. [关于笑来定投课堂](Z-Appendix.04.md)
