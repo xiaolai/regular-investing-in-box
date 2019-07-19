@@ -83,3 +83,11 @@ https://b.watch
 2. [为什么定投 BOX](Z-Appendix.02.md)
 3. [关于 b.watch](Z-Appendix.03.md)
 4. [关于笑来定投课堂](Z-Appendix.04.md)
+
+-----
+
+
+
+本书的版权协议为 [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)。
+
+![CC-BY-NC-ND](images/CC-BY-NC-ND.png?raw=true)
