@@ -87,3 +87,6 @@ Mixin Network 在技术路线上走了个不一样的路径。
 Mixin Network 的做法**是自上而下**（Top Down）：先做一个非常好用的 Dapp（即，Mixin Messenger），而后逐步深入完成底层公链的开发。所以，Mixin Messenger 很早就被发布出来（2017.12），一年多以后（2019.2）Mixin Network 公链正式上线稳定运行。至于像 “骰子游戏” 之类的所谓 Dapp，在 Mixin Network 中只不过是可以跑在 Mixin Messenger 中的一个机器人而已。而 Ocean.One 则是跑在 Mixin Network 中的一个去中心化自治治理交易所，也是区块链行业中的技术先锋。更多的应用正在路上，比如，我设计的这个 [BOX](https://b.watch) 以及它的交易所 [b.watch](https://b.watch)，没有 Mixin Network 这种公链，是根本做不出来的 —— 与之类似的所谓公链，不是没试过，是干脆不可用。也正因为如此，在我的设计中，XIN 在 [BOX](https://b.watch) 中的占比事实上略高。
 
 总结起来，其实只有一句话， [BOX](https://b.watch)是你无论如何都亏不了的 ETF 产品 —— 因为如果它亏了，只不过是因为区块链这个行业被证明为不行，这事儿怪不了我，也怪不了你。但是，**只要区块链行业好， [BOX](https://b.watch)就必然好** —— 而区块链行业正在起飞，所以，大概率上我们会赢。就这么简单。
+
+
+[➔ 附录3：关于 b.watch](Z-Appendix.03.md)

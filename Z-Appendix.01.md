@@ -53,3 +53,7 @@ https://b.watch
 > * 在一定的条件下，Token 持有者可以通过缴回 Token 赎回该篮子中对应的标的。
 
  [BOX](https://b.watch)就是这样的一个 ETF。
+
+
+
+[➔ 附录2：为什么定投 BOX](Z-Appendix.02.md)

@@ -37,3 +37,6 @@ https://b.watch
 > * [BOX](https://b.watch) 的持有时间长度
 > * [BOX](https://b.watch) 定投任务的完成程度
 > * 笑来课堂的销售业绩
+
+
+[➔ 附录4：关于笑来定投课堂](Z-Appendix.04.md)
