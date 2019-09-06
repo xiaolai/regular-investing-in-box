@@ -2,7 +2,7 @@
 
 *—— Let time enrich you...*
 
-**李笑来**
+**Li Xiaolai**
 
 July, 2019
 
@@ -12,7 +12,7 @@ https://b.watch
 
 ---
 
-## 6. 为什么他们都那么聪明却总是做出错误决策
+## 6. Why are they so smart but always make wrong decisions?
 
 Before starting investing in the trading market, everyone felt that they were terribly normal...
 
@@ -20,11 +20,11 @@ After starting to invest, it will not take long for most people to become deject
 
 When the market was soaring, they found that they had sold it for a long time; when the price fell down, it actually appeared after they had just bought it. One day they found themselves escaping from the top yesterday, but after a few days they found out that they were only shocked out of the game; One day they felt that they had bottomed out, but after a few days they found that they were only picking up the knife a few days ago; they felt that the target in my hand was too slow compared to the other one, so they changed the car and found that they were following the high speed. On the road, the line is the same, anyway, the lane in which you are located is always the slowest...
 
-有个股市的段子，能够清楚地描述那些 “韭菜” 们的感受：
+There is a section of the stock market that clearly describes the feelings of those "chives":
 
 > I have always wondered why: Why can I control the whole market with a small retail investor? No matter how crazy the previous rally, it will definitely fall when I buy it! Even if the 30-day support line has been broken, the fork has been forked again and again, and it will rise as soon as I sell it. I am in a short position and the market is skyrocketing. The dealers who hold the billions of funds are staring at the tens of thousands of dollars in my hands. What the hell is this? !
 
-所以说，每个人在进行所谓的投资一段时间之后，就开始怀疑自己有病。
+So, after everyone has been doing so-called investment for a while, they begin to suspect that they are sick.
 
 In fact, there is indeed a disease - rickets? **Ignorance** .
 
@@ -40,11 +40,11 @@ For this situation, the overwhelming majority of people are superficial. They be
 
 The last sentence is definitely an excuse for your own ignorance. It’s like when a ugly girl has never received a love letter, but the explanation that she has never received a love letter is “I am not that kind of person!” — It seems that pretty girls who receive love letters are like ......
 
-所以，症状看到了，病根也找到了，那应该咋治呢？还是那句话：
+Therefore, the symptoms have been seen, and the root of the disease has also been found. Should it be cured? Again:
 
 > **How to solve problems? Only by fixed investing!**
 
-交易市场上从来都不缺聪明人，然而，虽然他们聪明，但他们不见得不愚昧，所以他们才屡屡吃亏。定投，不仅仅是一种投资策略，从另外一个层面上来看，定投是必须践行的行为，所以，理论上来看，定投是最好的投资教育，也是最好的投资教育实践 —— 所以，一个人是否聪明根本不重要，重要的是，在定投的持续践行过程中，最好的投资教育完成了，定投者会逐步摆脱愚昧走向文明。
+There is never a shortage of smart people in the trading market. However, although they are smart, they are not necessarily foolish, so they have suffered repeatedly. Fixed investment is not just an investment strategy. From another perspective, fixed investment is an act that must be practiced. Therefore, in theory, fixed investment is the best investment education and the best investment education practice. Whether a person is smart or not is not important at all. What is important is that in the process of continuous practice of fixed investment, the best investment education is completed, and the fixed investors will gradually get rid of ignorance and move toward civilization.
 
 You see, when people see a disease but cannot cure it, they can always come up with many explanations that are easy to understand. For the failure of the transaction, their summary is strikingly consistent: Oh, I am too greedy. It seems that the word "greed" can explain everything - can it really be like this?
 
@@ -52,11 +52,11 @@ It is often the case that a person buys a subject, for example, the cost is $10.
 
 In the trading market, greed is universal, as everyone is greedy, or otherwise what are you doing here? So, is greed a sin? Surely not. The power of people to confuse concepts is surprisingly large, especially the ability to confuse two diametrically opposite concepts. When they made big money, they called greed as ambition, and when they lost big money, they called greed as sin. What is the use of this ambiguous definition, besides messing your brain?
 
-其实，根源根本就不在所谓的“贪婪”上。根源原本应该非常清楚：
+In fact, the root cause is not at all called "greed". The roots should have been very clear:
 
 > These so-called investors bought what he couldn't understand, so he couldn't judge the standard price at all.
 
-10 元的时候，他根本不知道这 10 元是合理还是不合理？20 元的时候，他还是不知道这 20 元是合理还是不合理？12 元的时候、2 元的时候，他依然不知道这个 12 元或者 2 元是否合理还是不合理？
+At 10 yuan, he did not know whether the 10 yuan was reasonable or unreasonable? At 20 yuan, he still didn't know if the 20 yuan was reasonable or unreasonable? At 12 yuan, 2 yuan, he still does not know whether this 12 yuan or 2 yuan is reasonable or unreasonable?
 
 What is the basis for his shot? In fact, it is just the so-called "follow the feeling." In expert terms, it is "**a random strolling fool**." Because the result of a random walk is not moving in place - of course, the ending of such people is not as good as a random stroll, because they will not stay in place, they will slowly sink into hell.
 
