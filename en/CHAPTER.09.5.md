@@ -2,7 +2,7 @@
 
 *—— Let time enrich you...*
 
-**李笑来**
+**Li Xiaolai**
 
 July, 2019
 
@@ -12,9 +12,9 @@ https://b.watch
 
 ---
 
-## 9. 定投策略神奇力量背后的深刻机理
+## 9. The profound mechanism behind the magical power of the fixed investment strategy
 
-让我们从一对看起来是对立的概念说起：
+Let us start with a pair of concepts that seem to be opposite:
 
 > **Active** and **Passive**
 
@@ -28,7 +28,7 @@ I am the author of the hardcore chicken soup. I share my thoughts, my decisions,
 
 I don't like to have a sense of moral superiority, and in fact I hate anyone who has an unfounded sense of moral superiority. They are my opposite, the absolute opposite. No matter of what, they can show up and brag about no matter whether they have done it, whether they have done it well, or whether they even understand it. Their only appeal is to be superior.
 
-以下这个论断绝对不夸张：
+The following statement is absolutely no exaggeration:
 
 > **All morality-tellers are true liars, whether they are intentional or not.**
 
@@ -42,14 +42,14 @@ Is it hard not to be pretentious? Is it hard not to talk nonsense? Is the desire
 
 > **Stop be garrulous if you cannot do it.**
 
-多简单个事儿啊？！
+How simple is it? !
 
 When designing the [BOX](https://b.watch), in my opinion, it is essentially an open source fixed investment strategy. The code of the programmer can be open source without charge; my article books can be open source without charge, then, can my investment strategy be open source without charge? This is not my first time to open source my investment principles. On June 3, 2017, I opened up the “ [InBlockchain Open Source Blockchain Investment Principles](https://github.com/xiaolai/INB-Principles/blob/master/Chinese.md) ”, which was later included in the book “ {a2}Self-cultivation of Amaranth{/a2} ”.
 
-[BOX](https://b.watch)的设计核心简单得要命：
+The core of the [BOX](https://b.watch) design is simple:
 
-> - 通过选择一系列优质的符合区块链技术发展趋势的标的，**把投资对象从某个项目移到整个行业发展趋势上**；
-> - 既然李笑来把它开源，那么李笑来就应该**把管理费设置为零**；
+> - Move **the investment target from a project to the entire industry development trend** by selecting a series of high-quality targets that are consistent with the development trend of the blockchain technology;
+> - Since Li Xiaolai opened it up, Li Xiaolai should **set the management fee to zero** ;
 > - Since Li Xiaolai thinks so, he has to do this – so Li Xiaolai’s way of making money is to **fixed invest for himself**.
 > - Since the fixed investment is a societal behavior and social behavior, it is a **fixed investment community** that only the real practitioners can participate.
 
@@ -57,7 +57,7 @@ When designing the [BOX](https://b.watch), in my opinion, it is essentially an o
 
 In this process, all operations of the [BOX](https://b.watch), all transactions, are all open and transparent, and strictly abide by the " **100% deposit system**."
 
-所以，从这个角度望过去， [BOX](https://b.watch)是币本位的 “保本” 基金。
+Therefore, from this perspective, [BOX](https://b.watch) is the “guaranteed” fund of the currency standard.
 
 So, is it possible for [BOX to](https://b.watch) generate revenue based on the currency standard? [The BOX](https://b.watch) itself does not. However, [BOX](https://b.watch)'s secondary market exchange [b.watch](https://b.watch) will have. [B.watch](https://b.watch) will regularly drop 50% of the secondary market fee income (one thousandth in both directions) to the [BOX](https://b.watch) holders. At the beginning, this income will not be much, but as time goes by, the reserve of [BOX](https://b.watch) is constantly improving, and this income fee may have a certain scale.
 
@@ -73,20 +73,20 @@ It doesn't matter if people outside don't understand, as people in the community
 
 On July 3, 2019, in the lectures of the Seven-Three-Chive Festival, I said such a speech, which is actually regarding some basic rules about the fixed-income community:
 
-> 1. **容忍多样性**
-> 这里现在已经是过千人的会场。所以，从一开始就要跟大家说清楚，大家在这里必须做到容忍多样性。
+> 1. **Tolerance of diversity**
+> It is now a meeting place for thousands of people. Therefore, we must make it clear from the beginning that everyone must tolerate diversity here.
 > Now there are more than 5,000 people in this group, so about thirty or forty people will sneeze when they see the strong light (7%), about thirty or forty people are gay (6%), about two or three thousand people have different kinds of religious belief (33%), about three or four thousand people have different levels of superstition (66%), and about 4,000 or more have a variety of preconceived contempt chain views (85%), almost everyone thinks that they are above average (99%) in some respects... Everyone is in a different place, so their speeches have their own accents, different levels of education, different family conditions, different habits of life and work, and different values of judging good and bad... This is diversity.
 > However, this class will have to accommodate more people in the future, so diversity must be tolerated. Therefore, in the future, please do not argue in any group chat, and do not have any personal attacks. Once a quarrel occurs, regardless of the cause, without asking who is right or who is wrong, both parties will be removed directly from the classroom.
-> 1. **不评价和课堂内容无关的事情**
+> 1. **Do not evaluate things that are not related to the content of the class**
 > In theory, it should be "not evaluating things that are not related to you." If you want to ask "... What do you think?" Go straight to Zhihu. Xiaolai's fixed invesetment classroom in the future will cover more blockchain knowledge, investment knowledge - **earning clean money through proper channels, which is the most reliable thing.** Social, political, cultural topics each have a more appropriate place to discuss than Xiaolai's fixed invesetment classroom. Here, people only care about one thing, how to continue to grow? How to maintain a good attitude? If it has nothing to do with these concepts, there is no need to mention it.
-> 1. **要学会通过行动获得陌生人的尊重**
+> 1. **Learn to gain the respect of strangers through action**
 > There are a lot of people here. In terms of probability, more people are definitely strangers to you. Don't think that strangers will automatically give you any respect. Being polite is not a sign of respect. It is just that people are respectful of themselves.
 > Respecting, like money, is "earned" and "accumulating". The swindler’s respect will return to zero sooner or later. Some people can get bored even if they take a nickname - don't think it doesn't matter. Whether you have the ability to make money depends almost entirely on whether you can get the respect of strangers.
-> 将来，这个课堂里每个人都是要真实身份验证的（KYC） —— 我建议你从现在开始就用实名，而不是随便写的昵称。相信我，个人品牌很重要。
-> 1. **不要与整个世界作对**
-> 不要以为仅因为你身在中国所以你才要管住你的嘴。当然，也确实是因为你在中国，所以你必须更能管住你的嘴。
-> 不要胡说八道，不要说一些你不能负责的话。更**不要拿着别人的安全表现你的勇敢。**
-> 你可以成长，无论是在什么样的环境下。但若是你未能成长，你其实根本不应该怪罪环境不好 —— 因为从另外一个角度望过去，那只不过是你笨、你弱、你不行而已。
+> In the future, everyone in this class will be authenticated (KYC) - I suggest you use real names from now on instead of nicknames. Believe me, personal brand is very important.
+> 1. **Don't be against the whole world**
+> Don't think that you only have to control your mouth because you are in China. Of course, it is because you are in China, so you must be able to control your mouth more.
+> Don't talk nonsense, don't say something you can't be responsible for. **Don't take your courage with the safety of others.**
+> You can grow, no matter what kind of environment. But if you are not growing up, you should not blame the environment at all - because looking at it from another angle, it is just that you are stupid, you are weak, you can't do it.
 > 1. **Don't compliment Li Xiaolai**
 > Li Xiaolai knows himself. When you criticize him, if he does not make a mistake, he will not be angry. If he finds that he is doing something wrong, he will be angry, but he is angry with himself. When you compliment him, he will not be happy, because he knows that some people cannot compliment in the right places... And, Li Xiaolai is an ordinary person with shortcomings, but there are things he is doing right.
 > However, the flattering is very embarrassing to both the person concerned and the bystander. So don't talk flattering. If you can't help but express your gratitude to Li Xiaolai, then use the method he said to make money - this is better than any other things. Only practice is the ticket to success, and only the result is the experience that can be shared.
