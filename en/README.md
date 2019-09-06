@@ -2,7 +2,7 @@
 
 *—— Let time enrich you...*
 
-**李笑来**
+**Li Xiaolai**
 
 July, 2019
 
@@ -12,27 +12,27 @@ https://b.watch
 
 ---
 
-**注**：有声版在 [audiobook](audiobook/) 目录之下
+**Note** : The audio version is under the [audiobook](audiobook/) directory
 
 ---
 
-## 前言
+## Foreword
 
-我猜，作为一个普通人，你肯定不止一次听过一个令人心惊胆颤的词汇：**阶层固化**。
+I guess, as an ordinary person, you must have heard a horrified word more than once: **class solidification** .
 
-无论阶层固化是否真的已经存在，无论它是否真的正在逐步形成，它都肯定是令普通人一听就心头一紧的词汇。我不知道别人是怎样的感觉，反正我清楚地记得年轻的自己第一次听到这个词汇的时候那种接下来很久都忧心忡忡的感觉  —— 那不是恐惧，那好像是绝望。
+No matter whether the solidification of the hierarchy really exists, whether it is really forming or not, it is definitely a vocabulary that makes ordinary people feel tight when they hear it. I don't know how others feel. Anyway, I clearly remember the feeling that the younger one was worried about it for the first time when he heard the vocabulary for the first time - it was not fear, it seemed desperate.
 
 This vocabulary is a source of anxiety for many people around the world. It’s not that you are afraid of it alone, and that you are not alone in facing it. Sooner or later, you will know that Koreans and Japanese have long accepted the status quo that their society has solidified. You will also hear that even Americans with different American dreams have experienced it to varying degrees. The solidification of the class is taking shape, not to mention the domestic media. They like to die. This natural untouched title can cause the anxiety of most people... The articles talking about this term are all worried, helpless, and provide no feasible solution after all the nagging.
 
 This book is about the **path of }ordinary people getting rid of class solidification** - absolutely feasible, no water, and it depends on yourself. The **ordinary people** mentioned here are regardless of national boundaries, regardless of region, regardless of race, regardless of gender, regardless of age, regardless of height, weight, thinness, beauty, ugliness, regardless of sexual orientation... The key is that even IQ and education do not matter! In other words, this solution is applicable even to the little bustle boy who ran errands in Beijing...
 
-很难令人相信竟然有这样的解决方案。更令人难以置信的是，那解决方案说出来竟然只有两个字：
+It's hard to believe that there is such a solution. Even more incredible is that the solution speaks only two words:
 
 > **Fixed Investment**
 
-**投资**，是我能找到的唯一一个普通人可以跨越阶层的通路。而**定投**则是唯一一种所有普通人都有机会做、并且都有能力做好的投资方式。
+**Investment** is the only way I can find a common person who can cross the hierarchy. And **fixed investment** is the only investment method that all ordinary people have the opportunity to do and have the ability to do well.
 
-> 所谓的定投，就是针对某个投资标的在很长的时间内定期投资一定的金额。
+> The so-called fixed investment is to invest a certain amount of money on a certain investment target for a long time.
 
 For example, in the next **5-10 years in** (a long time), **weekly** (regularly) investment **[BOX](https://b.watch)** that no management fee of block chain ETF products (investment target) **of $ 150 or 1000 yuan** (a certain amount)... Of course, you can replace the [BOX](https://b.watch) with any target that is worth investing in and holding for a long time, such as Apple stock, Kweichow Moutai stock, Coca-Cola stock, or Standard & Poor's index fund.
 
@@ -46,42 +46,42 @@ Few books that can advertise like this:
 
 I haven't been exaggerated - although this is indeed self-selling, the melon that Lao Li sells is really delicious!
 
-请继续读下去！
+Please read on!
 
 ...... Not only that, **but after reading** it, you have to {strong1}read it again and again{/strong1}, until you decide to start investing, until if someone dares to stop you from letting you invest, you can't wait to be desperate with him - I know, you really understand. It must be like this.
 
 ## Table of Contents
 
-### [前言](README.md)
+### [Foreword](README.md)
 
-1. [投资是普通人摆脱阶层固化的唯一靠谱方式](CHAPTER.01.md)
-2. [证券交易市场是世界第九大奇迹](CHAPTER.02.md)
-3. [普通人投资的唯一正确方式就是定投](CHAPTER.03.md)
-4. [究竟有没有只涨不跌的投资标的](CHAPTER.04.md)
-5. [为什么只有很少的人使用定投这么神奇的策略](CHAPTER.05.md)
-6. [为什么他们都那么聪明却总是做出错误决策](CHAPTER.06.md)
-7. [人们是如何做到神奇地避开最优质投资标的的](CHAPTER.07.md)
-8. [定投策略成功的关键完全在于心理建设](CHAPTER.08.md)
-9. [定投策略神奇力量背后的深刻机理](CHAPTER.09.1.md)
-    - 9.1. [培养自己的主动人格](CHAPTER.09.1.md)
+1. [Investment is the only way to get rid of the solidification of ordinary people.](CHAPTER.01.md)
+2. [The stock exchange market is the ninth wonder of the world](CHAPTER.02.md)
+3. [The only correct way for ordinary people to invest is to vote](CHAPTER.03.md)
+4. [Is there any investment target that only rises and falls?](CHAPTER.04.md)
+5. [Why are there only a few people who use this magical strategy?](CHAPTER.05.md)
+6. [Why are they so smart but always make wrong decisions?](CHAPTER.06.md)
+7. [How do people magically avoid the highest quality investment targets?](CHAPTER.07.md)
+8. [The key to the success of the fixed investment strategy lies in the psychological construction](CHAPTER.08.md)
+9. [The profound mechanism behind the magical power of the fixed investment strategy](CHAPTER.09.1.md)
+    - 9.1. Develop your own active personality
     - 9.2. Most active people don’t even know the boundaries
     - 9.3 Factors determining fate are often outside the active boundary
     - 9.4 The optimal strategy for driving the trend can only be active and passive.
     - 9.5 Why is it a "actively passive" best practice strategy?
     - 9.6 How powerful is the passive force of the trend?
-    - 9.7 [在主动的边界内你还有多少空间](CHAPTER.09.7.md)
-10. [在镜像世界里作为普通人的你如何总是能选择对的那一个](CHAPTER.10.md)
+    - 9.7 How much space do you have within the active boundaries?
+10. [In the mirror world, how can you always choose the right one as an ordinary person?](CHAPTER.10.md)
 11. [Since you are an ideal person, you should never be a dabbler.](CHAPTER.11.md)
-12. [你作为一个普通人你究竟有什么样的极端优势](CHAPTER.12.md)
-13. [最重要的好消息：对普通人来说长期并非永远](CHAPTER.13.md)
+12. [What extreme advantage do you have as an ordinary person?](CHAPTER.12.md)
+13. [The most important good news: for ordinary people, it is not forever.](CHAPTER.13.md)
 
-### [结语](Finale.md)
+### [Conclusion](Finale.md)
 
 ### Appendix
 
-1. [为什么要投资区块链数字资产](Z-Appendix.01.md)
+1. [Why invest in blockchain digital assets?](Z-Appendix.01.md)
 2. [Why invest in BOX?](Z-Appendix.02.md)
-3. [关于 b.watch](Z-Appendix.03.md)
+3. [About b.watch](Z-Appendix.03.md)
 4. [About Xiaolai fixed investment class](Z-Appendix.04.md)
 
 ---
