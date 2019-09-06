@@ -2,7 +2,7 @@
 
 *—— Let time enrich you...*
 
-**李笑来**
+**Li Xiaolai**
 
 July, 2019
 
@@ -12,15 +12,15 @@ https://b.watch
 
 ---
 
-## 9. 定投策略神奇力量背后的深刻机理
+## 9. The profound mechanism behind the magical power of the fixed investment strategy
 
-让我们从一对看起来是对立的概念说起：
+Let us start with a pair of concepts that seem to be opposite:
 
 > **Active** and **Passive**
 
 In general, active and passive are considered to be antonyms. “Active” is generally understood to be positive, while relatively “passive” is often understood as negative.
 
-### 9.2. 大多数主动的人竟然不知道边界
+### 9.2. Most active people don’t even know the boundaries
 
 As you begin to care about your active personality, as you continue to shape and care for your active personality, you will feel that **there are too few active people.**
 
@@ -30,7 +30,7 @@ So I learned. In the blink of an eye, I have found that in fact most of the effe
 
 Although the active energy is great for any individual, the **initiative is bounded**. Beyond that boundary, the initiative will lose its effect and even have a negative effect... Why most family education ends up being failed? Why is the proportion of failures so high, even so outrageous? Why can't the broad discussion in society solve this problem? There is a possible explanation for this cold fact:
 
-> 家长们总是在不应该主动的地方不断运用主动的力量。
+> Parents always use the power of initiative in places where they should not take the initiative.
 
 In other words, parents unwittingly took the “active boundary” without knowing it.
 
@@ -38,18 +38,18 @@ In other words, parents unwittingly took the “active boundary” without knowi
 
 **The first boundary of the initiative is oneself** .
 
-在自身范围内，一切都应该采取主动的态度；然而，在自身之外，超出主动边界之后，主动更可能产生的是负作用。如果家长们努力的是把自己变成更好的自己，那么这是把“主动”应用在主动边界之内。
+In its own right, everything should take a proactive attitude; however, beyond itself, beyond the active boundary, the initiative is more likely to have a negative effect. If parents are trying to turn themselves into better ones, then this is to apply "active" within the active boundaries.
 
 It is a pity that the most common words spoken by most parents or the most frequently flashed thoughts are: "Our generation has already been like this...", then they began to hope that the next generation is different from their own, so they Apply everything that they can take on outside of themselves, which is, outside their active boundaries - their children.
 
-他们万万没想到的是，他们这么做的结果几乎是没有任何变数地注定负面的：
+What they never expected was that the result of their work was almost doomedly negative without any variables:
 
 > - They themselves as parents will be no improvement in their future;
-> - 他们的孩子被父母不知不觉变成了 “对自身从来都是被动的人”……
+> - Their children were unwittingly turned into "people who have always been passive to themselves"...
 
-正确的选择原本应该是：
+The correct choice would have been:
 
-> - 家长应该主动把自身变得越来越好；
+> - Parents should take the initiative to make themselves better and better;
 > - Make the child want to become better because of admiration, and then the child will take the initiative, even if only the surface imitation is a good start...
 
 You see, the **right choice is always harder to implement.**
@@ -60,23 +60,23 @@ If you start a fixed investment, you become an investor with certain attributes.
 
 **The second boundary of the initiative is the control range** . In fact, we can really control things like the temperature of the air conditioner, the speed of the car, etc... Even the subsequent discussions will show you what we can control far beyond your imagination... However, **it's more important to identify things that you can't control** . For example, pure luck is something that no one can control...
 
-在一些事儿上，技巧起着百分之百的作用；在另外一个极端上，只有运气才起着百分之百的作用，在两个极端之间，技巧和运气成分各不相同……
+In some cases, the technique plays a 100% role; at the other extreme, only luck plays a 100% role. Between the two extremes, the skill and luck are different...
 
 ![002](../images/002.png)
 
 The above image is from the book published by *Michael J. Mauboussin* in 2012: **The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing** .
 
-很容易就会观察到：
+It is easy to observe:
 
-> - 绝大多数人在自己的主动边界之内努力根本不够；
-> - 更多的人在自己的主动边界之外胡搞瞎搞不自知……
+> - The vast majority of people are not working hard within their own active boundaries;
+> - More people are fooling themselves from outside their own active boundaries...
 
-所以，绝大多数生活窘境都可以归结为：
+Therefore, the vast majority of life dilemmas can be attributed to:
 
 > - Not active enough when they should;
 > - Over active when they should not.
 
-想想看，是不是这样？
+Think about it, is this the case?
 
 The world has no special care for any individual. It is called "the **world is not benevolent, and everything is a dog** ." Thus, from a probabilistic point of view, most people are unlikely to be overly satisfied with the surroundings they are in. Therefore, most people initially have a lot of willingness to change their surroundings - until they finally give up and then give up.
 
