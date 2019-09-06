@@ -2,7 +2,7 @@
 
 *—— Let time enrich you...*
 
-**李笑来**
+**Li Xiaolai**
 
 July, 2019
 
@@ -12,13 +12,13 @@ https://b.watch
 
 ---
 
-## 10. 在镜像世界里作为普通人的你如何总是能选择对的那一个
+## 10. In the mirror world, how can you always choose the right one as an ordinary person?
 
 Sometimes, there is indeed a moment of "decisive victory". When you enter the trading market and choose the **fixed investment strategy**, you have actually won it completely, and it is still very simple to win - then on all the nodes, you are in the **mirror world**. It's that simple. When you decide to teach yourself, as soon as you start to **pay attention to all the clichés** , you win directly and win very simply - on all the nodes that follow, you are in the correct one in the mirror world (see " [Self-study is a Craft](https://github.com/selfteaching/the-craft-of-selfteaching)).
 
 For many years in the past, I have often had a confusion. Why are so many useful truths, in fact, in the eyes of most people is another look? The concept of **mirror world** can be used to explain this strange and helpless phenomenon, but it does not directly provide a solution that is truly simple and rude and directly effective. Until one day, in the trading market, in the investment field, after witnessing the magic of the fixed investment strategy, I finally understood a very simple solution:
 
-> **没有伟大目标的人总是在镜像世界里选择错误的那个。**
+> **People without great goals always choose the wrong one in the mirror world.**
 
 My personal good luck is because, many years ago, it was impossible to understand the situation as clearly as I am now. But this has actually completed the first step, and the benefits of this concept will only be realized after many years.
 
@@ -40,13 +40,13 @@ Of course, my father was on call as other parents. When he arrived at the office
 
 So, you can imagine that for many years after that, I refused to think about the concept of **ideals** . Therefore, I have long thought that I am a person who really has no ideals. Of course, today as I look back, I feel that I am not really without any ideal, but naturally reject the kind of flashy concept.
 
-再一次，我的运气足够好，虽然我差点被理想这个我认为华而不实的概念反向误导，但我在成长过程中不知不觉地学会了另外一个实际上更简单直接粗暴好用的方法：
+Once again, my luck is good enough. Although I was almost misguided by the idea that I think the flashy concept is ideal, I have unknowingly learned another method that is actually simpler and more rude and easy to use:
 
-> **为自己想做的、正在做的事情拼命赋予伟大的意义。**
+> **Give great meaning to what you want to do and what you are doing.**
 
 Many years ago, I accidentally read an article about a writer I liked, Bi Shumin, at a university lecture. A student asked a "ultimate question":
 
-> 毕老师，生命的意义是什么？
+> Teacher Bi, what is the meaning of life?
 
 Ms. Bi Shumin’s answer is:
 
@@ -70,7 +70,7 @@ Many years later, Li Xiaolai became a person who did not lack money. When he was
 
 So, you don't have to use the big word "ideal"  (as I was almost misled by its gorgeous appearance when I was young, then I don't like this word and think it's flashy), but you can use my simple method that I accidentally learned and have practiced for many years, which is necessarily effective:
 
-> **为自己正在做的事情赋予极其伟大的意义。**
+> **Give great meaning to what you are doing.**
 
 If you look back, you will understand why, in the beginning, you will be told that "investment is the only reliable way for ordinary people to get rid of class solidification". This is what I am giving you a great meaning for what you have to do and what you have to do. Of course, you can also find your own meaning that is very great for you.
 
