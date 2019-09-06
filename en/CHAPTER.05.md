@@ -2,7 +2,7 @@
 
 *—— Let time enrich you...*
 
-**李笑来**
+**Li Xiaolai**
 
 July, 2019
 
@@ -12,13 +12,13 @@ https://b.watch
 
 ---
 
-## 5. 为什么只有很少的人使用定投这么神奇的策略
+## 5. Why are there only a few people who use this magical strategy?
 
-读到这里的时候，你必然会越来越好奇，甚至干脆是狐疑：
+When you read this, you will inevitably become more and more curious, or even simply suspicious:
 
-> 定投策略既然这么神奇，甚至是普通人摆脱阶层固化的唯一靠谱通路，怎么最终采用这个策略的人那么少呢？！
+> Since the decision-making strategy is so magical, even the ordinary people get rid of the only reliable channel of class solidification, how few people finally adopt this strategy? !
 
-我们先看一个显而易见的事实：
+Let us first look at an obvious fact:
 
 > In China, the vast majority of families is desperately destined to invest!
 
@@ -26,11 +26,11 @@ In fact, looking at the world, it may be almost the same... However, for the vas
 
 It's a pity that people all over the world have been swayed by banks – people use the most productive period of their lives, which is, for twenty or thirty years, on the premise of paying huge interest from bank loans, people invest a real estate, and live a burden life like a snail.
 
-这绝大多数人中的绝大多数，自称或者被称为 “房奴” —— 即便是在经济环境大好的时代，贷款买房也不是什么美好的经历。本质上来看，他们不是房子的奴隶，他们是银行的奴隶。本质说出来就很可怕，这些房奴从来没认真审视过一个真相：
+The vast majority of these people claim to be or are called "house slaves" - even in an era of good economic conditions, buying a house is not a good experience. In essence, they are not slaves to the house, they are slaves to the bank. It’s terrible to say it in essence. These house slaves have never seriously examined the truth:
 
 > They actually bought a set of real estate in the most productive time of their lives by using the money that could buy two houses. The sum of interest on mortgages in the past two or three decades is always the same as the value of the property. This is the result of bank's actuaries who have worked hard to calculate the results in advance.
 
-不比是不气人的。
+Nothing is not irritating.
 
 You and your classmates, two people, made a different choice 18 years ago, while you chose to buy a house by loan - you wanted to invest in real estate, your classmates chose to invest in Moutai stocks - because he is a fool, so he can only use the free advice from the smartest people on the market... 18 years later, what do you think of it?
 
@@ -40,8 +40,8 @@ What about your classmates? The stock of Moutai in his hands has grown 180 times
 
 This comparison looks a bit too much, right? In fact, there is still more despair thing that can suffocate you:
 
-> - 你的房产，的确算作是资产，可其流动性趋近于零；
-> - 你的同学的股票，同样算作是资产，可其流动性却几乎是 100%……
+> - Your property is indeed an asset, but its liquidity is close to zero;
+> - The stock of your classmates is also counted as an asset, but its liquidity is almost 100%...
 
 **For assets, liquidity is the decisive factor.** If there is no liquidity, no matter how valuable the assets are, it is similar like even if there is a bullet in your pistol when facing the enemy, but the bullet is stuck in the cartridge holder and can't shoot it almost... This is the real reason why the income of your stupid classmate is 40 times, because the liquidity of his assets is too good!
 
@@ -53,32 +53,32 @@ Your idiot friend won't have a future that makes you angry and desperate. In ter
 
 Therefore, in the big cities such as Beijing, Shanghai, and Shenzhen, the most common ones are those who are burdened with their own assets. When they calculate their own assets, including real estate, they have a tens of millions. However, their pockets are cleaner than their faces. There are few banknotes available for them to spend, and there is a large amount of bank interest to pay back every month. If they have children, it will be even worse. If their property is a deliberately chosen school district, it will be miserable. Although it is definitely not a poor person in terms of assets, the family is crowded in a dozen or twenty square meters. Lived in joy.
 
-定投这个策略，包括以下几个要点：
+The strategy of voting is divided into the following points:
 
-> - 标的究竟是什么？
-> - 长期究竟是多久？
-> - 定期究竟是多长的间隔？
-> - 每次投入至少多少金额？
-> - 出现意外的时候怎么办？
+> - What is the target?
+> - How long is it in the long run?
+> - How long is the interval regularly?
+> - At least how much is invested in each time?
+> - What should I do if there is an accident?
 
 Fixed investment in real estate has the huge socialization drive - the target is almost no need to think about; long time has been counted by the bank's actuary, but people who unconsciously began to invest will never care about this matter, because they think that everyone is borrowing from the bank, and everyone is instalment, usually 30 years in a row; the interval is once a month is also the bank's fixed monthly; the amount of investment is reversed; for the better house, the amount is higher, while for the worse house, the amount is lower; what happens when there is an accident? Hey, life is always full of surprises, then let's talk about it then! In fact, it is true. When there is an accident, even if you borrow money, you have to pay back the mortgage...
 
-定投交易市场上的标的就不一样了。社会化的共识基本上就是：
+The target on the fixed investment market is different. The consensus of socialization is basically:
 
-> - “那根本不靠谱吧？”
-> - “风险多大啊！”
-> - “感觉太不实在了！”
-> - “咱也干脆弄不懂啊！”
+> - "Isn't that reliable?"
+> - "How big is the risk!"
+> - "I feel too unreal!"
+> - "Hey, I just can't figure it out!"
 
-甚至更惊悚的是：
+Even more shocking is:
 
 > - "Don't you know? someone is the stock loser... and even jumped from the top roof of the building!"
 
 For the vast majority of people, investing in the stock market is bound to be speculative. They have heard that there is no good consequence in the speculation! As for what is fixed investment, why is it fixed, and how to invest, most people simply don’t know, because there is no way to be successful enough to be convincing.
 
-在这种强大的现实社会化影响之下，选择定投策略去投资股票或者证券的人只能是极少数极少数。
+Under the influence of such powerful socialization, the number of people who choose to invest in stocks or securities can only be very few.
 
-在互联网不断改变世界的过程中，这种定投者曾经注定的孤独，有可能得到极大的解脱。定投社区的产生和发展解决了这个问题。
+In the process of constantly changing the world of the Internet, the loneliness that such a fixed-agent has been destined for may be greatly relieved. The emergence and development of the fixed investment community has solved this problem.
 
 Herd mentality is considered to be not a good thing in the vast majority under most cases, but in a few cases, herd mentality also has great benefits. It's like it's hard to keep exercising at home, so you'd rather pay an annual fee, and would rather pay a higher coach fee, or even go to the gym to exercise as far away as you can. It is as if all the learning can be done by oneself, but in a class or dorm where one member is excellent, others will be more diligent, harder, and even better.
 
