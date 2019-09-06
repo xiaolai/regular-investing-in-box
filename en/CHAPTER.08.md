@@ -2,7 +2,7 @@
 
 *—— Let time enrich you...*
 
-**李笑来**
+**Li Xiaolai**
 
 July, 2019
 
@@ -12,9 +12,9 @@ https://b.watch
 
 ---
 
-## 8. 定投策略成功的关键完全在于心理建设
+## 8. The key to the success of a fixed investment strategy lies in psychological construction.
 
-人活一辈子，最神奇的感受就是：
+The most amazing feeling of living for a lifetime is:
 
 > Obviously everyone is in the same world, with the same blue sky above their heads, the same earth on their feet, breathing the same air... but everyone is often feeling differently, thinking differently, and making different decisions.
 
@@ -44,7 +44,7 @@ All learning and progress are done by the brain. All adjustments or corrections 
 
 Everything outside the brain is virtually insignificant - according to Buffett, almost everything is just **noise**. Outside the trading market, it seems that this is not the case. Among the trading markets and the skills it needs, it is the only one that I can read as a martial arts novel, even a mythical story, or a legend about the blame of the gods, which can be regarded as effective content. The most important ones are only one word: cultivation, or practice - because we humans only have almost only one organ to do this - our brain.
 
-这里顺带插入一段引用的文字：
+Here, insert a quoted text:
 
 > … His peculiar gift was the power of holding continuously in his mind a purely mental problem until he had seen straight through it.
 > … His peculiar gift was the power of holding continuously in his mind a purely mental problem until he had seen straight through it.
@@ -68,7 +68,7 @@ Prior to this, many of the benefits of the so-called "a series of quality target
 > 1. Effective dilution opportunity cost – this is the homework that qualified investors must do.
 > 2. The bet is on the development of the entire industry or the entire economy – this is the way to find the only investment target that has long been up not down.
 
-但是，最大的好处在这里：
+However, the biggest benefit is here:
 
 > Adopting a fixed investment strategy will make any ordinary person become a **passively intelligent** investor from the beginning!
 
@@ -82,7 +82,7 @@ Therefore, for those who trust me around me, whom I also think have good psychol
 
 > **Stop saying nonsense, you will just fixed invest in [BOX](https://b.watch) just like you pay back your mortgage by straining all your muscle.**
 
-我们再仔细审视一下定投策略中的要点：
+Let’s take a closer look at the main points of the fixed investment strategy:
 
 First of all, the result of **long-term buying** is to automatically complete the “ **long-term holding** ” that most people think it is very difficult to adhere to, and you become a **patient** person.
 
@@ -94,7 +94,7 @@ Many beginners usually ask me, "Can I invest 100 yuan a month?" - I said, of cou
 
 Why am I so decisively answering it? Because every time you invest, it is entirely your personal decision! [BOX](https://b.watch) has no management fee! No one will make more money because you invest more, and no one will make less money because you vote less. No one will compensate your loss and you don’t pay for management fees, so this design is to tell everyone a fact:
 
-> **大家要自己做对得起自己的决定。**
+> **Everyone has to make their own decisions that are worthy of their own.**
 
 A lot of beginners didn't realize the contradictions that they thought—because they hadn't thought deeply about the great significance of the simple and easy-to-use strategy of the fixed investment.
 
