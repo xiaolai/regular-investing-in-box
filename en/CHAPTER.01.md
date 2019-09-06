@@ -6,7 +6,7 @@
 
 July, 2019
 
-*普通人错过这本书的“踏空成本”无限大……*
+*The "cost of not reading this book" for ordinary people is infinite...*
 
 https://b.watch
 
@@ -18,7 +18,7 @@ In fact, class solidification more or less presents in any era and in any countr
 
 The question now is whether hard work and sweat is a reliable means of getting rid of the solidification of the class? The answer to this question is very desperate: no. From the perspective of being able to get rid of the solidification of the class, it is really unreliable to fight hard and sweat. This is not my own opinion. [Frank H Knight](https://en.wikipedia.org/wiki/Frank_Knight), one of the most influential economists of the twentieth century, has a famous view:
 
-> “决定一个人富有的三个条件，一是**出身**，二是**运气**，三是**努力**；
+> "Three determining conditions for a person to be rich, one is **born** , the other is **luck** , and the third is **hard work** ;
 > - Among these three, **efforts are the most insignificant.** ”
 
 Of course, this is not to say that hard work is not important, because being relatively successful can rely on hard work, while great success can only rely on luck - everyone knows that luck is impossible for ordinary people to control; and birth (or marriage) is definitely not the factor that ordinary people can rely on.
