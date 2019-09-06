@@ -2,7 +2,7 @@
 
 *—— Let time enrich you...*
 
-**李笑来**
+**Li Xiaolai**
 
 July, 2019
 
@@ -26,7 +26,7 @@ Xiaolai Fixed Investment Class, in addition to be the venue of Li Xiaolai's own 
 
 In addition to earn bitcoin by selling Xiaolai Fixed Investment Class, those who can complete their own customized investment plan, which is those who truly practice the investment knowledge acquired in the classroom, have an extra benefit:
 
-> - 有资格获得 [b.watch](https://b.watch) 这个地球上第一个链上区块链 ETF 交易所的股份，不仅与 [BOX](https://b.watch) 共同成长，还能与 [b.watch](https://b.watch) 共同成长。
+> - Eligible to acquire [b.watch,](https://b.watch) the first chain-chain ETF exchange on the planet, not only grows with [BOX](https://b.watch) , but also grows with [b.watch](https://b.watch) .
 
 All in all, Xiaolai Fixed Investment Class is where the students and Li Xiaolai grow together - **less nonsense, more money, which is very real.**
 
@@ -43,13 +43,13 @@ Xiaolai Fixed Investment Class is where Li Xiaolai shares his investment philoso
 > It’s useless to know, learn, and think – especially in investing in actions that target to break the classification.
 > In the end, **only what you do counts.**
 
-所以，知识与认知，只有在践行中才会发挥价值。然而，践行本身，又需要知识与认知指导。
+Therefore, knowledge and cognition will only exert value when practiced. However, practice itself requires knowledge and cognitive guidance.
 
 Education of investment is very important. Not to mention investment,, parents simply do not know and the school never teach even the most basic way to make money, so people can only rely on their own groping skills. Moreover, the entire society has brainwashed every generation in this respect.
 
 A lot of people all day long repeating that they think money like dirt, or money will come back after be spent. Li Bai was stupidity who lived off a woman! After taking a second-generation rich wife, he threw his wife at home and took the old man’s money to go out and lived happily. When he finished wasting the money, he went back to stay for two days, and then he had to go out for another wave of wasting life... This silly force of course regards money as dirt; of course he was!—— But is that money earned by him? Would he make money? Scumbag.
 
-投资是很严肃的技能。不夸张地讲，哪怕投机，都可能是更难的技能，玩不好就自杀了…… 去年的某教授，今年的某高材生，不都是没玩明白只好一死了事儿吗？
+Investment is a very serious skill. It is no exaggeration to say that even speculation may be a more difficult skill. If you don’t play well, you will commit suicide... Last year’s professor, this year’s high-level student, didn’t all have to play and understand that they had to die.
 
 **Making money is not a shame, but it is a shame when you can’t make a clean money.**
 
