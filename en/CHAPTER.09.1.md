@@ -2,7 +2,7 @@
 
 *—— Let time enrich you...*
 
-**李笑来**
+**Li Xiaolai**
 
 July, 2019
 
@@ -12,15 +12,15 @@ https://b.watch
 
 ---
 
-## 9. 定投策略神奇力量背后的深刻机理
+## 9. The profound mechanism behind the magical power of the fixed investment strategy
 
-让我们从一对看起来是对立的概念说起：
+Let us start with a pair of concepts that seem to be opposite:
 
 > **Active** and **Passive**
 
 In general, active and passive are considered to be antonyms. “Active” is generally understood to be positive, while relatively “passive” is often understood as negative.
 
-### 9.1. 培养自己的主动人格
+### 9.1. Develop your own active personality
 
 In many cases, a person is passive, not active, and it is really not a good thing. Furthermore, you **must be proactive in cultivating an active personality that protects you.**
 
