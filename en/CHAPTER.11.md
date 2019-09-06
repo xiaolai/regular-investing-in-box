@@ -2,7 +2,7 @@
 
 *—— Let time enrich you...*
 
-**李笑来**
+**Li Xiaolai**
 
 July, 2019
 
@@ -36,15 +36,15 @@ It won't take long for you to know and even participate in futures contract trad
 
 For example, I now need to sell 100 bitcoins for some reason. The problem is that I am a long-term investor. In my opinion, bitcoin is long-term bullish, but I have to sell 100 bitcoins... In real life, many miners often face such embarrassing situations. Usually, when they sell, the price of the currency begins to skyrocket... The most irritating iron law is that once they need legal currency (such as the Renminbi or the US dollar), the bitcoin price plunges – as if it is always.
 
-那他们应该怎么办呢？他们应该这样，
+So what should they do? They should be like this,
 
-> 1. 在现货市场上卖出 100 个比特币；
+> 1. Sell 100 bitcoins in the spot market;
 > 2. Then buy a 10x leveraged bullish contract in the contract market with, for example, 10 bitcoins.
 
-这样的话，
+In this case,
 
-> - 如果其后比特币价格大涨，那么，他肯定不会亏，因为那 10 倍杠杆的合约肯定让他弥补了“少赚”的钱；
-> - 如果其后比特币价格大跌，那么，现货市场上卖出的 100 个比特币算是值当了，少亏了很多钱，所以，那 10 个比特币就算是亏得起了……
+> - If the price of bitcoin rises afterwards, then he will certainly not lose, because the 10 times leveraged contract will definitely make him make up for the "less earned" money;
+> - If the price of bitcoin falls afterwards, then the 100 bitcoins sold in the spot market are worth the money, and the loss of a lot of money, so the 10 bitcoins are worth the loss...
 
 Why do you say that 99% of contract traders are dabblers? Because they do not do a full set of work, as  in the case of not doing spot trading, they directly only do futures contract transactions ... This has no hedging effect and then becomes 100% gambling.
 
@@ -52,9 +52,9 @@ So, when you heard that they broke the position again, you still don't understan
 
 So, if you really need to trade in futures contracts, then at least you need to learn more. There is a simulation transaction on [ybmex.com](https://ybmex.com) . You are going to play around with "counterfeit currency". It takes a long time (such as at least three months) to carefully study every detail and make sure that you really understand it before you actually start the operation. When you need to trade in a futures contract, don't be a dabbler. Use a hedging strategy at the spot exchange (such as BigOne: [https://big.one](https://big.one) or [https://b1.run](https://b1.run) ) - the set of instructions above. The policy is also applicable in turn.
 
-这基本上是我们的人生态度：
+This is basically our attitude towards life:
 
-> **要么不做，无论是什么，只要是决定做，那么，做活就要做全套。**
+> **Either don't do it, no matter what it is, as long as it is decided to do it, then do a full set of work.**
 
 You can never do a dabbler--in particular, you are an ideal person, how can you fall to the point of dabbler!
 
