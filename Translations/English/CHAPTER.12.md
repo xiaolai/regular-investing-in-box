@@ -1,4 +1,4 @@
-# Fixed Investment - Self-Cultivation of Tycoons
+# Regular Investing - A Life Transforming Strategy
 
 *—— Let time enrich you…*
 
@@ -6,7 +6,7 @@
 
 July, 2019
 
-*The "cost of emptying"for ordinary people who miss the book is infinite...*
+*You just couldn't afford to miss this book...*
 
 https://b.watch
 
@@ -30,7 +30,7 @@ The vast majority of so-called professional analysis, articles, and even even so
 
 You are different as an ordinary person. Although you don't seem to have a lot of money, you can continue to invest, you can hold it for a long time. As for how long it is, it is up to you to decide it – this is the extreme advantage, which is the root cause of your qualification. .
 
-The vast majority of active management funds in the market have no fixed investment grids - because of the time limit for the funds they manage, the conditions are completely unacceptable. Even if they are smart, no matter how witty, they will eventually fall to the point where they basically decide their own destiny by the fund raising time. If the fundraising is successful in the process of bottoming out in a cycle, then the fund is a good life – it is really hard to raise money in a bear market! It is said that "There is no grain in the landlord's house." And most of the funds that have been able to start fundraising because of the bull market, and have finally been in the tail of the bull market when they finally succeeded in their collection, have determined their tragic fate from the moment of birth - whether it is a probability decision to hold the cycle, the decisive factor is not within the active boundary at all, and not even connects to the passive force at all...
+The vast majority of active management funds in the market have no Regular Investing grids - because of the time limit for the funds they manage, the conditions are completely unacceptable. Even if they are smart, no matter how witty, they will eventually fall to the point where they basically decide their own destiny by the fund raising time. If the fundraising is successful in the process of bottoming out in a cycle, then the fund is a good life – it is really hard to raise money in a bear market! It is said that "There is no grain in the landlord's house." And most of the funds that have been able to start fundraising because of the bull market, and have finally been in the tail of the bull market when they finally succeeded in their collection, have determined their tragic fate from the moment of birth - whether it is a probability decision to hold the cycle, the decisive factor is not within the active boundary at all, and not even connects to the passive force at all...
 
 I know that you can't believe it. I guess you are thinking, "How can it be such a factor that can be called an extreme advantage?"
 
@@ -81,4 +81,4 @@ The trick in a sentence is:
 
 If so, it is extremely easy to communicate. The way I use it is, I will try my best to let the other person understand the great meaning of doing something to me, and think about whether the great meaning is equally great for the other party? If it is only useful to me, then forget it. If it is the same for the other party, why not communicate with the other person?
 
-In fact, we have mentioned that there are actually few really important decisions in a person’s life. If you really understand every detail of the investment strategy and its principles and power, in the end, you will find a fact: as long as it is a major decision, you can adopt a fixed investment strategy. Education, family, career, which one can not apply a fixed investment strategy? If you really understand the essence of the fixed investment, you will find that no matter who you are, no matter how ordinary you are, you can do education, family, career well, because the method of doing it is very simple, decided to fixed invest! However, this investment target has been changed. For the purpose of studying, the method of fixed investment is to eventually generate the the ones that are growing over the whole life; for the family and the family members, by using the method of definite investment, then the happiness can only be more and more consolidated; for the career, you actually use the method of fixed investment. How could others be better than you without the essence of the investment? **The so-called comprehending by analogy is the case.**
+In fact, we have mentioned that there are actually few really important decisions in a person’s life. If you really understand every detail of the investment strategy and its principles and power, in the end, you will find a fact: as long as it is a major decision, you can adopt a Regular Investing strategy. Education, family, career, which one can not apply a Regular Investing strategy? If you really understand the essence of the Regular Investing, you will find that no matter who you are, no matter how ordinary you are, you can do education, family, career well, because the method of doing it is very simple, decided to fixed invest! However, this investment target has been changed. For the purpose of studying, the method of Regular Investing is to eventually generate the the ones that are growing over the whole life; for the family and the family members, by using the method of definite investment, then the happiness can only be more and more consolidated; for the career, you actually use the method of Regular Investing. How could others be better than you without the essence of the investment? **The so-called comprehending by analogy is the case.**

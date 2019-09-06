@@ -1,12 +1,12 @@
-# Fixed Investment - Self-Cultivation of Tycoons
+# Regular Investing - A Life Transforming Strategy
 
-*—— Let time enrich you...*
+*—— Have time be on your side and continuously enrich you...*
 
 **Li Xiaolai**
 
 July, 2019
 
-*The "cost of emptying"for ordinary people who miss the book is infinite...*
+*You just couldn't afford to miss this book...*
 
 https://b.watch
 
@@ -30,10 +30,10 @@ This time, my mentality of writing "Determining Destiny" is very different, beca
 
 So, this is not just a printed version of the text type book, but it is actually a very complete product:
 
-> - Practice Methodology: Fixed Investment
+> - Practice Methodology: Regular Investing
 > - Practice target: BOX
 > - Practice additional supply stations: [b.watch](https://b.watch)
-> - Practice community: Xiaolai's classroom of fixed investment
+> - Practice community: Xiaolai's classroom of Regular Investing
 
 This is actually a direct result of the re-emergence of programming in these years.
 

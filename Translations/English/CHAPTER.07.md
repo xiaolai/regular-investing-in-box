@@ -1,12 +1,12 @@
-# Fixed Investment - Self-Cultivation of Tycoons
+# Regular Investing - A Life Transforming Strategy
 
-*—— Let time enrich you...*
+*—— Have time be on your side and continuously enrich you...*
 
 **Li Xiaolai**
 
 July, 2019
 
-*The "cost of emptying"for ordinary people who miss the book is infinite...*
+*You just couldn't afford to miss this book...*
 
 https://b.watch
 
@@ -30,7 +30,7 @@ The symptoms are like this. They will say, "There ** have been so many rises, wi
 
 If they give up the target that is indeed in a downward trend, then they may be right – but the problem is that the more probable situation you see in real life is the opposite. They are just kicked out by the price they think is already high – in fact, both high and low prices have a significant part of the shock.
 
-Will the fixed investors be like this? Fixed investors will not. Still under the same principle, if you don't look good in the long run, why do you want to invest first? Because fixed investment is not a one-time investment activity, it is an action that can be completed by subsequent long-term regular investment. Therefore, the temporary high price or low price in the short term will have no effect on the fixed investors. The most important feature of the fixed investors is what they should do...
+Will the fixed investors be like this? Fixed investors will not. Still under the same principle, if you don't look good in the long run, why do you want to invest first? Because Regular Investing is not a one-time investment activity, it is an action that can be completed by subsequent long-term regular investment. Therefore, the temporary high price or low price in the short term will have no effect on the fixed investors. The most important feature of the fixed investors is what they should do...
 
 As I said before, it is because I am counting on the long-term, and the next bet is my own future. Therefore, the speculators rely on a series of targets selected by the most intelligent people on the market – both investors and speculators. They also invest with their money, so all the quality targets have a common characteristic: the **market value is relatively large, the liquidity is relatively good, and the chips are relatively scattered** . The decision makers use this simple method to choose what seems to be reliable in the long run that is keeping rising, so when looking at the same price fluctuations, their reaction is the opposite: indifferent.
 
@@ -44,11 +44,11 @@ Another small problem is that those who are wondering " **Don't you sell forever
 
 Another symptom is the “ **frequently changing lanes** ” mentioned earlier. This kind of person is like someone who keeps changing lanes when traffic jams on the road. He bought a target, but it will not be long before he finds that other targets have risen more than the target in his hands... Then he can’t help it, and he trades the line and sells the target in his hand. Enter another target. However, not long after, he will find that the new target has reached his hand, it has not risen as sharply as it turned out, and even began to fall... He may change back if he thinks he is unlucky, until he admits that he really does not suitable for doing this area.
 
-The people who fixed invest will not do this. They will not compare the targets they have already identified with other ones, because they have already been compared. Otherwise, why do you choose the target for the investment? This is especially true for those who invest for [BOX](https://b.watch) . They have already chosen a lot of targets, and they clearly know that they have diluted the opportunity cost and clearly know that their investment targets have surpassed a single blockchain. The project, and then the bet is the development of the entire industry... What's more, since it is a fixed investment, what is the look and feel of the moment? Even the noise doesn't count... It doesn't matter at all because it affects nothing.
+The people who fixed invest will not do this. They will not compare the targets they have already identified with other ones, because they have already been compared. Otherwise, why do you choose the target for the investment? This is especially true for those who invest for [BOX](https://b.watch) . They have already chosen a lot of targets, and they clearly know that they have diluted the opportunity cost and clearly know that their investment targets have surpassed a single blockchain. The project, and then the bet is the development of the entire industry... What's more, since it is a Regular Investing, what is the look and feel of the moment? Even the noise doesn't count... It doesn't matter at all because it affects nothing.
 
 Don't feel wordy and repeated of the above content:
 
-> **All the repetitions are that fixed investment is too simple and too amazing!**
+> **All the repetitions are that Regular Investing is too simple and too amazing!**
 
 I always believe that there are many very simple and rude means in the world that allow everyone to avoid all the pits. However, for a variety of reasons, most people always choose other complicated and indirect fancy means to waste their lives.
 
@@ -58,7 +58,7 @@ I also found the same problem when I was writing. The most important thing peopl
 
 Another interesting phenomenon is the so-called health. In fact, the simplest and most rude way is to continue to exercise. From a scientific point of view, there can be no more effective way than this. However, people are not doing this! All kinds of various fallacies and heresies have the biggest market. Drink this, eat that, this is not good, that can't. But they resolutely do not exercise. They don't know what they want to do. Of course, the most funny thing is the diet drug market. There are hundreds of species in the world every year. In fact, thousands of new weight-loss products may be on the scene. History has proved to be ineffective, but it is the biggest piece of cake created in the consumer market. Why not exercise? They said that exercise is anti-humanity... Hey, idiots really think that their temperament is not a stupid temperament, but the humanity of all people. Can we say something about this kind of mistake?
 
-**There is only one stroke in the cast.** A lot of people will mistakenly think that there is nothing remarkable about a one-shot move - it's too simple. Between simplicity and complexity, people tend to choose complexity, because complexity always gives people a higher level of thinking, or people think it is more advanced. However, please be aware that the maximum power of the **fixed investment is precisely because it has only one stroke.** Because, the result of only one stroke is that there is absolutely no other choice for you to invest, and you just have to do it. You only have one action, and that's the only action - and that action will never go wrong.
+**There is only one stroke in the cast.** A lot of people will mistakenly think that there is nothing remarkable about a one-shot move - it's too simple. Between simplicity and complexity, people tend to choose complexity, because complexity always gives people a higher level of thinking, or people think it is more advanced. However, please be aware that the maximum power of the **Regular Investing is precisely because it has only one stroke.** Because, the result of only one stroke is that there is absolutely no other choice for you to invest, and you just have to do it. You only have one action, and that's the only action - and that action will never go wrong.
 
 Those who think they have a lot of styles? With pure logic analysis, you know where their disadvantages are.
 
@@ -74,4 +74,4 @@ So, what they feel is right, because the probability of mistakes is always highe
 
 And those investors who constantly research various technologies are even worse. They have more than two strokes. They have too many styles! If you just read this book, you will feel that you have realized it. If you listen to any master lecture, you will be able to do it. You can’t help but learn the new lessons. In other fields, this kind of eagerly search for and apply new ones. It is definitely a good habit, but it can be in the investment field. This habit will kill people. In fact, most ordinary investors are killed by themselves, because ordinary people do not have so much luxury to make so many trials and errors.
 
-The core reason that most people can avoid all the magic of the highest quality investment targets is that, for various reasons, they resolutely refused to use only the safest and most reliable one and only one strategy - **fixed investment.**
+The core reason that most people can avoid all the magic of the highest quality investment targets is that, for various reasons, they resolutely refused to use only the safest and most reliable one and only one strategy - **Regular Investing.**

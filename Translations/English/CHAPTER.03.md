@@ -1,18 +1,18 @@
-# Fixed Investment - Self-Cultivation of Tycoons
+# Regular Investing - A Life Transforming Strategy
 
-*—— Let time enrich you…*
+*—— Have time be on your side and continuously enrich you...*
 
 **Li Xiaolai**
 
 July, 2019
 
-*The "cost of emptying"for ordinary people who miss the book is infinite...*
+*You just couldn't afford to miss this book...*
 
 https://b.watch
 
 ---
 
-## 3. The only correct way for ordinary people to invest is fixed investment
+## 3. The only correct way for ordinary people to invest is Regular Investing
 
 Let me directly say the conclusion:
 
@@ -46,7 +46,7 @@ In the 11-month data of the above Longmen Fund, the price curve draws a fascinat
 
 ![smilingCurve](../images/smilingCurve.png)
 
-The people who adopt a fixed investment strategy in the market are always a minority, and the so-called " smile curve " above is likely to be a diametrically opposite " wretched curve " for those who have not adopted a fixed investment strategy. It is definitely not a kind smile, but the evil smile of the clown you saw in the Batman story - his mouth is still gloomy: "Why so serious?"
+The people who adopt a Regular Investing strategy in the market are always a minority, and the so-called " smile curve " above is likely to be a diametrically opposite " wretched curve " for those who have not adopted a Regular Investing strategy. It is definitely not a kind smile, but the evil smile of the clown you saw in the Batman story - his mouth is still gloomy: "Why so serious?"
 
 ![jokersFace](../images/jokersFace.png)
 
@@ -58,9 +58,9 @@ Don't say the next month, every day, every moment, every moment, you will be ext
 
 Pain and happiness are not symmetrical. Our genes determine our feelings. The pain of losing 10 dollars is far greater than the happiness of earning 10 dollars. You feel absolutely like you are being smashed by the evil clown, and watching him spit out his tongue, listening to his gloomy mutter, why are you doing it...
 
-If you are an investor with a fixed investment approach, then you are in a completely different world – although they look exactly the same, although most people except you can’t understand your feelings because all the feelings are the opposite.
+If you are an investor with a Regular Investing approach, then you are in a completely different world – although they look exactly the same, although most people except you can’t understand your feelings because all the feelings are the opposite.
 
-** Fixed investmentis the behavior to use of your own long-term period to support something**. So, since you have gambled on your own future, then you have thought through it when you choose. Therefore, the price generated after the first purchase falls, and every decline is the time for you to lower the average price. A shuttle man is there to experience the cold winter, shivering, but you are the opposite, you are refreshed, you add more low-priced chips for you and feel happy...
+** Regular Investingis the behavior to use of your own long-term period to support something**. So, since you have gambled on your own future, then you have thought through it when you choose. Therefore, the price generated after the first purchase falls, and every decline is the time for you to lower the average price. A shuttle man is there to experience the cold winter, shivering, but you are the opposite, you are refreshed, you add more low-priced chips for you and feel happy...
 
 A shuttle man can't stand the pain of too long - in fact, no one can suffer for a long time. This has nothing to do with the so-called "strong". From another point of view, this is not stupid, it is just ignorance. After a month of pain, or two months, or three months, or even afterwards, it seems to be going to pass, which is, in the sixth month (or before), many people will be based on various reasons for leaving - This kind of behavior is called "cutting meat" in the trading market... You see, the leek is cutting itself, and the bloody meat is cut.
 
@@ -70,4 +70,4 @@ After six months, the price began to climb slowly... Do you think that the perso
 
 For them, reincarnation is terrible, because no matter how they do, they feel a malicious world. With the previous explanations, it is very simple to explain now, because for them, the price curve of any investment target is composed of countless wretched curves. How terrible are you saying such a fate?
 
-You see, obviously the same world, but people may feel the opposite; is this amazing? If you are a person with a fixed investment strategy, then, for a moment, the same world is another way for you, because the price curve you face is made up of countless smile curves! In this world, happiness is inherently rare and scarce. I will ask you, is this kind of happiness that cannot be told to people more scarce and more precious?
+You see, obviously the same world, but people may feel the opposite; is this amazing? If you are a person with a Regular Investing strategy, then, for a moment, the same world is another way for you, because the price curve you face is made up of countless smile curves! In this world, happiness is inherently rare and scarce. I will ask you, is this kind of happiness that cannot be told to people more scarce and more precious?

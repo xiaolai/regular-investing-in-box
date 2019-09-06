@@ -1,18 +1,18 @@
-# Fixed Investment - Self-Cultivation of Tycoons
+# Regular Investing - A Life Transforming Strategy
 
-*—— Let time enrich you...*
+*—— Have time be on your side and continuously enrich you...*
 
 **Li Xiaolai**
 
 July, 2019
 
-*The "cost of emptying"for ordinary people who miss the book is infinite...*
+*You just couldn't afford to miss this book...*
 
 https://b.watch
 
 ---
 
-## 9. The profound mechanism behind the magical power of the fixed investment strategy
+## 9. The profound mechanism behind the magical power of the Regular Investing strategy
 
 Let us start with a pair of concepts that seem to be opposite:
 
@@ -20,7 +20,7 @@ Let us start with a pair of concepts that seem to be opposite:
 
 In general, active and passive are considered to be antonyms. “Active” is generally understood to be positive, while relatively “passive” is often understood as negative.
 
-### 9.5 Why is fixed investment the best practice strategy of being "actively passive"?
+### 9.5 Why is Regular Investing the best practice strategy of being "actively passive"?
 
 I am the author of the hardcore chicken soup. I share my thoughts, my decisions, my gains with everyone - not my failure. why? Failure is what not be done well or not be achieved. The experience of failure is not called experience, and it can at most be called as a lesson, but basically it is useless! When did you see the scum parents have cultivated their children into a top student by summing up their own experiences?
 
@@ -44,14 +44,14 @@ Is it hard not to be pretentious? Is it hard not to talk nonsense? Is the desire
 
 How simple is it? !
 
-When designing the [BOX](https://b.watch), in my opinion, it is essentially an open source fixed investment strategy. The code of the programmer can be open source without charge; my article books can be open source without charge, then, can my investment strategy be open source without charge? This is not my first time to open source my investment principles. On June 3, 2017, I opened up the “ [InBlockchain Open Source Blockchain Investment Principles](https://github.com/xiaolai/INB-Principles/blob/master/Chinese.md) ”, which was later included in the book “ {a2}Self-cultivation of Amaranth{/a2} ”.
+When designing the [BOX](https://b.watch), in my opinion, it is essentially an open source Regular Investing strategy. The code of the programmer can be open source without charge; my article books can be open source without charge, then, can my investment strategy be open source without charge? This is not my first time to open source my investment principles. On June 3, 2017, I opened up the “ [InBlockchain Open Source Blockchain Investment Principles](https://github.com/xiaolai/INB-Principles/blob/master/Chinese.md) ”, which was later included in the book “ {a2}Self-cultivation of Amaranth{/a2} ”.
 
 The core of the [BOX](https://b.watch) design is simple:
 
 > - Move **the investment target from a project to the entire industry development trend** by selecting a series of high-quality targets that are consistent with the development trend of the blockchain technology;
 > - Since Li Xiaolai opened it up, Li Xiaolai should **set the management fee to zero** ;
 > - Since Li Xiaolai thinks so, he has to do this – so Li Xiaolai’s way of making money is to **fixed invest for himself**.
-> - Since the fixed investment is a societal behavior and social behavior, it is a **fixed investment community** that only the real practitioners can participate.
+> - Since the Regular Investing is a societal behavior and social behavior, it is a **Regular Investing community** that only the real practitioners can participate.
 
 [BOX](https://b.watch) is a **coin-based** blockchain ETF fund. What is the currency standard? That is, the way to measure revenue is not based on the Renminbi or the US Dollar, but on the amount of BTC/EOS/XIN you are investing in each time you make a vote. How much BTC/EOS/XIN you have invested in, in the future you can use the [BOX](https://b.watch) token in your hand to pick up how many BTC/EOS/XIN you have invested in.
 
@@ -69,7 +69,7 @@ What is it to do something thoroughly? The plan for [b.watch](https://b.watch) i
 
 You begin to temper your active personality; you begin to explore the active boundaries; you begin to understand the power of passiveness; you begin to choose trends; you begin to experience passive intelligence; you begin to turn yourself into goals and patience in specific areas. You become people with action and discipline - in short, you start to have a yearning for yourself.
 
-It doesn't matter if people outside don't understand, as people in the community understand you. They don't even have to say anything, because they just silently invest with you. Anything other than a fixed investment has nothing to do with the community and with you.
+It doesn't matter if people outside don't understand, as people in the community understand you. They don't even have to say anything, because they just silently invest with you. Anything other than a Regular Investing has nothing to do with the community and with you.
 
 On July 3, 2019, in the lectures of the Seven-Three-Chive Festival, I said such a speech, which is actually regarding some basic rules about the fixed-income community:
 
@@ -91,6 +91,6 @@ On July 3, 2019, in the lectures of the Seven-Three-Chive Festival, I said such 
 > Li Xiaolai knows himself. When you criticize him, if he does not make a mistake, he will not be angry. If he finds that he is doing something wrong, he will be angry, but he is angry with himself. When you compliment him, he will not be happy, because he knows that some people cannot compliment in the right places... And, Li Xiaolai is an ordinary person with shortcomings, but there are things he is doing right.
 > However, the flattering is very embarrassing to both the person concerned and the bystander. So don't talk flattering. If you can't help but express your gratitude to Li Xiaolai, then use the method he said to make money - this is better than any other things. Only practice is the ticket to success, and only the result is the experience that can be shared.
 
-According to the definition of fixed investment, the long-held action forces the most stringent investment criteria screening principle - this is the active choice; then the fixed investment, long-term holding, and one after another smile curve - this is borrowing from the powerful passive force that makes your money and the whole development trend create wealth for you. In the lives of ordinary people, it is difficult to find another long-lasting simple act that can create such an amazing wealth. In fact, even the rich, in the end, can only gain new wealth in investment.
+According to the definition of Regular Investing, the long-held action forces the most stringent investment criteria screening principle - this is the active choice; then the Regular Investing, long-term holding, and one after another smile curve - this is borrowing from the powerful passive force that makes your money and the whole development trend create wealth for you. In the lives of ordinary people, it is difficult to find another long-lasting simple act that can create such an amazing wealth. In fact, even the rich, in the end, can only gain new wealth in investment.
 
 Being actively passive is the best practice strategy for creating wealth in this financial era.

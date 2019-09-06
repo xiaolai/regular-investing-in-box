@@ -1,18 +1,18 @@
-# Fixed Investment - Self-Cultivation of Tycoons
+# Regular Investing - A Life Transforming Strategy
 
-*—— Let time enrich you...*
+*—— Have time be on your side and continuously enrich you...*
 
 **Li Xiaolai**
 
 July, 2019
 
-*The "cost of emptying"for ordinary people who miss the book is infinite...*
+*You just couldn't afford to miss this book...*
 
 https://b.watch
 
 ---
 
-## 9. The profound mechanism behind the magical power of the fixed investment strategy
+## 9. The profound mechanism behind the magical power of the Regular Investing strategy
 
 Let us start with a pair of concepts that seem to be opposite:
 

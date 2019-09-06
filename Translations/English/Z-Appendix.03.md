@@ -1,6 +1,6 @@
-# Fixed Investment - Self-Cultivation of Tycoons
+# Regular Investing - A Life Transforming Strategy
 
-*—— Let time enrich you...*
+*—— Have time be on your side and continuously enrich you...*
 
 **Li Xiaolai**
 

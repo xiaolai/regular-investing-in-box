@@ -1,12 +1,12 @@
-# Fixed Investment - Self-Cultivation of Tycoons
+# Regular Investing - A Life Transforming Strategy
 
-*—— Let time enrich you...*
+*—— Have time be on your side and continuously enrich you...*
 
 **Li Xiaolai**
 
 July, 2019
 
-*The "cost of emptying"for ordinary people who miss the book is infinite...*
+*You just couldn't afford to miss this book...*
 
 https://b.watch
 
@@ -16,7 +16,7 @@ https://b.watch
 
 ## 1. Why invest in blockchain digital assets?
 
-In theory, a fixed investment strategy can be used to invest in many targets. In the next decade, one of the targets that has not received widespread attention in the past is blockchain digital assets.
+In theory, a Regular Investing strategy can be used to invest in many targets. In the next decade, one of the targets that has not received widespread attention in the past is blockchain digital assets.
 
 Let's talk about Bitcoin first. Bitcoin is the first digital asset on the planet to apply blockchain technology, and there is no doubt about it. Bitcoin has been controversial over the past decade. Each round of price increases and falls will be repeatedly declared dead - Bitcoin has been declared dead at least 364 times so far. You can remember this URL, which records the history of bitcoin that has been collected in history.
 

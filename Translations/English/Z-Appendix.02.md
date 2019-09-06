@@ -1,12 +1,12 @@
-# Fixed Investment - Self-Cultivation of Tycoons
+# Regular Investing - A Life Transforming Strategy
 
-*—— Let time enrich you...*
+*—— Have time be on your side and continuously enrich you...*
 
 **Li Xiaolai**
 
 July, 2019
 
-*The "cost of emptying"for ordinary people who miss the book is infinite...*
+*You just couldn't afford to miss this book...*
 
 https://b.watch
 
@@ -16,7 +16,7 @@ https://b.watch
 
 ## 2. Why fixed invest in BOX?
 
-[BOX](https://b.watch) is the abbreviation of Btc + eOs + Xin, and the [BOX](https://b.watch) itself is exactly the meaning of the Chinese "box". Since [BOX](https://b.watch) is an ETF product designed by Li Xiaolai, the market is calling it “chives pie”, and “fixed investment BOX” is called “to eat a leek pie”.
+[BOX](https://b.watch) is the abbreviation of Btc + eOs + Xin, and the [BOX](https://b.watch) itself is exactly the meaning of the Chinese "box". Since [BOX](https://b.watch) is an ETF product designed by Li Xiaolai, the market is calling it “chives pie”, and “Regular Investing BOX” is called “to eat a leek pie”.
 
 Purchase and redemption regarding [BOX](https://b.watch) are listed on the website b.watch: https://b.watch
 

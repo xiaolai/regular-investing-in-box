@@ -1,12 +1,12 @@
-# Fixed Investment - Self-Cultivation of Tycoons
+# Regular Investing - A Life Transforming Strategy
 
-*——  Let time enrich you...*
+*—— Have time be on your side and continuously enrich you...*
 
 **Li Xiaolai**
 
 July, 1919
 
-*The "cost of emptying"for ordinary people who miss the book is infinite...*
+*You just couldn't afford to miss this book...*
 
 https://b.watch
 
@@ -69,9 +69,9 @@ In the book "Self-cultivation for Leeks", I tried to correct a truth that most o
 > - The trading market is indeed a zero-sum game in the real-time trading process - it seems that the opponent's profit comes from and is exactly equal to your loss.
 > - The trading market is definitely not a zero-sum game for long-term investors – because their growth is mainly due to economic growth rather than short-term losses.
 
-This is also why the only reliable investment method for ordinary people in the trading market is the core reason for the fixed investment. On the other hand, as an ordinary person, you only have long-term investment and long-term holding is foolproof.
+This is also why the only reliable investment method for ordinary people in the trading market is the core reason for the Regular Investing. On the other hand, as an ordinary person, you only have long-term investment and long-term holding is foolproof.
 
-It is impossible for ordinary people to have a lot of money in the early days. However, by means of fixed investment, ordinary people "gamble" their own ability to make money off-site and long-term fixed-term discipline. This is a big big stakes! Because your time is an absolutely exclusive asset, it can only be an asset with an infinite opportunity cost. So, when you use your best value, high-value assets with unlimited opportunity costs as an investment, you can only choose the target that is foolproof. What is it? It is the development of the entire economy of mankind. Apart from this, there is no other choice.
+It is impossible for ordinary people to have a lot of money in the early days. However, by means of Regular Investing, ordinary people "gamble" their own ability to make money off-site and long-term fixed-term discipline. This is a big big stakes! Because your time is an absolutely exclusive asset, it can only be an asset with an infinite opportunity cost. So, when you use your best value, high-value assets with unlimited opportunity costs as an investment, you can only choose the target that is foolproof. What is it? It is the development of the entire economy of mankind. Apart from this, there is no other choice.
 
 At the current point of time, the blockchain market is better than the stock market. The stock market is better than the real estate market. The real estate market may be better than the bond market. The bond market may be better than bank deposits... and the investment is ordinary people because of their own hands. I can't have too much money at the beginning, so I have to gamble on my future investment strategy. Therefore, when choosing the investment target, of course, I have to do everything I can to choose the best target. If at some point in the future, the optimal target is no longer the blockchain market, then you should switch to another best-selling market – this is not what the beliefs people often hang on their lips, this is Pragmatic values determine.
 
@@ -83,6 +83,6 @@ When others are still listening to the weather forecast to judge the local weath
 
 Finally, there are more important key points to add:
 
-> Fixed investment is a long-term continuous investment behavior, so the investment target must meet the "**long-term bullish**" attribute.
+> Regular Investing is a long-term continuous investment behavior, so the investment target must meet the "**long-term bullish**" attribute.
 
 Therefore, if the property is extremely strict, then the conclusion is very obvious. Bonds, gold, real estate – not to mention the tidal shoes – are not qualified bids because they simply can't satisfy the attributes that must be met. From this perspective, you can immediately understand why Buffett is very careful about technology stocks, but he is very reassured about Coca-Cola...

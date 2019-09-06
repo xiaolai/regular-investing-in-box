@@ -1,12 +1,12 @@
-# Fixed Investment - Self-Cultivation of Tycoons
+# Regular Investing - A Life Transforming Strategy
 
-*—— Let time enrich you...*
+*—— Have time be on your side and continuously enrich you...*
 
 **Li Xiaolai**
 
 July, 2019
 
-*The "cost of emptying"for ordinary people who miss the book is infinite...*
+*You just couldn't afford to miss this book...*
 
 https://b.watch
 
@@ -28,11 +28,11 @@ This book is about the **path of }ordinary people getting rid of class solidific
 
 It's hard to believe that there is such a solution. Even more incredible is that the solution speaks only two words:
 
-> **Fixed Investment**
+> **Regular Investing**
 
-**Investment** is the only way I can find a common person who can cross the hierarchy. And **fixed investment** is the only investment method that all ordinary people have the opportunity to do and have the ability to do well.
+**Investment** is the only way I can find a common person who can cross the hierarchy. And **Regular Investing** is the only investment method that all ordinary people have the opportunity to do and have the ability to do well.
 
-> The so-called fixed investment is to invest a certain amount of money on a certain investment target for a long time.
+> The so-called Regular Investing is to invest a certain amount of money on a certain investment target for a long time.
 
 For example, in the next **5-10 years in** (a long time), **weekly** (regularly) investment **[BOX](https://b.watch)** that no management fee of block chain ETF products (investment target) **of $ 150 or 1000 yuan** (a certain amount)... Of course, you can replace the [BOX](https://b.watch) with any target that is worth investing in and holding for a long time, such as Apple stock, Kweichow Moutai stock, Coca-Cola stock, or Standard & Poor's index fund.
 
@@ -61,8 +61,8 @@ Please read on!
 5. [Why are there only a few people who use this magical strategy?](CHAPTER.05.md)
 6. [Why are they so smart but always make wrong decisions?](CHAPTER.06.md)
 7. [How do people magically avoid the highest quality investment targets?](CHAPTER.07.md)
-8. [The key to the success of the fixed investment strategy lies in the psychological construction](CHAPTER.08.md)
-9. [The profound mechanism behind the magical power of the fixed investment strategy](CHAPTER.09.1.md)
+8. [The key to the success of the Regular Investing strategy lies in the psychological construction](CHAPTER.08.md)
+9. [The profound mechanism behind the magical power of the Regular Investing strategy](CHAPTER.09.1.md)
     - 9.1. Develop your own active personality
     - 9.2. Most active people don’t even know the boundaries
     - 9.3 Factors determining fate are often outside the active boundary
@@ -82,7 +82,7 @@ Please read on!
 1. [Why invest in blockchain digital assets?](Z-Appendix.01.md)
 2. [Why invest in BOX?](Z-Appendix.02.md)
 3. [About b.watch](Z-Appendix.03.md)
-4. [About Xiaolai fixed investment class](Z-Appendix.04.md)
+4. [About Xiaolai Regular Investing class](Z-Appendix.04.md)
 
 ---
 
