@@ -2,7 +2,7 @@
 
 *—— Let time enrich you...*
 
-**李笑来**
+**Li Xiaolai**
 
 July, 2019
 
@@ -12,9 +12,9 @@ https://b.watch
 
 ---
 
-## 7. 人们是如何做到神奇地避开最优质投资标的的
+## 7. How do people magically avoid the highest quality investment targets?
 
-已经反复举过的例子有时候还是需要从另外的角度去审视。
+Examples that have been repeatedly mentioned sometimes need to be examined from another perspective.
 
 > In our view, Guizhou Moutai must be chosen. In our opinion, there must be Kweichow Moutai in the long run. What is the result? As a result, only less than five-thousandths of the shareholders hold Moutai, and the proportion of long-term holdings is estimated to be much less than this...
 
@@ -24,11 +24,11 @@ The answer is that they are still ill: **a disease with a long-term gain.**
 
 In fact, many people have actually bought the highest quality standards, or they have held it for a long time.
 
-这也是很常见的一种病。
+This is also a very common disease.
 
 The symptoms are like this. They will say, "There ** have been so many rises, will it rise again?! What things in the world are constantly rising?!** " Then, he calmly handed over the chips.
 
-如果，他们放弃的是随后确实处于下降趋势的标的，那么他们可能是对的 —— 可问题在于，现实生活中你看到的更大概率情况是相反的。他们只不过是被他们以为已经很高的价格踢出局了而已 —— 事实上，无论是高价还是低价都有让相当一部分人震荡出局的作用。
+If they give up the target that is indeed in a downward trend, then they may be right – but the problem is that the more probable situation you see in real life is the opposite. They are just kicked out by the price they think is already high – in fact, both high and low prices have a significant part of the shock.
 
 Will the fixed investors be like this? Fixed investors will not. Still under the same principle, if you don't look good in the long run, why do you want to invest first? Because fixed investment is not a one-time investment activity, it is an action that can be completed by subsequent long-term regular investment. Therefore, the temporary high price or low price in the short term will have no effect on the fixed investors. The most important feature of the fixed investors is what they should do...
 
@@ -50,7 +50,7 @@ Don't feel wordy and repeated of the above content:
 
 > **All the repetitions are that fixed investment is too simple and too amazing!**
 
-我总是相信，这世界有很多非常简单直接粗暴的手段，可以让所有人避开所有的坑。然而，基于种种原因，绝大多数人总是选择另外一些复杂间接花哨的手段去浪费自己的生命。
+I always believe that there are many very simple and rude means in the world that allow everyone to avoid all the pits. However, for a variety of reasons, most people always choose other complicated and indirect fancy means to waste their lives.
 
 When I was teaching English, I found out that many people have wasted their time. Reading an hour every morning is better than anything else. One's English is not good, simply because this person does not speaks English much. There is no other reason to discern. I don't know what the reason is. I always don't get approval when I say this. In general, because many people think that they have encountered so many difficulties, how can you make it clear in one sentence? They don't know many difficulties they have encountered are the many pits they actually dig by themselves. Therefore, they spend money to sign up for the class, looking for all kinds of strange shortcuts called methods... In the end, they can only have transient peace for a while, and then continue to be tortured in the pit.
 
@@ -60,7 +60,7 @@ Another interesting phenomenon is the so-called health. In fact, the simplest an
 
 **There is only one stroke in the cast.** A lot of people will mistakenly think that there is nothing remarkable about a one-shot move - it's too simple. Between simplicity and complexity, people tend to choose complexity, because complexity always gives people a higher level of thinking, or people think it is more advanced. However, please be aware that the maximum power of the **fixed investment is precisely because it has only one stroke.** Because, the result of only one stroke is that there is absolutely no other choice for you to invest, and you just have to do it. You only have one action, and that's the only action - and that action will never go wrong.
 
-那些自以为有很多把式的人呢？纯逻辑分析一下你就知道他们的劣势在哪里了。
+Those who think they have a lot of styles? With pure logic analysis, you know where their disadvantages are.
 
 For example, in the investment action, the fixed investor has only one action, that is, to buy. What about those people who are not fixed investing? Or what about non-fixed investors? The problem is that they want to buy at the good time of the purchase, and then "sell at the good time of the sale." The problem is that **"in the end** when to buy and when to sell it?" - they often do not actually know, but **think** they know it.
 
