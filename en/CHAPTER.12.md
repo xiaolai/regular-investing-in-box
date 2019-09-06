@@ -2,7 +2,7 @@
 
 *—— Let time enrich you…*
 
-**李笑来**
+**Li Xiaolai**
 
 July, 2019
 
@@ -12,9 +12,9 @@ https://b.watch
 
 ---
 
-## 12. 你作为一个普通人你究竟有什么样的极端优势
+## 12. What extreme advantage do you have as an ordinary person?
 
-再说一遍：
+Say it again:
 
 > It is absolutely feasible for you to depend on yourself to fixed invest without any exaggeration. The **ordinary people** mentioned here are regardless of national boundaries, regardless of region, regardless of race, regardless of gender, regardless of age, regardless of height, weight, thinness, beauty, ugliness, regardless of sexual orientation... And even IQ and education do not make any difference!
 
@@ -22,13 +22,13 @@ When I repeat this part of speech, I am reminding you of a fact that you did not
 
 > As an ordinary person, you have at least one **extreme advantage** that all ordinary people have - **it is just that you never thought about it.**
 
-你作为一个普通人，有着市场上所有那些所谓专业的基金经理所不可能具备的优势：
+As an ordinary person, you have the advantage that all the so-called professional fund managers in the market can't have:
 
 > **Although your money is not much, your money is without time limitation.**
 
 The vast majority of so-called professional analysis, articles, and even even some concepts in the market are completely ineffective for you as an ordinary person, because those professional fund managers are based on a practical limit they have to face to further conduct research and reach conclusions. What must they face? It is the money of the fund, and the money managed by the fund managers is **time-limited** . Almost all active funds have a settlement period, such as 7+3 or 5+2 that you often hear, or even 2+1 in the country. Because their capital use period is certain, their starting point is completely different. What they must do is to run a good result in a time period. Otherwise, it will not be next time!
 
-你作为普通人，就不一样了。虽然你好像钱并不是很多，但你可以持续投入，你可以长期持有，至于究竟是多长的长期，全由你自己来决定 —— 这就是极端优势，这也是你有资格定投的根本原因。
+You are different as an ordinary person. Although you don't seem to have a lot of money, you can continue to invest, you can hold it for a long time. As for how long it is, it is up to you to decide it – this is the extreme advantage, which is the root cause of your qualification. .
 
 The vast majority of active management funds in the market have no fixed investment grids - because of the time limit for the funds they manage, the conditions are completely unacceptable. Even if they are smart, no matter how witty, they will eventually fall to the point where they basically decide their own destiny by the fund raising time. If the fundraising is successful in the process of bottoming out in a cycle, then the fund is a good life – it is really hard to raise money in a bear market! It is said that "There is no grain in the landlord's house." And most of the funds that have been able to start fundraising because of the bull market, and have finally been in the tail of the bull market when they finally succeeded in their collection, have determined their tragic fate from the moment of birth - whether it is a probability decision to hold the cycle, the decisive factor is not within the active boundary at all, and not even connects to the passive force at all...
 
@@ -36,30 +36,30 @@ I know that you can't believe it. I guess you are thinking, "How can it be such 
 
 Many people like to read Warren Buffett's article, his letter to shareholders, his speech, the books he compiled, and I also like to read them. If you have nothing to do, you can take these articles out... However, most people may misunderstood the starting point of Buffett to a large extent.
 
-因为绝大多数人并不在意或者没注意到一个重要的事实和基础：
+Because most people don't care or don't notice an important fact and foundation:
 
 > Buffett’s money for investing now is with zero or even negative costs! Because most of that comes from the relative no-time-limit money provided by his own insurance company!
 
 When numerous Buffett’s ideas, principles, or philosophies, the basic facts are often completely ignored. In the world of actively managed funds, few people can have such superiority and even luxury investment condition and foundation as Buffett!
 
-然而，换个思路你就明白了，只要你态度端正，你实际上跟巴菲特有着同样的极端优势。
+However, if you change your mind, you will understand that as long as you have a correct attitude, you actually have the same extreme advantage as Buffett.
 
 > - You are determined to continually hone your ability to make money off the court. In theory, the more practice it should endure, the stronger it should be;
-> - 你在场外赚到的钱是同样没有成本的，你的时间和精力不用也是白费；
+> - The money you earn on the side of the field is equally cost-free, and your time and effort are not in vain;
 > - For simple calculations, you only need to ensure that you are healthy for the next ten years and you have defeated the investment managers of almost all active management funds on the planet...
 
-这个极端优势背后的本质和原理，其实还是来自于主动边界：
+The essence and principle behind this extreme advantage actually comes from the active boundary:
 
 > - You start to fixed invest as an ordinary person, then almost all the decisive factors can be mastered passively;
 > - Those who are so-called professionals are terrible - all the factors that they face, whether important or not, which are within their own active boundaries, are too little...
 
-所以，你就明白了，就好像在 #9.7 中所提到的那样，你要认真审视在这方面，在你的主动边界里，你还有多大空间？因为你已然清楚地知道，这里绝对是你最需要挣扎的地方，在这个地方，你的优势还有很大很大的发挥空间，你在这里所做的一切挣扎，都在未来有着巨大价值、甚至干脆直接是巨大财富。
+So, you understand, as mentioned in #9.7, you have to carefully examine how much space do you have in your active boundaries? Because you already know clearly, this is definitely the place where you need to struggle the most. In this place, your advantage has a lot of room to play. All the struggles you have made here have great value in the future. It is even a direct wealth.
 
-你可能最想不到的事情是，普通人最大的阻力永远来自于家人。
+The thing you may not think the most is that the biggest resistance of ordinary people always comes from family.
 
-给你讲个都市恐怖故事：
+Tell you an urban horror story:
 
-> 十多年前，我偶尔听到某大公司两个中层干部正在讨论如何让下属乖乖听话：
+> More than a decade ago, I occasionally heard that two middle-level cadres of a large company were discussing how to let their subordinates obey:
 > > —— Hey, How do you make them so obedient? I am really frustrating!
 > > - Isn't that simple yet? Organize the wife group to go to see the house together! I tell you, don't look at how haughty they are in front of you, as long as they bought a house and pay the down payment today, tomorrow they will definitely become as humble as your grandson!
 
@@ -77,7 +77,7 @@ Sometimes our different opinions would be very serious, but after a bit of disap
 
 The trick in a sentence is:
 
-> **你要与家人有着共同的理想。**
+> **You have to share your ideals with your family.**
 
 If so, it is extremely easy to communicate. The way I use it is, I will try my best to let the other person understand the great meaning of doing something to me, and think about whether the great meaning is equally great for the other party? If it is only useful to me, then forget it. If it is the same for the other party, why not communicate with the other person?
 
