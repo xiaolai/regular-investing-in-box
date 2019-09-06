@@ -2,7 +2,7 @@
 
 *—— Let time enrich you...*
 
-**李笑来**
+**Li Xiaolai**
 
 July, 2019
 
@@ -12,9 +12,9 @@ https://b.watch
 
 ---
 
-## 9. 定投策略神奇力量背后的深刻机理
+## 9. The profound mechanism behind the magical power of the fixed investment strategy
 
-让我们从一对看起来是对立的概念说起：
+Let us start with a pair of concepts that seem to be opposite:
 
 > **Active** and **Passive**
 
@@ -32,7 +32,7 @@ Once we start to study the **trend** , we will realize **the huge energy of pass
 
 If you have to use the word "driving", it is not impossible, because there is indeed a small number of people who finally find the optimal strategy of "driving the trend" through a lot of proactive thinking:
 
-> **主动地被动**
+> **Actively passive**
 
 What is **actively passive** ?
 
@@ -45,7 +45,7 @@ The vast majority of things that people think are choices are actually worthless
 
 Whether a decision is significant and meaningful can be measured by looking at only one metric:
 
-> **它是针对趋势的选择吗？**
+> **Is it a choice for trends?**
 
 Actively choosing the most correct trend is easier said than done.
 
@@ -55,9 +55,9 @@ Before you control the trend, you must grasp the trend; you must study the trend
 
 So they have that kind of confusion, and always encounter the same embarrassment:
 
-> 我怎么又晚了一步呢？
+> Why am I one step late?
 
-然而下一次他们注定还是一样的境遇。
+However, the next time they are destined to be the same situation.
 
 In many cases, especially in the trading market, “to come late” has never been a problem. If you can still recall the trading curve that can be called “smile curve” and “wretched curve” at the same time, you can understand that the fixed investors can spend one after another through their long-term stable and continuous voting behavior. The behavior and strategy determine the fact that "**whenever you enter the market is right.**" Every time they spend a smile curve, they are “**shifting forward**” their admission time by a large segment – because the average cost is reduced! Contrary to those who are not fixed investors, they not only mistakenly believe that they can have lower costs only if they enter earlier, but they will further "**panning backward**" their own entering time, because the same curve becomes a wretched curve.
 
