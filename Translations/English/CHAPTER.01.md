@@ -6,7 +6,7 @@
 
 July, 2019
 
-*The "cost of not reading this book" for ordinary people is infinite...*
+*You just couldn't afford to miss this book...*
 
 https://b.watch
 
