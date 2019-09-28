@@ -33,7 +33,7 @@ There is a set of data that helps us understand why efforts are so insignificant
 > - It’s really not long spent on real education, which is only 3.5 years;
 > - It takes 3 years to spend on makeup.
 > - 2.5 years spending on shopping;
-> - 1.5 years spending  of child care;
+> - 1.5 years spending on child care;
 > - The time spent on the road is 1.3 years;
 > ......
 
