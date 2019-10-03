@@ -1,4 +1,4 @@
-# Regular Investing - A Life Transforming Strategy
+# Regular Investment - A Life Transforming Strategy
 
 *—— Have time be on your side and continuously enrich you...*
 
