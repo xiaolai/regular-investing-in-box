@@ -1,4 +1,4 @@
-# Regular Investing - A Life Transforming Strategy
+# Regular Investment - A Life Transforming Strategy
 
 *—— Have time be on your side and continuously enrich you...*
 
@@ -12,7 +12,7 @@ https://b.watch
 
 ---
 
-## 9. The profound mechanism behind the magical power of the Regular Investing strategy
+## 9. The profound mechanism behind the magical power of the Regular Invesment strategy
 
 Let us start with a pair of concepts that seem to be opposite:
 
@@ -90,7 +90,7 @@ My personal past experience has confirmed this to myself.
 
 In 2013, I began to manage an early fund that was particularly small and invested in Bitcoin-related projects. By 2018, that is, a four-year management period, plus a one-year liquidation period, after a total of five years, the market value of the fund has become about 68 times the starting amount... Although it looks very amazing, it actually makes people quite discouraged - because this score did not outperform Bitcoin's gains. In other words, if all the funds were used to buy Bitcoin at the time, and I did nothing in the next 5 years, then it would be 58 times. You can see that the final result will not be much worse than the current one. Of course,I make profit by doing a fund, and after 30% of the starting profit, the return of the investor has become about 48 times, slightly lower than the growth of Bitcoin itself.
 
-What is even more discouraging is another factor. In the past five years, it is breath-taking and heart-stirting for managing this fund – a few times almost plummeted to the bottom, and then made a comeback by luck... In the process, it is normal, in fact, if this fund is really lost; especially, the blockchain world is a place where the amplitude of fluctuations is many times larger than the stock market.
+What is even more discouraging is another factor. In the past five years, it was breath-taking and heart-stirting for managing this fund – a few times almost plummeted to the bottom, and then made a comeback by luck... In the process, it is normal, in fact, if this fund is really lost; especially, the blockchain world is a place where the amplitude of fluctuations is many times larger than the stock market.
 
 Not losing is a happy accident. It’s actually a surprise in the accident. Therefore, when the bit fund was finally liquidated, I felt that I could only be a passive fund in the next step. There was no other choice at all. After more than a year of thinking, I finally designed the [BOX](https://b.watch), an open source blockchain ETF fund product. The current booklet is actually a reflection of the process of creating my ideal passive fund model.
 
