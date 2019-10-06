@@ -1,4 +1,4 @@
-# Regular Investing - A Life Transforming Strategy
+# Regular Investment - A Life Transforming Strategy
 
 *—— Have time be on your side and continuously enrich you...*
 
@@ -12,7 +12,7 @@ https://b.watch
 
 ---
 
-## 9. The profound mechanism behind the magical power of the Regular Investing strategy
+## 9. The profound mechanism behind the magical power of the Regular Investment strategy
 
 Let us start with a pair of concepts that seem to be opposite:
 
@@ -41,7 +41,7 @@ What is **actively passive** ?
 
 The vast majority of things that people think are choices are actually worthless. In the morning, choose which pair of shoes to wear, or which color to choose from, or whether to take the train or the plane, etc... In fact, these trivial things cannot cause any influence outside the active boundary, and the most change is just self-feeling. However, people are so obsessed with self-feeling... Since they are so obsessed with self-feeling, they then feel good about themselves. The result of being abandoned by the trend after many years is not acceptable, because people who are obsessed with self-feeling can always find the best excuses, for example, the big environment is not good.
 
-**The root cause of the vast majority of mediocrity can be attributed to the waste of time and energy on choices that are not related to the trend.** It's the same for anyone: the most important decisions in life are three or five. Studying, marriage, and career, do you want to give more two decisions that are more important than theirs? Of course, you must have one more than others now: **Regular Investing** . This is a key advancement, and the difficulty and significance of which is equivalent to the "gene mutation" in biological evolution.
+**The root cause of the vast majority of mediocrity can be attributed to the waste of time and energy on choices that are not related to the trend.** It's the same for anyone: the most important decisions in life are three or five. Studying, marriage, and career, do you want to give more two decisions that are more important than theirs? Of course, you must have one more than others now: **Regular Investment** . This is a key advancement, and the difficulty and significance of which is equivalent to the "gene mutation" in biological evolution.
 
 Whether a decision is significant and meaningful can be measured by looking at only one metric:
 
@@ -63,6 +63,6 @@ In many cases, especially in the trading market, “to come late” has never be
 
 After Facebook went public, its stock has risen many times. Can it be said that a person must become Peter Tiel to have the opportunity to invest in Facebook to make a lot of money? no! You don't have Peter Tiel's connections, fame, capital, ability, so even if you live in Silicon Valley, you can't be an angel investor of Mark Zuckerberg; but then Facebook is listed, if you are there When I bought Facebook stock, even if Facebook went out with a sloppy, broken market, then it was obviously a smile curve! No matter how many people are finally smashed by the wretched curve, stepping on the ground and rubbing friction with the pace of the devil, as long as you really understand the truth of the Regular Investing, no matter where you are from as ordinary people, it turns out that the strategy of this action will bring hundreds of times return!
 
-In the eight years of the blockchain world, I have seen countless early visitors. Have they still held today? Obviously not. Even if you enter early, if you don't have the right strategy - Don't be suspicious, there is only one reliable strategy to be, which Regular Investing. Then, after eight years, when you look back, you have been thrown out. Don't be arrogant or assertive, because it's a correct and realistic description. The strategy of Regular Investing seems to be too simple to be favorable. People like fancy things that look fashionable, complicated, and high-end – to put on their own (ie, within the boundaries of the initiative), dressing is like this; however, things that are not plain will incur catastrophic disaster, if these things are applied to the active boundary. In the second half of 2018 to the first half of 2019, a large number of so-called "quantitative funds" in the market collapsed. In the second half of 2018 and in the first half of 2019, two famous people committed suicide -Pretentious people cannot bear the failure of what they actively caused.
+In the eight years of the blockchain world, I have seen countless early visitors. Have they still held today? Obviously not. Even if you enter early, if you don't have the right strategy - Don't be suspicious, there is only one reliable strategy to be, which Regular Investment. Then, after eight years, when you look back, you have been thrown out. Don't be arrogant or assertive, because it's a correct and realistic description. The strategy of Regular Investment seems to be too simple to be favorable. People like fancy things that look fashionable, complicated, and high-end – to put on their own (ie, within the boundaries of the initiative), dressing is like this; however, things that are not plain will incur catastrophic disaster, if these things are applied to the active boundary. In the second half of 2018 to the first half of 2019, a large number of so-called "quantitative funds" in the market collapsed. In the second half of 2018 and in the first half of 2019, two famous people committed suicide -Pretentious people cannot bear the failure of what they actively caused.
 
 Therefore, in order to be actively passive, the first step to start is to **give up the trifle** . The metric is simple: **everything that has nothing to do with the trend is trivial.** After giving up everything, the rest is natural. Because only in this way, we can clearly think, and then distinguish where to take the initiative, where should be passive, in order to truly understand what is called **active passive** .
