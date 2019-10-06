@@ -1,4 +1,4 @@
-# Regular Investing - A Life Transforming Strategy
+# Regular Investment - A Life Transforming Strategy
 
 *—— Have time be on your side and continuously enrich you...*
 
@@ -12,7 +12,7 @@ https://b.watch
 
 ---
 
-## 9. The profound mechanism behind the magical power of the Regular Investing strategy
+## 9. The profound mechanism behind the magical power of the Regular Investment strategy
 
 Let us start with a pair of concepts that seem to be opposite:
 
@@ -20,7 +20,7 @@ Let us start with a pair of concepts that seem to be opposite:
 
 In general, active and passive are considered to be antonyms. “Active” is generally understood to be positive, while relatively “passive” is often understood as negative.
 
-### 9.5 Why is Regular Investing the best practice strategy of being "actively passive"?
+### 9.5 Why is Regular Investment the best practice strategy of being "actively passive"?
 
 I am the author of the hardcore chicken soup. I share my thoughts, my decisions, my gains with everyone - not my failure. why? Failure is what not be done well or not be achieved. The experience of failure is not called experience, and it can at most be called as a lesson, but basically it is useless! When did you see the scum parents have cultivated their children into a top student by summing up their own experiences?
 
@@ -44,14 +44,14 @@ Is it hard not to be pretentious? Is it hard not to talk nonsense? Is the desire
 
 How simple is it? !
 
-When designing the [BOX](https://b.watch), in my opinion, it is essentially an open source Regular Investing strategy. The code of the programmer can be open source without charge; my article books can be open source without charge, then, can my investment strategy be open source without charge? This is not my first time to open source my investment principles. On June 3, 2017, I opened up the “ [InBlockchain Open Source Blockchain Investment Principles](https://github.com/xiaolai/INB-Principles/blob/master/Chinese.md) ”, which was later included in the book “ {a2}Self-cultivation of Amaranth{/a2} ”.
+When designing the [BOX](https://b.watch), in my opinion, it is essentially an open source Regular Investment strategy. The code of the programmer can be open source without charge; my article books can be open source without charge, then, can my investment strategy be open source without charge? This is not my first time to open source my investment principles. On June 3, 2017, I opened up the “ [InBlockchain Open Source Blockchain Investment Principles](https://github.com/xiaolai/INB-Principles/blob/master/Chinese.md) ”, which was later included in the book “ {a2}Self-cultivation of Amaranth{/a2} ”.
 
 The core of the [BOX](https://b.watch) design is simple:
 
 > - Move **the investment target from a project to the entire industry development trend** by selecting a series of high-quality targets that are consistent with the development trend of the blockchain technology;
 > - Since Li Xiaolai opened it up, Li Xiaolai should **set the management fee to zero** ;
-> - Since Li Xiaolai thinks so, he has to do this – so Li Xiaolai’s way of making money is to **fixed invest for himself**.
-> - Since the Regular Investing is a societal behavior and social behavior, it is a **Regular Investing community** that only the real practitioners can participate.
+> - Since Li Xiaolai thinks so, he has to do this – so Li Xiaolai’s way of making money is to **fixed investment for himself**.
+> - Since the Regular Investing is a societal behavior and social behavior, it is a **Regular Investment community** that only the real practitioners can participate.
 
 [BOX](https://b.watch) is a **coin-based** blockchain ETF fund. What is the currency standard? That is, the way to measure revenue is not based on the Renminbi or the US Dollar, but on the amount of BTC/EOS/XIN you are investing in each time you make a vote. How much BTC/EOS/XIN you have invested in, in the future you can use the [BOX](https://b.watch) token in your hand to pick up how many BTC/EOS/XIN you have invested in.
 
@@ -63,13 +63,13 @@ So, is it possible for [BOX to](https://b.watch) generate revenue based on the c
 
 The remaining 50% fee income constitutes the basic composition of [b.watch](https://b.watch)'s basic business model. Then, the corporate value of [b.watch](https://b.watch) will gradually increase. In the next seven years (because Li [Xiaolai](https://b.watch) always said, "seven years is a lifetime"), {a3}b.watch{/a3}'s shares will be distributed according to certain algorithms to share the community's contribution to the practitioners in the given investment community. Then secondary market transactions will be opened at the right time.
 
-What is it to do something thoroughly? The plan for [b.watch](https://b.watch) is that all the shares are eventually released and are not kept separately. How to maintain it? What about personnel costs and equipment costs? Li Xiao personally affords. Why? Because Li Xiaolai is also fixed investing, and Li Xiaolai definitely decided to invest a lot. It does not matter, if you can’t make any money; if you make money, then it is really nothing for Li Xiaolai to bear the cost alone...
+What is it to do something thoroughly? The plan for [b.watch](https://b.watch) is that all the shares are eventually released and are not kept separately. How to maintain it? What about personnel costs and equipment costs? Li Xiao personally affords. Why? Because Li Xiaolai is also fixed investment, and Li Xiaolai definitely decided to invest a lot. It does not matter, if you can’t make any money; if you make money, then it is really nothing for Li Xiaolai to bear the cost alone...
 
 **The [BOX](https://b.watch)** is basicallyall the best practices of the real value of all the discussion and content in this book. What you are reading is a book that can be used to start a practice!
 
 You begin to temper your active personality; you begin to explore the active boundaries; you begin to understand the power of passiveness; you begin to choose trends; you begin to experience passive intelligence; you begin to turn yourself into goals and patience in specific areas. You become people with action and discipline - in short, you start to have a yearning for yourself.
 
-It doesn't matter if people outside don't understand, as people in the community understand you. They don't even have to say anything, because they just silently invest with you. Anything other than a Regular Investing has nothing to do with the community and with you.
+It doesn't matter if people outside don't understand, as people in the community understand you. They don't even have to say anything, because they just silently invest with you. Anything other than a Regular Investment has nothing to do with the community and with you.
 
 On July 3, 2019, in the lectures of the Seven-Three-Chive Festival, I said such a speech, which is actually regarding some basic rules about the fixed-income community:
 
@@ -81,7 +81,7 @@ On July 3, 2019, in the lectures of the Seven-Three-Chive Festival, I said such 
 > In theory, it should be "not evaluating things that are not related to you." If you want to ask "... What do you think?" Go straight to Zhihu. Xiaolai's fixed invesetment classroom in the future will cover more blockchain knowledge, investment knowledge - **earning clean money through proper channels, which is the most reliable thing.** Social, political, cultural topics each have a more appropriate place to discuss than Xiaolai's fixed invesetment classroom. Here, people only care about one thing, how to continue to grow? How to maintain a good attitude? If it has nothing to do with these concepts, there is no need to mention it.
 > 1. **Learn to gain the respect of strangers through action**
 > There are a lot of people here. In terms of probability, more people are definitely strangers to you. Don't think that strangers will automatically give you any respect. Being polite is not a sign of respect. It is just that people are respectful of themselves.
-> Respecting, like money, is "earned" and "accumulating". The swindler’s respect will return to zero sooner or later. Some people can get bored even if they take a nickname - don't think it doesn't matter. Whether you have the ability to make money depends almost entirely on whether you can get the respect of strangers.
+> Respect, like money, is "earned" and "accumulating". The swindler’s respect will return to zero sooner or later. Some people can get bored even if they take a nickname - don't think it doesn't matter. Whether you have the ability to make money depends almost entirely on whether you can get the respect of strangers.
 > In the future, everyone in this class will be authenticated (KYC) - I suggest you use real names from now on instead of nicknames. Believe me, personal brand is very important.
 > 1. **Don't be against the whole world**
 > Don't think that you only have to control your mouth because you are in China. Of course, it is because you are in China, so you must be able to control your mouth more.
@@ -91,6 +91,6 @@ On July 3, 2019, in the lectures of the Seven-Three-Chive Festival, I said such 
 > Li Xiaolai knows himself. When you criticize him, if he does not make a mistake, he will not be angry. If he finds that he is doing something wrong, he will be angry, but he is angry with himself. When you compliment him, he will not be happy, because he knows that some people cannot compliment in the right places... And, Li Xiaolai is an ordinary person with shortcomings, but there are things he is doing right.
 > However, the flattering is very embarrassing to both the person concerned and the bystander. So don't talk flattering. If you can't help but express your gratitude to Li Xiaolai, then use the method he said to make money - this is better than any other things. Only practice is the ticket to success, and only the result is the experience that can be shared.
 
-According to the definition of Regular Investing, the long-held action forces the most stringent investment criteria screening principle - this is the active choice; then the Regular Investing, long-term holding, and one after another smile curve - this is borrowing from the powerful passive force that makes your money and the whole development trend create wealth for you. In the lives of ordinary people, it is difficult to find another long-lasting simple act that can create such an amazing wealth. In fact, even the rich, in the end, can only gain new wealth in investment.
+According to the definition of Regular Investment, the long-held action forces the most stringent investment criteria screening principle - this is the active choice; then the Regular Investment, long-term holding, and one after another smile curve - this is borrowing from the powerful passive force that makes your money and the whole development trend create wealth for you. In the lives of ordinary people, it is difficult to find another long-lasting simple act that can create such an amazing wealth. In fact, even the rich, in the end, can only gain new wealth in investment.
 
 Being actively passive is the best practice strategy for creating wealth in this financial era.
