@@ -1,4 +1,4 @@
-# Regular Investing - A Life Transforming Strategy
+# Regular Investment - A Life Transforming Strategy
 
 *—— Have time be on your side and continuously enrich you...*
 
@@ -12,7 +12,7 @@ https://b.watch
 
 ---
 
-## 9. The profound mechanism behind the magical power of the Regular Investing strategy
+## 9. The profound mechanism behind the magical power of the Regular Investment strategy
 
 Let us start with a pair of concepts that seem to be opposite:
 
@@ -98,13 +98,13 @@ If you are completely committed to faith, you don't have to make any investment,
 
 This is why I have repeatedly said a key point before, now and in the future:
 
-> **The key to the success of a Regular Investing strategy lies in psychological construction.**
+> **The key to the success of a Regular Investment strategy lies in psychological construction.**
 
 Where does mental construction start? Start with never giving up. Don't let the unpleasant parts of your past affect your future, and cut off the connection between them - as for the good past, let it continue to work. Struggling in this place, this is the most valuable struggle, the root of all future good. Then begin to gradually explore and confirm the active boundary, then look for trends outside the active boundary and experience the passive power...
 
-The Regular Investing strategy looks very simple, nothing more than **a certain amount of investment in a certain investment period for a long time.**
+The Regular Investment strategy looks very simple, nothing more than **a certain amount of investment in a certain investment period for a long time.**
 
-However, after in-depth thinking, in-depth research, and even exploring without feeling, we will understand that the magic of the Regular Investing strategy is actually very delicate. It is not just to make you a disciplinary people with opportunities and motivated people by locking in long-term holdings, and it also forces you to find the best investment target for long-term ups and not downs, but it also secretly does a lot of things:
+However, after in-depth thinking, in-depth research, and even exploring without feeling, we will understand that the magic of the Regular Investment strategy is actually very delicate. It is not just to make you a disciplinary people with opportunities and motivated people by locking in long-term holdings, and it also forces you to find the best investment target for long-term ups and not downs, but it also secretly does a lot of things:
 
 > - It provides you with a unique environment that can be used to deeply understand the passive powers beyond the active boundaries;
 > - It uses the irrefutable actual results to show you the connection between the past and the future is definitely not inevitable;
