@@ -1,4 +1,4 @@
-# Regular Investing - A Life Transforming Strategy
+# Regular Investment - A Life Transforming Strategy
 
 *—— Let time enrich you…*
 
@@ -16,7 +16,7 @@ https://b.watch
 
 Say it again:
 
-> It is absolutely feasible for you to depend on yourself to fixed invest without any exaggeration. The **ordinary people** mentioned here are regardless of national boundaries, regardless of region, regardless of race, regardless of gender, regardless of age, regardless of height, weight, thinness, beauty, ugliness, regardless of sexual orientation... And even IQ and education do not make any difference!
+> It is absolutely feasible for you to depend on yourself to fixed investment without any exaggeration. The **ordinary people** mentioned here are regardless of national boundaries, regardless of region, regardless of race, regardless of gender, regardless of age, regardless of height, weight, thinness, beauty, ugliness, regardless of sexual orientation... And even IQ and education do not make any difference!
 
 When I repeat this part of speech, I am reminding you of a fact that you did not expect:
 
@@ -30,7 +30,7 @@ The vast majority of so-called professional analysis, articles, and even even so
 
 You are different as an ordinary person. Although you don't seem to have a lot of money, you can continue to invest, you can hold it for a long time. As for how long it is, it is up to you to decide it – this is the extreme advantage, which is the root cause of your qualification. .
 
-The vast majority of active management funds in the market have no Regular Investing grids - because of the time limit for the funds they manage, the conditions are completely unacceptable. Even if they are smart, no matter how witty, they will eventually fall to the point where they basically decide their own destiny by the fund raising time. If the fundraising is successful in the process of bottoming out in a cycle, then the fund is a good life – it is really hard to raise money in a bear market! It is said that "There is no grain in the landlord's house." And most of the funds that have been able to start fundraising because of the bull market, and have finally been in the tail of the bull market when they finally succeeded in their collection, have determined their tragic fate from the moment of birth - whether it is a probability decision to hold the cycle, the decisive factor is not within the active boundary at all, and not even connects to the passive force at all...
+The vast majority of active management funds in the market have no Regular Investment grids - because of the time limit for the funds they manage, the conditions are completely unacceptable. Even if they are smart, no matter how witty, they will eventually fall to the point where they basically decide their own destiny by the fund raising time. If the fundraising is successful in the process of bottoming out in a cycle, then the fund is a good life – it is really hard to raise money in a bear market! It is said that "There is no grain in the landlord's house." And most of the funds that have been able to start fundraising because of the bull market, and have finally been in the tail of the bull market when they finally succeeded in their collection, have determined their tragic fate from the moment of birth - whether it is a probability decision to hold the cycle, the decisive factor is not within the active boundary at all, and not even connects to the passive force at all...
 
 I know that you can't believe it. I guess you are thinking, "How can it be such a factor that can be called an extreme advantage?"
 
@@ -50,7 +50,7 @@ However, if you change your mind, you will understand that as long as you have a
 
 The essence and principle behind this extreme advantage actually comes from the active boundary:
 
-> - You start to fixed invest as an ordinary person, then almost all the decisive factors can be mastered passively;
+> - You start to fixed investment as an ordinary person, then almost all the decisive factors can be mastered passively;
 > - Those who are so-called professionals are terrible - all the factors that they face, whether important or not, which are within their own active boundaries, are too little...
 
 So, you understand, as mentioned in #9.7, you have to carefully examine how much space do you have in your active boundaries? Because you already know clearly, this is definitely the place where you need to struggle the most. In this place, your advantage has a lot of room to play. All the struggles you have made here have great value in the future. It is even a direct wealth.
@@ -73,7 +73,7 @@ As you get older, it will become easier and easier to convince your parents, but
 
 In my own experience, the most grateful thing is that my wife is a person who can communicate through reasoning. Although when we were together in the beginning, I didn't know that this was the most important factor - you see, I always exclaim that I am lucky, but there is really a reason.
 
-Sometimes our different opinions would be very serious, but after a bit of disappointment, after a while, or a few hours, or even for overnight, one of us will take the initiative to find the other person, "After I careful think about it, what you said here and here is still very reasonable... Then, there is something I can't understand, or do you try again with patience?" - Assuming that if without such a spouse and such proper communication, you said to your other half like what I did, "I will not accompany you for your birthday, I have to work!" Try? Don't try it at all? You will know what it will be!
+Sometimes our different opinions would be very serious, but after a bit of disappointment, after a while, or a few hours, or even for overnight, one of us will take the initiative to find the other person, "After I carefully think about it, what you said here and here is still very reasonable... Then, there is something I can't understand, or do you try again with patience?" - Assuming that if without such a spouse and such proper communication, you said to your other half like what I did, "I will not accompany you for your birthday, I have to work!" Try? Don't try it at all? You will know what it will be!
 
 The trick in a sentence is:
 
@@ -81,4 +81,4 @@ The trick in a sentence is:
 
 If so, it is extremely easy to communicate. The way I use it is, I will try my best to let the other person understand the great meaning of doing something to me, and think about whether the great meaning is equally great for the other party? If it is only useful to me, then forget it. If it is the same for the other party, why not communicate with the other person?
 
-In fact, we have mentioned that there are actually few really important decisions in a person’s life. If you really understand every detail of the investment strategy and its principles and power, in the end, you will find a fact: as long as it is a major decision, you can adopt a Regular Investing strategy. Education, family, career, which one can not apply a Regular Investing strategy? If you really understand the essence of the Regular Investing, you will find that no matter who you are, no matter how ordinary you are, you can do education, family, career well, because the method of doing it is very simple, decided to fixed invest! However, this investment target has been changed. For the purpose of studying, the method of Regular Investing is to eventually generate the the ones that are growing over the whole life; for the family and the family members, by using the method of definite investment, then the happiness can only be more and more consolidated; for the career, you actually use the method of Regular Investing. How could others be better than you without the essence of the investment? **The so-called comprehending by analogy is the case.**
+In fact, we have mentioned that there are actually few really important decisions in a person’s life. If you really understand every detail of the investment strategy and its principles and power, in the end, you will find a fact: as long as it is a major decision, you can adopt a Regular Investment strategy. Education, family, career, which one can not apply a Regular Investment strategy? If you really understand the essence of the Regular Investment, you will find that no matter who you are, no matter how ordinary you are, you can do education, family, career well, because the method of doing it is very simple, decided to fixed invest! However, this investment target has been changed. For the purpose of studying, the method of Regular Investment is to eventually generate the the ones that are growing over the whole life; for the family and the family members, by using the method of definite investment, then the happiness can only be more and more consolidated; for the career, you actually use the method of Regular Investment. How could others be better than you without the essence of the investment? **The so-called comprehending by analogy is the case.**
