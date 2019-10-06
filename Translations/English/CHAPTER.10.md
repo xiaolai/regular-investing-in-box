@@ -1,4 +1,4 @@
-# Regular Investing - A Life Transforming Strategy
+# Regular Investment - A Life Transforming Strategy
 
 *—— Have time be on your side and continuously enrich you...*
 
@@ -14,7 +14,7 @@ https://b.watch
 
 ## 10. In the mirror world, how can you always choose the right one as an ordinary person?
 
-Sometimes, there is indeed a moment of "decisive victory". When you enter the trading market and choose the **Regular Investing strategy**, you have actually won it completely, and it is still very simple to win - then on all the nodes, you are in the **mirror world**. It's that simple. When you decide to teach yourself, as soon as you start to **pay attention to all the clichés** , you win directly and win very simply - on all the nodes that follow, you are in the correct one in the mirror world (see " [Self-study is a Craft](https://github.com/selfteaching/the-craft-of-selfteaching)).
+Sometimes, there is indeed a moment of "decisive victory". When you enter the trading market and choose the **Regular Investment strategy**, you have actually won it completely, and it is still very simple to win - then on all the nodes, you are in the **mirror world**. It's that simple. When you decide to teach yourself, as soon as you start to **pay attention to all the clichés** , you win directly and win very simply - on all the nodes that follow, you are in the correct one in the mirror world (see " [Self-study is a Craft](https://github.com/selfteaching/the-craft-of-selfteaching)).
 
 For many years in the past, I have often had a confusion. Why are so many useful truths, in fact, in the eyes of most people is another look? The concept of **mirror world** can be used to explain this strange and helpless phenomenon, but it does not directly provide a solution that is truly simple and rude and directly effective. Until one day, in the trading market, in the investment field, after witnessing the magic of the Regular Investing strategy, I finally understood a very simple solution:
 
@@ -74,10 +74,10 @@ So, you don't have to use the big word "ideal"  (as I was almost misled by its g
 
 If you look back, you will understand why, in the beginning, you will be told that "investment is the only reliable way for ordinary people to get rid of class solidification". This is what I am giving you a great meaning for what you have to do and what you have to do. Of course, you can also find your own meaning that is very great for you.
 
-Not only that, but I will explain it to you from various angles. What is its principle, what is its role, and what is its significance? More importantly, no matter from which angle, it can be proved that the Regular Investing is definitely what all ordinary people should do. More importantly, the Regular Investing is definitely something that all ordinary people can do. It is very realistic, not exaggerated, and powerful. And you don't have to make blindly and disorderly conjecture about it.
+Not only that, but I will explain it to you from various angles. What is its principle, what is its role, and what is its significance? More importantly, no matter from which angle, it can be proved that the Regular Investment is definitely what all ordinary people should do. More importantly, the Regular Investment is definitely something that all ordinary people can do. It is very realistic, not exaggerated, and powerful. And you don't have to make blindly and disorderly conjecture about it.
 
 It is not excessive for repeating many times:
 
-> For all ordinary people, the **Regular Investing strategy** is absolutely feasible, no exaggeration, and it is up to you. The **ordinary people** mentioned here, are regardless of national boundaries, regardless of region, regardless of race, regardless of gender, regardless of age, regardless of height, weight, thinness, beauty, ugliness, regardless of sexual orientation... The key is that even IQ and education do not matter!
+> For all ordinary people, the **Regular Investment strategy** is absolutely feasible, no exaggeration, and it is up to you. The **ordinary people** mentioned here, are regardless of national boundaries, regardless of region, regardless of race, regardless of gender, regardless of age, regardless of height, weight, thinness, beauty, ugliness, regardless of sexual orientation... The key is that even IQ and education do not matter!
 
 Anyway, now I feel that it **is good to be a person with ideal.**
