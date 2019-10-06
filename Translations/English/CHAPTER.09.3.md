@@ -1,4 +1,4 @@
-# Regular Investing - A Life Transforming Strategy
+# Regular Investment - A Life Transforming Strategy
 
 *—— Have time be on your side and continuously enrich you...*
 
@@ -12,7 +12,7 @@ https://b.watch
 
 ---
 
-## 9. The profound mechanism behind the magical power of the Regular Investing strategy
+## 9. The profound mechanism behind the magical power of the Regular Investment strategy
 
 Let us start with a pair of concepts that seem to be opposite:
 
@@ -54,7 +54,7 @@ All people will sigh at the same time at any time:
 
 Don't laugh. Once, this is also my own hunting thoughts. In the northeast dialect of our hometown, it is: "why cannot I eat the hot shit?!" It is likely that it is a universal problem encountered by 99.99% of people... What do you think? I guess you will have at least one relative, classmate or something, and be evaluated by others:
 
-> He, oh, I don't know, but how can he cannot finish everything or why does he always have bad luck? Maybe it is a bad fate?
+> He, oh, I don't know, but how can he hardly finish everything or why does he always have bad luck? Maybe it is a bad fate?
 
 When we say this or think like this, it is obvious that we understand "**the decisive factor outside the active boundary**" as "**fate**".
 
