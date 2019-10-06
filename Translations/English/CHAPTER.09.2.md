@@ -1,4 +1,4 @@
-# Regular Investing - A Life Transforming Strategy
+# Regular Investment - A Life Transforming Strategy
 
 *—— Have time be on your side and continuously enrich you...*
 
@@ -12,7 +12,7 @@ https://b.watch
 
 ---
 
-## 9. The profound mechanism behind the magical power of the Regular Investing strategy
+## 9. The profound mechanism behind the magical power of the Regular Investment strategy
 
 Let us start with a pair of concepts that seem to be opposite:
 
@@ -56,7 +56,7 @@ You see, the **right choice is always harder to implement.**
 
 Another most common example is people's attitudes about ethical requirements. The object of morality and the object of restriction should be oneself, not others. It is right to hold high morality on yourself; but it is usually too naive or preoccupied to impose morality to others. The law is used to require everyone, not only to require for themselves, but also to require others - again, because it is restricting yourself and others, which is everyone; therefore, using the weapon of law to defend your rights and interests often is difficult. You can think carefully about why.
 
-If you start a Regular Investing, you become an investor with certain attributes. Then you will meet in batches of investors who are different from yours. They are all talking about the companies they are investing in, and they are really eager to make suggestions. In the end, they will often get angry and even get angrier till they cannot eat and sleep well. Why did they become like that? Because they don't know that they are outside their own active boundaries; they don't know that outside their boundaries, their own initiative is useless, and if it is, it's all negative. They will never understand, because they simply cannot have the ability to make an effective business model and ultimately get the public's investment. If they actually do it, they will know how terrible things are that so many people outside want to influence themselves, and how terrible it is if they are so easily influenced by the outside world.
+If you start a Regular Investment, you become an investor with certain attributes. Then you will meet in batches of investors who are different from yours. They are all talking about the companies they are investing in, and they are really eager to make suggestions. In the end, they will often get angry and even get angrier till they cannot eat and sleep well. Why did they become like that? Because they don't know that they are outside their own active boundaries; they don't know that outside their boundaries, their own initiative is useless, and if it is, it's all negative. They will never understand, because they simply cannot have the ability to make an effective business model and ultimately get the public's investment. If they actually do it, they will know how terrible things are that so many people outside want to influence themselves, and how terrible it is if they are so easily influenced by the outside world.
 
 **The second boundary of the initiative is the control range** . In fact, we can really control things like the temperature of the air conditioner, the speed of the car, etc... Even the subsequent discussions will show you what we can control far beyond your imagination... However, **it's more important to identify things that you can't control** . For example, pure luck is something that no one can control...
 
