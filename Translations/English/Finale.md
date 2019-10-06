@@ -1,4 +1,4 @@
-# Regular Investing - A Life Transforming Strategy
+# Regular Investment - A Life Transforming Strategy
 
 *—— Have time be on your side and continuously enrich you...*
 
@@ -30,10 +30,10 @@ This time, my mentality of writing "Determining Destiny" is very different, beca
 
 So, this is not just a printed version of the text type book, but it is actually a very complete product:
 
-> - Practice Methodology: Regular Investing
+> - Practice Methodology: Regular Investment
 > - Practice target: BOX
 > - Practice additional supply stations: [b.watch](https://b.watch)
-> - Practice community: Xiaolai's classroom of Regular Investing
+> - Practice community: Xiaolai's classroom of Regular Investment
 
 This is actually a direct result of the re-emergence of programming in these years.
 
