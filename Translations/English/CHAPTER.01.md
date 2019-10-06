@@ -1,4 +1,4 @@
-# Regular Investing - A Life Transforming Strategy
+# Regular Investment - A Life Transforming Strategy
 
 *—— Have time be on your side and continuously enrich you...*
 
@@ -73,7 +73,7 @@ More than 10,000 hours. So how many years is this equivalent?
 
 You see, I am so demanding about myself, then what is the result? The result is only 14% more than "other people who are really hard". I decided to cut my hair 10 years ago and how much time saved myself? Once a month, each time an average of 1.5 hours, then 18 hours a year, 10 years down, is 180 hours ... You see, I use the actual action carefully, but is it really really enough? How much effective life can that increase? Or how long has it been compared to others? It was only 7.5 days, and with such a great effort, it was only 2.28 more than everyone else!
 
-You now understand that it **is impossible to get rid of the class solidification without investing.**
+You now understand that it **is impossible to get rid of the class solidification without investment.**
 
 However, you must have been warned:
 
