@@ -1,4 +1,4 @@
-# Regular Investing - A Life Transforming Strategy
+# Regular Investment - A Life Transforming Strategy
 
 *—— Have time be on your side and continuously enrich you...*
 
@@ -12,7 +12,7 @@ https://b.watch
 
 ---
 
-## 9. The profound mechanism behind the magical power of the Regular Investing strategy
+## 9. The profound mechanism behind the magical power of the Regular Investment strategy
 
 Let us start with a pair of concepts that seem to be opposite:
 
