@@ -1,4 +1,4 @@
-# Regular Investing - A Life Transforming Strategy
+# Regular Investment - A Life Transforming Strategy
 
 *—— Have time be on your side and continuously enrich you...*
 
@@ -42,9 +42,9 @@ The last sentence is definitely an excuse for your own ignorance. It’s like wh
 
 Therefore, the symptoms have been seen, and the root of the disease has also been found. Should it be cured? Again:
 
-> **How to solve problems? Only by fixed investing!**
+> **How to solve problems? Only by fixed investment!**
 
-There is never a shortage of smart people in the trading market. However, although they are smart, they are not necessarily foolish, so they have suffered repeatedly. Regular Investing is not just an investment strategy. From another perspective, Regular Investing is an act that must be practiced. Therefore, in theory, Regular Investing is the best investment education and the best investment education practice. Whether a person is smart or not is not important at all. What is important is that in the process of continuous practice of Regular Investing, the best investment education is completed, and the fixed investors will gradually get rid of ignorance and move toward civilization.
+There is never a shortage of smart people in the trading market. However, although they are smart, they are not necessarily foolish, so they have suffered repeatedly. Regular Investment is not just an investment strategy. From another perspective, Regular Investment is an act that must be practiced. Therefore, in theory, Regular Investment is the best investment education and the best investment education practice. Whether a person is smart or not is not important at all. What is important is that in the process of continuous practice of Regular Investment, the best investment education is completed, and the fixed investors will gradually get rid of ignorance and move toward civilization.
 
 You see, when people see a disease but cannot cure it, they can always come up with many explanations that are easy to understand. For the failure of the transaction, their summary is strikingly consistent: Oh, I am too greedy. It seems that the word "greed" can explain everything - can it really be like this?
 
@@ -60,9 +60,9 @@ At 10 yuan, he did not know whether the 10 yuan was reasonable or unreasonable? 
 
 What is the basis for his shot? In fact, it is just the so-called "follow the feeling." In expert terms, it is "**a random strolling fool**." Because the result of a random walk is not moving in place - of course, the ending of such people is not as good as a random stroll, because they will not stay in place, they will slowly sink into hell.
 
-How does Regular Investing cure this disease?
+How does Regular Investment cure this disease?
 
-You see, the Regular Investing means that from the very beginning, it has locked in a target that is almost inevitable rising for a long-term bullishness, and it is still the target of [BOX](https://b.watch) that dilutes the opportunity cost, and the bet is not a certain project, but the whole Emerging industry development. Furthermore, the Regular Investing plan itself decided to hold multiple cycles for a long time...
+You see, the Regular Investment means that from the very beginning, it has locked in a target that is almost inevitable rising for a long-term bullishness, and it is still the target of [BOX](https://b.watch) that dilutes the opportunity cost, and the bet is not a certain project, but the whole Emerging industry development. Furthermore, the Regular Investment plan itself decided to hold multiple cycles for a long time...
 
 In other words, the initial purchase decision is reasonable, and then, in less than a few years, or after a long period of time, there is no way to know the outcome. In the meantime, all prices are actually reasonable, regardless of the high or low, regardless of the ups and downs - until the final result is flashed.
 
