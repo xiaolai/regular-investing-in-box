@@ -1,4 +1,4 @@
-# Regular Investing - A Life Transforming Strategy
+# Regular Investment - A Life Transforming Strategy
 
 *—— Have time be on your side and continuously enrich you...*
 
@@ -49,7 +49,7 @@ Although this comparison is really irritating, this comparison probably does not
 
 why? Because the **Regular Investing** is actually a society behavior, even a social behavior.
 
-Your idiot friend won't have a future that makes you angry and desperate. In terms of probability, his fate should be similar to you, because you are all social animals, you all live in the same society, and you are all under strong society. Influence... You see, you have to get married, and he wants to get married, isn't he? Why are you buying a house? That is not your idea, it is the idea of your wife's mother, because if you do not buy a house, your mother-in-law will not trust her daughter to marry you! Do you think your idiot classmate's mother-in-law is different? The probability of nine out of ten is exactly the same in this respect. Most mothers in this society can't safely marry their daughter to a man who can't afford to buy a house. This doesn't blame them. The key point is that everyone is the same!
+Your idiot friend won't have a future that makes you angry and desperate. In terms of probability, his fate should be similar to you, because you are all social animals, you all live in the same society, and you are all under strong society  Influence... You see, you have to get married, and he wants to get married, isn't he? Why are you buying a house? That is not your idea, it is the idea of your wife's mother, because if you do not buy a house, your mother-in-law will not trust her daughter to marry you! Do you think your idiot classmate's mother-in-law is different? The probability of nine out of ten is exactly the same in this respect. Most mothers in this society can't safely marry their daughter to a man who can't afford to buy a house. This doesn't blame them. The key point is that everyone is the same!
 
 Therefore, in the big cities such as Beijing, Shanghai, and Shenzhen, the most common ones are those who are burdened with their own assets. When they calculate their own assets, including real estate, they have a tens of millions. However, their pockets are cleaner than their faces. There are few banknotes available for them to spend, and there is a large amount of bank interest to pay back every month. If they have children, it will be even worse. If their property is a deliberately chosen school district, it will be miserable. Although it is definitely not a poor person in terms of assets, the family is crowded in a dozen or twenty square meters. Lived in joy.
 
@@ -61,7 +61,7 @@ The strategy of voting is divided into the following points:
 > - At least how much is invested in each time?
 > - What should I do if there is an accident?
 
-Regular Investing in real estate has the huge socialization drive - the target is almost no need to think about; long time has been counted by the bank's actuary, but people who unconsciously began to invest will never care about this matter, because they think that everyone is borrowing from the bank, and everyone is instalment, usually 30 years in a row; the interval is once a month is also the bank's fixed monthly; the amount of investment is reversed; for the better house, the amount is higher, while for the worse house, the amount is lower; what happens when there is an accident? Hey, life is always full of surprises, then let's talk about it then! In fact, it is true. When there is an accident, even if you borrow money, you have to pay back the mortgage...
+Regular Investment in real estate has the huge socialization drive - the target is almost no need to think about; long time has been counted by the bank's actuary, but people who unconsciously began to invest will never care about this matter, because they think that everyone is borrowing from the bank, and everyone is instalment, usually 30 years in a row; the interval is once a month is also the bank's fixed monthly; the amount of investment is reversed; for the better house, the amount is higher, while for the worse house, the amount is lower; what happens when there is an accident? Hey, life is always full of surprises, then let's talk about it then! In fact, it is true. When there is an accident, even if you borrow money, you have to pay back the mortgage...
 
 The target on the Regular Investing market is different. The consensus of socialization is basically:
 
@@ -74,14 +74,14 @@ Even more shocking is:
 
 > - "Don't you know? someone is the stock loser... and even jumped from the top roof of the building!"
 
-For the vast majority of people, investing in the stock market is bound to be speculative. They have heard that there is no good consequence in the speculation! As for what is Regular Investing, why is it fixed, and how to invest, most people simply don’t know, because there is no way to be successful enough to be convincing.
+For the vast majority of people, investing in the stock market is bound to be speculative. They have heard that there is no good consequence in the speculation! As for what is Regular Investment, why is it fixed, and how to invest, most people simply don’t know, because there is no way to be successful enough to be convincing.
 
 Under the influence of such powerful socialization, the number of people who choose to invest in stocks or securities can only be very few.
 
-In the process of constantly changing the world of the Internet, the loneliness that such a fixed-agent has been destined for may be greatly relieved. The emergence and development of the Regular Investing community has solved this problem.
+In the process of constantly changing the world of the Internet, the loneliness that such a fixed-agent has been destined for may be greatly relieved. The emergence and development of the Regular Investment community has solved this problem.
 
 Herd mentality is considered to be not a good thing in the vast majority under most cases, but in a few cases, herd mentality also has great benefits. It's like it's hard to keep exercising at home, so you'd rather pay an annual fee, and would rather pay a higher coach fee, or even go to the gym to exercise as far away as you can. It is as if all the learning can be done by oneself, but in a class or dorm where one member is excellent, others will be more diligent, harder, and even better.
 
 **Participating in a given investment community must be the optimal strategy.** If you want to vote for [BOX](https://b.watch), then you have to participate in the [b.watch community](https://b.watch). If you want to invest in US stocks or invest in Hong Kong stocks, then you can find ways to find the right quality vertical community online. why? Because if you are an outsider, you are difficult to be understood, because even for the same thing, under the same situation, the other party may hold the opposite opinion or feeling; not being understood might be acceptable, but you may even be despised - isn't this the most unnecessary dark loss? Have you experienced when a stupid person chastises you are the stupid one?
 
-It’s not the same in the Regular Investing community. You’re a weirdo if you not going to invest in a fixed way – that’s why many high-quality communities are quiet and important. Others are not important. It’s important to know that you have the same kind and you have the same way. You are not alone.
+It’s not the same in the Regular Investment community. You’re a weirdo if you are not going to invest in a fixed way – that’s why many high-quality communities are quiet and important. Others are not important. It’s important to know that you have the same kind and you have the same way. You are not alone.
