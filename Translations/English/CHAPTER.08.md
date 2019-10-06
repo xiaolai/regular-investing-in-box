@@ -1,4 +1,4 @@
-# Regular Investing - A Life Transforming Strategy
+# Regular Investment - A Life Transforming Strategy
 
 *—— Have time be on your side and continuously enrich you...*
 
@@ -12,7 +12,7 @@ https://b.watch
 
 ---
 
-## 8. The key to the success of a Regular Investing strategy lies in psychological construction.
+## 8. The key to the success of a Regular Investment strategy lies in psychological construction.
 
 The most amazing feeling of living for a lifetime is:
 
@@ -57,11 +57,11 @@ Therefore, for me, the Orthodox experienced old leek who has eight years of expe
 
 How to optimize the psychological construction? the answer is:
 
-> **From the moment you enter the market, you only make a Regular Investing.**
+> **From the moment you enter the market, you only make a Regular Investment.**
 
 I have also used a different genteel description of the sentence before:
 
-> **How to solve problems? Only by Regular Investing!**
+> **How to solve problems? Only by Regular Investment!**
 
 Prior to this, many of the benefits of the so-called "a series of quality targets" such as the [BOX](https://b.watch) were mentioned in many places:
 
@@ -70,19 +70,19 @@ Prior to this, many of the benefits of the so-called "a series of quality target
 
 However, the biggest benefit is here:
 
-> Adopting a Regular Investing strategy will make any ordinary person become a **passively intelligent** investor from the beginning!
+> Adopting a Regular Investment strategy will make any ordinary person become a **passively intelligent** investor from the beginning!
 
 What is passive intelligence? The so-called passive intelligence means that a person may not be smart, but because it chooses the right way to act, and even all subsequent decisions and actions automatically become smarter. The best example is one of the principles I mentioned in "Self-study is a craft": I value all the clichés. A self-study, no matter how ordinary he is, as long as he accepts and insists on the principle that it is simple and can't be simpler--paying attention to all the old things--then, then any of his decisions and behaviors in the field of self-study will be automatically become smarter, until it's absolutely smart!
 
 I have been a teacher for so many years; I usually first explain the reason to the students, and then find ways to guide the students to follow the truth, and then supervise, correct, and perhaps even overcorrect my students. After a lot of frustration, students may finally familiarize with the truth, and then it is only possible for a small number of students to achieve a positive result. Isn't that the case?
 
-When I looked at the investment strategy of Regular Investing, I was surprised to find that its magic is that its role is reversed. If you are not sure to fixed invest, you never know the benefits. Once you start to invest, it will in turn let you see other people's mistakes, it will in turn let you avoid overcorrection, it will in turn let you know the truth, and it will automatically guarantee the best results... Unless you not do, as long as you do,  it is right. Conversely, as long as you don't do it, it is wrong and unbiased.
+When I looked at the investment strategy of Regular Investment, I was surprised to find that its magic is that its role is reversed. If you are not sure to fixed investment, you never know the benefits. Once you start to invest, it will in turn let you see other people's mistakes, it will in turn let you avoid overcorrection, it will in turn let you know the truth, and it will automatically guarantee the best results... Unless you not do, as long as you do,  it is right. Conversely, as long as you don't do it, it is wrong and unbiased.
 
 Therefore, for those who trust me around me, whom I also think have good psychological quality, I usually only have one sentence to make them also do it directly:
 
 > **Stop saying nonsense, you will just fixed invest in [BOX](https://b.watch) just like you pay back your mortgage by straining all your muscle.**
 
-Let’s take a closer look at the main points of the Regular Investing strategy:
+Let’s take a closer look at the main points of the Regular Investment strategy:
 
 First of all, the result of **long-term buying** is to automatically complete the “ **long-term holding** ” that most people think it is very difficult to adhere to, and you become a **patient** person.
 
@@ -90,17 +90,17 @@ Second, the **regular buying** plan automatically turns you into the most rare k
 
 Also, every time you invest a certain amount, the implied meaning here is that it automatically turns you into a person who **acts according to his or her resources and ability** .
 
-Many beginners usually ask me, "Can I invest 100 yuan a month?" - I said, of course! They may also ask, "Is there a minimum quota for the Regular Investing community?" - I said, "No!"
+Many beginners usually ask me, "Can I invest 100 yuan a month?" - I said, of course! They may also ask, "Is there a minimum quota for the Regular Investment community?" - I said, "No!"
 
 Why am I so decisively answering it? Because every time you invest, it is entirely your personal decision! [BOX](https://b.watch) has no management fee! No one will make more money because you invest more, and no one will make less money because you vote less. No one will compensate your loss and you don’t pay for management fees, so this design is to tell everyone a fact:
 
 > **Everyone has to make their own decisions that are worthy of their own.**
 
-A lot of beginners didn't realize the contradictions that they thought—because they hadn't thought deeply about the great significance of the simple and easy-to-use strategy of the Regular Investing.
+A lot of beginners didn't realize the contradictions that they thought—because they hadn't thought deeply about the great significance of the simple and easy-to-use strategy of the Regular Investment.
 
 You think, since you have chosen to invest, it means you are not just taking the little money you invested in the first time, and your bet is a lot of money that will have been invested for a long time, and the time and effort it takes to earn money on the sidelines. The number of "gambling" is very large, the number of "bets" is very high, and if you do well, they will continue to grow bigger and continue to get higher...
 
-Therefore, under the strategy of Regular Investing, **even if you find a hint of "not worthwhile", you should definitely not start to invest** - because your capital is your irreplaceable future, under the Regular Investing strategy, "your future" the rich capital is invested, and the opportunity cost is infinite! How do you take it lightly?
+Therefore, under the strategy of Regular Investment, **even if you find a hint of "not worthwhile", you should definitely not start to invest** - because your capital is your irreplaceable future, under the Regular Investment strategy, "your future" the rich capital is invested, and the opportunity cost is infinite! How do you take it lightly?
 
 You see, this is **passive intelligence** . You may not be an experienced veteran, but just because you have a deep understanding of the meaning of the fixed vote, you suddenly raise the screening principle to the highest level in the market; no matter how many old birds there are, no one can surpass you in this respect. You are suddenly the smartest in this regard, because the principle you use is the highest level of the entire market! Of course, you have seen it before, and because of this, we use the simplest and most rude method to effectively find the target that only rises and does not fall in the long run!
 
