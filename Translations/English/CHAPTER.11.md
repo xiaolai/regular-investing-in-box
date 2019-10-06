@@ -1,4 +1,4 @@
-# Regular Investing - A Life Transforming Strategy
+# Regular Investment - A Life Transforming Strategy
 
 *—— Have time be on your side and continuously enrich you...*
 
@@ -76,8 +76,8 @@ Are you afraid to see their actual situation? I do not know. When I seriously ob
 
 In addition, if you are willing to think deeply, you, the person who definitely doesn't want to be a dabbler, will reach another amazing conclusion:
 
-> **The vast majority of funds on the market are definitely not worthy of Regular Investing!**
+> **The vast majority of funds on the market are definitely not worthy of Regular Investment!**
 
-Where does this come from? You see, the core of Regular Investing is that there is only one choice for fixed investors, **long-term holding**. So, you have to repeatedly ask yourself, is this subject worthy of your long-term holding? You can see the vast majority of funds ask you to fixed invest, and then they do not use the same method, but take the money you have invested for their self-righteous active management - do not rule out there could be indeed extremely good managers, but in the end only 5% of the managers have proved to be extremely good – isn't that for the regular investors, is this passively a complete dabbler? ! After entrusting his original 100% successful strategy to others, he has a 5% success rate. Where is it worse than this?!
+Where does this come from? You see, the core of Regular Investment is that there is only one choice for fixed investors, **long-term holding**. So, you have to repeatedly ask yourself, is this subject worthy of your long-term holding? You can see the vast majority of funds ask you to fixed invest, and then they do not use the same method, but take the money you have invested for their self-righteous active management - do not rule out there could be indeed extremely good managers, but in the end only 5% of the managers have proved to be extremely good – isn't that for the regular investors, is this passively a complete dabbler? ! After entrusting his original 100% successful strategy to others, he has a 5% success rate. Where is it worse than this?!
 
-By the same token, you will react, why [BOX](https://b.watch) is the best Regular Investing product – because it does not make any discounts on the dominant strategy. **And it's done to the extreme, and there is no discount on the effect - its management fee is zero!**
+By the same token, you will react, why [BOX](https://b.watch) is the best Regular Investment product – because it does not make any discounts on the dominant strategy. **And it's done to the extreme, and there is no discount on the effect - its management fee is zero!**
