@@ -45,7 +45,7 @@ What is real hardworking? That is, everyone has only 9 years of free time, but y
 
 This is why the hard work, sweat or effort actually do not allow you to get rid of the root cause of class solidification -no matter in which country and in which era.
 
-They why invenstment can break the ceiling? **The essence of investment is to use your own money to make more money, which does not need rest and works for you 24/365, as long as you find the right investment**...... So, how do you compare your sweat with it? The reason we admire Warren Buffett is that:
+Then why invenstment can break the ceiling? **The essence of investment is to use your own money to make more money, which does not need rest and works for you 24/365, as long as you find the right investment**...... So, how do you compare your sweat with it? The reason we admire Warren Buffett is that:
 
 
 > Warren Buffett was born in 1930. At the age of 11, he bought the first stock in his life. It has been 78 years till 2019!
