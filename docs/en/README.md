@@ -223,7 +223,7 @@ There is a set of data that can help us understand how little time we actually h
 > * We spend 1.5 years on child care
 > * We spend 1.3 years commuting.
 
-According to these estimates, we only have nine year left to allocate at will! The amount of time we have to sell is our work time of 10.5 years plus the leftover time of 9 years. Even if we allocate all of those 9 years to paid work, we still haven't even doubled the time we have to sell. And we still sleep for longer than the time we have available to sell. Sleep is expensive!
+According to these estimates, we only have nine year left to allocate at will! The amount of time we have to sell is our work time of 10.5 years plus the leftover time of 9 years. From this perspective, by working really hard, we mean not only all time of 10.5 years are sold, but also most of the leftover time of 9 years. Even if we allocate all of those 9 years to paid work, we still haven't even doubled the time we have to sell. And we still sleep for longer than the time we have available to sell. Sleep is expensive!
 
 When I was young, I worked very hard like all others.
 
