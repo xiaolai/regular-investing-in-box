@@ -6,6 +6,8 @@ Regular investing is quite simple:
 
 For example, **every week** (regularly) for the next **five to ten years**  invest **200 USD** (a set amount) in **[BOX](https://b.watch)** (a particular investment). Of course, you could change BOX to any investment that is worth investing in an holding over a long period of time, like shares in [Apple](https://finance.yahoo.com/quote/AAPL/), [Maotai](https://hk.finance.yahoo.com/quote/600519.SS/), [Coca-Cola](https://finance.yahoo.com/quote/KO), or an [S&P 500](https://en.wikipedia.org/wiki/S%26P_500_Index) Index Fund.
 
+*On Regular Investing* （Chinese:《定投改变命运》）is about my thoughts of WHY and HOW on regular investing.
+
 This README file is of the first edition of this book.
 
 [The second edition](new-edition-for-publishing.md) is for publishing in China.
