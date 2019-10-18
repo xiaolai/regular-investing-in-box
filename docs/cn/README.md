@@ -2,8 +2,8 @@
 <hr />
 <p style="text-align: center;"> <strong>李笑来（著）</strong> &copy;2019</p>
 <img src="../images/coverimage.gif" />
-
 <hr />
+
 ## 警告
 
 金融领域是认知变现的最佳场所，可与此同时，也从来没有任何一个其他领域像金融领域那样，毫不留情地严厉惩罚缺乏正确独立思考能力的人。

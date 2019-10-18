@@ -2,8 +2,8 @@
 <hr />
 <p style="text-align: center;"> by <em>Xiaolai Li</em>, rewritten in English by <em>John Gordon</em> & <em>Xiaolai Li</em> &copy;2019</p>
 <img src="../images/coverimage.gif" />
-
 <hr />
+
 ## Warning
 
 While financial trading markets are no doubt the best to make money through knowledge and thinking, there’s also no other place where people are more severely punished for lack of critical thinking ability.
