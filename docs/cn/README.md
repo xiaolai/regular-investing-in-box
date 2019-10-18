@@ -1,10 +1,12 @@
 <h1 style="text-align: center;">定投改变命运</h1>
------
+
+<hr />
 
 <p style="text-align: center;"> <strong>李笑来（著）</strong> &copy;2019</p>
-![](../images/coverimage.gif)
 
------
+<img src="../images/coverimage.gif" />
+
+<hr />
 
 ## 警告
 
