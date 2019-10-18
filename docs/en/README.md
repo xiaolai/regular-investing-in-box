@@ -255,6 +255,6 @@ However, it's different if we use money to make money. **The core of investing i
 
 >Warren Buffett was born in 1930 and bought his first stock when he was 11. It's now 2019, so he has been investing for 78 years!
 >
->*78* years! The average person only lives 78 years, and they only have an extra nine years to allocate. But Buffett's money has already been working hard for him for 24 hours a day 265 days a year for 78 years! That basically means that someone who doesn't let their money work for then, and only has nine extra years to allocate, couldn't even catch up to Buffett if they lived several lives! Try to imagine the trimendous difference by yourself...
+>*78* years! The average person only lives 78 years, and they only have an extra nine years to allocate. But Buffett's money has already been working hard for him for 24 hours a day 265 days a year for 78 years! That basically means that someone who doesn't let their money work for then, and only has nine extra years to allocate, couldn't even catch up to Buffett if they lived several lives! 
 
-It's really quite shocking!
+Try to imagine the trimendous difference by yourself... What a blow!
