@@ -1,10 +1,11 @@
 <h1 style="text-align: center;">On Regular Investing</h1>
------
+
+<hr />
 
 <p style="text-align: center;"> by <em>Xiaolai Li</em>, rewritten in English by <em>John Gordon</em> & <em>Xiaolai Li</em> &copy;2019</p>
 <img src="../images/coverimage.gif" />
 
------
+<hr />
 
 ## Warning
 
