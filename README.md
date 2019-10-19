@@ -12,7 +12,7 @@ This README file is of the first edition of this book.
 
 [The second edition](new-edition-for-publishing.md) is for publishing in China.
 
-Translations available in the folder *[Transilations](Translations/)*.
+Translations in various languages available in the folder *[Translations](Translations/)*.
 
 Chinese audiobook available in the folder [audiobooks](audiobooks/).
 
