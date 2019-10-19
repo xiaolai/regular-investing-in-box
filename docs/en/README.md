@@ -8,7 +8,7 @@
 
 While financial trading markets are no doubt the best to make money through knowledge and thinking, there’s also no other place where people are more severely punished for lack of critical thinking ability.
 
-> Investing is risky, so be careful!
+> Investing is risky, lost could be substantial!
 
 As [Howard Stanley Marks](https://en.wikipedia.org/wiki/Howard_Marks_(investor)) who was listed as 327<sup>th</sup> the most wealthy person in United States in 2017, once said:
 
