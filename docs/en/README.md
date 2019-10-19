@@ -5,6 +5,7 @@
     <img src="../images/coverimage.gif" />
 </div>
 <hr />
+
 ## Warning
 
 While financial trading markets are no doubt the best to make money through knowledge and thinking, there’s also no other place where people are more severely punished for lack of critical thinking ability.
