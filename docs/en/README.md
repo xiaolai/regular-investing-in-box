@@ -5,7 +5,6 @@
     <img src="../images/coverimage.gif" />
 </div>
 <hr />
-
 ## Warning
 
 While financial trading markets are no doubt the best to make money through knowledge and thinking, there’s also no other place where people are more severely punished for lack of critical thinking ability.
@@ -260,3 +259,117 @@ However, it's different if we use money to make money. **The core of investing i
 >*78* years! The average person only lives 78 years, and they only have an extra nine years to allocate. But Buffett's money has already been working hard for him for 24 hours a day 265 days a year for 78 years! That basically means that someone who doesn't let their money work for then, and only has nine extra years to allocate, couldn't even catch up to Buffett if they lived several lives! 
 
 Try to imagine the trimendous difference by yourself... What a blow!
+
+
+
+### 1.4 What Can We Use to Regularly Invest?
+
+It's an undeniable fact that most people don't invest. And they have an answer as to why they don't invest:
+
+>I don't have any money to invest!
+
+This is a frustratingly common misunderstanding. In fact, in addition to investing money, we have another resource that we can invest -- **time**.
+
+It's not just non-investors who forget this. Even the few who do invest don't realize that, in addition to money, their time is also an investible asset. They haven't thought about how important time is, and how strong an influence it has over us.
+
+Warren Buffett is undoubtably the most commonly-researched investor in the world, and you'll find his name in most books on investment, this one included. There's no way around it, as most of what he says is correct, and, perhaps more importantly, he's been so successful that most of what he says on the topic should be correct, and almost everyone can't help but agree with him.
+
+Buffett is not just successful, he's also always very open in sharing his thoughts and ideas. The problem is, he's told us everything we need to do, so why can't we just go do it? Even though the difference between knowing and doing is the difference between monkeys and humans, there is a still more important reason: 
+
+>Warren Buffett has a zero cost of capital!
+
+Berkshire Hathaway's key turning point in its early years came in 1967 when it bought National Indemnity Company and entered the insurance industry. Remember, Berkshire had been a textile company that Buffett had taken control of in a fit of anger, and he regretted getting into the textile industry for many years. It wasn't until 1985 that Berkshire finally exited the textile business, nearly 20 years after Buffett took control in 1965.
+
+But after entering the insurance market in 1967, Berkshire became an investing machine. The reason was simple: Buffett not only had a huge amount to invest, the funds also came at zero cost, and could be used almost indefinitely. This was a huge relative advantage over all other investors in the world.
+
+All of the books about Buffett talk about his incredible returns, and they treat his investment principles as the Bible. Even a casual statement at Berkshire's annual meeting can be taken as law. But 99.99% percent of investors will never have access to massive amounts of free capital to invest over an unlimited term, and that's a big reason why Buffett has been extraodinarily successful.
+
+Regular investors are different. They may not have that much money, but the are investing more than just money. Since they are continuously investing over the long term,
+
+>The are also using time to invest.
+
+The reason I have been able to hold Bitcoin and other blockchain assets over the long term is not, as many people think, because I have "faith". In fact, faith doesn't require logic, and can't depend on logic, because if it did depend on logic, all faith would be shaken in the end.
+
+The core reason I have been able to hold these assets is that I have the ability to continuously make money over the long term outside of the market, because I have upgraded my personal business model.
+
+>The vast majority of people can only sell their time once, but after upgrading I can sell my time multiple times, for instance by writing books or teaching online.
+
+Even thought there is a ceiling on this business model, it has allowed me to not be tied down by daily expenses. It also allows me to always have an amount of money to use for investment that, while limited in amount, has no cost, is constantly flowing in, and can be invested over an unlimited term. Without this, all of my achievements in the investment space would have been impossible. So my regular investment into blockchain assets is not just money, but all of the effective time that I have spent working, and the sustainable income that has come from repeatedly selling this time.
+
+So regular investing is what "poor people with ambition" do, and it is something that only this type of person can do. When Buffett purchased a controlling stake in Berkshire Hathaway, he was already not a poor man. After purchasing National Indemnity Company and entering the insurance industry, almost all of his investments were long-term buy and hold investments. Buffett didn't need a strategy of regular investing, or, to put it more precisely, he didn't need to improve upon his buy and hold strategy. The simplest strategy in the world was already enough for him.
+
+As far as other fund managers, they were even less able to pursue a regular investing strategy, primarily because 99.99% of fund managers (or, everyone except Buffett) has a limited term for their capital. For some it may be ten years, for others it may be three to five years, but no matter how long it is it's still a limit, and that entails great risk. In the investment world it's rare to have a middle ground, it's either 1 or 0. If capital has a term, the risk is 1, if it doesn't, the risk is 0, and there is no 0.2 or 0.8. Lots of people don't understand this, so they line up like lemmings to take risks and end up falling off a cliff. The riskiest job in the world is President of South Korea, and right after that is the fund manager who guarantees immediate redemption of capital.
+
+To put it another way, most "professional investors" don't have the ability to do regular investing, because they are not managing their own money, and the funds have a deadline to be returned. Once it's time to settle the funds, it doesn't matter if it's a bull market or a bear market, it's still time to settle, so how can you be sure of your earnings? Most people have never thought about how a funds success is not dependent on the manager's acumen and strategy but instead dependent on the time the fund was established. Funds that are established at the end of Period B and the beginning of Period A are quite likely to succeed, because during that period you can make money investing in almost anything. The problem is that at that time investors are the most scared and circumspect, so it's hard to raise money. The easiest time to raise money is at the end of Period A, when everyone has gone crazy in the bull market. But if they raise money at that time, and the money has a term, it's going to be very difficult to succeed. 
+
+Selling one period of your time more than once is an upgrade of your personal business model. It's such an important upgrade that it would be hard for anyone to free themselves from the shackles of increasing daily life expenses. At first you only have to take care of yourself; then you have to take care of your spouse; then you have to take care of your children and even your parents. Most people are defeated by these basic life expenses. An individual must make enough money to cover these expenses, which first increase and then may level out or even decrease later in life, before they can have money left over to practice regular investing. If you don't upgrade your personal business model, it's hard to have any money left over.
+
+As I see it, regular investing requires a trifecta of successful personal business model upgrades:
+
+> * From selling you time once to selling the same time multiple times;
+> * From only using money to consume to using money to make money (starting to invest);
+> * From just investing with money to also investing time.
+
+Even more importantly, a strategy of regular investing systematically reduces risk.
+
+### 1.5 The Regular Investing Strategy Does Not Need to Be Further Improved
+
+We're always trying to find ways to improve our strategies. Everyone wants the strategies that **they** use to be as good as possible. When it comes to regular investing, though,
+
+> **Any efforts to improve the strategy of regular investing are futile.**
+
+From when the BOX Regular Investing Practice Group was established in late July 2019 to October 9, 2019, 3261 members have joined. After understanding the essence of the regular investing strategy, the group members know that most of the profit from regular investing comes from the long bear market. Because they have a different way of thinking, they now have a completely opposite take on the same world. Each time the price drops, they don't feel disappointment and fear, they feel happy and even excited, because they can buy more at a cheaper price. Their decisions are the opposite of the outside world.
+
+Below is the historical price of BOX over the past few months:
+
+![Figure10](../images/Figure10.png)
+
+The chart below adds the daily amount of newly-circulating BOX, which is the amount invested in BOX each day. To make the chart easier to read, the amount of newly-circulating BOX has been divided by 100,000:
+
+![Figure11](../images/Figure11.png)
+
+>Note 1: The charts were created with Google Sheets, and you can view the charts and data [here](https://docs.google.com/spreadsheets/d/1caNGqbFZKEjSPr9kf1gJhB2j8pLrHje0PsPZJKJdGIM/edit?usp=sharing).
+
+>Note 2: The amount of newly-circulating BOX on September 2, 2019, was 221,010, but it really shouldn't count, because I alone bought 180,621 BOX on that day. I'm an old hand at regular investing, so of course I don't pay attention to daily fluctuations in price.
+
+We can see that each time there is a large drop in price the amount of newly-circulating BOX greatly increases. The clearest example is found on the three days from September 25 to September 27, which saw newly-circulating BOX of 214,048, 114,240, and 114,505, respectively, with September 25 showing an increase of five times the normal amount! 
+
+It's also clear from this data that people's reactions are late, because the drop in price actually happened several days earlier on September 22, when the price dropped from \$1.68 to \$1.41. As we can see in the chart, the increase in the amount of new BOX purchased always came a while after the drop in price.
+
+Furthermore, even though the group members had listened to my classes, in which repeatedly emphasized the following:
+
+> **Any efforts to improve the strategy of regular investing are futile.**
+
+Yet many of them still couldn't resist being driven by this simple thought: wouldn't it be better if I bought a little more when the price drops? 
+
+Let's discuss why this "improvement" to the strategy of regular investment isn't actually an improvement at all. First of all, each time we use the current price as a reason for making a decision, we are always actually making the decision after the fact. Even more importantly, we are neglecting an important fact: the short-term direction of the price after we make our decision is an independent event, and not tied to the prior change in price. After we buy it the price could go up, go down, or stay the same -- we don't know!
+
+Someone who increased their investment amount in July after a price drop would have discovered in September that their "improvement" to the strategy was useless and actually lost them money, because the increased investment in July actually ended up increasing their average cost.
+
+Whether or not an investor has a clear grasp of statistical probability is the factor that has the greatest influence on the accuracy of their decisions. Sadly, too many people don't pay enough attention to this basic knowledge, and they have no idea that this lack of knowledge causes them so much trouble and grief.
+
+A person who understands statistical and probability couldn't help but laugh at the following phenomenon:
+
+>Some people without basic knowledge of statistical probability try their best to prove on which day of the week prices are lowest.
+
+Someone made a chart, and did some programming in Python, to support the following conclusion:
+
+>After analyzing every 350-day period of weekly regular investing in Bitcoin over the 900-day period from July 17, 2010, to January 2, 2013, the following conclusions have been reached:
+>
+>> Investing on Monday performed 1.2% better than the average of the other days.
+>> Furthermore, it is best to avoid Sunday, as Sunday performed 0.8% worse than average, perhaps because people have more time on Sunday, or perhaps because they feel more optimistic on Sunday.
+
+Are these sorts of conclusions meaningful? It's basically impossible to use logic to convince people who don't understand the independence of random events, but in [an article written in 1984](https://g.co/kgs/kwb7vc), Warren Buffett gave a fun and yet deep example that might help:
+
+>I would like you to imagine a national coin-flipping contest. Let’s assume we get 225 million Americans up tomorrow morning and we ask them all to wager a dollar. They go out in the morning at sunrise, and they all call the flip of a coin. If they call correctly, they win a dollar from those who called wrong. Each day the losers drop out, and on the subsequent day the stakes build as all previous winnings are put on the line. After ten flips on ten mornings, there will be approximately 220,000 people in the United States who have correctly called ten flips in a row. They each will have won a little over \$1,000.
+>
+>Now this group will probably start getting a little puffed up about this, human nature being what it is. They may try to be modest, but at cocktail parties they will occasionally admit to attractive members of the opposite sex what their technique is, and what marvelous insights they bring to the field of flipping.
+>
+>Assuming that the winners are getting the appropriate rewards from the losers, in another ten days we will have 215 people who have successfully called their coin flips 20 times in a row and who, by this exercise, each have turned one dollar into a little over \$1 million. \$225 million would have been lost, \$225 million would have been won.
+>
+>By then, this group will really lose their heads. They will probably write books on “How I turned a Dollar into a Million in Twenty Days Working Thirty Seconds a Morning.” Worse yet, they’ll probably start jetting around the country attending seminars on efficient coin-flipping and tackling skeptical professors with, “If it can’t be done, why are there 215 of us?”
+
+In addition to not fitting our basic understanding of statistical probability, another reason why "invest on Monday and not Sunday" is unlikely to work is the following:
+
+>If it is really effective, then everybody will start doing it, and then it will no longer be effective.
+
