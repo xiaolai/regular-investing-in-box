@@ -45,13 +45,13 @@ What is real hardworking? That is, everyone has only 9 years of free time, but y
 
 This is why the hard work, sweat or effort actually do not allow you to get rid of the root cause of class solidification -no matter in which country and in which era.
 
-Then why invenstment can break the ceiling? **The essence of investment is to use your own money to make more money, which does not need rest and works for you 24/365, as long as you find the right investment**...... So, how do you compare your sweat with it? The reason we admire Warren Buffett is that:
+Then why investment can break the ceiling? **The essence of investment is to use your own money to make more money, which does not need rest and works for you 24/365, as long as you find the right investment**...... So, how do you compare your sweat with it? The reason we admire Warren Buffett is that:
 
 
 > Warren Buffett was born in 1930. At the age of 11, he bought the first stock in his life. It has been 78 years till 2019!
 > 78 years! —— The average life expectancy of others is 78 years old, of which only 9 years is the so-called effective life that can be used for extra fights, but what about Buffett? Buffett’s money has helped him fight 24 hours a day, 365 days a year, 78 years...
-> This is equivalent to saying that ordinary people who do not engage in any investment activities can not catch up with him even if they live for 8 generations! Because 78 is divided by 9 equals 8.6667...
-> Moreover, Buffett’s body is still very healthy and will continue to live... More importantly, he has already made his investment into a business that went public (Berkshire Hathaway) – That is to say, even if Buffett’s father died, the money of this listed company is still working without interruption...
+> This is equivalent to saying that ordinary people who do not engage in any investment activities can not catch up with him even if they live for 8 generations! Because 78 divided by 9 equals 8.6667...
+> Moreover, Buffett’s body is still very healthy and will continue to live... More importantly, he has already made his investment into a business that went public (Berkshire Hathaway) – That is to say, even if Buffett died, the money of this listed company is still working without interruption...
 
 Very amazing!
 
@@ -59,11 +59,11 @@ When I was young, like other young people, I was very hardworking.
 
 When I just graduated from school and made sales, I used to sleep on the train for six nights a week, get off in the morning to find a place to take a bath, change clothes, and then do a day of training, then set foot on the train to sleep at night. After waking up, I will continue to work in another city...
 
-People who have known me for many years know that Li Xiaolai does  not have a holiday. Why is this? Because when I graduated from college in 1995, one day I suddenly thought, how many holidays are there? 365 days a year, there are 115 legal holidays! In other words, one-third of the year is “rested”! I always feel that something is wrong. Later, I noticed the word "legal", so I suddenly realized - oh, this legal holiday is used to restrict the employment of enterprises. On legal holidays, if enterprises do not let people rest, it is illegal... That is, this legal holiday is not restricted to individuals - there is no law to say: "Today is a legal holiday, and if you are not resting, you are breaking the law!" So, I decided that since then, the legal holidays have nothing to do with Li Xiaolai! So, from 1995 to 2019, 24 years have passed - I just have not had Saturdays and Sundays, no New Year's Day Spring Festival, and I have just spent these holidays as every day. Many of the books I have published are based on the fact that I have kept myself at home during the Spring Festival. Am I really fighting?
+People who have known me for many years know that Li Xiaolai does  not have a holiday. Why is this? Because when I graduated from college in 1995, one day I suddenly thought, how many holidays are there? 365 days a year, there are 115 legal holidays! In other words, one-third of the year is “rested”! I always feel that something is wrong. Later, I noticed the word "legal", so I suddenly realized - oh, this legal holiday is used to restrict the employment of enterprises. On legal holidays, if enterprises do not let people rest, it is illegal... That is, this legal holiday is not restricted to individuals - there is no law to say: "Today is a legal holiday, and if you are not resting, you are breaking the law!" So, I decided that since then, the legal holidays have nothing to do with Li Xiaolai! So, from 1995 to 2019, 24 years have passed - I just have not had Saturdays and Sundays, no New Year's Day and Spring Festival, and I have just spent these holidays as every day. Many of the books I have published are based on the fact that I have kept myself at home during the Spring Festival. Am I really fighting?
 
-About a decade ago, I suddenly found that being "careful about my hair style" is a very high cost of time. It takes an hour or two to go to the haircut every month, and I have to wait in the barber shop for a long time... So, I decided to cut my hair later. A Philips electric hair clipper, which is really cheap, around three hundred dollars, can be used for several years. So you saw my fixed hair style for the next ten years, 3 mm round hair style. This is very simple. Basically, before a shower, I can use a hair clipper to fix my hair in front of the mirror for three or five minutes. You see, in terms of saving time, am I really fighting?
+About a decade ago, I suddenly found that being "careful about my hair style" is a very high cost of time. It takes an hour or two to go to the haircut every month, and I have to wait in the barber shop for a long time... So, I decided to cut my hair later. A Philips electric hair clipper, which is really cheap, around three hundred Chinese Yuan, can be used for several years. So you saw my fixed hair style for the next ten years, 3 mm round hair style. This is very simple. Basically, before a shower, I can use a hair clipper to fix my hair in front of the mirror for three or five minutes. You see, in terms of saving time, am I really fighting?
 
-But what? The data is extremely frustrating. Look at me, there are no holidays in 24 years, how much effective life do I spell out for myself? Let's count it. Even if I don't use holidays as a rest day, the average effective working hour is 4 hours a day. It's great to work effectively. You will know if you really work for yourself. If you work efficiently, you know that there is still very little effective working time. So, what is my effective working time in these 24 years?
+But what? The data is extremely frustrating. Look at me, there are no holidays in 24 years, how much effective life do I save for myself? Let's count it. Even if I don't use holidays as a rest day, the average effective working hour is 4 hours a day. It's great to work effectively. You will know if you really work for yourself. If you work efficiently, you know that there is still very little effective working time. So, what is my effective working time in these 24 years?
 
 > 24 × 115 × 4 = 11,040
 
@@ -71,12 +71,12 @@ More than 10,000 hours. So how many years is this equivalent?
 
 > 11,040 ÷ (365 × 24) = 1.26
 
-You see, I am so demanding about myself, then what is the result? The result is only 14% more than "other people who are really hard". I decided to cut my hair 10 years ago and how much time saved myself? Once a month, each time an average of 1.5 hours, then 18 hours a year, 10 years down, is 180 hours ... You see, I use the actual action carefully, but is it really really enough? How much effective life can that increase? Or how long has it been compared to others? It was only 7.5 days, and with such a great effort, it was only 2.28 more than everyone else!
+You see, I am so demanding about myself, then what is the result? The result is only 14% more than "other people who work really hard". I decided to cut my hair 10 years ago and how much time saved myself? Once a month, each time an average of 1.5 hours, then 18 hours a year, 10 years down, is 180 hours ... You see, I use the actual action carefully, but is it really really enough? How much effective life can that increase? Or how long has it been compared to others? It was only 7.5 days, and with such a great effort, it was only 2.28‰ more than everyone else!
 
 You now understand that it **is impossible to get rid of the class solidification without investment.**
 
 However, you must have been warned:
 
-> Investment is risky and decisions that need to be cautious! (Or, the stock market is risky, investment needs to be cautious!)
+> Investment is risky and decisions need to be cautious! (Or, the stock market is risky, investment needs to be cautious!)
 
 But is this really true? Whether it is true or not, you can only rely on your own actions to verify. Before you have long practiced, there is no answer that you can understand directly without practice.
