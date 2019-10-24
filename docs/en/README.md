@@ -6,7 +6,6 @@
 </div>
 <hr />
 
-
 ## Warning
 
 While financial trading markets are no doubt the best to make money through knowledge and thinking, there’s also no other place where people are more severely punished for lack of critical thinking ability.
@@ -375,3 +374,72 @@ In addition to not fitting our basic understanding of statistical probability, a
 
 >If it is really effective, then everybody will start doing it, and then it will no longer be effective.
 
+
+
+## Part Two: Choosing a Target for Regular Investing
+
+Regular investing is simple, direct, and brutally effective, but, in addition to depending on the ability of the practitioner to earn money outside of the market, it depends even more on the selection of a quality investment target. If a mistake is made in the selection of the target, then the result over the long term will be terrible.
+
+It's important to note that what we are discussing is "how regular investors should choose an investment target", and not "how investors should choose the correct investment target". The former is a subset of the latter, and actually only has one more condition: 
+
+>Is it worth holding over the long term?
+
+In the investment world, the Greet letter *alpha (α)* is used to refer to returns that exceed overall market returns. The goal of regular investors when they are choosing their investment target is to create *alpha*. They won't sell before at least two full market cycles have passed, because to do so would be to waste all of their previous efforts. All they do is buy, so they won't know for a long time whether or not their *alpha* is positive or negative.
+
+### 2.1 Investing Advices That You Can Blindly Follow
+
+The hardest questions for those who are just entering the market is this:
+
+>Which one should I pick?
+
+How can someone who doesn't even know what their criteria should be make a choice? How can someone who can only see the superficial and not the true nature of something make a correct choice about what to hold over the long term without wavering? There is a simple, direct, brutal and effective strategy that is also free:
+
+>**Blindly follow** advices of truly successful investors who have shown excellent returns over the **long term**.
+
+"**Blindly follow**" sounds extremely terrifying, but we actually can blindly follow advices of truly successful investors who have shown excellent returns over the long term (please notice the key term: "long term"), because in the investment world there is an amazing phenomenon:
+
+>The more long-term successful experience investors have, the more open they are.
+
+Warren Buffett started writing public letters to investors a long time ago, and later on he continued to share his investing ideas and decision-making process on television and other mediums. Starting in 1965, Buffett has written a public letter to investors each year. As of 2019, he had been writing them for 54 years! Ever since 1973, he and Charlie Munger have held freewheeling Q&A sessions at yearly shareholders meetings. In 2019, the 46<sup>th</sup> year, a record 16,200 people attended, and this doesn't include people watching online around the world.
+
+>Berkshire Hathaway's shareholder letters from 1977 to 2018 are available here: 
+>
+>>[http://www.berkshirehathaway.com/letters/letters.html](http://www.berkshirehathaway.com/letters/letters.html)
+>>CNBC's website has a special section called "Warren Buffet Archive":
+>>[https://buffett.cnbc.com/warren-buffett-archive/](https://buffett.cnbc.com/warren-buffett-archive/)
+
+Warren Buffett's mentor, [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham), was also someone who shared without reservation. In addition to teaching investing classes, he wrote several books, most notably [Security Analysis](https://www.amazon.com/Security-Analysis-Foreword-Buffett-Editions-ebook-dp-B0037JO5J8/dp/B0037JO5J8/) (1934) and [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/) (1949). Warren Buffett read *The Intelligent Investor* when he was 19 and became a fan of Benjamin Graham. One Saturday in 1951, while in the library of Columbia Business School, Warren Buffett learned that Benjamin Graham was Chairman of GEICO, and immediately decided to pay a visit to the company's office. Many years later, in an interview with *Forbes*, Buffett recalled that the investment he made in GEICO at the age of 20 was one of his the investments that he was most proud of.
+
+Joel Greenblatt's investing returns are perhaps more impressive than Warren Buffet -- from 1985 to 2006, his annual compounded returns exceeded 40%! Having been successful over the long term, Joel Greenblatt is also quite willing to openly share. He has published three books, namely [You Can Be a Stock Market Genius](https://www.amazon.com/You-Can-Stock-Market-Genius/dp/0684840073/) (1999), [The Little Book That Still Beats the Markets](https://www.amazon.com/Little-Book-Still-Beats-Market/dp/0470624159/) (2010), and [The Big Secret for the Small Investor](https://www.amazon.com/Big-Secret-Small-Investor-Investment-ebook/dp/B004J4WKHE/) (2011). He is so down to earth that his standard for writing the books was that his teenager children could understand them. 
+
+Joel Greenblatt didn't just share his ideas in his books, he also made a website, [Magic Formula Investing](https://www.magicformulainvesting.com), that allows investors to use his ideas to build their own portfolios. All you have to do is enter a few parameters, and the site will give you a ready-to-go protfolio based on the "Magic Forumula".
+
+![Figure12](../images/Figure12.png)
+
+[Ray Dalio](https://en.wikipedia.org/wiki/Ray_Dalio), the founder of [Bridgewater](https://www.bridgewater.com), is yet another investor who has been successful over the long-term and is willing to share his ideas. Long before his book, [Principles](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/), was published in 2017, he had released [a version for free online](https://archive.org/stream/BridgewaterRayDalioPrinciples/Bridgewater%20-%20Ray%20Dalio%20-%20Principles_djvu.txt). In 2019, he even released an app called [Principles in Action](https://apps.apple.com/us/app/principles-in-action/id1211294305), which helps readers put the principles in his book into action.
+
+In the investing sphere, one must use money, time and action to create real results, and everyone is either a 0 or a 1. Investors who can successfully produce returns over the long term are 1s, and the rest are 0s, including those so-called who spend all of their time yelling through the television or other mediums but have no skin in the game. Investors like Warren Buffett, Joel Greenblatt and Ray Dalio, don't need to spend all day screaming through the television, because their ideas have already been clearly expressed through their books, other writings and speeches.
+
+Perhaps the most simple, direct, brutal and effective strategy that novice investors can use is to just buy whatever Warren Buffett buys. They don't need to dream about "beating Warren Buffet", they can just “keep up with Warren Buffett" by buying shares in his companies. The easiest way to do this, of course, is to just buy Berkshire Hathaway shares. If novice investors feel that Berkshire Hathaway's share price is to expensive (it was over \$310,000 in October of 2019), then they can look at its individual holdings and choose the stocks they want!
+
+>CNBC has a page listing all of Berkshire's stock holdings:
+>
+>> [https://www.cnbc.com/berkshire-hathaway-portfolio/](https://www.cnbc.com/berkshire-hathaway-portfolio/)
+
+Of course, if you actually did this, your success would be dependent on whether you were able to hold the stocks for as long as Warren Buffett does. For the vast majority of people, holding for the long term is a much bigger challenge than making the initial choice of what to buy.
+
+Alternatively, they could go to Joel Greenblatt's [Magic Formula Investing site](https://www.magicformulainvesting.com), enter a few parameters, and buy the suggested collection of stocks. It's important to note, however, that Greenblatt's Magic Formula is not suitable for regular investing, since his method is to choose a new batch of stocks each year.  See? Regular investing isn't the only effective strategy, it's just the easiest for most people to put into practice.
+
+Why can we blindly follow these truly successful investors who have shown excellent returns over the long term? It's because hey have used their own strategies over the long term, and their strategies have passed the test of time. They are skilled at thinking with a long-term perspective, or else they wouldn't have been able to carry out their initial strategies over the long term. In their eyes, the long-term effectiveness of a strategy is not related to how complicated it is. To the contrary, only simple strategies can actually be carried out over the long term. Furthermore, the long-term effectiveness of a strategy is not correlated to the intellect of the user. The core prerequisite for the long-term effectiveness of an investment strategy is whether or not it is faithfully carried out over the long term.
+
+**In fact, there is no secret to success. Even if there were, it would be an "open secret".** All paths to success are open, as are all of the necessary tools and knowledge. It's just few people are able to patiently follow a path, picking up knowledge and understanding bit-by-bit, and persistently execute along the way. How few? They're actually quite hard to find.
+
+These people are the rare ones who have achieved a **unity of knowledge and action**. Actually the suggestions of anyone in any field throughout history who has achieved unity of knowledge and action are worth acceptation and putting into practice. If we understand it right away, that's great, just do it. If at first we don't understand, we can **blindly follow**.
+
+The key point is that investing ideas from the most successful investors are free! You don' even need to worry that these ideas will be adopted by everyone and lose their effectiveness, because history has shown that the vast majority of people won't use these ideas. Maybe it's because most people are afraid of simplicity. They think that success is difficult, so they must discover a complicated secret or they won't be able to succeed. There's also another important and common fear involved that keeps people from following this priceless advice: it's terrifying to use our own money to carry out other people's ideas that we still don't understand!
+
+Of course, there's yet another reason: 
+
+>People like to use their own smarts and efforts to get a reward. 
+
+"Even if I make money by buying whatever Warren Buffet buys, it doesn't *feel* like success." This might be the actual feeling that many people are hiding.
