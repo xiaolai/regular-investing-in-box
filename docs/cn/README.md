@@ -414,7 +414,7 @@
 
 沃伦·巴菲特的老师[本杰明·格雷厄姆](https://en.wikipedia.org/wiki/Benjamin_Graham)也同样是乐于分享且毫无保留的人。他不仅在课堂上传授投资知识，还写了很多本书，其中传播最广的就是 [Security Analysis](https://www.amazon.com/Security-Analysis-Foreword-Buffett-Editions-ebook-dp-B0037JO5J8/dp/B0037JO5J8/)（中译《证券分析》，1934）和 [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/)（中译《聪明投资者》，1949）—— 而当年 19 岁的巴菲特正是因为 *The Intelligent Investor* 这本书才成为本杰明·格雷厄姆的粉丝。1951 年的某个周六，他在哥伦比亚大学商学院的图书馆获知本杰明·格雷厄姆是政府雇员保险公司（GEICO）的主席，于是马上就跑去访问该公司…… 许多年后，沃伦·巴菲特接受[福布斯杂志采访](https://www.forbes.com/100-greatest-business-minds/person/warren-buffett)的时候说，20 岁的时候我投资 GEICO 是回头看我自己最得意的投资之一。
 
-[乔尔·格林布莱特](https://en.wikipedia.org/wiki/Joel_Greenblatt)的投资业绩甚至比沃伦·巴菲特还要惊人 —— 在 1985 年到 2006 年之间超过 20 年的时间里，他创造了竟然略超 40% 的年化复合回报率！这样一个真正做到长期持续成功的投资者还是同样乐于分享，并且开诚布公。他前后出版了三本书，分别是 [You Can Be a Stock Market Genius](https://www.amazon.com/You-Can-Stock-Market-Genius/dp/0684840073/) (中译《股市天才》，1999），[The Little Book That Still Beats the Markets](https://www.amazon.com/Little-Book-Still-Beats-Market/dp/0470624159/)（中译《股市稳赚》，2010）以及 [The Big Secret for the Small Investor](https://www.amazon.com/Big-Secret-Small-Investor-Investment-ebook/dp/B004J4WKHE/)（2011）…… 你知道乔尔·格林布莱特写书接地气到什么地步吗？他写书的自我检验标准是 “自己的十几岁的孩子能不能读懂？” —— 与中国古代诗人的 “老妪能解” 有得一拼。不仅如此，乔尔·格林布莱特觉得公开的还不够，于是，干脆做了个网站：https://www.magicformulainvesting.com —— 在这个网站上，用户甚至无需注册，只要按要求输入几个参数就可以获得一个基于他的 “神奇公式” 而定制的投资组合！你拿去用就是了……
+[乔尔·格林布莱特](https://en.wikipedia.org/wiki/Joel_Greenblatt)的投资业绩甚至比沃伦·巴菲特还要惊人 —— 在 1985 年到 2006 年之间超过 20 年的时间里，他创造了竟然略超 40% 的年化复合回报率！这样一个真正做到长期持续成功的投资者还是同样乐于分享，并且开诚布公。他前后出版了三本书，分别是 [You Can Be a Stock Market Genius](https://www.amazon.com/You-Can-Stock-Market-Genius/dp/0684840073/) (中译《股市天才》，1999），[The Little Book That Still Beats the Markets](https://www.amazon.com/Little-Book-Still-Beats-Market/dp/0470624159/)（中译《股市稳赚》，2010）以及 [The Big Secret for the Small Investor](https://www.amazon.com/Big-Secret-Small-Investor-Investment-ebook/dp/B004J4WKHE/)（2011）…… 你知道乔尔·格林布莱特写书接地气到什么地步吗？他写书的自我检验标准是 “自己的十几岁的孩子能不能读懂？” —— 与中国古代诗人的 “老妪能解” 有得一拼。不仅如此，乔尔·格林布莱特觉得公开的还不够，于是，干  脆做了个网站：https://www.magicformulainvesting.com —— 在这个网站上，用户甚至无需注册，只要按要求输入几个参数就可以获得一个基于他的 “神奇公式” 而定制的投资组合！你拿去用就是了……
 
 ![Figure12](../images/Figure12.png)
 
@@ -678,7 +678,7 @@
 > * 最佳局部之中的最佳局部（行业）
 > * 最佳局部之中的最佳局部之中再选择若干个标的构成组合……
 
-然而，概括起来却很简单，这些全都是关于**趋势**的选择。不选择 “只投资某一个标的”，而是先退而求其次 “选择所有” —— 这是为了在避险的同时**跟上整个世界的趋势**，此时  α 为零；从全部之中 “选择最佳的局部”，这是以退为进，意图找到发展最快的局部，进而有可能创造正的 α；再一次 “选择局部的局部”，这也是为了通过趋势的支持获得更高正的 α —— 最终，在局部的局部之中做个组合，本质依然是一样的做法：首先要降低风险，而后再看能否创造更多正的 α？
+然而，概括起来却很简单，这些全都是关于**趋势**的选择。不选择 “只投资某一个标的”，而是退而求其次 “选择所有” —— 这是为了在避险的同时**跟上整个世界的趋势**，此时  α 为零；从全部之中 “选择最佳的局部”，这是以退为进，意图找到发展最快的局部，进而有可能创造正的 α；再一次 “选择局部的局部”，这也是为了通过趋势的支撑获得更高的 α —— 最终，在局部的局部之中做个组合，本质上依然是一样的做法：首先要降低风险，而后再看能否创造更多的 α？
 
 为自己的投资组合选择标的，最简单直接粗暴有效的原则是：
 
@@ -732,7 +732,7 @@ EOS 从这个角度望过去，就是个面向区块链企业的平台。而 Mix
 
 如果市场是百分之百有效的，那么 α 理论上是不可能存在的。可问题在于，如果我们把任何一个时刻的市场单独拿出来的话，它百分之百是无效的。价格和价值偶尔对等根本就不能说明任何问题，因为哪怕一只烂钟也无论如何都能在一整天的时间里对上两次！把每时每刻全都拼接起来，长期来看，市场理论上应该是有效的 —— 可问题是，这个长期究竟是多长呢？没有人知道。另外，如果按照定投策略采用者的观念来看，两个大周期之后，以当前价格作为比较基础的话，每时每刻的市场价格偏差就显得更大了，不是吗？
 
-我个人当然相信 α 的存在，并且总是在想办法找到更好的策略去创造它。你做得好，α  就是正数；你做的差，α 就是负数。作为定投策略采用者，你最终的成绩可以用以下公式描述：
+我个人当然相信 α 的存在，并且总是在想办法找到更好的策略去创造它。你做得好，α  就是正数；你做的差，α 甚至有可能是负数。作为定投策略采用者，你最终的成绩可以用以下公式描述：
 
 > p = δ + α - γ
 
