@@ -5,7 +5,6 @@
     <img src="../images/coverimage.gif" />
 </div>
 <hr />
-
 ## 警告
 
 金融领域是认知变现的最佳场所，可与此同时，也从来没有任何一个其他领域像金融领域那样，毫不留情地严厉惩罚缺乏正确独立思考能力的人。
@@ -1431,14 +1430,13 @@ EOS 从这个角度望过去，就是个面向区块链企业的平台。而 Mix
 <p style="text-align: right;"><strong>李笑来</strong></p>
 <p style="text-align: right;">2019 年 10 月于北京</p>
 
-
 -----
 
 
 
 ## 附录
 
-## 1. 关于 BOX
+### 1. 关于 BOX
 
 > **风险警告**
 >
@@ -1458,7 +1456,7 @@ EOS 从这个角度望过去，就是个面向区块链企业的平台。而 Mix
 
  [BOX](https://b.watch)的申购与赎回，在网站 b.watch 上进行：https://b.watch
 
-### 1.1. BOX 细则
+#### 1.1. BOX 细则
 
 BOX，很简单，就是**锚定“一揽子主流区块链资产投资标的”的区块链凭证**（Token）。它的成分如下：
 
@@ -1486,17 +1484,17 @@ BOX，很简单，就是**锚定“一揽子主流区块链资产投资标的”
 
  [BOX](https://b.watch)是百分之百公开透明的。 [BOX](https://b.watch)的持仓地址公开透明、随时可查 —— 因为所有的记录都在 Mixin 的公链之上，查询地址请参阅 bwatch 说明。“韭菜盒子里”究竟有多少个 BTC+EOS+XIN，与之对应的，有多少 [BOX](https://b.watch) Token 在外流通，尚有多少个 [BOX](https://b.watch) Token 在“冷冻仓”（含未发行的和将来已回收的数量）等等，都是公开透明可查的。所以， [BOX](https://b.watch)无法随意增发，也无法随意增加流通量。又由于如此， [BOX](https://b.watch)若是被任何其它交易所上架的时候，用户可以通过核对来确认该交易所有没有 “随意增发流通量” —— 关于这一点为什么很关键，新手们需要花一点时间去学习之后理解。
 
-### 1.2. BOX 的优势
+#### 1.2. BOX 的优势
 
  [BOX](https://b.watch)的成分选择与配置，遵循以下几个原则。
 
-### 1.2.1. 投资区块链资产就要投资主流资产
+##### 1.2.1. 投资区块链资产就要投资主流资产
 
 在新一轮的趋势中，区块链主流资产将不成比例地被重视。经过 2017～2018 的大牛和大熊，市场已经被教育，对新币种的 “盲目乐观” 和 “盲目期待” 已经被彻底戳破，那种随便写写白皮书就募资的项目已经被证明为“不堪一击”…… 
 
 在新一轮中，可能大涨的，要么是主流资产，要么是传销资产 —— 不碰传销资产不是因为它不赚钱，恰恰相反，它短期内可能很赚钱，但，它不可能长期，所以，不是我们定投者的选择。定投者是要穿越不止一个牛熊的，所以，只能选择长期标的，于是，在 “要么主流资产、要么传销资产” 中，我们只能选择 “主流资产”。
 
-### 1.2.2. 符合区块链技术发展的内在逻辑
+##### 1.2.2. 符合区块链技术发展的内在逻辑
 
 经过多年，准确地讲是迄今为止的八年；经过多年的观察、投资、实践与思考，我认为区块链技术在改变世界的过程中有一个发展路线：
 
@@ -1510,7 +1508,7 @@ BOX，很简单，就是**锚定“一揽子主流区块链资产投资标的”
 
 当我们的定投标的从某个单一项目（比如比特币）转换成一系列标的（比如 [BOX](https://b.watch)）的时候，除了有效地稀释了机会成本之外，我们还等同于把自己的赌注从 “放到某个项目上” 转变成了 “放到整个行业发展上”，这是降低风险到极致的靠谱方法论。
 
-### 1.2.3. 成分比例的考虑
+##### 1.2.3. 成分比例的考虑
 
 现在（2019.7）Bitcoin Dominance 在区块链资产总市值中占比 63%。这个比例虽然短期内可能继续拉升，但，长期来看，它还会随着区块链技术的发展普及和应用逐步降低。不是比特币不发展了，是它发展的同时，其它资产也会发展，但长期来看，其它资产可能发展速度超过比特币。所以，给比特币 50% 的权重，从放眼长期的角度来看，是合理的。
 
@@ -1530,7 +1528,7 @@ Mixin Network 的做法**是自上而下**（Top Down）：先做一个非常好
 
 总结起来，其实只有一句话， [BOX](https://b.watch)是你无论如何都亏不了的 ETF 产品 —— 因为如果它亏了，只不过是因为区块链这个行业被证明为不行，这事儿怪不了我，也怪不了你。但是，**只要区块链行业好， [BOX](https://b.watch)就必然好** —— 而区块链行业正在起飞，所以，大概率上我们会赢。就这么简单。
 
-## 2. 关于 b.watch
+### 2. 关于 b.watch
 
 [b.watch](https://b.watch) 是 [BOX](https://b.watch) 申购、赎回与交易的场所。
 
@@ -1554,7 +1552,7 @@ Mixin Network 的做法**是自上而下**（Top Down）：先做一个非常好
 > * [BOX](https://b.watch) 定投任务的完成程度
 > * 笑来课堂的销售业绩
 
-## 3. 关于笑来定投课堂
+### 3. 关于笑来定投课堂
 
 **笑来定投课堂**，是李笑来的区块链教育产品。
 
@@ -1591,6 +1589,31 @@ Mixin Network 的做法**是自上而下**（Top Down）：先做一个非常好
 **赚钱不丢人，赚不到干净钱才丢人。**
 
 所以，在我看来，认真学习投资对每个人来说是必须的，实在想不出什么理由不去认真学习投资。
+
+## 关于作者
+
+李笑来，投资人，终生成长者。[http://lixiaolai.com](http://lixiaolai.com) · [xiaolai@github](https://github.com/xiaolai)
+
+### 出版书籍
+
+> * TOEFL 核心词汇 21 天突破
+> * [TOEFL 高分作文](http://lixiaolai.com/#/twe185/)
+> * [把时间当作朋友](http://lixiaolai.com/#/befriending-time/)
+> * 通往财富自由之路
+> * 韭菜的自我修养（[中文](http://lixiaolai.com/#/the-self-cultivation-of-leeks/cn/) · [English](http://lixiaolai.com/#/the-self-cultivation-of-leeks/en/)）
+> * [自学是门手艺](http://lixiaolai.com/#/the-craft-of-selfteaching/)
+> * [定投改变命运（第三版）](https://onregularinvesting.com)
+
+### 其它
+
+> * [我也有话要说](http://lixiaolai.com/#/i-have-a-say/)
+> * [人人都能用英语](http://lixiaolai.com/#/everyone-can-use-english/)
+> * [挤挤都会有的 —— 写给女生的性高潮指南](http://lixiaolai.com/#/ji/)
+> * INBlockchain 开源投资原则 ([中文](http://lixiaolai.com/#/INB-principles/cn/) · [English](http://lixiaolai.com/#/INB-principles/en/))
+> * [Bitcoin 白皮书（中英对照）](http://lixiaolai.com/#/bitcoin-whitepaper-cn-en-translation/Bitcoin-Whitepaper-EN-CN.html)
+> * [区块链小白书](https://blockchainlittlebook.com)
+
+
 
 -----
 
