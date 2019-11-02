@@ -5,6 +5,7 @@
     <img src="../images/coverimage.gif" />
 </div>
 <hr />
+
 ## 警告
 
 金融领域是认知变现的最佳场所，可与此同时，也从来没有任何一个其他领域像金融领域那样，毫不留情地严厉惩罚缺乏正确独立思考能力的人。
@@ -1425,12 +1426,11 @@ EOS 从这个角度望过去，就是个面向区块链企业的平台。而 Mix
 
 -----
 
-
-
 <p style="text-align: center;">全书完<p>
 
 <p style="text-align: right;"><strong>李笑来</strong></p>
 <p style="text-align: right;">2019 年 10 月于北京</p>
+
 
 -----
 
