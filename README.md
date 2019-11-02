@@ -16,6 +16,8 @@ Translations in various languages available in the folder *[Translations](Transl
 
 Chinese audiobook available in the folder [audiobooks](audiobooks/).
 
+The third edition of the book was published online: https://onregularinvesting.com, Chinese and English available.
+
 -----
 
 
