@@ -739,3 +739,65 @@ For regular investors, all *alpha* comes from careful decisions that were made b
 
 As you have seen, the choice of investments for regular investing doesn't require many tactics or smarts. As long as you get the process basically right , you should be okay. However, the difficult part of being a regular investor is that even before you start you have to be sure that you have made your choice and will stick with it over the long term. This is probably the best example I can come up with of how something can be "simple but not easy".
 
+## Part Three: The Process of Regular Investing
+
+Your final returns will match up with this equation:
+
+>**p = δ + α - γ**
+
+In this equation, *gamma* (γ) will always be positive, because all people make mistakes, and they all make the same mistakes...
+
+### 3.1 Winning Without Fighting
+
+In his book, [*The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing*](https://www.amazon.com/dp/B00A07FR4W/), [Michael J. Mauboussin](https://en.wikipedia.org/wiki/Michael_J._Mauboussin) shared the following image:
+
+![Figure19](../images/Figure19.png)
+
+Activities on the far right, such as chess, depend 100% on skill, and there is essentially no luck involved. Activities on the far left, such as playing slot machines, depend 100% on luck, and there is essentially no skill involved. Most of the rest of the activities in the imagine depend on some picture of luck and skill. So in most situations, if you want to be hugely successful, you have to be more skillful than others and also get lucky. Investing, however, is on the left side of the picture, implying that luck is more important than skill. In fact, luck is much more important than skill, which is why so many smart people don't end up being successful in the trading markets.
+
+However, since there are many different types of investment, we need to slightly adjust Mauboussin's placement of investment in the image. For instance, long-term holding and frequent trading are clearly completely different. Also, carefully selecting assets to hold over the long term is generally acknowledged to be a successful strategy. If someone doesn't believe this, just show them [the chart of the S&P 500 over the past several decades](https://docs.google.com/spreadsheets/d/1RsmiifuZajR_POx1zO_--qUcOgwb7tABNQpT-O69Ryk/edit?usp=sharing). Regular investing is at its core simply an improvement to the strategy of carefully selecting assets and to hold over the long term. It hardly depends on any luck, so this type of investment should actually be on the right side of the image.
+
+Regular investors do only one thing:
+
+> Buy. 
+
+Regular investing seems so simple that most people will initially doubt its effectiveness. They think that making money is so difficult that there must be some sort of advanced secret. "How could it be so easy to make money?", they say, "That's impossible." When faced with the simple and the complicated, people always want to choose the complicated, because they mistakenly assume that something complicated must be more advanced.
+
+But please take note: **the power of regular investing comes precisely from the fact that it only involves doing one thing**. This is because doing only one thing means that regular investors have no room to make mistakes by doing other things, which ensures that *gamma* is 0. All you have to do is buy. In the future you will understand that doing other things is a mistake, and may greatly increase *gamma*. 
+
+What about all of those people who think they have lots of tricks? If we look at it logically we will see where their weaknesses are.
+
+For example, we know that regular investors only do one thing: buy. What about those with lots of tricks? They want to the well-known secret of "buy low and sell high", so they need to buy when they should buy, and then sell when they should sell. The problem is, when should they **really** buy? They don't really know, and each time they buy it's only when they **think** they should.
+
+To take it a step further, these frequent traders are missing a key point: in order for their strategy to work, being right just once isn't enough, they have to be right **twice**. They must buy when the price is really lower and then sell when the price is really high. It's the combination of these two trades that will produce the result they're hoping for. If they only get one of the steps right, then their effort was all for naught. 
+
+If they were able to be right every time, buying when they should and selling when they should through multiple trades, then that would be great! But without help from some higher being, they've basically got about a 50% chance of selling when they should buy and buying when they should sell. They just added one think (trying to buy low and sell high), and their chances of success have gone dropped from 100% to 25%.
+
+Regular investors are different. Each time they buy they are "buying low", because, if they eventually decide to sell after two or more full cycles, the price that they initially bought at will always seem cheap. See, that well-known secret of "buy low and sell high" is always true for regular investors.
+
+Frequent traders are definitely not willing to concede. "How could I have a. 50% chance of making a mistake?!" Of fine, let's say you have an 80% chance of being right. Actually, you have to be right twice in a row, so your chances of success are only 80% x 80% = 64%. That's still much lower than 100%! Furthermore, if you have actually used your own money to try, your experience tells you that being right 80% of the time is incredibly unlikely. If you're right even 60% of the time you can be considered an expert! And if you're right 60% of the time, your chances of being right twice in a row drop to 36%. This explains why the vast majority of investors end up thinking that every action they took was wrong. Actually, if you can understand that short-term price movements are an unpredictable ["random walk"](https://en.wikipedia.org/wiki/Random_walk_hypothesis), then you will understand why their chances of success are really 50% x 50% = 25%. No more no less.
+
+But we're not done yet! Another hidden and serious detail has beens been left out. Frequent traders don't understand that what they are depending on is **judgement after the fact**. Putting aside whether their judgement is correct or not, by the time they realize something, and think, "Oh, this must be an upward trend", they've already missed a portion of the rise in price. And by the time they realize, "Oh, this looks like a downward trend", they can't avoid having participated in some of the drop in price. 
+
+![Figure20](../images/Figure20.png)
+
+This phenomenon is easy to see in the picture above. Even for the 25% of the time that they are right twice in a row, they actually only make about a third of the profit that they think they do. In their imagination they buy at A and sell at B, but because their judgement of the short term trend is actually made after the fact, they actually buy at A' and sell at B'.
+
+>Just as an aside, the core problem with [momentum investing](https://en.wikipedia.org/wiki/Momentum_investing), which many people seem to fall in love with, is basically the same. Since you can only base decisions on judgments after the fact, even if you do everything right your gains are smaller than you had imagined. 
+
+But there's still more! Another detail that must be considered is that the chance of guessing right is actually much lower than 50%, because in addition to **going up** or **going down, the price could **stay the same**. So our odds of guessing correctly are actually 1/3 instead of 1/3, and our chances of guessing correctly twice in a row are even more startling: 1/3 x 1/3 = 11.11%...
+
+Even worse, these traders don't just have one more thing that they do, they have tons of things that they try to do! For instance, not only do they trade frequently over the short term, they also switch between different investments. It's already very unlikely to make one correct decision to switch from one investment to another, and yet they switch frequently! Even if they're likely to be right 80% of the time, if they switch four or five times their chances of being successful drop below 40%.
+
+Those who constantly research all kinds of investment tactics are even worse off. They read a random investment guide or listen to an investment lecture and are as exited as if they'd reached enlightenment. They can't wait to try out each new strategy. In other fields, this eagerness to find and try new tactics can be an asset, but in investing it can be deadly. Most investors end of being defeated by this sort of behavior, because the price of experiments in investing is so high!
+
+This is why most investors who are truly about to reflect on their behavior after some time in the market resign themselves to accepting the following fact:
+
+>Everything I tried to do was wrong.
+
+Their conclusion is not incorrect, because the more things they did the more likely they were to be wrong, and it all happened without their being aware of it. They didn't know that all of their short term trading strategies depended on luck; they didn't know whether their strategies were really effective; they didn't know that they had to be right twice in a row to be successful; they didn't now that they were missing two thirds of their potential profits because they were making judgements after the fact; and the definitely didn't know that there is a cost to turning even correct knowledge into action. In the face of these factors, even the fees that Warren Buffett has called "vampires" because they can kill your returns don't seem so scary.
+
+Behavioral economist [Meir Statman](https://www.scu.edu/business/finance/faculty/statman/) one referred to a Swedish study which showed, based on figures from 19 stock exchanges, that accounts that traded frequently lost an average of 1.9%-4% per year. A [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=219228) by Brad Barber and Terrance Odean showed that men traded 45% more frequently than women, and thus have 1.4% lower yearly returns. Single men traded 67% more frequently than women, and had 2.3% lower returns. A study by [Vanguard](https://investor.vanguard.com/corporate-portal/) discovered that the returns of accounts that frequently changed strategies lagged far behind those of accounts that never changed strategies (see Chapter 2 of Daniel Crosby's [*The Behavioral Investor*](https://www.amazon.com/dp/B07HH99WH8/)).
+
+Based on the figures above, frequent traders will likely have a *gamma* of at least 2%, whereas had they just bought and held, their *gamma* would have been 0. Don't underestimate this 2%, because over 30 years a *gamma* of 2% will cost you 45% of your returns! So we can see that regular investing is the best strategy of **winning without fighting**.
+
