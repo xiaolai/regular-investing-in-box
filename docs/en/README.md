@@ -853,3 +853,66 @@ Success in regular investing depends primarily on the following factors:
 Regular investing is an excellent strategy. It's simple, direct, brutal and effective. However, it's rare to see people become successful by using it. One reason is that novice who have just entered the market are often unable to choose the best investment, so in most situations the best they can do is blindly follow the advice of truly successful investors who have shown excellent returns over the **long term**. They know that this is the only way for them to get more *alpha*. Unfortunately, those who choose to do this also have an inherent weakness, which is that because they are actually ignorant they can't be resolute. Just like when someone is driving and they always feel like their own lane is moving to slowly, so they switch to the other lane, but then find out that their original lane is actually the fastest. 
 
 Since all that regular investors do is buy, they definitely experience all of the bad days, including the worst days. However, precisely because of thesis, they also don't miss any of the good days. Again, the reason regular investing is effective is that it is naturally 100% in accordance with reality.
+
+### 3.3 Investing is Not Normal Business
+
+Most investors do not realize until very late in the game that investing is vastly different from other types of business. Most investors, like normal businessmen, love to use the concept of "cost". Every day they compare the present value of their assets in hand to their "cost", and determine their gains or rate of return. Doing this has a strong effect on the fluctuations of their mood.
+
+Most businesses that we see in daily life do calculate their gains in this way. For instance, when starting a restaurant you have your setup costs and your daily expenses. You're setup costs must be amortized over time, and those costs and your daily expenses must be subtracted from your daily revenue to determine your profit. If your business goes better and better, one day you will have accumulated enough profits to open a new restaurant, and you are very excited, because if things keep going this way you will be able to continue to expand.
+
+The subtle difference between investing and normal business is that investing doesn't have setup costs, and it doesn't have daily expenses, unless you trade multiple times each day and incur a lot of commissions.
+
+The money that you use to invest should not be considered to have a cost. It's okay to borrow money to do business, but borrowing money to start investing is definitely a mistake. People who borrow money to start investing are asking to fail. In fact, they've already failed, they just don't know it. Stay away from them.
+
+Money that has a cost can turn any good investment into a grave. The most common example is borrowing money to buy a house. Real estate can often be a good investment. For example, if you already have enough money and don't need to borrow money from a bank. The problem is that 99% of people don't have enough money to buy such a large asset with cash, which gives banks an opportunity to make money. Please be aware that real estate really isn't an opportunity for the average person to make money. The banks hire the best actuaries, and design terms under which they can only make money, and people end up spending twenty or thirty years and the price of two houses to buy one house. Why is it always twice the price? Why are the terms basically the same around the world? Because the actuaries set them up so that when a person buys one house the bank earns the price of the house! Real estate is very illiquid, partially because most people live in their house, and if they sell it they won't have anywhere to live. So even if the price looks like it's always going up, it can't go up forever, and when it finally crashes (for instance, dropping over 25% in one year during the mortgage term), the "investment" will have become a "noose".
+
+In 2018, during the long bear market in the blockchain asset market, there was a depressing phenomenon:
+
+>The more serious a team was, the earlier they went bankrupt...
+
+A year is certainly short term, but in just a year these serious teams had two bad things happen at once. Speculators had already sold their tokens at a good price, and scam projects had not only done this, they also had no daily expenses, so they were sitting on a beach somewhere enjoying their ill-gotten gains. But serious projects saw themselves as long-term holders, so they hadn't sold their tokens except to pay expenses, and they also were working hard on their projects, so they had to pay a steady and perhaps growing amount of expenses. Prices continued to decline in the bear market, and at the end of 2018 they were again cut in half. But these projects still had to pay fixed expenses, and they had to sell more and more tokens to do so. Many serious projects had the same fate as the worked incredibly hard to keep things going but eventually ran out of resources.
+
+Money that comes with a cost is scary, but it's just like a small ghost. Money that has a limited term of use is terrifying, like the grim reaper. In Chapter 4 of Part One I wrote this:
+
+>The riskiest job in the world is President of South Korea, and right after that is the fund manager who guarantees immediate redemption of capital.
+
+Immediate redemption means that at any given point in time, you **must** be able to access a certain amount of money **immediately**. People **die** because of this. I'm not exaggerating or using a metaphor, when I say die here I mean die. Its cruel to use people who have lost their lives as an example, so I won't give examples here, but whenever there are extreme movements in the market, you will see this sort of news story.
+
+For regular investors, investing is even more different from normal business. If we must calculate the cost of investments, **their true cost, relatively speaking, is their time, because the time that they invest is much more important than the money that they invest**. In the previous chapter we saw how overall time invested is more important than choosing the right time. You must be invested every day, not missing the bad days and definitely not missing the good days.
+
+*The greater and more important cost is time**. This concept can change how investors feel, and thus change their decisions and results. When you think that your only cost is money, it's hard to resist the impulse to "get your costs out". But once you know that your main cost is time, you will understand that you can't get back the tie you have already invested.
+
+More importantly, this understanding will get rid of your impulse to "take profits", because you know that the result of your doing that will greatly reduce the impact of your future time! The main cost for regular investors is the time required to be in the market for two or more full cycles. In traditional stock markets, this is around twenty to thirty years. In blockchain digital asset markets, this is around five to eight years. As a regular investor, you know that your results depend on your overall time in the market, so your thinking is quite different from most investors. You know that giving up a your time, even if it seems like just a little today, has a huge impact when viewed from the perspective of having been invested for two or more full cycles. It's hard for you to be so cruel to yourself.
+
+There is another important thing to remember: 
+
+>Many people underestimate or ignore the possibility of something unexpected happening in their lives. 
+
+But life is actually full of unexpected events, so your life costs are always much higher than your worst estimates. How much money should you use to invest? People often ask, "Is it enough if I invest 10% of my income?" For this issue using percentages often won't help us reach a meaningful conclusion.
+
+![Figure26](../images/Figure26.png)
+
+Imagine that your money is an egg.
+
+> * The yolk represents your daily expenses
+> * The egg white represents your savings you have prepared to deal with risk
+> * The shell represents the money you have to invest, which can stay in the market no matter what over the next two full cycles
+
+A lot of people fail at investing not because of their intellect, confident, or resolve, but because they underestimated the cost of unexpected events in their life. That is to say, they hadn't imagined that the egg white was so thick. For instance, their tooth fell out, a relative came down with a terminal illness, they were in a car accident, or their child made an expensive mistake. There are countless examples, but suffice it to say that unexpected events one in many shapes and sizes, and they can be very expensive.
+
+This explains why it doesn't help to talk in percentages. For example, if you have \$100,000, and you invest 10%. Then, before one full cycle has even passed, you have an unexpected expense of \$200,000, and your \$10,000 has already shrunk. What do you do?
+
+After being in the market for a period of time, all investors reach the same deep understanding:
+
+>Every time you want to sell an investment for cash the price will always fall. 
+
+What is the cause of this unintuitive phenomenon? One cause is that bear markets are always longer than bull markets. At the same time, when you really need money it's usually when it's hard to make money out of the market, which implies a weaker economy, so it's natural for the market to fall. Another factor at work is that when the price is rising you're less welling to sell. At times like that, longer-term holders don't have a strong impulse to spend. So the greatest losses always come when you "can't help but sell".
+
+You should now have a better understanding of this piece of advice that you have heard countless times:
+
+>Only invest spare cash that you can afford to lose.
+
+Money that regular investors invest should have no cost and no term. You must be able to invest it for at least two full cycles, and you must have enough money set aside to deal with unexpected events. 
+
+This upgrade in thinking is the core reason why regular investors have a relative *gamma* of 0 or close to 0. If money has a cost, *gamma* will naturally rise, and if money has a term limit then the potential for *gamma* is unlimited. If preparations for unexpected events are not make, then the potential for *gamma* is not only large, it cannot be avoided.
+
