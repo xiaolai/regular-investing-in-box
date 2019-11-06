@@ -801,3 +801,55 @@ Behavioral economist [Meir Statman](https://www.scu.edu/business/finance/faculty
 
 Based on the figures above, frequent traders will likely have a *gamma* of at least 2%, whereas had they just bought and held, their *gamma* would have been 0. Don't underestimate this 2%, because over 30 years a *gamma* of 2% will cost you 45% of your returns! So we can see that regular investing is the best strategy of **winning without fighting**.
 
+### 3.2 Don't Miss It!
+
+October 19th, 1987, is known as "[Black Monday](https://en.wikipedia.org/wiki/Black_Monday)". On that day the Dow Jones Industrial Average suddenly crashed. From the beginning of the year it had risen 38%, but that day it dropped **22.6%**, and people around the world went into a panic as they watched the crash live on television. Before this, never had so many people watched such a disaster unfold on live television.
+
+![Figure21](../images/Figure21.png)
+
+The Black Monday crash, which started in Hong Kong and spread to the rest of the world, reminded people of the stock market drop of October 28th, 1929, which also happened to be a Monday. More than twenty years after Black Monday, on September 29th, 2008, following the popping of the housing bubble, the stock market crashed again, setting off the 2009 financial crisis. It was also a Monday.
+
+If there is a heaven there is a hell. Or, to put it another way, without the existence of such a terrible hell, people wouldn't have such a yearning for heaven.
+
+People can't help but think, "wouldn't it be great if I could successfully avoid the worst days of the stock market?" It wouldn't just be great, it would be fantastic! In his 2009 paper "[Black swans, market timing and the Dow](https://pdfs.semanticscholar.org/9c64/3d7ed23a1ecdb862a169ff8654e9d1fd15ef.pdf)", (See IESE Professor [Javier Estrada](https://www.iese.edu/faculty-research/faculty/javier-estrada/) calculated that if you were able to avoid the **ten** worst days from 1900 to 2006, your returns would increase **206%**!
+
+![Figure22](../images/Figure22.png)
+
+Of course, I hope you've also realized the following fact: there is no way to successfully avoid all of the worst days. It's just like how there will always be some rainy days when you forget to bring an umbrella.
+
+Even if you really were able to avoid all of the worst days, you would be faced with another uncomfortable fact:
+
+>The best days often fall very close to the worst days. 
+
+If you really avoided all of the worst days, then you would almost certainly also "avoid" some of the best. days. In the [following chart](https://theirrelevantinvestor.com/2019/02/08/miss-the-worst-days-miss-the-best-days/) from [The Irrelevant Investor](http://theirrelevantinvestor.com), the red dots mark the worst days, and the green dots mark the best days. 
+
+![Figure23](../images/Figure23.png)
+
+According to JP Morgan's [statistics](https://www.businessinsider.com/cost-of-missing-10-best-days-in-sp-500-2015-3), *six* of the ten best days in the stock market occurred within two weeks of the best ten days. If you missed the best ten days of a ten year periods, what would the influence your returns be?
+
+![Figure24](../images/Figure24.png)
+
+If you missed the best ten days, you would lose *66%* of your returns, which is to say that your *gamma* would be 66%. If you hadn't made mistakes, that 66% would be yours! Missing the best days has very serious consequences! As we can see in the following chart, if you started investing in 1990, but missed the best 25 days, your returns would be worst than a five-year treasury bond.
+
+![Figure25](../images/Figure25.png)
+
+So, what should we do? We should do nothing! Never underestimate the power of the Daoist concept of "doing nothing". Actually, t's hard to find a better example than the the trading markets to illustrate its power.
+
+Since scary headlines attract more eyeballs, the media makes a bigger deal of large price drops than it does of large increases. The media always prefers to report bad news instead of good news. Aside from the fact that bad news attracts more viewers and readership, reporting bad news is also a better fit for the media's self image. After all, if the media reports good news about a person or company, people tend to suspect that they are kissing up to someone. The April 2017 event on the United flight (bad news) was widely reported, and stories about Warren Buffett losing \$20 million on his United stock (bad news) were all over the place, but no one wrote an article about how Warren Buffett's overall airline stock holdings rose by more than \$100 million that day.
+
+Frequent traders always seem to make a big deal out of nothing. This is understandable, because they are always looking at price fluctuations, so their mood fluctuations are much more extreme than long-term holders. Whenever prices go down, you will see them in chat groups and forums all over the Internet screaming, "It's crashing!" But when the price goes back up just as much they seem to have disappeared. Why is this?
+
+Behavioral psychologists would explain it this way: people hate loss, and the pain of losing a dollar is much greater than the pleasure of gaining a dollar, so even when the price goes up just as much, those people don't get as excited. This explanation makes sense, but I also have another more realistic explanation:
+
+>Those people running around screaming "crash!" can't handle  the price dropping. They almost certainly were so terrified that they sold all of their holdings after the price dropped. So when they price went back up, they'd either lost all of their money or exited the market, so they didn't have anything to get excited about. Just like in a ghost story, if they were screaming in another world, the people in this world had no way to hear them.
+
+The vast majority of people who jump into the market for the first time don't understand investing strategy. Actually, they don't have any strategy, and their reason for entering the market is that they have seen the good days that others have had. But the core reason why most people end up quietly leaving the market is that there are always more bad days than good. The reason why the market still goes up in the long term, despite having more bad days than good, is that in aggregate the gains of the good days greatly exceed the losses of the bad days. The problem is that most people have a natural tendency to want to make decisions based on current events, and it's only the few people who have received good education about investment and practiced it over the long term who are able to truly gain the skill of macro observation based on a long term perspective.
+
+Success in regular investing depends primarily on the following factors:
+
+> * The careful choice of an investment
+> * The complete execution of the regular investing plan
+
+Regular investing is an excellent strategy. It's simple, direct, brutal and effective. However, it's rare to see people become successful by using it. One reason is that novice who have just entered the market are often unable to choose the best investment, so in most situations the best they can do is blindly follow the advice of truly successful investors who have shown excellent returns over the **long term**. They know that this is the only way for them to get more *alpha*. Unfortunately, those who choose to do this also have an inherent weakness, which is that because they are actually ignorant they can't be resolute. Just like when someone is driving and they always feel like their own lane is moving to slowly, so they switch to the other lane, but then find out that their original lane is actually the fastest. 
+
+Since all that regular investors do is buy, they definitely experience all of the bad days, including the worst days. However, precisely because of thesis, they also don't miss any of the good days. Again, the reason regular investing is effective is that it is naturally 100% in accordance with reality.
