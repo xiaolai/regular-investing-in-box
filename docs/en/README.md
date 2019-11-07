@@ -5,6 +5,7 @@
     <img src="../images/coverimage.gif" />
 </div>
 <hr />
+
 ## Warning
 
 While financial trading markets are no doubt the best to make money through knowledge and thinking, there’s also no other place where people are more severely punished for lack of critical thinking ability.
@@ -915,4 +916,55 @@ You should now have a better understanding of this piece of advice that you have
 Money that regular investors invest should have no cost and no term. You must be able to invest it for at least two full cycles, and you must have enough money set aside to deal with unexpected events. 
 
 This upgrade in thinking is the core reason why regular investors have a relative *gamma* of 0 or close to 0. If money has a cost, *gamma* will naturally rise, and if money has a term limit then the potential for *gamma* is unlimited. If preparations for unexpected events are not make, then the potential for *gamma* is not only large, it cannot be avoided.
+
+### 3.4 The Ability to Continuously Earn Money Outside of the Market
+
+The core of regular investing is the ability of practitioners to make money outside of the market. Regular investors must me able to continuously invest over the long term, where means they need to have the ability to consistently earn money outside of the market over the long term. The money that they earn outside of the market must be able to cover all of their daily expenses and deal with expenses from any unexpected events. Above and beyond this, eat more they can consistently earn over the long term the better. This is the part that is truly difficult. Regular investing itself is so easy that it can be summarized in one word: buy.
+
+**Selling the same bit of time multiple times** is the most important upgrade of a person's personal business model, because it's the most basic way to effectively make money while you sleep. In an average lifespan of 78 years a person only has 10.5 years of work time that they can sell. But if they can make money while they sleep (28.3 years), and also make use of the 9 years of free time, and also use their time in a way such that they are selling it multiple times, then actually they have income every second of every day. No matter whether they are riding in a car, getting dressed, or spending time with their children, they are always making money. Not only are they making money with at least three times the amount of time as a normal person, they are selling their time multiple times, so the difference can be huge!
+
+However, most people aren't able to complete this kind of upgrade, and it's true that there aren't that many ways to achieve it. Aside from publishing books and teaching online, I haven't been able to find any other feasible methods. Of course, in this Information Age, writing a popular program is probably an even better way. Of course, all of these effective methods are extremely competitive, but given the potential payoff that is to be expected.
+
+Actually, if you can't be the best, it's fine to try to come in second. Is there an easier way?
+
+The answer is: **sales**. Because at its core...
+
+>**Sales is buying other people's time and then selling it multiple times**.
+
+This is the ultimate reason why people who work in sales often seem to have higher income than other sectors. They aren't able to use their time to create a popular product, so they can't sell their time more than once, but they are able to repeatedly sell products created by others, and with the help of Internet tools they are able to ensure that the sales process continues even while they are sleeping. 
+
+
+As long as you observe carefully, you will come to the same conclusion:
+
+>No matter the company, salaries in the sales department are high.
+
+In addition to sales being important, there is another hidden reason: sales is the easiest work to quantify, so salespeople are most likely to be paid based on performance.
+
+The similarity between sales and regular investing is that the choice of what to sell or invest in is very important. What is the best thing to sell? It must be something that people need, and something that requires continuous communication to complete the sale.  We can observe that the highest paid salespeople often sell things like real estate, cars, courses, or insurance. Why is this? First of all, it's because these are all things that people need. But even more importantly, these items require repeated communication in order to complete the sale.
+
+In fact, everyone should focus on their ability to sell, because at the core of successful selling is one of life's most important skills: **effective communication**. Isn't every successful sale an example of effective communication?  For a child, convincing their classmate to keep a secret from the teacher is a successful sale. For an adult, convincing someone to fall in love with them is a successful sale, and so is securing a promotion or a raise. The ability to sell is the ultimate skill.
+
+After I graduated from university, my first job was in sales. Actually, even though I've had many different jobs since then, in my view they all had sales at their core. For instance, being a teacher was a sales job, because if the students didn't like me then no matter how correct everything I told them was they wouldn't pay attention. Writing and publishing books is a sales job because if my titles don't attract readers they won't even give me a second look. As an angle investor, what is the difference between my money and others' money? There is none, so why should an entrepreneur take my money and not somebody else's? Because I am better at sales.
+
+What is the core of selling? **Trust.**
+
+Please never think that sales is based on tricking people. People who think like this lack the ability to think long term. Short-term trust can perhaps be gained through trickery, but long-term trust must be built up slowly over time. Trust is valuable because it is so fragile. Just a little bit of carelessness can destroy it. Warren Buffett understands it this way:
+
+>It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently.
+
+If client is willing to buy a house, a car, a course, or insurance from you, in addition to the product being truly worth buying, it also depends on their trust in you. At its core, trust is much more important than the product being sold. Without trust, so sale will take place. But trust is so important that excellent salespeople will not be willing to sell bad products. They often ask themselves, would I buy this? Would I sell it to a member of my family? Would I sell it to an old friend? People who lack a long-term perspective find this hard to believe, and even think that this attitude is fake, but actually salespeople who have excellent performance over the long term take these question very seriously, and they benefit enormously from this type of thinking.
+
+Train your ability to sell. It's so important, and can be extremely useful in every aspect of your life. Furthermore, everyone has the chance to train themselves to be a good salesperson. The most important thing is that it's an upgrade of your personal business model.
+
+Unfortunately, sales still isn't something that everyone is able to do well. So, taking another step back, is there anything else to do? Of course there is. You can improve your ability to cooperate. Since people rarely take this concept seriously, let's make up a new word to describe it: **cooperability**. Being good at cooperating with others is actually also a small upgrade to your personal business model. It's not an easy thing to do, because increasing your "cooperability" also requires strong communication skills, trust, and being really good at something.
+
+Lots of people are really bad at cooperating. They get quite frustrated, but they always blame their lack of cooperability on the wrong thing: a strong personality, or a bad temper. That's all a mirage, because there is only one reason for poor cooperability: they are not able to do their part well enough. A strong personality or a bad temper is not the reason they can't cooperate well with others. If they were able to do their part well, then others would be willing to cooperate with them even if they had a bad temper. The other party would focus on doing their part of the cooperation well.
+
+You must have a special skill that makes others want to cooperate with you. If you try to cooperate with someone but they are unwilling, the most probable reason isn't that they don't understand your value, it's that you don't have enough special skills to make them want to cooperate with you. It's sad that so many people don't discover that they have no skills until they're over thirty. What's most important at this stage? The correct answer seems too obvious: **honesty**. People with no skills are all dishonest in many ways. They are dishonest to other people, and get only get by through various guises. They are dishonest with themselves, and their guises sometimes trick themselves. They treat the learning of knowledge in a dishonest way, and never fully believe in the utility of knowledge, so in their studies they always miss a lot of details and end up knowing nothing. All of this knowledge leads to the most serious defect, which is that, because the can't help but put all of their attention on the gains and losses and opportunities of the moment, it's impossible for them to have the ability to make macro observations from a long-term perspective.
+
+Another way to improve cooperability is by **not complaining**. The best people to cooperate with are those who never complain. The reason is simple: complaining is useless. People with poor cooperability complain about everything. The complain about the greater environment, they complain about the quality of their partners, they complain about luck, they complain that others aren't being fair, they complain that their family doesn't give enough support... Consciously or not, they are in the habit of using these complaints to cover up an obvious fact: they didn't do their part well enough. If someone is able to truly reject all complaining, then it will definitely cause them to put all of their energy on doing their part, and naturally improve their cooperability.
+
+Life is at its core a trading market. Every principle that works in trading markets also works one the stage of life.
+
+When I look back on my choices from many years ago, the strategies I used for my choices were identical to the strategies for choosing investments that I have outlined in Parts One and Two of this book. First, I wanted to to to a place that was developing more rapidly, so I moved from a small border town to Beijing. Which sector was developing the fastest? To be frank, I didn't see clearly enough, because I chose education instead of tech. I had one choice left, and I chose New Oriental, at the time the fastest growing company in the education sector. Afterwards, I followed the steps in this chapter. I worked there for seven years, and I honestly did my part, cooperating with others as best I could. I had a strong personality and a bad temper, but I improved my ability to sell, my ability to lecture, and my ability to write. By the time I left, I had upgraded my personal business model, and I was getting better and better at selling my time more than once. So once I'd grown my egg white to a large enough size, I started investing. I become a regular investor, and all of my success in the market has been due to one secret: **I've been constantly working hard and honestly to make money outside of the market**.
 
