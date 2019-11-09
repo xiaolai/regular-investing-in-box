@@ -968,3 +968,89 @@ Life is at its core a trading market. Every principle that works in trading mark
 
 When I look back on my choices from many years ago, the strategies I used for my choices were identical to the strategies for choosing investments that I have outlined in Parts One and Two of this book. First, I wanted to to to a place that was developing more rapidly, so I moved from a small border town to Beijing. Which sector was developing the fastest? To be frank, I didn't see clearly enough, because I chose education instead of tech. I had one choice left, and I chose New Oriental, at the time the fastest growing company in the education sector. Afterwards, I followed the steps in this chapter. I worked there for seven years, and I honestly did my part, cooperating with others as best I could. I had a strong personality and a bad temper, but I improved my ability to sell, my ability to lecture, and my ability to write. By the time I left, I had upgraded my personal business model, and I was getting better and better at selling my time more than once. So once I'd grown my egg white to a large enough size, I started investing. I become a regular investor, and all of my success in the market has been due to one secret: **I've been constantly working hard and honestly to make money outside of the market**.
 
+### 3.5 The Stages of Regular Investing
+
+Almost all traders have all fallen victim to the following curse:
+
+>As soon as I bought the price fell...
+
+This isn't just a joke or a case of them being unlucky. It's a fact. The reason is simple: if even an outsider like you has been enticed into the market, then the bull market must be almost over. The vast majority of the time, people enter the market because the price is rising, so "as soon as I bought the price fell" isn't a curse, and it's not just bad luck, it's a common and inevitable phenomenon that almost everybody runs into.
+
+So no matter whether or not you regularly invest, when you first enter the market you'll almost inevitably be faced with a **long slump**. 
+
+I like to read instruction manuals. If you give me something new, I'll be extra happy if it has an instruction manual. Reading instruction manuals can teach you about new features and new ways of using things. It's a great feeling to be able to quickly and fully grasp all of the ways to use a new thing.
+
+Unfortunately, there's no instruction manual for investing. In fact, all of the important things we run into in our lives don't have instruction manuals. No one gives us a marriage instruction manual when we get married, and no one gives us a parenting manual when we have children. Of course, when we were born no one gave our parents a manual either, and now that we are grown up our parents are just like us: the still don't have an instruction manual for life.
+
+But humans are different than other animals. Most importantly, we have spoken and written language, so we don't start from zero when we are born. Once we learn to read, we are "standing on the shoulders of giants".
+
+But if we are able to stand on the shoulders of giants, why do most of us end up living below the toes of giants? The best explanation is that most of us very early on gave up on the best strategy: **blindly following**, which we talked about in detail in Part Two. Independent thinking early on may be a good thing, but more often than not it's bad. This is because independent thinking doesn't have any value in and of itself; it's only truly effective when it's based on broad experience and knowledge. The problem is that at an early age we lack knowledge and experience! Without knowledge and experience, independent thinking is severely limiting.
+
+Blindly following is particularly difficult for adults, because they've been fighting to think independently for a long time, and it's difficult for them to go back. In this case, a simple trick can be helpful:
+
+>You can think independently, but you must leave your actions on paper. That is to say, you can use a notebook to record your independent thinking, but your in your actions you blindly follow.
+
+Outside of investing, you don't necessarily need to do this. But when it comes to investing, you must do this! Investing isn't an area in which you can try things out and make mistakes, because each mistake will lead to the loss of your valuable money and even more valuable time. If it's just an untested, stupid new investing strategy, it's not worth using your money and your life to test it.
+
+This simple trick is even more powerful when combined with another trick:
+
+>Carefully observe the decisions and results of others, learn necessary lessons and experience from their mistakes, and write them down on paper.
+
+See the mistakes of others, see the financial price that they pay, and see how they use their precious life to test things. It almost seems like cheating, but there is no better way to broaden your knowledge and experience. One of my favorite pastimes is reading the different points of view that people share on online forums and in chat groups. I take notes and periodically review them. It's been indispensable for my personal development.
+
+The fact that we are likely enter the market at a bad time coupled with the fact that slumps tend to last for a long time challenges one of our stronger inclinations: when we are faced with a loss we have a strong desire to make a change. Our mind isn't designed for investing, it was designed over millions of years of years to struggle to survive. So at this stage there is only one way to resist the overpowering desire to struggle:
+
+>Cultivate a long-term perspective. 
+
+There was a news story in 2017 about a dispute twenty years prior between two British women. Valerie Vivian wanted to build a new building on her land, but Betty Kelley and her family organized the neighbors to stop her. The reason for doing so was that the new building would block the view from the Kelley's window. The two families went to court, and Vivian was unable to secure a permit for the new structure.
+
+![Figure27](../images/Figure27.png)
+
+What did Vivian do after returning from court? She quietly planted a row of saplings on the border between the two properties. After five years, the saplings had grown into a row of small trees. After fifteen years, the fast-growing trees that Vivian had chosen had grown into a 20-30 meter high wall of trees! The picture above shows Vivian leaving court, this time victoriously and with a smile, twenty years after the initial dispute. How did she win? She had won twenty years earlier, it's just that the Kelley family had to wait a long time before they realized that they had lost, and lost thoroughly. Vivian, on the other hand, knew every day of those twenty years that she was winning, and it must have brought her more happiness than the average person.
+
+Weather reports are always wrong, but there are some events in the future that we can be 100% sure of. For instance, if you plant a tree it will grow. Regular investors are like this. Their investments are like planting a tree. You might not see much after four or five years, but after twenty or thirty years (or two full cycles), the seeds they planted will have grown into giant trees.
+
+After a long slump passes, a new stage will begin: **the first harvest**.
+
+This stage will be extremely short, but it is actually the hardest to pass through. First, you will discover that your world become's noisier. In addition to external distractions, you will start to have all sorts of delusions. The most common delusion is that you will feel like you've gotten smarter! Not only that, your intellect will continue to rise along with the price! You will start to speak more loudly, your intonation will become sharper, and everyone around you will agree with whatever you say. You will become more and more confident.
+
+It's good to have a certain amount of confidence, but if you have even a little bit too much your IQ will drop to zero. As you become more overconfident, your IQ will become negative, and you will start to do all sorts of stupid things. Of course your living expenditures will increase, but the most subtle stupid thing you will do is give up your previous long-term investments and, even more insidiously, you give up your future long-term investments. You will forget that the investments you give up at this point will appreciate substantially over the next full cycle. At this stage, people pay the price of an island to buy a luxury car. They think they are throwing away a thousand dollars, but they are actually throwing away ten thousand! Your stupidity at this stage can lose you future earnings that you couldn't get back if you worked for a thousand years.
+
+But, when compared with another type of stupidity, the stupidity mentioned above hardly counts. At this stage, the few people who have ambition are led by that ambition to make an even stupider mistake: they start to invest like crazy. Their intentions are positive. They just want to make progress, and investment is of course a good thing that help them do better. Actually, very few people have such a positive attitude. The problem is that their intellect didn't really improve, and even if they have expanded their knowledge it's still not enough, so they end up losing through "skill" all of the money that they made through "luck".
+
+There is a psychological phenomenon that acts as a catalyst here called the House Money Effect. In a casino, gamblers can't help but not see their winnings as real money, and they are likely to be more careless with it. They see the money they brought to the casino as money that they really earned, but they see their winnings as not really theirs, and so they have no compunctions about spending it. Sometimes they even feel like they have to spend it. The majority of people, who have no ambition, just spend lavishly, and the few who have ambition make irresponsible investments. 
+
+This stage is the best for strengthening the **ability of doing nothing**. During times like these, doing nothing requires skill! This is easier for regular investors because they have the ability to do nothing in the market but buy. Hopefully, it's a habit that they have already cultivated for a long time. Also, regular investors have something more important to do: make money outside of the market. Furthermore, since the price has risen, they need an even stronger ability to make money outside of the market, so they are working hard to truly improve themselves, and its hard to have delusions. Actually, the ability to make money outside of the market is the best way to test if a person is truly improving, because outside of the market you are not being buttressed by trends. In the market you compete with your choice of investment; outside of the market you compete with your skills.
+
+Once this short second stage passes, you will enter the third, most difficult to bear stage: **the second slump**. The pleasure of earning one dollar is much less than the pain of losing one dollar -- this is a bias that all of us naturally have. Like the first stage, this stage is very long, and it will perhaps be longer, since you will experience the slump from its beginning to its end, whereas you may have only caught part of the slump in the first stage if you were enticed to enter the market by a temporary price increase in the middle of the slump.
+
+In this stage your experience of losses will be different from the first stage because the losses will be much larger in absolute terms. Furthermore, because the size of the losses will have increased, your imagination will also be stronger, and you will find your brain full of the following idea:
+
+>If only...
+
+For instance, "If only I had sold everything in January, I could life in a house three times the size of my current house!" Or, "Even if I'd sold last month, my wife wouldn't have anything to argue with me about!" And on and on... Even worse, you will always have other people to compare yourself with: "Look at them, they got out early!"
+
+In fact, if you just change your perspective you can relax. Its as if you just steered a boat from a small river into a bigger river. You need to experience again what you previously experienced, it's just that the waves are a little (or a lot!) bigger. You got boat sick in the small river, and now you feel uncomfortable again. You'll probably vomit a few times in the big river, but you'll eventually get used to it, just like you got used to it in the small river. You just have to keep reminding yourself that, even you you still have a long way to go, you'll eventually make it to the ocean. The waves are even bigger there, but once again you'll get used to it.
+
+In this stage you must establish the following new worldview: 
+
+>Every endpoint is also a new beginning. Until you die.
+
+Taking the end as a beginning is a basic concept that all people who continuously develop over the long term must have. I was at New Oriental for seven years (from 2000 to 2007), and in 2006 the company went public on the New York Stock Exchange ([NYSE:EDU](https://finance.yahoo.com/quote/EDU)). I experience what is actually quite a common phenomenon. When a company goes public, many people decide to cash out as quickly as possible and leave, because they are like most people and see the end as the end. But what actually happened? 
+
+![Figure28](../images/Figure28.png)
+
+Not taking into account dividends, over the past thirteen years New Oriental provided shareholders with yearly compounded returns of 26.2%! So those who sold right after the company went public missed out on those returns, and almost certainly weren't able to match them elsewhere.  Even though the stock fluctuated over the past thirteen years, and even "crashed" a few times, it still had better total returns than even Warren Buffett over the same period. And how many people can say they beat Warren Buffett?
+
+Viewed from this perspective, Yu Minhong, my former boss, can bee seen as a model. He took each end point as a new beginning and kept moving forward. Over the last thirteen years, and also the the six years before that, I've seen countless people criticize him from every angle they you can imagine, but in fact, from this perspective, none of the criticism had any merit.
+
+Once you make it through this stage, you'll enter the next stage: **another harvest**. This time, you will be entering the ocean. You might feel surprised -- the wind and waves are stronger than both of the rivers, but you feel calm. For me, at least, I was surprised at how calm I felt. But I quickly discovers that it was normal. If you're like me and what you see every day is people who are still in the rivers but act as if they are experiencing the violent storms of the ocean, you couldn't help but be calm.
+
+At this stage, there will quite possibly be one thing that keeps you from feeling calm. You may not have found a goal that is worth your continued effort. Imagine that you have all the money that you could ever need but you still haven't found what you are living for. It's terrible, isn't it? What I have been most lucky in is that, even before my egg white was prepared, I had something that was worth doing for my whole life: learning and growing. Many reporters have looked at me funny during interviews and expressed that they find this hard to believe. But I hope you can understand the excitement and joy that can come to someone who clearly knows that they are not particularly gifted but has been able to constantly improve through long-term, continuous learning. 
+
+Many years ago I discovered a simple principle:
+
+>Teaching is the best way to learn.
+
+So I like to teach, and I have been teaching for twenty years. I've taught tests, writing, entrepreneurship, investment... Teaching is something that I can do until the day I die, and it's something that I love doing. I can always change what I'm teaching, because I always want to learn new things. It's that simple. In my experience, **finding something that is worth doing for your whole life is the best armor a person can have**. Now I teach thousands of students online, and in the future it will be even more. I wake up in the morning and teach for ten minutes, and I am happy. The bigger the projects you work on, the more trouble is involved, but for me there are no troubles that teaching for ten minutes won't fix.
+
