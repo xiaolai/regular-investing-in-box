@@ -257,7 +257,7 @@ However, it's different if we use money to make money. **The core of investing i
 
 >Warren Buffett was born in 1930 and bought his first stock when he was 11. It's now 2019, so he has been investing for 78 years!
 >
->*78* years! The average person only lives 78 years, and they only have an extra nine years to allocate. But Buffett's money has already been working hard for him for 24 hours a day 265 days a year for 78 years! That basically means that someone who doesn't let their money work for then, and only has nine extra years to allocate, couldn't even catch up to Buffett if they lived several lives! 
+>*78* years! The average person only lives 78 years, and they only have an extra nine years to allocate. But Buffett's money has already been working hard for him for 24 hours a day 365 days a year for 78 years! That basically means that someone who doesn't let their money work for then, and only has nine extra years to allocate, couldn't even catch up to Buffett if they lived several lives! 
 
 Try to imagine the trimendous difference by yourself... What a blow!
 
@@ -283,7 +283,7 @@ Berkshire Hathaway's key turning point in its early years came in 1967 when it b
 
 But after entering the insurance market in 1967, Berkshire became an investing machine. The reason was simple: Buffett not only had a huge amount to invest, the funds also came at zero cost, and could be used almost indefinitely. This was a huge relative advantage over all other investors in the world.
 
-All of the books about Buffett talk about his incredible returns, and they treat his investment principles as the Bible. Even a casual statement at Berkshire's annual meeting can be taken as law. But 99.99% percent of investors will never have access to massive amounts of free capital to invest over an unlimited term, and that's a big reason why Buffett has been extraodinarily successful.
+All of the books about Buffett talk about his incredible returns, and they treat his investment principles as the Bible. Even a casual statement at Berkshire's annual meeting can be taken as law. But 99.99%  of investors will never have access to massive amounts of free capital to invest over an unlimited term, and that's a big reason why Buffett has been extraodinarily successful.
 
 Regular investors are different. They may not have that much money, but the are investing more than just money. Since they are continuously investing over the long term,
 
@@ -430,7 +430,7 @@ Of course, if you actually did this, your success would be dependent on whether 
 
 Alternatively, they could go to Joel Greenblatt's [Magic Formula Investing site](https://www.magicformulainvesting.com), enter a few parameters, and buy the suggested collection of stocks. It's important to note, however, that Greenblatt's Magic Formula is not suitable for regular investing, since his method is to choose a new batch of stocks each year.  See? Regular investing isn't the only effective strategy, it's just the easiest for most people to put into practice.
 
-Why can we blindly follow these truly successful investors who have shown excellent returns over the long term? It's because hey have used their own strategies over the long term, and their strategies have passed the test of time. They are skilled at thinking with a long-term perspective, or else they wouldn't have been able to carry out their initial strategies over the long term. In their eyes, the long-term effectiveness of a strategy is not related to how complicated it is. To the contrary, only simple strategies can actually be carried out over the long term. Furthermore, the long-term effectiveness of a strategy is not correlated to the intellect of the user. The core prerequisite for the long-term effectiveness of an investment strategy is whether or not it is faithfully carried out over the long term.
+Why can we blindly follow these truly successful investors who have shown excellent returns over the long term? It's because they have used their own strategies over the long term, and their strategies have passed the test of time. They are skilled at thinking with a long-term perspective, or else they wouldn't have been able to carry out their initial strategies over the long term. In their eyes, the long-term effectiveness of a strategy is not related to how complicated it is. To the contrary, only simple strategies can actually be carried out over the long term. Furthermore, the long-term effectiveness of a strategy is not correlated to the intellect of the user. The core prerequisite for the long-term effectiveness of an investment strategy is whether or not it is faithfully carried out over the long term.
 
 **In fact, there is no secret to success. Even if there were, it would be an "open secret".** All paths to success are open, as are all of the necessary tools and knowledge. It's just few people are able to patiently follow a path, picking up knowledge and understanding bit-by-bit, and persistently execute along the way. How few? They're actually quite hard to find.
 
