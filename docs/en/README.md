@@ -617,7 +617,7 @@ Perhaps the silliest story was about Kiwi Campus, a startup founded at UC-Berkel
 
 The AI sector seems to hot. With startups raising too much money, unclear valuation methods, and frequent issues with applications, it's hard not to be reminded of the Internet bubble. So, of course, people start to worry that there may be an AI bubble that could burst...
 
-But is is such a bad thing for a bubble to burst?
+But is it such a bad thing for a bubble to burst?
 
 ![Figure17](../images/Figure17.png)
 
@@ -639,7 +639,7 @@ When going through a transition, after some initial anxiety people feel happy be
 
 Major trends, which become apparent after many years, must initially go through the process of acceptance described above. The first crest in the curve is the cause of the bubble, and the ensuing trough is the reason for the bubble bursting. This is shown most clearly in the markets, because the market price at each moment is a representation of everyone in the market's collective understanding of an investment. When people are feeling disillusioned, the bubble pops.
 
-So, contrary to what most people thing, the popping of a bubble quite possibly represents opportunity. Whether or not there is actually an opportunity depends on whether or not the object of the bubble has long-term sustainable value and growth. If it does, then there is an opportunity. Furthermore, it is possible that bubbles may continue to occur until its value has been fully realized.
+So, contrary to what most people think, the popping of a bubble quite possibly represents opportunity. Whether or not there is actually an opportunity depends on whether or not the object of the bubble has long-term sustainable value and growth. If it does, then there is an opportunity. Furthermore, it is possible that bubbles may continue to occur until its value has been fully realized.
 
 After reaching an all-time high of \$19,800 in December of 2017, Bitcoin entered a long bear market. As of October of 2019, it remains in a bear market, with the price less than 43% of the all-time high. But is the popping of this bubble different from the popping of previous bubbles in the Bitcoin market? Since its inception, Bitcoin has been pronounced dead [337 times](https://99bitcoins.com/bitcoin-obituaries/) (through October 11, 2019). Each short bull market has been called a bubble, and they have all popped, but the popping of the bubble in 2017 has one difference from previous bubbles:
 
