@@ -146,7 +146,7 @@ How can you tell when a market cycle begins? Actually, we can only make this det
 
 ![Figure06](../images/Figure06.png)
 
-On the same chart, I have market the three full market cycles that I have personally experienced with Bitcoin. The first started around June 8 of 2011 at a price of \$32, and ended on April 11, 2013, at a price of \$266; the second started at the end of the first and ended on December 19, 2013, at a price of \$1,280; the third started at the end of the second and ended on December 17, 2017, at a price of \$19,800. Actually, I have experienced more cycles thin this, since I entered the Bitcoin market two months before the June 2011 high of \$32, and I have continued and will continue to hold Bitcoin since the December 2017 historical high of \$19,800.
+On the same chart, I have market the three full market cycles that I have personally experienced with Bitcoin. The first started around June 8 of 2011 at a price of \$32, and ended on April 11, 2013, at a price of \$266; the second started at the end of the first and ended on December 19, 2013, at a price of \$1,280; the third started at the end of the second and ended on December 17, 2017, at a price of \$19,800. Actually, I have experienced more cycles in this, since I entered the Bitcoin market two months before the June 2011 high of \$32, and I have continued and will continue to hold Bitcoin since the December 2017 historical high of \$19,800.
 
 The are several details in this chart that are worth looking at closely. For example, we can clearly see, as I mentioned earlier, that bear markets are much, much longer than bull markets. 
 
@@ -199,7 +199,7 @@ This is truly great news:
 
 >**Cycles are getting shorter and shorter.**
 
-Cycles in stock markets have already shrunk from decades to less than a decade, and they continue to shrink. Blockchain market cycles are already shorter, and the are also shrinking.
+Cycles in stock markets have already shrunk from decades to less than a decade, and they continue to shrink. Blockchain market cycles are already shorter, and they are also shrinking.
 
 In my view, long-term doesn't mean forever, but is a clearly defined concept of two or more full market cycles. In the stock market, two full market cycles will take about 10-15 years; in the blockchain market, two full market cycles will take six to eight years. Either way, they are both futures worth waiting on, right?
 
@@ -243,7 +243,7 @@ Just over 10,000 hours. So how many years is that?
 
 > 11,040 ÷ (365 x 24) = 1.26
 
-You see? I've been so hard on myself, and all for what? All for merely *14%* more time than other people who work very hard but still take holidays. And what about the decision I made 10 years ago to cut my own hair? How much time die I save with that? If you cut your hair once a month, and it takes 1.5 hours, then that's 18 course per year. Over ten years, that 180 hours. You see? I took such good care of my time and was so hard on myself, but I only saved 7.5 days that I could sell! All that effort, and I only end up with *0.228%* more time than everybody else!
+You see? I've been so hard on myself, and all for what? All for merely *14%* more time than other people who work very hard but still take holidays. And what about the decision I made 10 years ago to cut my own hair? How much time did I save with that? If you cut your hair once a month, and it takes 1.5 hours, then that's 18 course per year. Over ten years, that 180 hours. You see? I took such good care of my time and was so hard on myself, but I only saved 7.5 days that I could sell! All that effort, and I only end up with *0.228%* more time than everybody else!
 
 [Frank H. Knight](https://www.nytimes.com/2019/10/17/sports/basketball/nba-china-adam-silver.html), one of the most influential economists of the 20th century, has a famous point of view:
 
@@ -420,7 +420,7 @@ Joel Greenblatt didn't just share his ideas in his books, he also made a website
 
 In the investing sphere, one must use money, time and action to create real results, and everyone is either a 0 or a 1. Investors who can successfully produce returns over the long term are 1s, and the rest are 0s, including those so-called who spend all of their time yelling through the television or other mediums but have no skin in the game. Investors like Warren Buffett, Joel Greenblatt and Ray Dalio, don't need to spend all day screaming through the television, because their ideas have already been clearly expressed through their books, other writings and speeches.
 
-Perhaps the most simple, direct, brutal and effective strategy that novice investors can use is to just buy whatever Warren Buffett buys. They don't need to dream about "beating Warren Buffet", they can just “keep up with Warren Buffett" by buying shares in his companies. The easiest way to do this, of course, is to just buy Berkshire Hathaway shares. If novice investors feel that Berkshire Hathaway's share price is to expensive (it was over \$310,000 in October of 2019), then they can look at its individual holdings and choose the stocks they want!
+Perhaps the most simple, direct, brutal and effective strategy that novice investors can use is to just buy whatever Warren Buffett buys. They don't need to dream about "beating Warren Buffet", they can just “keep up with Warren Buffett" by buying shares in his companies. The easiest way to do this, of course, is to just buy Berkshire Hathaway shares. If novice investors feel that Berkshire Hathaway's share price is too expensive (it was over \$310,000 in October of 2019), then they can look at its individual holdings and choose the stocks they want!
 
 >CNBC has a page listing all of Berkshire's stock holdings:
 >
@@ -508,7 +508,7 @@ Don't discount the importance of "one extra criteria".
 
 Amazon ([NASDAQ: AMZN](https://finance.yahoo.com/quote/AMZN/)) currently has the highest market cap of any e-commerce company in the world.  According to [Morningstar's calculations](http://performance.morningstar.com/stock/performance-return.action?t=AMZN), it has provided investors with a compound yearly return of 40.42% over the past five years. Over the past 15 years, the compound yearly return has been 28.51%.
 
-Have you thought about why Amazon started by selling books, even though there were so many other potential items to sell? Aside from the fact that the book market is a large market, and that people need and want to buy books frequently, there is one extra screening criteria that the book market passes: once you have sold a book, you very rarely need to provide customer service. Jus this one extra criteria eliminated 99.99% of the other choices!
+Have you thought about why Amazon started by selling books, even though there were so many other potential items to sell? Aside from the fact that the book market is a large market, and that people need and want to buy books frequently, there is one extra screening criteria that the book market passes: once you have sold a book, you very rarely need to provide customer service. Just this one extra criteria eliminated 99.99% of the other choices!
 
 Regular investors can only chose investments that grow sustainably over the long term (of course, the more growth the better!). Just this one seemingly simple criteria eliminates 99.99% of the options, because, strictly speaking, there is no one individual investment that we can be sure will meet this criteria, no matter how good it looks now. This is because companies are just like people:
 
@@ -540,7 +540,7 @@ An investment in a fund that tracks the MSCI World Index as a bet on the growth 
 
 >Note: The historical figures above are from [Yahoo Finance (^GSPC)](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC), and the chart was created in Google Sheets. You can view the chart and data [here](https://docs.google.com/spreadsheets/d/1RsmiifuZajR_POx1zO_--qUcOgwb7tABNQpT-O69Ryk/edit?usp=sharing). 
 
-Investing in the S&P 500, with an avenged compound growth rate (ACGR) of 9%, performed better than investing in the MSCI World Index, which had an ACGR of 7.86%, but the MSCI Emerging Markets Index performed even better, with an ACGR of 10.37%. What's the easiest way to explain this?
+Investing in the S&P 500, with an averaged compound growth rate (ACGR) of 9%, performed better than investing in the MSCI World Index, which had an ACGR of 7.86%, but the MSCI Emerging Markets Index performed even better, with an ACGR of 10.37%. What's the easiest way to explain this?
 
 > * The US grew faster than the world;
 > * Emerging markets grew faster than the US.
@@ -551,7 +551,7 @@ Now we can see that, when we choosing investments, in addition to "one" (quite d
 
 We've seen that emerging markets develop faster, so it's easy, we can just choose the "emerging market part" right? Or could not just choose one country, but choose the fastest growing industry in that country? Sure! Choosing the market that is growing faster is just like choosing a faster method of transportation. 
 
-It's extremely difficult to pick the best investment out of tens of thousands of possibilities, but it's quite easy to pick a couple of the the fastest-growing areas out of ten or so regions. Everyone knows that the US and China are the fastest-growing places in the world. If I were to design an ETF, I would look for my investments in just these two places. This ETF would have a high probability of doing better than the MSCI World, wouldn't it? To take it a step further, it wouldn't be difficult to further limit my investments to the fastest growing one or two industries in each country. At least legendary investor Sun Zhengyi doesn't think it would be difficult:
+It's extremely difficult to pick the best investment out of tens of thousands of possibilities, but it's quite easy to pick a couple of the the fastest-growing areas out of ten or so regions. Everyone knows that the US and China are the fastest-growing places in the world. If I were to design an ETF, I would look for my investments in just these two places. This ETF would have a high probability of doing better than the MSCI World, wouldn't it? To take it a step further, it wouldn't be difficult to further limit my investments to the fastest growing one or two industries in each country. At least legendary investor [Masayoshi Son](https://en.wikipedia.org/wiki/Masayoshi_Son) doesn't think it would be difficult:
 
 >Making money is easy. All you need to have done is have invested in the Internet 20 years ago, because at that time the internet was the future of the world. Now, you should invest in AI, because AI is the future of the world. 
 
@@ -575,7 +575,7 @@ This was the logical reasoning behind this feeling:
 
 So for me at the time, blockchain was the future, blockchain was a trend, and blockchain would likely be the fastest growing industry. Looking back from eight years later, it has become the fastest growing industry, and my investment has grown at a scale not even imaginable at the time.
 
-You see? "Choosing the fastest growing sector" is the most simple, direct, brutal and effective method. It's also the most direct conclusion that can be derived from macro observation. For those who can't think based on the long term, this statement isn't understandable as an effective piece of advice. To them it seems stupid, and you can imagine them yelling out, "Who doesn't know this!?" Yes, everyone knows this, but not everyone things based on the long term, so they are not used to macro observation, and so  of course they can't understand the power of long-term macro observation. 
+You see? "Choosing the fastest growing sector" is the most simple, direct, brutal and effective method. It's also the most direct conclusion that can be derived from macro observation. For those who can't think based on the long term, this statement isn't understandable as an effective piece of advice. To them it seems stupid, and you can imagine them yelling out, "Who doesn't know this!?" Yes, everyone knows this, but not everyone thinks based on the long term, so they are not used to macro observation, and so  of course they can't understand the power of long-term macro observation. 
 
 Can we take it further, and ask ourselves, "can I choose the fastest growing company in this fastest growing sector?" I don't think it's worth it, because doing so is essentially returning to the most dangerous situation, and becoming more vulnerable to regression to the mean.*** The core skill of macro observation is very simple: don't go to extremes. The reason is that we hate risk, and we hate systematic risk even more. The core strategy is always "a piece of a piece":
 
@@ -1054,3 +1054,79 @@ Many years ago I discovered a simple principle:
 
 So I like to teach, and I have been teaching for twenty years. I've taught tests, writing, entrepreneurship, investment... Teaching is something that I can do until the day I die, and it's something that I love doing. I can always change what I'm teaching, because I always want to learn new things. It's that simple. In my experience, **finding something that is worth doing for your whole life is the best armor a person can have**. Now I teach thousands of students online, and in the future it will be even more. I wake up in the morning and teach for ten minutes, and I am happy. The bigger the projects you work on, the more trouble is involved, but for me there are no troubles that teaching for ten minutes won't fix.
 
+## Part Four: Objective, Objective, Objective!
+
+The key to successful investing is to be completely objective -- about yourself, the world, and every aspect of everything. Any time you we are not sufficiently objective, our **gamma** goes up.
+
+### 4.1 We Are Extremely Unreliable
+
+It's easy to despair when looking at the research results of psychologists from around the world over the years. Over the past ten years, they have again and again shown us one result: humans are completely unreliable, and we make absolutely terrible decisions.
+
+[Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman), who one the Nobel Prize in Economics in 2002, and his research partner [Amos Tversky](https://en.wikipedia.org/wiki/Amos_Tversky) discovered many years ago that people ave an extreme aversion to loss. We've already mentioned several times that the pain of losing a dollar greatly exceeds the pleasure of gaining a dollar. Even the way that we describe something can lead to different choices. For instance, test subjects were given an amount of money, say fifty British pounds, and then asked to make the following "choice":
+
+> * Gain frame: you can keep 20 out of the 50 pounds.
+> * Loss frame: you will lose 30 out of the 50 pounds. 
+
+Actually, these two choices are the same, because no matter what the subject ends up with 20 pounds. But since the second choice described a loss, the tests subjects' loss aversion was activated.
+
+The key is what happened next: the activation of their loss aversion influenced their subsequent decisions. Benedetto De Martion descripes an experiment that was designed with several colleagues in which the "choice" described above was the first choice presented to the test subjects. 
+
+The clever part of the experiment was that it didn't end after that first choice. No matter whether the subject heard the Gain frame or the Loss frame, they were then asked to choose whether or not to participated in a gamble in which the expected loss was much greater than the expected gain. 
+
+In order to be even more objective, the researchers described in detail the odds of the gamble, and they even explained existence of the framing effect to the test subjects.
+
+![Figure29](../images/Figure29.png)
+
+But the researchers discovered that describing the framing effect didn't seem very useful, because most people were still influenced by the framing effect. Even though though the first two "choices" were the same, most subjects chose the gain frame, and the percentage didn't change much depending on whether the framing effect was explained or not.
+
+The next result was even more alarming. Of those who chose the Gain frame, only 43% chose to participate in the gamble option, while 62% of those who chose the Loss frame chose to participate in the gamble. Remember, the gamble option had a higher probability of loss than gain. So the initial "meaningless" choice and the loss aversion that it activated led those who chose the  Loss frame to be more likely to participate in a gamble that they were likely to lose! 
+
+It turns out that people take many risks because they are afraid! Or, to put it another way, it turns out that the reason that many people take risks is not that they are brave! And furthermore, the thing that they are afraid of doesn't exist...
+
+But we're not done yet...
+
+The most interesting part was the post-experiment interview. Most of the subjects admitted that their decision-making criteria had changed. When faced with results of the experiment, the subjects knew that the choices had been clearly explained to them, and they couldn't really understand why they had made the choices that they did. They explained their actions in a similar way:
+
+>I knew what was happening, but I couldn't control myself...
+
+This is really scary. We know what is going on, but we can't control ourselves.
+
+The results of this experience should leave serious investors like us speechless and terrified. Why? Because we are investing with our own money, and it's not just 20 British pounds. And we're not just investing with the money that we have today, but also our money and time in the future, and the money that we hope our money will make in the future. We have our money, our time, and what we believe to be a correct goal, but now we see that sometimes we may even know what is happening but still not be able to stop ourselves from making a wrong decision, or even a catastrophic decision! Could anything be more terrifying than this? It's like a ghost story or horror movie! Ghost stories are all the same, from east to west, from past to present, you can sum them up in one sentence: for some reason, the main character sees themself move toward destruction, and even though they can see it happening, there is nothing they can do, because they can't control themself...
+
+This experiment still isn't over, though. As the subjects made their choices, the researchers monitored their brain activity using functional magnetic resonance imaging technology (fMRI), and they observed an incredible phenomenon.
+
+![Figure30](../images/Figure30.png)
+
+This image basically reveals why we "can't control ourselves".
+
+The results of the experiment showed that when the subjects were unable to control their loss aversion their amygdalae was extremely active. What are the amygdala? They are two almond-shaped clusters of neurons in the brain that play an important role in our, decision-making, memory and emotions or moods. They can trigger emergency responses such as the fight or flight reflex when faced with danger. The amygdalae are small, but they are extremely important in processing emotions, particularly fear.
+
+If you look back on times when you have felt extremely fearful, you will remember that your fear wasn't just an emotional state but also a physical one. Your heart rate increased, your stomach felt empty, you felt uncomfortable, and you began to sweat. You felt like your brain was empty, because your brain lacked blood and oxygen. This emergency response of the amygdalae was what doomed the subjects; it was what caused the subject to feel that, "I knew  what was happening, but I couldn't control myself". 
+
+Even more disappointing is that we are unwilling to change. When our mistakes are pointed out to us, we become even more stubborn in our mistaken choices. At this point, you're probably thinking, "But I'm not like this, am I?" Allow me to answer for you: you are like this, because we are all like this to some extent or another. 
+
+Francis Bacon made [the following observation](https://rintintin.colorado.edu/~vancecd/phil3600/Bacon.pdf):
+
+> Once a human intellect has adopted an opinion (either as something it likes or as something generally accepted), it draws everything else in to confirm and support it.
+
+What about about when that opinion is proven wrong? [Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) observed the following: 
+
+> “My characterization of a loser is someone who, after making a mistake, doesn’t introspect, doesn’t exploit it, feels embarrassed and defensive rather than enriched with a new piece of information, and tries to explain why he made the mistake rather than moving on.”
+>
+
+In *The Behavioral Investor*, Daniel Crosby used the debates over plastic bags and gun control as examples:
+
+> * Making a paper bag takes three times as much water as making a plastic bag; only 24% of people reuse paper bags versus 67% reuse of plastic bags; paper production creates 70% more air pollution that plastic production; it takes 91% more energy to recycle a pound of paper than a pound of plastic.
+> * 98% of guns used in the commission of a crime are stolen; over 100,000 people successfully defend themselves with a gun each year; 9 times out of 10 gun owners defend themselves without firing a shot; more people drown each year than have been accidentally shot since 1980; kitchen knives kill ten times as many people each year as assault weapons.
+
+It doesn't matter which side you belong to, the important thing is that we can see how strongly people hold their opinions, and if we observe carefully we will be surprised to see how the fierceness of the debate has nothing to do with the facts. It's as if people don't care about the facts, all they care about is whether or they win or lose. Facts and figures can't change people's opinions. If you win, you keep fighting, if you lose, you keep fighting. And if you happen to notice the facts, will they defeat you? No, you'll keep looking for facts that support your opinion. 
+
+This phenomenon of an opinion growing stronger in the face of evidence that proves it wrong is called "[the backfire effect](https://rationalwiki.org/wiki/Backfire_effect)" in psychology. Researchers have discovered that the backfire effect becomes even stronger when the evidence that contradicts the opinion is slightly ambiguous.  For instance, after a relatively uneventful New Year's in the year 2000, those who thought that Armageddon was coming at the turn of the millennium didn't think, "Oh, it turned out I was wrong, maybe Armageddon isn't coming." Instead, they thought, "Maybe it's isn't coming right at the year 2000", or "Maybe it has been delayed because we weren't pious enough".
+
+The backfire effect, and its tendency to be even stonger when there is not 100% clarity, is even more obvious in investing. The clearest example is the prognosticator who constantly gives inaccurate predictions. They may have been proven wrong many times, but because there is so much uncertainty in the investing world, they not only don't admit defeat, they double down, saying, "Just you wait! I'll be proven right someday!"
+
+There are so many ways in which we are unreliable. Daniel Kahneman and Amos Tversky started exploring behavioral economics around 1972. We now also have behavioral psychology and behavioral finance. More than 130 common cognitive biases have been identified (as of 2019, most of them are listed on [this Wikipedia page](https://en.wikipedia.org/wiki/List_of_cognitive_biases)), and I'm sure many more will be discovered.
+
+Overconfidence leads to mistakes, protecting our self-image leads to mistakes, the way we talk about things leads to mistakes, our moods lead to mistakes, a lack of rest leads to mistakes, changes in blood sugar levels lead to mistakes, and even sunlight can make us more likely to make mistakes. Furthermore, our perception of risk is always incorrect, our perception of gains and losses is twisted, a lack of information can cause mistakes, and too much information can cause mistakes. The list goes on and on. Even worse, even when we are aware of our biases we still can't control ourselves, and when we've clearly been proven wrong we double down on our beliefs.
+
+Can you see how unreliable we are?
