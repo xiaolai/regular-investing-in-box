@@ -1153,10 +1153,7 @@ The metaphor that Plato came up with 2,000 years ago is surprisingly similar to 
 | -------- | -------- | -------------------- |
 | Outer cortex | Human brain | Driver                 |
 | Inner cortex   | Monkey brain | White horse                 |
-| Brainstem     | Reptile brain | Black horse
-
-                 |
-
+| Brainstem     | Reptile brain | Black horse     |
 
 I like Plato's metaphor better than the "human, monkey, and reptile" names because driver, white horse, black horse and chariot describe a unified system. The chariot is our body, and our brain has three selves, a driver, a white horse, and a black horse. These three selves shouldn't be enemies, they should **work together**. The better they work together, the more efficient the chariot is. If they can't work together, the chariot is useless.
 
