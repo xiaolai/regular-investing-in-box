@@ -1130,3 +1130,73 @@ There are so many ways in which we are unreliable. Daniel Kahneman and Amos Tver
 Overconfidence leads to mistakes, protecting our self-image leads to mistakes, the way we talk about things leads to mistakes, our moods lead to mistakes, a lack of rest leads to mistakes, changes in blood sugar levels lead to mistakes, and even sunlight can make us more likely to make mistakes. Furthermore, our perception of risk is always incorrect, our perception of gains and losses is twisted, a lack of information can cause mistakes, and too much information can cause mistakes. The list goes on and on. Even worse, even when we are aware of our biases we still can't control ourselves, and when we've clearly been proven wrong we double down on our beliefs.
 
 Can you see how unreliable we are?
+
+### 4.2 Don't Be Your Own Worst Enemy
+
+With more and more evidence showing how unreliable we are, there is an old saying that has become a tenet for most people: 
+
+>You are your own worst enemy.
+
+**Don't believe this!** Since it's only partially true, it provides no useful guidance for anyone. Don't spend all day thinking about how to "defeat yourself". If you treat yourself as an enemy, and spend all day thinking that you are someone to be defeated, you'll never be happy. Even if people who do this make it to some end point, they still won't be happy, and they might kill themselves trying. If you think about it, it's no wonder that some people don't want to keep moving forward after they've reached some arbitrary end point.
+
+I prefer [Plato's](https://en.wikipedia.org/wiki/Plato) [Chariot Allegory](https://en.wikipedia.org/wiki/Chariot_Allegory) from two thousand years ago. That was a time when even doing an autopsy could be considered witchcraft, so he had no way of knowing what we now consider to be common knowledge about the human brain. Namely, that it has three levels, which can be referred to colloquially as the reptile brain, the monkey brain and the human brain.
+
+![Figure31](../images/Figure31.png)
+
+Put simply, the innermost portion, the reptile brain, is in charge of intuition; the middle portion, the monkey brain, is in charge of handling emotions; and the outermost portion, the human brain, is in charge of logic and reasoning. Its not an exaggeration to say that all of human culture is based on the neomammalian cortex, which I refer to here as the human brain. The largest difference between humans and other mammals is the development of this cortex.
+
+When the subjects of the experiment mentioned in the previous chapter had each choice explained to them, they used their human cortex to understand the choices. As soon as they started take action, their loss aversion was activated by their monkey brain, but the not always correct instinct that loss is a bad thing comes from the reptile brain. When the subjects later described that they were unable to control themselves, this was because their monkey brains acted faster than their human brains, so whenever they had to make an immediate decision, the monkey, or even the reptile, raised its hand first. By the time the human had realized what was going on, it was too late. This is why the best way to have a cool head in daily life is to first close our eyes and do nothing.
+
+The metaphor that Plato came up with 2,000 years ago is surprisingly similar to what scientists have postulated after closer observations of how brains work. Take a look:
+
+| Brain structure | Colloquial name | Plato's Chariot Analogy |
+| -------- | -------- | -------------------- |
+| Outer cortex | Human brain | Driver                 |
+| Inner cortex   | Monkey brain | White horse                 |
+| Brainstem     | Reptile brain | Black horse
+
+                 |
+
+
+I like Plato's metaphor better than the "human, monkey, and reptile" names because driver, white horse, black horse and chariot describe a unified system. The chariot is our body, and our brain has three selves, a driver, a white horse, and a black horse. These three selves shouldn't be enemies, they should **work together**. The better they work together, the more efficient the chariot is. If they can't work together, the chariot is useless.
+
+![Figure32](../images/Figure32.png)
+
+The in the beginning, the black horse is the strongest, because, from a genetic perspective, it is the oldest. It provides the most basic and rapid responses that allow us to survive in a treacherous world. The reptile has no driver and no white horse, but it have been able to survive for so long -- much longer than humans -- with just one black horse. If a smaller animal from a different species enters its world, it eats it (Feed!); if a smaller member of its species of the same sex enters its world, it attacks it (Fight!); if a member of its species of the opposite sex enters its world, it copulates with it (Fuck!); If a larger member of its species of the same sex enters its world, it runs away (Flee!). If something that is none of the above enters its world, it stays still (Freeze!) All of this is without thinking, and without feelings.
+
+The white horse is younger than the black horse, so it is weaker, but it can handle more situations. Feelings can help us judge good and bad, and make us feel happy or sad based on the results of our choices. This helps us learn and remember so that we can make better and more rapid choices the next time. All of the basic emotions, such as happiness, sadness, fear, revulsion, anger and surprise, can be seen as shortcuts to access our learnings. A certain situation will give rise to a certain emotion, which will activate an instinct which will activate a behavior, or even directly activate the behavior.
+
+You can understand the process like this. When you encounter a situation, if the black horse can handle it it handles it directly. But the black horse can only directly handle limited types of situations, and if it can't handle it it hands it off to the white horse. Once the white horse has processed it, it hands it back to the black horse to take action.
+
+We can't treat the white horse or the black horse as enemies. We can't be like those "clever" people who try to eliminate all emotions. Actually, without the white horse the driver has no way to mature, and the chariot would be dominated by the black horse. In fact, emotion is the basis of decision. There have been countless studies showing that if a person's emotional faculties are damaged it impairs their ability to make effective decisions. Even more importantly, emotions are the best and most direct way for people to communicate, and it is because of emotions that people are social animals. At the same time, it is our need for social connection that has developed our emotional faculties.
+
+We can define "keeping a cool head" in the following way:
+
+>No matter what happens, all three roles process it once before passing it on to the driver for a final decision.
+
+That is to say that you do not take any action after all three roles have processed the situation. This simple, direct, brutal and effective strategy will change the performance of the whole chariot. The driver will quickly understand that the both the black horse and the white horse can have incorrect responses. The driver will further discover that, after repeated communication between the three roles, the white horse may listen to the driver, and the black horse can develop new and correct intuition. 
+
+The driver starts off as the weakest of the three, and it is only after keeping a cool head can they participate, gain experience, and continuously grow. As the driver continuously grows, the white horse and the black horse go through countlesss cycles of correction and coordination, and they all end up different than before. So when people tell use to "trust our intuition", you know now that your black horse and the black horse of an expert may be completely different. The expert can trust their intuition, but maybe you can't.
+
+Members of my Regular Investing Practice Group have already experienced this magical process. 
+
+Before they started regularly investing, their black horses were he same as everyone else's, running away whenever the price fell. As to why they ran away, they didn't even have time to think about it, or even time to be afraid, because they had already run away. This intuition let do the fear and disappointment of the white horse, and the chariot was far away before the driver even knew what had happened. 
+
+After reading books, listening to classes and repeated discussion and thought, the members of the practice group started to exhibit surprising changes. 
+
+When the price fell, the black horse still wanted to run, and the white horse was still afraid, but the driver thought about it and said to the white horse, "No! You shouldn't be afraid or disappointed, you should be happy! This situation is good for you, because you can buy at cheaper prices." The white horse understood that its initial reaction was wrong, so it corrected itself. The next time the price fell, the white horse was happy instead of disappointed. After several rounds of this, the black horse understood, and it began to change. "If the white horse is happy, why should I run?" After each round of successful communication, the driver became more powerful and was able to work more effectively with the horses. 
+
+So now, when the price drops, the members of the group have a completely different response!
+
+You must calmly accept this fact:
+
+>Your brain contains three roles: the driver, the white horse, and the black horse.
+
+More importantly, these three roles must be friends with each other, and not enemies. In addition to continuously learning, the driver must be in constant communication with the black horse and the white horse, helping them develop new and correct emotions and intuition that allow the chariot, which is the whole of you, to be its best.
+
+Always emember:
+
+>You must be a good friend to yourself, and you must be patient enough with yourself.
+
+As far as how to keep good relations between the three roles, it's really quite simple: "Let's work it out between the three of us." As far as the chariot, which is your body, first stay still.  **Waiting five minutes before taking action** is always effective. Don't laugh, this simple method will greatly reduce your *gamma* in the trading markets.
+
