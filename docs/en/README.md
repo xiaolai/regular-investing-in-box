@@ -1201,7 +1201,7 @@ As far as how to keep good relations between the three roles, it's really quite 
 
 This following is my favorite analogy for education:
 
->Education is like a pair of glasses. You are in the same world before and after wearing the glasses, but you can see more clearly and accurately after wearing the glasses. You are in the same world before or after you learn something, but with the lens of education you can see the world more clearly and accurately.
+>Education is like a pair of glasses. You are in the same world before and after wearing the glasses, but you can see more clearly and accurately after wearing the glasses. You are in the same world before or after you learn something, but with the lens of education you can see the same world more clearly and accurately.
 
 Over the years, collecting analogies has become a hobby of mine. Even though it's been so long that I don't remember where this analogy came from, it's still my favorite, bar none. Regarding the the results of education, I have come up with another extremely accurate analogy, and I call it "the Mirror Effect":
 
