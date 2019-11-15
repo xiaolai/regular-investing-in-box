@@ -1201,7 +1201,7 @@ As far as how to keep good relations between the three roles, it's really quite 
 
 This following is my favorite analogy for education:
 
->Education is like a pair of glasses. You are in the same world before and after you put on the glasses, but you can see more clearly and accurately after putting on the glasses. You are in the same world before or after you learn something, but after putting on the glasses of education you can see the world more clearly and accurately.
+>Education is like a pair of glasses. You are in the same world before and after wearing the glasses, but you can see more clearly and accurately after wearing the glasses. You are in the same world before or after you learn something, but with the lens of education you can see the world more clearly and accurately.
 
 Over the years, collecting analogies has become a hobby of mine. Even though it's been so long that I don't remember where this analogy came from, it's still my favorite, bar none. Regarding the the results of education, I have come up with another extremely accurate analogy, and I call it "the Mirror Effect":
 
@@ -1269,3 +1269,60 @@ Actually, since this is just how our brain works, there is no reliable way to de
 If you are able to clearly remember everything we discussed prior to this chapter, you will discover many examples of the Mirror Effect, and almost every time the mirror that causes everything to look completely opposite is "long term". When you read this book again, I suggest that you keep a list in a notebook of all the examples of the Mirror Effect. In the years to come, you can add to this list as you come across new examples. As you go through this process, you will discover that these sunglasses will slowly become invisible, and you may not even need the sunglasses anymore because the  ability to think long-term will become a natural function of your eyes.
 
 This is the value and necessity of investment education. Your driver must mature, and your black and white horses must be trained. In the end, they will bring you into a mirror world in which everything will look the same but actually be the opposite of what you once saw. In fact, though, the world inside the mirror is the actual nature of the objective world. This is the secret of investment: have a 100% objective understanding of the objective world, and 100% objective understanding of oneself. It's really very difficult. It's only difficult, though, from the perspective of the present, and it's certainly not impossible. Looked at from a long-term perspective, it shouldn't be difficult at all. 
+
+### 4.4 The Difference Between Knowing and Doing
+
+**Knowing** is one thing, **doing** is another. The difference between knowing and doing is greater than almost anyone imagines.
+
+Think back to when you were learning to write in elementary school. There were words that you always seemed to spell wrong, no matter what. For instance, maybe you would always spell "believe" as "beleive", mixing up the order of "i" and "e", even when they weren't "after c". Even though the teacher corrected you so many times, you would still get it wrong. Slowly, though, you finally got to the point where you would spell it right every time. 
+
+Even simple knowledge can be this difficult, taking a long time to finally master. Well then, what about more complex knowledge? It can take even longer.
+
+Logic is perhaps the clearest example. *[Beyond Feelings: A Guide to Critical Thinking](https://www.amazon.com/Beyond-Feelings-Guide-Critical-Thinking/dp/0078038189/)*, which is now on its 9th edition, is the book that first taught me logic. One foggy morning I went to the library and searched for *thinking*. Among the results I saw *critical thinking*, a combination I had never seen before. I chose the book which had been updated the most times, which was *Beyond Feelings* (at the time it was on its 3rd edition). So why did I search for thinking? Because the day before two people were having heated debate, and it pained me to discover that I thought they were both right! First, this was impossible; second, it meant that I wasn't able to think. Or, at least, something was wrong with my way of thinking. At that time I was almost 25 years old.
+
+Even though I'd learned some logic before graduating from college, and even though I had incorrectly thought that I had very strong logic, I discovered that between knowing nothing and knowing what I knew was very small. My goal was very clear, so reading the book gave me more pleasure than pain. By the time I finished I felt like an entirely new person! But that was an illusion, because I quickly discovered that I still frequently fell for logical fallacies. In retrospect this is not surprising, since every logical fallacy has countless iterations. Slowly, this book became a book that I would re-read the most times over the course of my life. The mirror effect is ubiquitous, though, and this book that has had a huge impact on my life is [trash](https://www.amazon.com/gp/customer-reviews/R3S1K0E2LMJE8V/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0078038189) in the eyes of some.
+
+Was it enough to read this book multiple times? No. Several years later, when I was teaching at New Oriental, there was a period during which I taught the writing and logic portions of the GMAT. I was extremely glad that I had trained myself in logic for several years, but it was still difficult. GMAT questions are often like this:
+
+>Of the choices below (A, B, C, D, E), which, if correct, would severely weaken the author's argument?
+
+Looking back, my most valuable periods of self-teaching were repeatedly reading *Beyond Feelings* and teaching logic at New Oriental. These two periods of training myself in logic played an indispensable role in my wealth accumulation over the long term.
+
+We previously mentioned the following:
+
+>More than 130 common cognitive biases have been identified, and I'm sure many more will be discovered.
+
+In the online practice group, I have repeatedly gone over the reasons for these cognitive biases, their effects, suggestions for how to avoid them, and recent examples. But will this be immediately effective? It won't. Almost everybody is the same, and I am certainly no exception. Every once in a while I will discover that I have once again fallen for a logical fallacy that I thought I had already taught myself to avoid. 
+
+There's another hidden reason why the distance between knowing and doing is so great: 
+
+>Your past decisions necessarily lack your current rich experience. 
+
+In programming there is a concept called "[forward reference](https://en.wikipedia.org/wiki/Forward_declaration#Forward_reference)", which will often cause the compiler to report an error, because according to the programming language's rules a variable must be declared before it can be referenced. In life, however, forward references are all over the place. The best example might be young people not understanding love in their first relationship.
+
+Another example of not becoming aware of the mirror effect until it's too late is the phenomenon of people regretting in old age not working harder earlier in life. It's easy to see in hindsight, but when most people are young they are unable to see the true importance of gaining knowledge. Their decisions are based upon independent thinking without broad experience, like the frog in the bottom of the well. Later on in life people realize the importance of knowledge and experience, but by then it is too late and they are left with regret.
+
+All truly important activities in life are of this type:
+
+>You need to get started no matter what, and you learn as you go.
+
+Love, marriage, parenting, and even birth are all like this. To do well at these things we can't just use what we learned in school. What we learned in school doesn't have forward references. We learn step by step, first this then that, and that is based on this. This is why people always talk about how carefree life in school is. In real life, though, there is always regret, as we learn new things and discover that previous decisions were incorrect. As we learn we discover new information that would have helped us make a better decision.
+
+This is especially the case in investing. We can't base our previous decisions on what we learn in the future, so not only are we destined to have regrets, we may even lose all of our money.
+
+This is one of the hidden advantages of regular investing:
+
+>Regular investing gives practitioners a long period to learn, observe, practice and make corrections. A period of at least two full cycles, which is long enough for anyone to breach the gap between knowing and doing.
+
+Because regular investors only do one thing -- buy -- they don't need to do anything else, so once they start they have plenty of time to expand their knowledge, primarily by observing the mistakes of others. This makes them the most likely breach the gap between knowing and doing. After two full cycles, they have enough knowledge and experience to make quality decisions without regret. 
+
+There is an investing phenomenon that is worth paying attention to, especially for long-term holders:
+
+>**The earlier the mistake the greater the long-term price**, because the price is compounded over the long term.
+
+Furthermore, the longer the mistake persists, the greater the effect is over the long term. We can use the following approximation to illustrate this:
+
+>98% <sup>30</sup> ≈ 54.55%
+
+Regular investors are fortunate because they do the right thing from the start, and as long as they keep doing it for two full cycles they can't make a mistake. Throughout this process of not making mistakes there are only two things they need to do: 1) constantly strengthen their ability to make money outside of the market, and 2) more importantly, constantly learn about investing, patiently breaching the gap between knowing and doing.
+
