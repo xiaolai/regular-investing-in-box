@@ -1233,7 +1233,7 @@ Actually, it can be explained in one sentence:
 
 >**The mirror is an understanding of the long term.** It is this mirror that brings about so many surprising examples of the Mirror Effect.
 
-Almost all of the surprising Mirror Effects are due to different understandings of the long term. It's an eternal fact that most people have no concept of the long term and only see that which is right in front of them.  To put it another way, for the vast majority of "chariots", the black hors is always the strongest, the white horse always follows the black horse, and driver never grows even a little bit.
+Almost all of the surprising Mirror Effects are due to different understandings of the long term. It's an eternal fact that most people have no concept of the long term and only see that which is right in front of them.  To put it another way, for the vast majority of "chariots", the black horse is always the strongest, the white horse always follows the black horse, and driver never grows even a little bit.
 
 From another perspective, we can see the concept of long term as sunglasses that filters out all light that is not related to the long term, just as normal sunglasses filter out UV rays. With these sunglasses we naturally can't help but use our ability to make macro observations. It's just like wearing polarized sunglasses while driving, which filters out not only the harmful UV rays, but also keeps the harshest light away from your eyes. They allow you to see more clearly and accurately.
 
