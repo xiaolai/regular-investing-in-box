@@ -1069,7 +1069,7 @@ It's easy to despair when looking at the research results of psychologists from 
 
 Actually, these two choices are the same, because no matter what the subject ends up with 20 pounds. But since the second choice described a loss, the tests subjects' loss aversion was activated.
 
-The key is what happened next: the activation of their loss aversion influenced their subsequent decisions. Benedetto De Martion descripes an experiment that was designed with several colleagues in which the "choice" described above was the first choice presented to the test subjects. 
+The key is what happened next: the activation of their loss aversion influenced their subsequent decisions. Benedetto De Martion descripes [an experiment](https://www.ncbi.nlm.nih.gov/pubmed/?term=De%20Martino%20B[Author]&cauthor=true&cauthor_uid=16888142) that was designed with several colleagues in which the "choice" described above was the first choice presented to the test subjects. 
 
 The clever part of the experiment was that it didn't end after that first choice. No matter whether the subject heard the Gain frame or the Loss frame, they were then asked to choose whether or not to participated in a gamble in which the expected loss was much greater than the expected gain. 
 
