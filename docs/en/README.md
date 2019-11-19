@@ -1384,3 +1384,107 @@ My choice to be a regular investor, and my eventual ability to explain regular i
 
 Objectivity is very important. Not only objectivity about the world, but objectivity about yourself, and careful objectivity about the border of your self. Furthermore, it's even more important to be objective over the long term. This is the secret of investing. Of course, it's an open secret. 
 
+## Conclusion
+
+Regular investing is easy. It's just an improvement on "carefully chose and hold over the long term" that needs no further improvement. Even if you can't rigorously follow the process of investing regular amounts on a set schedule, it's still okay, as long as you are able to hold over the long term.
+
+Your final returns can be calculated by this equation:
+
+>**p = δ + α - γ**
+
+As a regular investor δ (*gamma*) is outside of your border, and there is nothing you can do to affect it. The process of making careful choices is where you create α (*alpha*). Your ability to lower γ (*gamma*) depends on how you manage yourself. Your awareness of borders also influences your *alpha* and *gamma*.
+
+Your investments must never leave the market, and you must invest your money, invest your time, and be a friend with time. You should constantly increase your ability to make money outside of the market by gradually upgrading your personal business model. No matter what you do you must learn how to sell. You must cross the wide gap between knowing and doing, becoming your own friend rather than your own worst enemy. You must be clear about borders, and always do the best at your own part. Regular investing is the most graceful performance art, and it can make your every second count.
+
+There is no secret to success, or if there are secrets they are open secrets. Successful people are just those who have used the correct methods that everyone knows to **do** the correct things that everyone knows.
+
+It's not an exaggeration to say that regular investing can change a person's life. 
+
+China enforced the One Child Policy from 1979 to 2015. People of child-rearing age in 1979 are around seventy now, and the are in a special state called "the loneliness of old age". They have been retired for ten or more years, and their only child is currently in the middle of their busiest stage of life, having just had kids. Because times have changed, more and more of them don't life in the same cities as their children, and so many of these parents no longer see their children regularly. They've got nothing to do, and no one to accompany them.
+
+There is an awkward fact:
+
+>When they were younger they never imagined that they would live this long.
+
+When they retired a decade or so ago, they hadn't yet realized that many of their generation could easily live to 100. It's only now, as many of their own parents are approaching 100 that they have discovered that "old age" can last so long! Where did these lonely old people mess up? They didn't imagine that they could live so long, so they long ago gave up one their own personal development. Long ago they mistook a new beginning for their own ending.
+
+Back to investing, most people look at compound interest calculations over twenty or thirty years and think that the numbers have nothing to do with their lives. But actually this generation has much more time to invest than they imagine. On average, they have at least 45 years. It's a big mistake to underestimate this!
+
+What does it mean to life to 100? Your great-grandchildren will be grown up and able to start investing. The two full cycles we have been talking about are economic cycles, but if your family has four generations of adults when you are 100, that is four full generational cycles.  We should think carefully about this fact, and thing about how we will deal with it.
+
+Regular investing can not only change a person's life, it can change a family's fate over generations, and it is a process that you will be able to see yourself. It's very important. 
+
+
+Li Xiaolai
+October 2019, Beijing
+
+## Appendices
+
+## 1. About BOX
+
+>**Risk Warning**
+>
+>The strategy of regular investment is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing are the responsibility of each investor. Each investor much use their own money and time over the long term to take responsibility for their choices. Please be cautious.
+>
+>This section is primarily about how I chose BTC, EOS, and XIN to be the components of BOX, and it necessarily contains some of my own subjective judgements. You must use your own objective understanding of the objective world to chose your own investments.
+>
+**Conflict of Interest Notice**
+>
+> * I am a long-term holder of BTC (from May of 2011)
+> * I was an angel investor in BlockOne, which developed EOS (May of 2017)
+> * I was an angel investor in Mixin Network (October of 2017)
+
+[BOX](https://b.watch/) is an abbreviation for **B**tc + e**O**s + **X**in, and it is a "box" of these three assets. The purchase and redemption of BOX can be done on the [b.watch](https://b.watch/) website. 
+
+### 1.1 Details of BOX
+
+Quite simply, BOX is **a blockchain token that tracks a basket of blockchain assets. Its components are as follows:
+
+> * 1 BTC
+> * 1500 EOS
+> * 8 XIN
+>
+> ------
+>
+> = 10,000 BOX
+
+Put another way, to exchange for 1 BOX, you would need 0.0001 BTC + 0.15 EOS + 0.00008 XIN.
+
+> * You can use the respective amounts of BTC, EOS, and XIN to exchange for BOX.
+> * After meeting certain conditions, you can also surrender BOX to redeem the respective amounts of BTC, EOS, and XIN.
+> * You can also use USDT to directly purchase BOX on secondary markets. 
+
+The necessary conditions to redeem BTC, EOS, and XIN with BOX are as follows:
+
+> If the market value of your BOX exceeds \$100,000, the redemption fee is 1%.
+> Or you can sell it directly on a secondary market, in which case both parties will be charged a commission of 0.1%.
+> If you are regularly investing, you can choose a time after which you may sell (e.g., three years).
+
+BOX is an ETF product, but it is different from the funds you have seen before, in that it doesn't charge a management fee. Why? Because I don't want to earn a management fee. And I am also regularly investing in BOX.
+
+BOX is 100% open and transparent. The addresses in which assets are held are public, and you can check them at any time. All of the records are on the Mixin public chain, and you can find instructions to check the addresses on the b.watch website. How much BTC, EOS, and XIN are in BOX? How many corresponding BOX tokens are circulating? How many BOX tokens are still in "cold storage" (including those for future distribution and those that have been redeemed)? The data to answer all of these questions are open and transparent, so it is easy to check the current issuance of BOX and confirm its underlying assets. If BOX is listed on any exchange, users can use also use this data to confirm that the exchange is not artificially inflating the supply of BOX. As to why this is important, it will take a novice some time to learn and understand. 
+
+### 1.2 The Advantages of BOX
+
+The components and allocation of BOX were determined in accordance with the following principles.
+
+### 1.2.1 It is best to invest in mainstream blockchain assets
+
+In the new round of trends, mainstream blockchain assets will receive disproportionate attention. The market has been educated by the bull and bear markets of 2017 and 2018, and the "blind optimism" around new tokens has been fully deflated. Projects that raise millions just based on writing a white paper have been discredited. In the new round, the assets that may see huge appreciation are either mainstream assets or multi-level marketing (MLM) assets. The reason to stairway from MLM assets isn't that they can't make money -- actually, they can make a lot of money! -- but because they can't succeed over the long term, and are thus not suitable choices for regular investing. Regular investors invest through more than one cycle, and thus they can only choose long-term investments. So between mainstream assets and MLM assets, we can only choose mainstream assets. 
+
+### 1.2.2 Be in accordance with the internal logic of the development of blockchain technology
+
+After eight years of observation, investment, practice and thinking, I believe that there is a development path that blockchain technology will follow in changing the world:
+
+> Trusted ledger (BTC) → Trusted platform for code (ETH/EOS) → Trusted execution environment (Mixin) → Trusted hardware (?) ...
+
+Actually, this is also the investment path I have followed. After bitcoin, the exchange that I invested in, Yunbi, became the first exchange to list Ethereum (ETH), and I was an angel investor in EOS and Mixin. The core of successful investing is investing in accordance with the way things are developing, which makes friends with trends and allows trends to constantly work in favor of your investments, rather than allowing trends to become enemies and obstacles to your investments. 
+
+The choice of components of BOX is in accordance with the internal logic of the development of blockchain technology.
+
+As to why EOS was chosen instead of ETH, despite the fact that ETH appeared before EOS in the trusted code stage, the difference between the two of these is like the difference between DOS and Windows, in that EOS is multithreaded. Furthermore, BlockOne, the technical team behind EOS, is one of the most well-funded teams in the space, so EOS is a more reliable choice and is more likely to be successful over the long term.
+
+When our investments go from an individual investment (like BTC) to a combination of investments (like BOX), we have both reduced opportunity cost and changed from investing in one project to investing in an entire industry. This is an extremely reliable way to reduce risk.
+
+### 1.2.3 Thoughts on allocation
+
