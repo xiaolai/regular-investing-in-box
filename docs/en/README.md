@@ -1326,3 +1326,61 @@ Furthermore, the longer the mistake persists, the greater the effect is over the
 
 Regular investors are fortunate because they do the right thing from the start, and as long as they keep doing it for two full cycles they can't make a mistake. Throughout this process of not making mistakes there are only two things they need to do: 1) constantly strengthen their ability to make money outside of the market, and 2) more importantly, constantly learn about investing, patiently breaching the gap between knowing and doing.
 
+## 4.5 The Border Between Active and Passive
+
+We previously mentioned the following: 
+
+>This is the secret of investment: have a 100% objective understanding of the objective world, and 100% objective understanding of oneself.
+
+This is to say that successful investors must have an objective understanding of themselves and reality. Actually, there is a hidden and even more important area that they must objectively understand: the border between themselves and reality.
+
+Our body is not the border between ourselves and reality, because we are able to actively cause change in areas outside of our body.
+
+We can make extensions to our body. For instance, we can extend our legs by using transportation tools like bicycles and cars, and we can extend our nerves by using internet devices. Actually, once we are sufficiently proficient with any tool it effectively becomes a part of our body. We can actually influence the world outside of our body. For instance, we can use our trust and respect to gain the trust and respect of another, as parents we can use our behavior to become a model for our children, and as an investor we can hold assets over the long term to achieve high long-term returns. 
+
+However, there is a border encompassing the area of reality that we can influence through our behavior. Within this border, we can constantly advance through hard work. Outside of this border, there is nothing we can do.
+
+If an individual is unable to clearly recognize the existence of this border, they will always live a life of chaos and pain.
+
+The clearest example of this is parents raising children. If parents focus their efforts on improving themselves, then they are within their own border, which is good. But in most situations we find that parents focus their efforts outside their own border, where they actually can do nothing. Children aren't stupid. Actually, their brains have a radar-like ability to see whether or not their parents follow their own advice. If their parents' actions don't match up with their words then the child will find it quite painful, especially since they still don't have a clear understanding of their own border. Their parents are constantly invading their border, and they don't have the ability to defend themselves. This is the source of most negative reactions in children. The child feels pain, and the parent feels even more pain, precisely because they are exerting effort in an area that they can't control. They keep failing and trying again with increasingly worse results until both sides are exhausted.
+
+Of course, a more common example occurs in the investing world. Do investors really need participate in operations? Maybe sometimes. But we can be almost certain that traders in the secondary market shouldn't participate in the operations of the companies they invest in. In fact, not needing to participate in operations is of of the biggest advantages of investing in the secondary markets.
+
+However, the operators of almost every publicly traded company receive many letters from shareholders every day. These shareholders have all sorts of complaints and advice, and they often end up working themselves into quite a tizzy. They are incognizant of the fact that they are wasting effort outside of their own boarder. They have idea that effort outside of that border is completely useless, and that if it has any effect at all it will be negative. The will never understand, because they don't have the ability to create an effective business model and eventually receive investment from the public. If they were able to do so, they would discover that it's terrible to have so many people on the outside trying to influence you, and that it's even more terrible to be actually swayed by those on the outside. You could even say the following: a company that is easily swayed by the secondary market is not worth investing in.
+
+Let's take another look at the equation that describes our returns: 
+
+>**p = δ + α - γ**
+
+The p (performance) on the left side of the equation represents our final returns. On the right side, δ (*delta*)is an investment that matches the returns of the market with a β (*beta*) of 1. For regular investors, α (*alpha*) depends on your careful choice before we start investing. Finally, γ (*gamma*) represents gains that were lost due to mistakes. 
+
+We have shown several times that as long as you don't do anything you won't make mistakes, so *gamma* should be zero and performance should be maximized. Unfortunately, you will always have the impulse to do something to change things and make them better. There's no way around it, because you are human, and our brains were designed to survive in dangerous environments. For tens of thousand of years, "do something when you encounter danger" was they best strategy, and those who chose to "do nothing in the face of danger" died out long ago. Our brains are still the same today, only able to understand immediate danger, and unable to understand future gains. It's just like we mentioned in Chapter Three of Part Four: even in the face of more than two hundred years of data showing otherwise, people still think that cash is a truly safe investment. 
+
+But if you invest in an MSCI World Index fund, or an S&P 500 fund, what can you do? Can anything you do influence it? You can't change the direction or speed of the development of the world. You also can't change the direction or speed of the development of a country, region or industry. And even if you hold stock in a company, you're unlikely to be able to change it. Actually, aside from changing yourself, there's not much you can change. The sooner you realize this the better.
+
+Most funds are established to chase *alpha*. Even though there are some clearly successful examples, they are extremely rare, and we can't eliminate the possibility that they were just lucky. Even Warren Buffett has clearly been lucky: he was born in the US. In addition to the US having been the fastest growing area in the world over the past fifty-five years, it has also had a stable legal environment in which private property has been relatively protected. If Warren Buffett had been born in South Korea, which has the highest rate of presidents and tycoons going to jail, how would he have done?
+
+How difficult is it to create *alpha*? Someone once joked that you threw stock certificates in a room, then let a monkey into the room, and made fund based on which stocks the monkey peed on, you could still beat the fund managers of most actively-managed funds. Sadly, the joke is correct!
+
+According to [a report](https://www.wsj.com/articles/indexes-beat-stock-pickers-even-over-15-years-1492039859) in the Wall Street Journal, in the fifteen years ending in 2016, *95.4%* of mid-cap funds underperformed the S&P MidCap 400, *93.2%* of small-cap funds underperformed the S&P SmallCap 600, and *92.2% of large-cap funds underperformed the S&P 500...
+
+![Figure36](../images/Figure36.png)
+
+Across the world in recent years more and more money has been flowing into passively-managed funds, and relatively less has been invested in actively-managed funds. It is said that money is smart, and it flows to where it can grow. Another example is how it flows from the hands of those who love to spend to those who chose to invest.
+
+American theologian Reinhold Niebuhr's "Serenity Prayer" is in fact a deep meditation on these boundaries. It's most common form is as follows:
+
+>God, grant me the serenity to accept the things I cannot change,
+>Courage to change the things I can,
+>And wisdom to know the difference.
+
+**Awareness of borders, a long term perspective, and macro observation.** Together, these three concepts can change a person's personality. Myself and my students have all felt this. People say that personality can decide one's fate, but I tend to believe that personality isn't innate, and that personality is only an overall expression of the interplay between the black horse, the white horse and the driver at different times and different stages of development. 
+
+For example, deep thinking about these three concepts has made it very difficult for me to become angry. There is nothing that is worth my getting as angry as I used to get when I was younger. I have started to ponder the following phenomenon:
+
+>Why are some people able to succeed in even the harshest environments?
+
+My choice to be a regular investor, and my eventual ability to explain regular investing in detail, all started from asking myself this questions. Looking at things from a long-term perspective can lead to you to the opposite of your previous conclusions; macro observations can lead you to choices that will produce better results over the long term; and awareness of borders can help you avoid trouble and wasted efforts. I have no need to complain about a poor environment, and I don't want to complain about how society is unfair. Unfairness in society is like the markets: as long as you look at it from a long-term perspective, it's pretty fair, but if you look at it minute-by-minute it's always unfair. Most importantly, I am increasingly able to accept always being underestimated. Just like in the stock market, you will only be very briefly overvalued, and it's probably a bubble, right?
+
+Objectivity is very important. Not only objectivity about the world, but objectivity about yourself, and careful objectivity about the border of your self. Furthermore, it's even more important to be objective over the long term. This is the secret of investing. Of course, it's an open secret. 
+
