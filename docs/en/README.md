@@ -1326,7 +1326,7 @@ Furthermore, the longer the mistake persists, the greater the effect is over the
 
 Regular investors are fortunate because they do the right thing from the start, and as long as they keep doing it for two full cycles they can't make a mistake. Throughout this process of not making mistakes there are only two things they need to do: 1) constantly strengthen their ability to make money outside of the market, and 2) more importantly, constantly learn about investing, patiently breaching the gap between knowing and doing.
 
-## 4.5 The Border Between Active and Passive
+### 4.5 The Border Between Active and Passive
 
 We previously mentioned the following: 
 
