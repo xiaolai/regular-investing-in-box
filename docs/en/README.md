@@ -1488,3 +1488,114 @@ When our investments go from an individual investment (like BTC) to a combinatio
 
 ### 1.2.3 Thoughts on allocation
 
+As of July 2019, "Bitcoin dominanc", which is the percentage that bitcoin represents of all blockchain assets, was 63%. This number might continue to rise in the short term, it will drop as blockchain technology and applications become more widespread. It's not that bitcoin won't continue to develop, it's just that other assets are likely to develop faster than bitcoin over the long term. So, from a long-term perspective, it is reasonable to have a 50% allocation for bitcoin.
+
+The remaining 50% is allocated to EOS and XIN with a 4:1 ratio. This is because I think that XIN will develop rapidly, maybe even faster than EOS.
+
+**Note:** The 5:4:1 ratio is based on USD prices at the inception of BOX. Over time, these ratios are not fixed. The fixed ratios are based on the components:
+
+> 10,000 BOX = 1 BTC + 1,500 EOS + 8 XIN
+
+The main misunderstanding people have of [Mixin](https://mixin.one) is that they thing Mixin is merely a chat app. Actually, while Mixin Messenger is a chat app, or a social networking app, Mixin Network is a public chain, and Mixin Messenger is Mixin Network's first Dapp. The vast majority of public chains (even including EOS as of July 2019) still have no good Dapps. Most Dapps are basically just dice games. 
+
+Mixin Network has taken a different technical development path. 
+
+Other public chains have followed a bottom-up approach, first developing the public chain and then developing on-chain Dapps. This is called "building an ecosystem".
+
+Mixin Network has taken a top-down approach, first creating a great Dapp, Mixin Messenger, and then gradually completing the development of the base public chain. So Mixin Messenger was first released in December of 2012, and more than a year later, in February of 2019, the Mixin Network public chain was officially released. Dapps like dice games can simply be bots running on Mixin Messenger. Ocean.one is a self-governing decentralized exchange running on Mixin Network, and it represents pioneering technology in the blockchain space. Other products, like BOX and its b.watch exchange, are being developed that would be impossible to realize without the Mixin Network public chain. It's not that I haven't tried other public chains, it's that they are unusable. This is the reason for XIN's allocation in BOX.
+
+In summary, BOX is an ETF product that I believe is very likely to succeed. Because if you lose money on it, it is because the blockchain industry has failed, and that is neither my fault nor yours. However, **as long as the blockchain industry does well, BOX will do well**, and the blockchain industry is just taking off, so were are likely to do well. It's that simple.
+
+## 2. About b.watch
+
+[b.watch](https://b.watch) is an exchange to buy BOX and redeem it for its components.
+
+Currently b.watch's profits may come from two areas:
+
+> 1. A 1% commission when BOX is redeemed.
+> 2. A 0.1% commission charged to both buyer and seller when BOX is traded on secondary exchanges, for a total commission of 0.2%.
+
+50% of these earnings will be periodically distributed to BOX holders. At first, these earnings don't seem like much, but over time the development of BOX and b.watch will be amazing. 
+
+Later on, other sources of potential income may include:
+
+> * Income from an EOS Block Producer
+> * Income from XIN odes
+
+It takes a large amount of reserves and preparation to become an EOS Block Producer or a XIN node. When the time is right, b.watch plans to run these nodes, and after deducting operation costs 100% of proceeds will be distributed to BOX holders. 
+
+Under this system, the corporate value of b.watch is basically a 0.5% commission on BOX redemptions and a 0.1% commission on BOX trading. In seven years 100% of BOX shares will be distributed to Xiaolai Regular Investing Class members according to certain conditions. For instance:
+
+> * Time holding BOX
+> * Degree of successful completion of regular investing tasks
+> * Affiliate sales of Xiaolai Regular Investing Class
+
+## 3. About Xiaolai Regular Investing Class
+
+**Xiaolai Regular Investing Class" is my blockchain education product.
+
+After eight years of surviving in the blockchain world, I have a strong desire to share my survival experience and wisdom. I'm sure that you can understand. 
+
+But what you might not have thought of is that what I want to do even more is to make money with lots of other people by sharing reliable investing knowledge and following my own advice. It's rare to have a chance like I have with Xiaolai Regular Investing class to help my students make money by sharing knowledge.  Fortunately, the rapid development of the blockchain industry has given us an unprecedented opportunity. 
+
+Xiaolai Regular Investing Class is a place for me to make money from my knowledge, but more importantly it is a way for students to **make money outside of the market**. I am in charge of creating valuable content, and students, in addition to learning and putting the knowledge into practice, have the opportunity to earn bitcoin by selling the class. That's right, it's not just earning money, it's earning bitcoin, because Xiaolai Regular Investing Class only accepts bitcoin.
+
+In addition to earning bitcoin by selling the class, those who are about to put the knowledge presented in the class into practice by completing their regular investing tasks also have other benefits:
+
+> * They are eligible to receive shares in b.watch, the first on-chain ETF exchange in the world, thus benefiting not only from the development of BOX, but also from the development of b.watch.
+
+In brief, Xiaolai Regular Investing Class is is a place for my and students to **develop together and make money together**.
+
+At the same time, I am also regularly investing in and holding BOX, leading by example. Regular investing is the only reliable investing strategy for most people, but it is always easier said than done, and those who haven't done it have no way to know how difficult it really is. The most important thing is to have people to accompany you, so no one has to suffer loneliness for too long.
+
+Xiaolai Regular Investing Class is different from other courses because I have followed the following principle over the past ten years:
+
+>I only talk and write about things I have already done.
+
+BOX is something that I only talked about once it was created, and I have kept improving it. It's not something that I started on a whim.
+
+Xiaolai Regular Investing Class is a place for me to share my investing principles. Knowledge and understanding is not something that can be simply shared without a cost. I often say the following:
+
+>Knowing something, learning something, and thinking something are useless, especially in activities like investing where the goal is to change one's life.
+>
+>In the end, **doing is all that matters**.
+
+Knowledge and understanding can only realize their value in the process of doing. Doing, however, requires the guidance of knowledge and understanding. 
+
+Investing education is important. Even more basic than investing, making money isn't something that most parents or schools teach, so it must be learned through one's own trial and error. Also, society has brainwashed a generation on this topic. 
+
+**There's no disgrace in making money, it's only a disgrace to make unclean money.**
+
+So from my perspective, everyone should seriously study investing. I can't think of any reason why not.
+
+## About the Author
+
+Li Xiaolai is an investor and a lifelong learner. http://lixiaolai.com · xiaolai@github
+
+### Publications
+
+> * *21-Day TOEFL Core Vocabulary Breakthrough*
+> * [*High-scoring TOEFL Essays*](http://lixiaolai.com/#/twe185/)
+> * [*Befriending Time*](http://lixiaolai.com/#/befriending-time/)
+> * *The Road to Financial Freedom*
+> * *The Self-Cultivation of Leeks* ([Chinese](http://lixiaolai.com/#/the-self-cultivation-of-leeks/cn/), [English](http://lixiaolai.com/#/the-self-cultivation-of-leeks/en/))
+> * [*Self-learning is an Art*](http://lixiaolai.com/#/the-craft-of-selfteaching/)
+> * [*On Regular Investing (Third Edition)*](https://onregularinvesting.com/)
+
+### Other Links
+
+> * *[I Also Have Something to Say](http://lixiaolai.com/#/i-have-a-say/)*
+> * *[Everyone Can Learn English](http://lixiaolai.com/#/everyone-can-use-english/)*
+> * *[Squeeze A Little and it Will Come: A guide to orgasms for women](http://lixiaolai.com/#/ji/)*
+> * *INBlockchain's Open-source Investing Principles* ([English](http://lixiaolai.com/#/INB-principles/en/), [Chinese](http://lixiaolai.com/#/INB-principles/cn/))
+> * *[Bitcoin Whitepaper (Chinese and English)](http://lixiaolai.com/#/bitcoin-whitepaper-cn-en-translation/Bitcoin-Whitepaper-EN-CN.html)*
+> * *[Little Book of Blockchain](https://blockchainlittlebook.com/#/)*
+
+-----
+
+
+
+This book is released under the [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh).
+
+![CC-BY-NC-ND](../images/CC-BY-NC-ND.png)
+
