@@ -5,7 +5,7 @@ Regular investing is quite simple:
 
 >Regularly invest a set amount in a particular investment over a long period of time.
 
-For example, **every week** (regularly) for the next **five to ten years**  invest **200 USD** (a set amount) in **[BOX](https://b.watch)** (a particular investment). Of course, you could change BOX to any investment that is worth investing in an holding over a long period of time, like shares in [Apple](https://finance.yahoo.com/quote/AAPL/), [Maotai](https://hk.finance.yahoo.com/quote/600519.SS/), [Coca-Cola](https://finance.yahoo.com/quote/KO), or an [S&P 500](https://en.wikipedia.org/wiki/S%26P_500_Index) Index Fund.
+For example, **every week** (regularly) for the next **five to ten years** (a long period of time)  invest **200 USD** (a set amount) in **[BOX](https://b.watch)** (a particular investment). Of course, you could change BOX to any investment that is worth investing in and holding over a long period of time, such as shares in [Apple](https://finance.yahoo.com/quote/AAPL/), [Maotai](https://hk.finance.yahoo.com/quote/600519.SS/), [Coca-Cola](https://finance.yahoo.com/quote/KO), or an [S&P 500](https://en.wikipedia.org/wiki/S%26P_500_Index) Index Fund.
 
 定投策略很简单：
 
