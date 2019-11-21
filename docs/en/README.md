@@ -8,66 +8,66 @@
 
 ## Warning
 
-While financial trading markets are no doubt the best to make money through knowledge and thinking, there’s also no other place where people are more severely punished for lack of critical thinking ability.
+While financial trading markets are no doubt the best to make money through critical thinking and the application of knowledge, there’s also no other place where people are more severely punished for a lack of critical thinking.
 
-> Investing is risky, lost could be substantial!
+> Investing is risky, so make your decisions carefully!
 
-As [Howard Stanley Marks](https://en.wikipedia.org/wiki/Howard_Marks_(investor)) who was listed as 327<sup>th</sup> the most wealthy person in United States in 2017, once said:
+As [Howard Stanley Marks](https://en.wikipedia.org/wiki/Howard_Marks_(investor)), who was listed as the 327<sup>th</sup> most wealthy person in United States in 2017, once said:
 
 > “There are *old* investors, and there are *bold* investors, but there are no *old bold* investors.”
 
-Don’t be so naïve as to believe that you can turn into a superman just because you learned something new yesterday. Translating knowledge into meaninful actions takes much more time than you’ve ever imagined. Relax, take it easy, and don’t rush. You can lift a very heavy weight, but without proper training it won’t be pretty.
+Don’t be so naïve as to believe that you can turn into a superman just because you learned something new yesterday. Translating knowledge into meaninful action takes much more time than you’ve ever imagined. Relax, take it easy, and don’t rush. You can lift a very heavy weight, but without proper training you can hurt yourself.
 
 ## Preface
 
-It’s been ten years since I published *Befriending Time*, and it’s still a bestseller. While I was writing the book, I tried to follow the following principle:
+It’s been ten years since I published *Befriending Time*, and it’s still a bestseller. While I was writing the book, I tried to adhere to the following principle:
 
 >*Will this book still be useful to readers in ten years?*
 
-While being bestsellers, my books are often perennial sellers. Here are my secrets for writing a book that continues to sell well over time: **simple**, **direct**, **brutal** and **effective**.
+In addition to being bestsellers, my books are often perennial sellers. Here are my secrets for writing a book that continues to sell well over time: **simple**, **direct**, **brutal** and **effective**.
 
 Because I have been writing in this simple, direct, brutal and effective way for so long, I have a deep understanding of the following fact: 
 
 > Solving the single most important problem can directly avoid the problems that so many others face.
 
-Actually, most problems in life are due to failing to resolve the most important problem right from the start. If you can handle the most important problem in the beginning, then even though there will still be many other difficulties, they won’t be those eternal problems that so many people face.
+Actually, most problems in life are due to failing to resolve the most important problem right from the start. If you can handle the most important problem in the beginning, then even though there will still be many other difficulties, they won’t be the eternal problems that so many people face.
 
-Few are essential decisions in life for which many people also ignore the most important problem. For instance, when choosing whom to marry, “Is she or he reasonable?” is always outside the scope of consideration, even though it is the single most important factor. Instead, they focus on appearance, education, background, etc., without considering which factor will be the most important in the future. Of course, maybe this is because they themselves aren’t a reasonable person (yes, it’s true, most people aren’t very reasonable all the way through their lives). 
+When facing with the few truly essential decisions in life, many people also ignore the most important problem. For instance, when choosing whom to marry, “Is she or he reasonable?” is always outside the scope of consideration, even though it is the single most important factor. Instead, they focus on appearance, education, background, etc., without considering which factor will be the most important in the future. Of course, maybe this is because they themselves aren’t a reasonable person (yes, it’s true, most people aren’t very reasonable, and they stay this way throughout their lives). 
 
-Because they haven’t eradicated the most important problem, it sprouts like a seed, growing both a tree above ground and a deep root structure below, creating countless new problems. And so we see the same situation: people surround the “problem tree” above ground, wasting lots of time and energy, trying to find ways to solve those “real” problems, which otherwise don’t exist at all if they made the right decision long time ago, working hard in vain.
+Because they haven’t eradicated the most important problem, it sprouts like a seed, growing both a tree above ground and a deep root structure below, creating countless new problems. And so we see the same situation again and again: people surround the “problem tree” above ground, wasting lots of time and energy trying to find ways to solve perceived problems that wouldn't have existed at all if they made the right decision long time ago. They don't even notice that the real problem is in the roots of the tree.
 
-Another common yet surprising example is most people’s perception on “success”. *Most people see success as an end* , and this misunderstanding leads to countless new problems that could have been avoided if this mistake had been avoided in the beginning. Success is hard to achieve if we see it as an end point, because we will imbue such a final goal with so many unrealistic hopes and fantasies that we will be unlikely to reach it. Even if some people who take success as an end are lucky enough to reach it, the process will make them abnormal. The craziness that follows success, and the result of that craziness, is actually the result of the mistaken belief from years before that success is an end. 
+Another common yet surprising example is most people’s perception on “success”. *Most people see success as an end point* , and this misunderstanding leads to countless new problems that could have been avoided if this mistake had been avoided in the beginning. Success is hard to achieve if we see it as an end point, because we will imbue such a final goal with so many unrealistic hopes and fantasies that we will be unlikely to reach it. Even if some people who take success as an end point are lucky enough to reach it, the process will make them abnormal. The craziness that follows success, and the result of that craziness, is actually the result of the mistaken belief from years before that success is an end point. 
 
-In fact, success is a new start. If you start a business, this is a new start rather than an end. Each time your business raises money from venture capitals, that is also a new start. Even if you go public, that’s still a new start rather than an end, because you have to continue to help the company grow. In fact, the most tragic failure in life is always from perceiving a new start as an end. 
+In fact, success is a new beginning. If you start a business, this is a beginning rather than an end. Each time your business raises money from venture capitals, that is also a new beginning. Even if you go public, that’s still a new beginning rather than an end point, because you have to continue to help the company grow. In fact, the most tragic failures in life always come from perceiving a new beginning as an end point. 
 
-Investment is also one of few the most important decisions in life, but most people haven’t seriously thought about it, let alone make a decision. The investment arena is divided into two extremes. It’s a binary world in which you’re either a 1 or a 0. Either you are extremely successful, or you are not extremely successful, a mediocre like everybody else, which is basically equal to zero. In my view, the existence of this phenomenon is also related to the fact that most people fail to resolve the most important problem at the start.
+Investment is also one of these few essential decisions in life, but most people haven’t seriously thought about it, let alone made a decision. The investment arena is divided into two extremes -- it’s a binary world in which you’re either a 1 or a 0. Either you are extremely successful, or you are not extremely successful, and then you are mediocre like everybody else, which is basically equal to zero. In my view, the existence of this phenomenon is also related to the fact that most people fail to resolve the most important problem at the beginning.
 
-So what’s the most important concept in the area of investment? **Long-term**.There are more scams in the investment world than in any other area. Why? Because people who have not deeply understood the important concept of “long-term” are always confronting their “problem tree”. Each leaf on the tree is a “real” problem that they must solve, and each branch is something bigger that they need to think about. Not to mention the roots underground, which are so mysterious that they will never understand. In fact, though, this tree should not even exist.
+So what’s the most important concept in the area of investment? **Long-term**.There are more scams in the investment world than in any other area. Why? Because people who have not deeply understood the important concept of long-term are always confronting their “problem tree”. Each leaf on the tree is a perceived problem that they must solve, and each branch is something bigger that they need to think about. They ignore the roots underground, though, because they are too mysterious to understand. In fact, though, this tree should not even exist.
 
-There is a huge gap between thinking and doing, between knowing and making right dicisions, and long-term practice is the only way to cross this gap. A strategy of **regular investing** is the simplest way to practice investing, as all you have to do is regularly purchase a set investment over the long term. However, simple itself always doesn’t necessarily mean easy.
+There is a huge gap between knowing and doing, and long-term practice is the only way to cross this gap. A strategy of **regular investing** is the simplest way to practice investing, as all you have to do is regularly purchase a set investment over the long term. However, simple itself doesn’t necessarily mean easy.
 
-In Greek mythology, there is an island inhabited by the beautiful Sirens. Their incomparable appearance and voices caused passing sailers to lose their minds and crash into the rocks. Only two heroes were able to safely pass. The first was Orpheus, who played the lyre so beautifully that it drowned out the voices of the sirens. The second was Odysseus, who used wax to plug his sailors’ ears, and ordered them to tie him to the ship’s mast, because he wanted to hear the Siren’s song that he knew he would be unable to resist.
+In Greek mythology, there is an island inhabited by the beautiful Sirens. Their incomparable appearance and voices caused passing sailers to lose their minds and crash into the rocks. Only two heroes were able to safely pass. The first was Orpheus, who played the lyre so beautifully that it drowned out the voices of the Sirens. The second was Odysseus, who used wax to plug his sailors’ ears and ordered them to tie him to the ship’s mast so that he could hear the Siren’s song that he knew he would be unable to resist.
 
-The regular investing strategy is correct, but the target for regular investing should be chosen by the readers themselves. In this book I will provide you the tools to make your own decision about what to invest in, by showing you what I’m regularly investing in, and the reasons behind that choice.
+The strategy of regular investing is correct, but the target investment must be chosen by each individual investor. In this book I will provide you the tools to make your own decision about what to invest in. I will do so by showing you what I’m regularly investing in, and explaining the reasoning behind that choice.
 
-*On Regular Investing* is not only an open-source book, it’s also paired with [BOX](https://b.watch), the first zero-fee digital asset ETF, which is my designed. Regular investing is simple, but not necessarily easy, because it’s as if the boat we are sailing is passing by the island of the Sirens. BOX is like the boat, and those who are investing in BOX with us are like the sailors who need to fill their ears with wax, so I’ll keep teaching lessons in the practice group. And I am like Odysseus, tying myself to the mast. Since there are no fees, the way I make money is simple: like everyone else, I am in the same boat, regularly investing in BOX.
+*On Regular Investing* is not only an open-source book, it’s also paired with [BOX](https://b.watch), the first digital asset ETF with no load or management fees, which I designed. Regular investing is simple, but not necessarily easy, because it’s as if the boat we are sailing in is passing by the island of the Sirens. BOX is the boat, and those who are investing in BOX with us are the sailors who need to fill their ears with wax. The wax is continuous learning about regular investing, which I hope to provide in this book and in my classes. I suppose I am Odysseus, tying myself to the mast. Since there are no management fees, the way I make money is simple: like everyone else, I am in the same boat, regularly investing in BOX.
 
-We should solve the most important problem in the very beginning, and not let it take root and grow into a problem tree that gives us a plethora of persistent troubles to deal with. This might be the single most important wisdom in life. 
+We should solve the most important problem at the very beginning, and not let it take root and grow into a problem tree that gives us a plethora of persistent troubles to deal with. This might be the single most important wisdom in life. 
 
-Before long, you will discover that the strategy of regular investing is not only applicable to investing. Actually, it’s applicable to most of life’s important areas, including study, work, and personal life, where the strategy should be used from the very beginning. 
+Before long, you will discover that the strategy of regular investing is not only applicable to investing. Actually, it’s applicable to most of life, including study, work, and personal relationships, all areas in which the strategy should be used from the very beginning. 
 
-So again, the reason I am writing this book is because I hope that ten, twenty or even thirty years from now its content will still be useful to a lot of people.
+So again, the reason I am writing this book is because I hope that ten, twenty or even thirty years from now its content will still be useful to many.
 
 ## Part One: Regular Investing
 
-Investing is not easy, and successful investing is even harder. But just becasue something is easy doesn't mean there isn't a simple, direct, brutal and effective strategy that almost everyone can correctly master and deploy.
+Investing is not easy, and successful investing is even harder. But just because something isn't easy doesn't mean there isn't a simple, direct, brutal and effective strategy that almost everyone can correctly master and deploy.
 
 ### 1.1 The Strategy and Results
 
 Regular investing is quite simple: 
 >Regularly invest a set amount in a particular investment over a long period of time.
 
-For example, **every week** (regularly) for the next **five to ten years**  invest **200 USD** (a set amount) in **[BOX](https://b.watch)** (a particular investment). Of course, you could change BOX to any investment that is worth investing in an holding over a long period of time, like shares in [Apple](https://finance.yahoo.com/quote/AAPL/), [Maotai](https://hk.finance.yahoo.com/quote/600519.SS/), [Coca-Cola](https://finance.yahoo.com/quote/KO), or an [S&P 500](https://en.wikipedia.org/wiki/S%26P_500_Index) Index Fund.
+For example, **every week** (regularly) for the next **five to ten years** (a long period of time) invest **200 USD** (a set amount) in **[BOX](https://b.watch)** (a particular investment). Of course, you could change BOX to any investment that is worth investing in and holding over a long period of time, such as shares in [Apple](https://finance.yahoo.com/quote/AAPL/), [Maotai](https://hk.finance.yahoo.com/quote/600519.SS/), [Coca-Cola](https://finance.yahoo.com/quote/KO), or an [S&P 500](https://en.wikipedia.org/wiki/S%26P_500_Index) Index Fund.
 
 Is such a simple strategy really effective? The numbers don't lie.
 
@@ -75,32 +75,33 @@ Suppose you started investing in the S&P 500 on October 8th, 2007. Knowing what 
 
 ![Figure01](../images/Figure01.png)
 
-What would the result be? If we take ourselves back to October 8th, 2007, it's really hard to know what the result would be. But if we look at it from today, more than a decade later, the answer is clear: the results were fantastic! We experienced a crash in the market from \$1,561 to a low of \$683, but we kept buying at that low price. Later, the market recovered, and by October of 2019 the S&P 500 had exceeded \$2,960.
+What would the result be? Back in October 8th, 2007, would be really hard to say. But looking at it from today, more than a decade later, the answer is clear: the results were fantastic! We experienced a crash in the market from \$1,561 to a low of \$683, but we kept buying at that low price. Later, the market recovered, and by October of 2019 the S&P 500 had exceeded \$2,960.
 
-But this description is missing an important detail. Figure below shows the value of your total assets (the red line) and the value of your total investment (the blue line). 
+But this description is missing an important detail. The chart below shows the value of your total assets (the red line) and the value of your total investment (the blue line). 
 
 ![Figure02](../images/Figure02.png)
 
-There is an extended period of time when your asset value drops below your total investments. But towards the end of 2009 the red line passes the blue line, and it almost never again drops below, growing faster over time.
+There is an extended period of time when your asset value drops below your total investments. But towards the end of 2009 the red line passes the blue line, and it almost never drops below it again, growing faster over time.
 
->Note: The historical data in this chart come from [Yahoo Finance (^GSPC)](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC), and the chart was created in Google Sheets; you can view the data and spreadsheet [here](https://docs.google.com/spreadsheets/d/1QE3itAH_TwUv4Gp9EVwwIz3Xb8taT5N-etfJCkYEvrg/edit?usp=sharing).
+>Note: The historical data in this chart is from [Yahoo Finance (^GSPC)](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC), and the chart was created in Google Sheets; you can view the data and chart [here](https://docs.google.com/spreadsheets/d/1QE3itAH_TwUv4Gp9EVwwIz3Xb8taT5N-etfJCkYEvrg/edit?usp=sharing).
 
-The key point is that you entered the market at the worst time –- on October 8th, 2007, S&P 500 was at \$1,561, and it didn't return to this price until March 25th, 2013.
+The key point is that you entered the market at the worst time –- on October 8th, 2007, the S&P 500 was at \$1,561, and it didn't return to this price until March 25th, 2013.
 
 ![Figure03](../images/Figure03.png)
 
-But if you take another look at Figure before the above, you'll see that the red line crosses the blue line for the first time in 2009. So while it took the S&P 500 **286** weeks to return to its high, your strategy of regular investing began to see steady positive returns after just *111* weeks. When you started to see positive returns, the S&P 500 was still 30% off its all-time high. When the S&P 500 finally returned to its high after 286 weeks, your strategy was already showing returns of *32.64%*.
+But if you take another look at chart above, you'll see that the red line crosses the blue line for the first time in 2009. So while it took the S&P 500 **286** weeks to return to its high, your strategy of regular investing began to see steady positive returns after just *111* weeks. When you started to see positive returns, the S&P 500 was still 30% off its all-time high. When the S&P 500 finally returned to its high after 286 weeks, your strategy was already showing returns of *32.64%*.
 
-Let's take a look at an even more striking example. Suppose you started regularly investing in Bitcoin in December of 2017 when Bitcoin was at it's all-time high of \$19,800. Shortly aftwards, the price crashed, and it still hasn't returned to its all-time high. The chart below assumes you started regularly investing in Bitcoin on December 11th, 2017, and kept it up for 87 weeks. 
+Let's take a look at an even more striking example. Suppose you started regularly investing in Bitcoin in December of 2017, when Bitcoin was at it's all-time high of \$19,800. Shortly afterwards, the price crashed, and it still hasn't returned to its all-time high. The chart below assumes you started regularly investing in Bitcoin on December 11th, 2017, and kept it up for 87 weeks. 
 
 ![Figure04](../images/Figure04.png)
 
->Note: The historical data above is from [Yahoo Finance (Bitcoin USD)](https://finance.yahoo.com/quote/BTC-USD/history/), and the chart was made using Google Sheets. You can view the data and chart [here](https://docs.google.com/spreadsheets/d/1pzc6p4UhyAMtqaKis2_uU3hbi8Um34ArTiUQr1tZpc0/edit?usp=sharing).
+>Note: The historical data in this chart is from [Yahoo Finance (Bitcoin USD)](https://finance.yahoo.com/quote/BTC-USD/history/), and the chart was created in Google Sheets; you can view the data and chart [here](https://docs.google.com/spreadsheets/d/1pzc6p4UhyAMtqaKis2_uU3hbi8Um34ArTiUQr1tZpc0/edit?usp=sharing).
 
 Even though you entered the market at the worst time, your investment has still been profitable in USD terms, with the red line (your assets in USD terms) passing the blue line (your total investment in USD terms) on May 6th, 2009. If you invested \$100 each week, by the 87th week you would have invested \$8,700, but your Bitcoin would have been worth \$16,417, for a gain of **88.71%**. This is despite the fact that Bitcoin remained over 62.85% off of it's all-time high, which was when you started investing. 
 
 This can seem really flabbergasting at first: 
->With regular investing, even if you start at what seems like the worst time, just before a market crash, your overall investment will become profitable **before the market recovers**.
+
+>With regular investing, even if you start at what seems like the worst time, such as just before a market crash, your overall investment will become profitable **before the market recovers**.
 
 Some fans of regular investing always emphasize a partially correct fact, which is that regular investing will effectively reduce your average cost. But the other side of the coin is that it also probably raises your average cost. It's obvious, isn't it? So these fans are using an incorrect reason to choose the correct strategy . But how long can an operating system with an error at the base level continue to run for?
 
@@ -116,7 +117,7 @@ Once you understand this key point, you will understand the following;
 
 Most investors don't understand this, and it is the core reason why their investments are destined to fail. They want to make money quickly in the ephemeral bull market. It's really quite depressing: most of the "investors" who enter the market during a bull market are destined to lose their shirts, because before they realize it, the short bull market has ended, and the long bear market has begun. Regular investors, on the other hand, are slowly accumulating throughout the bear market.
 
-In fact, the strategy of regular investing is not only applicable to trading markets, it's useful in almost all important areas of life, whether it be study, work or family. "Life-long learning" is essentially a regular investing strategy, isn't it? If you could draw a "price curve" for an individual's learning, it would look a lot like the S&P 500. Even though it increases substantially over time, it goes through long periods of flat growth or even drops. Often when you are inviting time in learning something it feels like you would be better off not learning it. The "bear market" is long, isn't it? This explains why so few people are able to become true life-long learners. The reason is the same: everyone wants to make money quickly in the bull market and then leave.
+In fact, the strategy of regular investing is not only applicable to trading markets, it's useful in almost all important areas of life, whether it be study, work or family. "Lifelong learning" is essentially a regular investing strategy, isn't it? If you could draw a "price curve" for an individual's learning, it would look a lot like the S&P 500. Even though it increases substantially over time, it goes through long periods of flat growth or even drops. Often when you are inviting time in learning something it feels like you would be better off not learning it. The "bear market" is long, isn't it? This explains why so few people are able to become true lifelong learners. The reason is the same: everyone wants to make money quickly in the bull market and then leave.
 
 [Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos) once asked [Warren Buffett](https://en.wikipedia.org/wiki/Warren_Buffett), "Your investment thesis is so simple... Why doesn't everyone just copy you?" Buffett's [reply](https://www.beingguru.com/2019/05/warren-buffett-nobody-wants-to-get-rich-slow/) was quite striking:
 
