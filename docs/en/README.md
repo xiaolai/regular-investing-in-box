@@ -127,35 +127,35 @@ The most important part of Buffett's strategy is to hold for the long term. He h
 
 ### 1.2 How long is "long-term"
 
-The core of the regular investing strategy is long-term holding. It's well-recognized that the longer you hold the more likely you are to make a profit. But there is a key question we have to answer if we are to have a deeper discussion:
+The core of the regular investing strategy is long-term holding. It's well-recognized that the longer you hold the more likely you are to make a profit, but there is a key question we have to answer if we are to have a deeper discussion:
 
 >**How long is "long-term"?**
 
-If we don't have an accurate answer to this question, then we can't even really use the concept of "long-term". For any concept to be useful it must be clearly defined, and since we must combine concepts together, if we have multiple unclear concepts the accuracy of our judgement will be severely impacted, just as multiplying 80% by itself 5 times will leave you us with less than 32%. In course of reading this book, you will encounter several concepts that must be used together, and so they must be clearly and accurately defined in order to be useful.
+If we don't have an accurate answer to this question, we can't even really use the concept of "long-term". For any concept to be useful it must be clearly defined, and since we must combine concepts together, if we have multiple unclear concepts then the accuracy of our judgement will be severely impacted, just as multiplying 80% by itself 5 times will leave us with less than 32%. In course of reading this book, you will encounter several concepts that must be used together, and so they must be clearly and accurately defined in order to be useful.
 
 Unlike most people, I have a fairly clear, accurate and useful definition of long-term:
 
 >Long-term means longer than **two full market cycles**.
 
-A clear and accurate definition of "long-term" thus depends on a clear and accurate definition of another concept: "market cycle". So what's a full market cycle? Let's take Bitcoin's historical price chart as an example to explain.
+A clear and accurate definition of "long-term" thus depends on a clear and accurate definition of another concept: "market cycle". So what's a full market cycle? Let's use bitcoin's historical price chart as an example.
 
 ![Figure05](../images/Figure05.png)
 
-A full market cycle is composed of a period of falling (Period B), and a period of rising (Period A). In this chart we can see a full market cycle, with Period B beginning in December of 2013 when prices started falling, and Period A ending in December of 2017 when Bitcoin reached its historical high. 
+A full market cycle is composed of a period of falling price (Period B), and a period of rising price (Period A). In this chart we can see a full market cycle, with Period B beginning in December of 2013, when prices started falling, and Period A ending in December of 2017, when bitcoin reached its historical high. 
 
-How can you tell when a market cycle begins? Actually, we can only make this determination **after the fact**. Since short term prices can rise and fall unpredictably, it's impossible to know when a high or low point for a period has been reached. It's hard to know how long after the fact it will be before we can make the determination, but we can be sure that it will be long enough that the judgement will not be useful for short-term trading decisions.
+How can you tell when a market cycle begins? Actually, we can only make this determination **after the fact**. Since short term prices can rise and fall unpredictably, it's impossible to know when a high or low point for a given period has been reached. It's hard to know how long after the fact it will be before we can make the determination, but we can be sure that it will be long enough that the it will not be useful for short-term trading decisions.
 
 ![Figure06](../images/Figure06.png)
 
-On the same chart, I have market the three full market cycles that I have personally experienced with Bitcoin. The first started around June 8 of 2011 at a price of \$32, and ended on April 11, 2013, at a price of \$266; the second started at the end of the first and ended on December 19, 2013, at a price of \$1,280; the third started at the end of the second and ended on December 17, 2017, at a price of \$19,800. Actually, I have experienced more cycles in this, since I entered the Bitcoin market two months before the June 2011 high of \$32, and I have continued and will continue to hold Bitcoin since the December 2017 historical high of \$19,800.
+On the same chart, I have marked the three full market cycles that I have personally experienced with bitcoin. The first started around June 8th, 2011, at a price of \$32, and ended on April 11, 2013, at a price of \$266; the second started at the end of the first and ended on December 19, 2013, at a price of \$1,280; the third started at the end of the second and ended on December 17, 2017, at a price of \$19,800. Actually, I have experienced more cycles than this, since I entered the bitcoin market two months before the June 2011 high of \$32, and I have continued and will continue to hold Bitcoin since the December 2017 historical high of \$19,800.
 
 The are several details in this chart that are worth looking at closely. For example, we can clearly see, as I mentioned earlier, that bear markets are much, much longer than bull markets. 
 
-Why do we need to emphasize at least **two** market cycles? Because lots of people misunderstand **trends**. They see that today's price is higher than yesterday's, and yesterday's price was higher than the day before, and so they think they have identified an "upward trend". They then erroneously assume that tomorrow's price will be higher than todays. But actually, it's impossible to judge a trend in the short term, even over the course of one entire cycle.
+Why do we need to emphasize at least **two** market cycles? Because many people misunderstand **trends**. They see that today's price is higher than yesterday's, and that yesterday's price was higher than the day before, and they think they have identified an "upward trend". They then erroneously assume that tomorrow's price will be higher than today's. But it's actually impossible to judge a trend in the short term, even over the course of one entire cycle.
 
 >Only after **two full cycles** can we make an **accurate** judgement about whether a trend is more likely to be upward or downward.
 
-Furthermore, please notice the use of "more likely to be" in the sentence above. Even after two full cycles, we still cannot be 100% sure about the future trend based on historical data. At this point in time (October 2019), Bitcoin's price has still not returned to its historical high, and we cannot be 100% sure that Bitcoin will every exceed its historical high. We will only be able to make this determination after the fact –- long after the fact. In the end, from any point in time, we can only make investment decisions based on less than 100% certainty. Since the future is full of risk and unknown factors, we can only use terms such as "more likely. Actually, this is exactly why investing is so interesting.
+Furthermore, please notice the use of "more likely to be" in the sentence above. Even after two full cycles, we still cannot be 100% sure about the future trend based on historical data. At this point in time (October 2019), bitcoin's price has still not returned to its historical high, and we cannot be 100% sure that Bitcoin will every exceed its historical high. We will only be able to make this determination after the fact –- long after the fact. In the end, from any point in time, we can only make investment decisions based on less than 100% certainty. Since the future is full of risk and unknown factors, we can only use terms such as "more likely. Actually, this is precisely why investing is so interesting.
 
 In the chart above, we can barely see the high reached in June of 2011. But if we separate each historical high into separate charts, we see that they look strikingly similar.
 
@@ -167,44 +167,42 @@ Let's briefly summarize what we have discussed thus far:
 
 > * a period of rising or falling prices does not necessarily constitute a trend –- **it's impossible to determine a trend over the short term**;
 > * a period of falling prices (Period B) followed by a period of rising prices (Period A) constitutes a **full cycle**;
-> * we can take each **historical high** as the starting point for Period B in a full cycle;
+> * we can take each **historical high** as the starting point for Period B of a full cycle;
 > * we can only determine the historical high of a period **after the fact**;
-> * It takes **at least two full cycles** to determine a **trend**;
+> * it takes **at least two full cycles** to determine a **trend**;
 > * the best we can do is determine that a trend is **more likely**;
-> * an upward trend often results in a **new historical high**, but we can only determine high the price goes in a cycle after the fact;
+> * an upward trend often results in a **new historical high**, but we can only determine the highest price of a cycle after the fact;
 > * long-term holding refers to holding for **at least two full cycles**, or through two bear markets and two bull markets.
 
-If we use this "upgraded" way of thinking to look at any price chart we will get a completely different result than before. Below is the price chart for the S&P 500 from 1956 to 2019:
+If we use this upgraded way of thinking to look at any price chart we will get a completely different result than before. Below is the price chart for the S&P 500 from 1956 to 2019:
 
 ![Figure08](../images/Figure08.png)
 
-> Note: The historical data in this chart come from [Yahoo Finance (^GSPC)](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC), and the chart was created in Google Sheets; you can view the data and spreadsheet [here](https://docs.google.com/spreadsheets/d/1RsmiifuZajR_POx1zO_--qUcOgwb7tABNQpT-O69Ryk/edit?usp=sharing).
+> Note: The historical data in this chart is from [Yahoo Finance (^GSPC)](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC), and the chart was created in Google Sheets; you can view the data and chart [here](https://docs.google.com/spreadsheets/d/1RsmiifuZajR_POx1zO_--qUcOgwb7tABNQpT-O69Ryk/edit?usp=sharing).
 
 There's an easy way to understand how economic cycles are shaped:
 
 >Economic cycles are shaped by participants in the economy coordinating well at some times and poorly at others.
 
-When many parties -– and many here refers to so many that many parties don't even know the existence of some others -– are communicating more and more efficiently, the length of cycles will become shorter and shorter, even if fluctuations, which occur when parties are not coordinating well, may never be completely eliminated.
+When many parties -– and "many" here refers to so many that some parties don't even know of the existence of others -– are communicating more and more efficiently, the length of cycles will become shorter and shorter, even if fluctuations, which occur when parties are not coordinating well, may never be completely eliminated.
 
-If we look at it from this perspective, we can easily understand why the Great Depression in the 1930s took so long to recover from (complete the cycle), yet the recovery from the Asian Financial Crises of the 1990s only took a few years, and the recovery from the worldwide recession brought about by the US subprime crisis was even faster. 
+If we look at it from this perspective, we can easily understand why the Great Depression of the 1930s took so long to recover from (i.e., complete the cycle), yet the recovery from the Asian Financial Crises of the 1990s only took a few years, and the recovery from the worldwide recession brought about by the US subprime crisis was even faster. 
 
 The reason is simple and easily understood:
 
 >The rapid flow of information makes worldwide cooperation easier and more seamless, so even though crises will continue to occur, **recoveries are becoming more rapid.**
 
-This is also why blockchain assets see shorter fluctuation cycles. Over the past eight years, I've often heard people use the halving of Bitcoin's block reward every four years as a way to distinguish Bitcoin's cycles. Maybe that was true early on, but now that Bitcoin is no longer the only valuable blockchain asset, using the block reward halving as a basis for determining cycles has slowly lost significance.
+This is also why blockchain assets see shorter fluctuation cycles. Over the past eight years, I've often heard people use the halving of bitcoin's block reward every four years as a way to distinguish bitcoin's cycles. Maybe that was useful early on, but, now that Bitcoin is no longer the only valuable blockchain asset, using the block reward halving as a basis for determining cycles has slowly lost significance.
 
-I think that the reason why blockchain asset markets have shorter cycles than stock markets is due to the fact that the players in the market are clearly coordinating more efficiently. We can see this clearly from just looking at the number of trading markets. There are only a few influential stock markets, but there are thousands of markets on which to trade blockchain assets, and trading continues 24 hours a day, 365 days a year. This type of coordination greatly exceeds the coordination of traditional securities markets. 
+I think the reason why blockchain asset markets have shorter cycles than stock markets is due to the fact that the players in the market are clearly coordinating more efficiently. We can see this just from looking at the number of trading markets. There are only a few influential stock markets, but there are thousands of markets on which to trade blockchain assets, and trading continues 24 hours a day, 365 days a year. This type of coordination greatly exceeds the coordination of traditional securities markets. 
 
-This is truly great news:
+It is truly great news:
 
 >**Cycles are getting shorter and shorter.**
 
 Cycles in stock markets have already shrunk from decades to less than a decade, and they continue to shrink. Blockchain market cycles are already shorter, and they are also shrinking.
 
 In my view, long-term doesn't mean forever, but is a clearly defined concept of two or more full market cycles. In the stock market, two full market cycles will take about 10-15 years; in the blockchain market, two full market cycles will take six to eight years. Either way, they are both futures worth waiting on, right?
-
-
 
 ### 1.3 Why Use Money to Make Money
 
@@ -221,22 +219,22 @@ There is a set of data that can help us understand how little time we actually h
 > * We spend 9 years watching TV, playing video games, and using social networks; 
 > * We spend 6 years doing chores;
 > * We spend 4 years eating and drinking;
-> * We only spend 3.5 years on education
-> * We spend 2.5 years grooming
-> * We spend 1.5 years on child care
+> * We only spend 3.5 years on education;
+> * We spend 2.5 years grooming;
+> * We spend 1.5 years on child carel
 > * We spend 1.3 years commuting.
 
-According to these estimates, we only have nine year left to allocate at will! The amount of time we have to sell is our work time of 10.5 years plus the leftover time of 9 years. From this perspective, by working really hard, we mean not only all of the time of 10.5 years are sold, but also most or even all of the leftover time of 9 years. Even if we allocate all of those 9 years to paid work, we still haven't even doubled the time we have to sell. And we still sleep for longer than the time we have available to sell. Sleep is expensive!
+According to these estimates, we only have nine years left to allocate at will! The amount of time we have to sell is our work time of 10.5 years plus the nine years we spend on leisure. Even if we allocate all of those 9 years to paid work, we still haven't even doubled the time we have to sell. And we still sleep for longer than the time we have available to sell. Sleep is expensive!
 
-When I was young, I worked very hard like all others.
+When I was young, I worked very hard just like everyone else.
 
-Just after graduating from college I started working in sales, and there were weeks in which I spent six nights sleeping on a train. I'd get off the train in the morning, find a place to shower and change clothes, spend the day running sales trainings, and then hop back on a train at night to head to the next city, where I'd start all over again.
+Upon graduating from college I started working in sales, and there were weeks in which I spent six nights sleeping on a train. I'd get off the train in the morning, find a place to shower and change clothes, spend the day running sales trainings, and then hop back on a train at night to head to the next city, where I'd start all over again.
 
-People who have known me for a long time know that I don't have holidays. This is because shortly after I graduated in 1995 I realized that there are so many holidays! In China, out of **365** days in the year, there are *115* legal holidays (including weekends)! That means we spend a third of the year resting! Something didn't seem right. Later I realized that "legal" holidays are established to limit corporations. If a corporation forces someone to work on a holiday without extra pay, it's illegal, but there's no limit on what an individual can do. There's no law at all that says, "today is a legal holiday, so if you don't rest you're breaking the law!" So I decided that from that point on that I would have nothing to do with legal holidays. It's been 24 years since 1995, and I haven't had weekends or holidays, I just do what I want to each day! I've published a lot of books, and most of them have been written by myself over the Chinese New Year while everyone else is on vacation. I've worked very hard, haven't I?
+People who have known me for a long time know that I don't have holidays. This is because shortly after I graduated in 1995 I realized that there are so many holidays! In China, out of **365** days in the year, there are *115* legal holidays (including weekends)! That means we spend a third of the year resting! Something didn't seem right. Later I realized that "legal" holidays are established to limit corporations. If a corporation forces someone to work on a holiday without extra pay, it's illegal, but there's no limit on what an individual can do. There's no law at all that says, "today is a legal holiday, so if you don't rest you're breaking the law!" So, from that point on, I decided that I would have nothing to do with legal holidays. It's been 24 years since 1995, and I have done my best to ignore weekends and holidays. I just do what I want to each day! I've published a lot of books, and most of them have been written by myself over the Chinese New Year while everyone else is on vacation. I've worked very hard, haven't I?
 
-About ten years ago, I suddenly realized what a waste of time it was to worry about hairstyles. Everybody spends a couple of hours to get their hair cut, and they often end up waiting for a long time at the barber. So I decided that I would cut my own hair. A good Phillips trimmer only costs about \$50, and you can use it for many years. So I've had the same hairstyle for the last decade, a three millimeter buzzcut. It's easy to every few days just use the trimmer for a few minutes before I shower. Can you see how hard I work to save time?
+About ten years ago, I suddenly realized what a waste of time it was to worry about hairstyles. Everybody spends a couple of hours to get their hair cut each time, and they often end up waiting for a long time at the barber. So I decided that I would cut my own hair. A good Phillips trimmer only costs about \$50, and you can use it for many years. So I've had the same hairstyle for the last decade -- a three millimeter buzzcut. It's easy to just use the trimmer every few days for a few minutes before I shower. Can you see how hard I work to save time?
 
-The numbers, however, are rather disappointing. By not having a holiday in 24 years, how much time have I freed up that I can sell? Even if I don't rest on holidays, I'm only likely to have four hours of effective work time every day. If you've worked to yourself, you know that the amount of truly effective work time you can have in one day is quite limited. So how much effective work time have I created by having no holidays over the past 24 years?
+The numbers, however, are rather disappointing. By not having a holiday in 24 years, how much time have I freed up to sell? Even if I don't rest on holidays, I'm only likely to have four hours of effective work every day. If you've worked for yourself, you know that the amount of truly effective work time you can have in one day is quite limited. So how much effective work time have I created by having no holidays over the past 24 years?
 
 > 24 x 115 x 4 = 11,040
 
@@ -244,25 +242,23 @@ Just over 10,000 hours. So how many years is that?
 
 > 11,040 ÷ (365 x 24) = 1.26
 
-You see? I've been so hard on myself, and all for what? All for merely *14%* more time than other people who work very hard but still take holidays. And what about the decision I made 10 years ago to cut my own hair? How much time did I save with that? If you cut your hair once a month, and it takes 1.5 hours, then that's 18 course per year. Over ten years, that 180 hours. You see? I took such good care of my time and was so hard on myself, but I only saved 7.5 days that I could sell! All that effort, and I only end up with *0.228%* more time than everybody else!
+You see? I've been so hard on myself, and all for what? All for merely *14%* more time than other people who work very hard but still take holidays. And what about the decision I made 10 years ago to cut my own hair? How much time have I saved with that? If you cut your hair once a month, and it takes 1.5 hours, so that's 18 hours per year. Over ten years, that's 180 hours. You see? I took such good care of my time and was so hard on myself, but I only saved 7.5 days! All that effort, and I only end up with *0.228%* more time than everybody else!
 
-[Frank H. Knight](https://www.nytimes.com/2019/10/17/sports/basketball/nba-china-adam-silver.html), one of the most influential economists of the 20th century, has a famous point of view:
+[Frank H. Knight](https://www.nytimes.com/2019/10/17/sports/basketball/nba-china-adam-silver.html), one of the most influential economists of the 20th century, has a famous postulation:
 
 >Ownership of personal or material productive capacity is based upon a complex mixture of inheritance, luck and effort, probably in that order of relative importance.
 
 Of course, this doesn't mean that effort isn't important. Some measure of success can be achieved through effort, but huge success depends on luck, and we all know that we can't control luck (or inheritance!). The problem, as we have seen, is that we have a limited amount of time that we can sell, so effort is of the least relative importance.
 
-However, it's different if we use money to make money. **The core of investing is using money to make money, and money doesn't rest –- as long as you make the right investment it works for you 24 hours a day, 365 days a year.** How can your sweat and tears compete with that?
+However, it's different if we use money to make money. **The core of investing is using money to make money, and money doesn't rest –- as long as you make the right investment, it works for you 24 hours a day, 365 days a year.** How can your sweat and tears compete with that?
 
  The reason we admire Warren Buffett so much is due to the following fact: 
 
 >Warren Buffett was born in 1930 and bought his first stock when he was 11. It's now 2019, so he has been investing for 78 years!
 >
->*78* years! The average person only lives 78 years, and they only have an extra nine years to allocate. But Buffett's money has already been working hard for him for 24 hours a day 365 days a year for 78 years! That basically means that someone who doesn't let their money work for then, and only has nine extra years to allocate, couldn't even catch up to Buffett if they lived several lives! 
+>*78* years! The average person only lives 78 years, and they only have an extra nine years to allocate. But Buffett's money has already been working hard for him 24 hours a day, 365 days a year, for 78 years! 
 
-Try to imagine the trimendous difference by yourself... What a blow!
-
-
+It's not hard to understand what a huge difference investing can make. 
 
 ### 1.4 What Can We Use to Regularly Invest?
 
@@ -274,43 +270,43 @@ This is a frustratingly common misunderstanding. In fact, in addition to investi
 
 It's not just non-investors who forget this. Even the few who do invest don't realize that, in addition to money, their time is also an investible asset. They haven't thought about how important time is, and how strong an influence it has over us.
 
-Warren Buffett is undoubtably the most commonly-researched investor in the world, and you'll find his name in most books on investment, this one included. There's no way around it, as most of what he says is correct, and, perhaps more importantly, he's been so successful that most of what he says on the topic should be correct, and almost everyone can't help but agree with him.
+Warren Buffett is undoubtably the most commonly-researched investor in the world, and you'll find his name in most books on investment, this one included. There's no way around it, as most of what he says is correct, and, perhaps more importantly, he's been so successful that most of what he says on the topic must be correct, and we can't help but agree with him.
 
 Buffett is not just successful, he's also always very open in sharing his thoughts and ideas. The problem is, he's told us everything we need to do, so why can't we just go do it? Even though the difference between knowing and doing is the difference between monkeys and humans, there is a still more important reason: 
 
 >Warren Buffett has a zero cost of capital!
 
-Berkshire Hathaway's key turning point in its early years came in 1967 when it bought National Indemnity Company and entered the insurance industry. Remember, Berkshire had been a textile company that Buffett had taken control of in a fit of anger, and he regretted getting into the textile industry for many years. It wasn't until 1985 that Berkshire finally exited the textile business, nearly 20 years after Buffett took control in 1965.
+Berkshire Hathaway's key turning point in its early years came in 1967, when it bought National Indemnity Company and entered the insurance industry. Remember, Berkshire was a textile company that Buffett took control of in a fit of anger, and he regretted getting into the textile industry for many years. It wasn't until 1985 that Berkshire finally exited the textile business, nearly 20 years after Buffett took control in 1965.
 
-But after entering the insurance market in 1967, Berkshire became an investing machine. The reason was simple: Buffett not only had a huge amount to invest, the funds also came at zero cost, and could be used almost indefinitely. This was a huge relative advantage over all other investors in the world.
+But after entering the insurance market in 1967, Berkshire became an investing machine. The reason was simple: Buffett not only had a huge amount to invest, the funds also came at zero cost, and they could be used almost indefinitely. This was a huge relative advantage over all other investors in the world.
 
 All of the books about Buffett talk about his incredible returns, and they treat his investment principles as the Bible. Even a casual statement at Berkshire's annual meeting can be taken as law. But 99.99%  of investors will never have access to massive amounts of free capital to invest over an unlimited term, and that's a big reason why Buffett has been extraodinarily successful.
 
-Regular investors are different. They may not have that much money, but the are investing more than just money. Since they are continuously investing over the long term,
+Regular investors are different. They may not have that much money, but they are investing more than just money. Since they are continuously investing over the long term,
 
->The are also using time to invest.
+>they are also using time to invest.
 
-The reason I have been able to hold Bitcoin and other blockchain assets over the long term is not, as many people think, because I have "faith". In fact, faith doesn't require logic, and can't depend on logic, because if it did depend on logic, all faith would be shaken in the end.
+The reason I have been able to hold bitcoin and other blockchain assets over the long term is not, as many people think, because I have "faith". In fact, faith doesn't require logic, and can't depend on logic, because if it did depend on logic, all faith would be shaken in the end.
 
 The core reason I have been able to hold these assets is that I have the ability to continuously make money over the long term outside of the market, because I have upgraded my personal business model.
 
->The vast majority of people can only sell their time once, but after upgrading I can sell my time multiple times, for instance by writing books or teaching online.
+>The vast majority of people can only sell their time once, but after upgrading I can sell my time multiple times. For instance, by writing books or teaching online.
 
 Even thought there is a ceiling on this business model, it has allowed me to not be tied down by daily expenses. It also allows me to always have an amount of money to use for investment that, while limited in amount, has no cost, is constantly flowing in, and can be invested over an unlimited term. Without this, all of my achievements in the investment space would have been impossible. So my regular investment into blockchain assets is not just money, but all of the effective time that I have spent working, and the sustainable income that has come from repeatedly selling this time.
 
-So regular investing is what "poor people with ambition" do, and it is something that only this type of person can do. When Buffett purchased a controlling stake in Berkshire Hathaway, he was already not a poor man. After purchasing National Indemnity Company and entering the insurance industry, almost all of his investments were long-term buy and hold investments. Buffett didn't need a strategy of regular investing, or, to put it more precisely, he didn't need to improve upon his buy and hold strategy. The simplest strategy in the world was already enough for him.
+So regular investing is what people with ambition but limited resources can do, and it is something that only this type of person can do. When Buffett purchased a controlling stake in Berkshire Hathaway, he was already not a poor man. After purchasing National Indemnity Company and entering the insurance industry, almost all of his investments were long-term buy and hold investments. Buffett didn't need a strategy of regular investing. Or, to put it more precisely, he didn't need to improve upon his buy and hold strategy. The simplest strategy in the world was already enough for him.
 
-As far as other fund managers, they were even less able to pursue a regular investing strategy, primarily because 99.99% of fund managers (or, everyone except Buffett) has a limited term for their capital. For some it may be ten years, for others it may be three to five years, but no matter how long it is it's still a limit, and that entails great risk. In the investment world it's rare to have a middle ground, it's either 1 or 0. If capital has a term, the risk is 1, if it doesn't, the risk is 0, and there is no 0.2 or 0.8. Lots of people don't understand this, so they line up like lemmings to take risks and end up falling off a cliff. The riskiest job in the world is President of South Korea, and right after that is the fund manager who guarantees immediate redemption of capital.
+As far as other fund managers, they were even less able to pursue a regular investing strategy, primarily because 99.99% of fund managers (or, everyone except Buffett) has a limited term for their capital. For some it may be ten years, for others it may be three to five years, but no matter how long it is it's still a limit, and that entails great risk. In the investment world it's rare to have a middle ground -- it's either a 1 or a 0. If capital has a term the risk is 1, if it doesn't the risk is 0, and there is no 0.2 or 0.8. Lots of people don't understand this, so they line up like lemmings to take risks and end up falling off a cliff. The riskiest job in the world is President of South Korea, and right after that is the fund manager who guarantees immediate redemption of capital.
 
-To put it another way, most "professional investors" don't have the ability to do regular investing, because they are not managing their own money, and the funds have a deadline to be returned. Once it's time to settle the funds, it doesn't matter if it's a bull market or a bear market, it's still time to settle, so how can you be sure of your earnings? Most people have never thought about how a funds success is not dependent on the manager's acumen and strategy but instead dependent on the time the fund was established. Funds that are established at the end of Period B and the beginning of Period A are quite likely to succeed, because during that period you can make money investing in almost anything. The problem is that at that time investors are the most scared and circumspect, so it's hard to raise money. The easiest time to raise money is at the end of Period A, when everyone has gone crazy in the bull market. But if they raise money at that time, and the money has a term, it's going to be very difficult to succeed. 
+To put it another way, most "professional investors" don't have the ability to do regular investing, because they are not managing their own money, and their funds have a deadline after which they to be returned. Once it's time to settle the funds, it doesn't matter if it's a bull market or a bear market, it's still time to settle, so how can you be sure of your earnings? Most people have never thought about how a fund's success is not dependent on the manager's acumen and strategy but instead dependent on the time the fund was established. Funds that are established at the end of Period B and the beginning of Period A are quite likely to succeed, because during that period you can make money investing in almost anything. The problem is that at that time investors are the most scared and circumspect, so it's hard to raise money. The easiest time to raise money is at the end of Period A, when everyone has gone crazy in the bull market. But if they raise money at that time, and the money has a term, it's going to be very difficult to succeed. 
 
-Selling one period of your time more than once is an upgrade of your personal business model. It's such an important upgrade that it would be hard for anyone to free themselves from the shackles of increasing daily life expenses. At first you only have to take care of yourself; then you have to take care of your spouse; then you have to take care of your children and even your parents. Most people are defeated by these basic life expenses. An individual must make enough money to cover these expenses, which first increase and then may level out or even decrease later in life, before they can have money left over to practice regular investing. If you don't upgrade your personal business model, it's hard to have any money left over.
+Selling one period of your time more than once is an upgrade of your personal business model. It's such an important upgrade that it is  hard for anyone to free themselves from the shackles of increasing daily life expenses without it. At first you only have to take care of yourself; then you have to take care of your spouse; then you have to take care of your children and even your parents. Most people are defeated by these basic life expenses. An individual must make enough money to cover these expenses, which first increase and then may level out or even decrease later in life, before they can have money left over to practice regular investing. If you don't upgrade your personal business model, it's hard to have any money left over.
 
 As I see it, regular investing requires a trifecta of successful personal business model upgrades:
 
-> * From selling you time once to selling the same time multiple times;
-> * From only using money to consume to using money to make money (starting to invest);
-> * From just investing with money to also investing time.
+> * from selling your time once to selling the same time multiple times;
+> * from only using money to consume to using money to make money (starting to invest);
+> * from just investing money to also investing time.
 
 Even more importantly, a strategy of regular investing systematically reduces risk.
 
@@ -318,9 +314,9 @@ Even more importantly, a strategy of regular investing systematically reduces ri
 
 We're always trying to find ways to improve our strategies. Everyone wants the strategies that **they** use to be as good as possible. When it comes to regular investing, though,
 
-> **Any efforts to improve the strategy of regular investing are futile.**
+> **any efforts to improve the strategy of regular investing are futile.**
 
-From when the BOX Regular Investing Practice Group was established in late July 2019 to October 9, 2019, 3261 members have joined. After understanding the essence of the regular investing strategy, the group members know that most of the profit from regular investing comes from the long bear market. Because they have a different way of thinking, they now have a completely opposite take on the same world. Each time the price drops, they don't feel disappointment and fear, they feel happy and even excited, because they can buy more at a cheaper price. Their decisions are the opposite of the outside world.
+From when the BOX Regular Investing Practice Group was established in late July 2019, to October 9th, 2019, 3261 members have joined. After understanding the essence of the regular investing strategy, the group members know that most of the profit from regular investing comes from the long bear market. Because they have a different way of thinking, they now have a completely opposite take on the same world. Each time the price drops, they don't feel disappointment and fear, they feel happy and even excited, because they can buy more at a cheaper price. Their decisions are the opposite of the outside world.
 
 Below is the historical price of BOX over the past few months:
 
@@ -336,27 +332,27 @@ The chart below adds the daily amount of newly-circulating BOX, which is the amo
 
 We can see that each time there is a large drop in price the amount of newly-circulating BOX greatly increases. The clearest example is found on the three days from September 25 to September 27, which saw newly-circulating BOX of 214,048, 114,240, and 114,505, respectively, with September 25 showing an increase of five times the normal amount! 
 
-It's also clear from this data that people's reactions are late, because the drop in price actually happened several days earlier on September 22, when the price dropped from \$1.68 to \$1.41. As we can see in the chart, the increase in the amount of new BOX purchased always came a while after the drop in price.
+It's also clear from this data that people's reactions are late, because the drop in price actually happened several days earlier on September 22, when the price dropped from \$1.68 to \$1.41. As we can see in the chart, the increase in the amount of new BOX purchased always came days after the drop in price.
 
-Furthermore, even though the group members had listened to my classes, in which repeatedly emphasized the following:
+Furthermore, the group members had listened to my classes, in which I repeatedly emphasized the following:
 
 > **Any efforts to improve the strategy of regular investing are futile.**
 
 Yet many of them still couldn't resist being driven by this simple thought: wouldn't it be better if I bought a little more when the price drops? 
 
-Let's discuss why this "improvement" to the strategy of regular investment isn't actually an improvement at all. First of all, each time we use the current price as a reason for making a decision, we are always actually making the decision after the fact. Even more importantly, we are neglecting an important fact: the short-term direction of the price after we make our decision is an independent event, and not tied to the prior change in price. After we buy it the price could go up, go down, or stay the same -- we don't know!
+Let's discuss why this "improvement" to the strategy of regular investment isn't actually an improvement at all. First of all, each time we use the current price as a reason for making a decision, we are always actually making the decision after the fact. Even more importantly, we are neglecting an important fact: the short-term direction of the price after we make our decision is an independent event, and not tied to the prior change in price. After we buy, the price could go up, go down, or stay the same -- we don't know!
 
 Someone who increased their investment amount in July after a price drop would have discovered in September that their "improvement" to the strategy was useless and actually lost them money, because the increased investment in July actually ended up increasing their average cost.
 
 Whether or not an investor has a clear grasp of statistical probability is the factor that has the greatest influence on the accuracy of their decisions. Sadly, too many people don't pay enough attention to this basic knowledge, and they have no idea that this lack of knowledge causes them so much trouble and grief.
 
-A person who understands statistical and probability couldn't help but laugh at the following phenomenon:
+A person who understands statistical probability couldn't help but laugh at the following phenomenon:
 
 >Some people without basic knowledge of statistical probability try their best to prove on which day of the week prices are lowest.
 
 Someone made a chart, and did some programming in Python, to support the following conclusion:
 
->After analyzing every 350-day period of weekly regular investing in Bitcoin over the 900-day period from July 17, 2010, to January 2, 2013, the following conclusions have been reached:
+>After analyzing every 350-day period of weekly regular investing in bitcoin over the 900-day period from July 17, 2010, to January 2, 2013, the following conclusions have been reached:
 >
 >> Investing on Monday performed 1.2% better than the average of the other days.
 >> Furthermore, it is best to avoid Sunday, as Sunday performed 0.8% worse than average, perhaps because people have more time on Sunday, or perhaps because they feel more optimistic on Sunday.
@@ -375,11 +371,9 @@ In addition to not fitting our basic understanding of statistical probability, a
 
 >If it is really effective, then everybody will start doing it, and then it will no longer be effective.
 
-
-
 ## Part Two: Choosing a Target for Regular Investing
 
-Regular investing is simple, direct, and brutally effective, but, in addition to depending on the ability of the practitioner to earn money outside of the market, it depends even more on the selection of a quality investment target. If a mistake is made in the selection of the target, then the result over the long term will be terrible.
+Regular investing is simple, direct, brutal and effective, but, in addition to depending on the ability of the practitioner to earn money outside of the market, it depends even more on the selection of a quality investment target. If a mistake is made in the selection of the target, then the result over the long term will be terrible.
 
 It's important to note that what we are discussing is "how regular investors should choose an investment target", and not "how investors should choose the correct investment target". The former is a subset of the latter, and actually only has one more condition: 
 
@@ -387,7 +381,7 @@ It's important to note that what we are discussing is "how regular investors sho
 
 In the investment world, the Greet letter *alpha (α)* is used to refer to returns that exceed overall market returns. The goal of regular investors when they are choosing their investment target is to create *alpha*. They won't sell before at least two full market cycles have passed, because to do so would be to waste all of their previous efforts. All they do is buy, so they won't know for a long time whether or not their *alpha* is positive or negative.
 
-### 2.1 Investing Advices That You Can Blindly Follow
+### 2.1 Investing Advice That You Can Blindly Follow
 
 The hardest questions for those who are just entering the market is this:
 
@@ -395,13 +389,13 @@ The hardest questions for those who are just entering the market is this:
 
 How can someone who doesn't even know what their criteria should be make a choice? How can someone who can only see the superficial and not the true nature of something make a correct choice about what to hold over the long term without wavering? There is a simple, direct, brutal and effective strategy that is also free:
 
->**Blindly follow** advices of truly successful investors who have shown excellent returns over the **long term**.
+>**Blindly follow** the advice of truly successful investors who have shown excellent returns over the **long term**.
 
-"**Blindly follow**" sounds extremely terrifying, but we actually can blindly follow advices of truly successful investors who have shown excellent returns over the long term (please notice the key term: "long term"), because in the investment world there is an amazing phenomenon:
+"**Blindly follow**" sounds extremely terrifying, but we actually can blindly follow the advice of truly successful investors who have shown excellent returns over the long term (please notice the key term: "long term"), because in the investment world there is an amazing phenomenon:
 
 >The more long-term successful experience investors have, the more open they are.
 
-Warren Buffett started writing public letters to investors a long time ago, and later on he continued to share his investing ideas and decision-making process on television and other mediums. Starting in 1965, Buffett has written a public letter to investors each year. As of 2019, he had been writing them for 54 years! Ever since 1973, he and Charlie Munger have held freewheeling Q&A sessions at yearly shareholders meetings. In 2019, the 46<sup>th</sup> year, a record 16,200 people attended, and this doesn't include people watching online around the world.
+Warren Buffett started writing public letters to investors a long time ago, and later on he continued to share his investing ideas and decision-making process on television and other mediums. Starting in 1965, Buffett has written a public letter to investors each year. As of 2019, he has been writing them for 54 years! Ever since 1973, he and Charlie Munger have held freewheeling Q&A sessions at yearly shareholders meetings. In 2019, the 46<sup>th</sup> year, a record 16,200 people attended, not including people watching online around the world.
 
 >Berkshire Hathaway's shareholder letters from 1977 to 2018 are available here: 
 >
@@ -409,17 +403,17 @@ Warren Buffett started writing public letters to investors a long time ago, and 
 >>CNBC's website has a special section called "Warren Buffet Archive":
 >>[https://buffett.cnbc.com/warren-buffett-archive/](https://buffett.cnbc.com/warren-buffett-archive/)
 
-Warren Buffett's mentor, [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham), was also someone who shared without reservation. In addition to teaching investing classes, he wrote several books, most notably [Security Analysis](https://www.amazon.com/Security-Analysis-Foreword-Buffett-Editions-ebook-dp-B0037JO5J8/dp/B0037JO5J8/) (1934) and [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/) (1949). Warren Buffett read *The Intelligent Investor* when he was 19 and became a fan of Benjamin Graham. One Saturday in 1951, while in the library of Columbia Business School, Warren Buffett learned that Benjamin Graham was Chairman of GEICO, and immediately decided to pay a visit to the company's office. Many years later, in an interview with *Forbes*, Buffett recalled that the investment he made in GEICO at the age of 20 was one of his the investments that he was most proud of.
+Warren Buffett's mentor, [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham), was also someone who shared without reservation. In addition to teaching investing classes, he wrote several books, most notably [Security Analysis](https://www.amazon.com/Security-Analysis-Foreword-Buffett-Editions-ebook-dp-B0037JO5J8/dp/B0037JO5J8/) (1934) and [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/) (1949). Warren Buffett read *The Intelligent Investor* when he was 19, and became a fan of Benjamin Graham. One Saturday in 1951, while in the library of Columbia Business School, Warren Buffett learned that Benjamin Graham was Chairman of GEICO, and immediately decided to pay a visit to the company's office. Many years later, in an interview with *Forbes*, Buffett recalled that the investment he made in GEICO at the age of 20 was one of the investments he was most proud of.
 
-Joel Greenblatt's investing returns are perhaps more impressive than Warren Buffet -- from 1985 to 2006, his annual compounded returns exceeded 40%! Having been successful over the long term, Joel Greenblatt is also quite willing to openly share. He has published three books, namely [You Can Be a Stock Market Genius](https://www.amazon.com/You-Can-Stock-Market-Genius/dp/0684840073/) (1999), [The Little Book That Still Beats the Markets](https://www.amazon.com/Little-Book-Still-Beats-Market/dp/0470624159/) (2010), and [The Big Secret for the Small Investor](https://www.amazon.com/Big-Secret-Small-Investor-Investment-ebook/dp/B004J4WKHE/) (2011). He is so down to earth that his standard for writing the books was that his teenager children could understand them. 
+Joel Greenblatt's investing returns are perhaps even more impressive than Warren Buffet -- from 1985 to 2006, his annual compounded returns exceeded 40%! Having been successful over the long term, Joel Greenblatt is also quite willing to openly share. He has published three books, namely [You Can Be a Stock Market Genius](https://www.amazon.com/You-Can-Stock-Market-Genius/dp/0684840073/) (1999), [The Little Book That Still Beats the Markets](https://www.amazon.com/Little-Book-Still-Beats-Market/dp/0470624159/) (2010), and [The Big Secret for the Small Investor](https://www.amazon.com/Big-Secret-Small-Investor-Investment-ebook/dp/B004J4WKHE/) (2011). He is so down to earth that his standard for writing the books was that his teenage children could understand them. 
 
-Joel Greenblatt didn't just share his ideas in his books, he also made a website, [Magic Formula Investing](https://www.magicformulainvesting.com), that allows investors to use his ideas to build their own portfolios. All you have to do is enter a few parameters, and the site will give you a ready-to-go protfolio based on the "Magic Forumula".
+Joel Greenblatt didn't just share his ideas in his books, he also made a website, [Magic Formula Investing](https://www.magicformulainvesting.com), that allows investors to use his ideas to build their own portfolios. All you have to do is enter a few parameters and the site will give you a ready-to-go protfolio based on the "Magic Forumula".
 
 ![Figure12](../images/Figure12.png)
 
 [Ray Dalio](https://en.wikipedia.org/wiki/Ray_Dalio), the founder of [Bridgewater](https://www.bridgewater.com), is yet another investor who has been successful over the long-term and is willing to share his ideas. Long before his book, [Principles](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/), was published in 2017, he had released [a version for free online](https://archive.org/stream/BridgewaterRayDalioPrinciples/Bridgewater%20-%20Ray%20Dalio%20-%20Principles_djvu.txt). In 2019, he even released an app called [Principles in Action](https://apps.apple.com/us/app/principles-in-action/id1211294305), which helps readers put the principles in his book into action.
 
-In the investing sphere, one must use money, time and action to create real results, and everyone is either a 0 or a 1. Investors who can successfully produce returns over the long term are 1s, and the rest are 0s, including those so-called who spend all of their time yelling through the television or other mediums but have no skin in the game. Investors like Warren Buffett, Joel Greenblatt and Ray Dalio, don't need to spend all day screaming through the television, because their ideas have already been clearly expressed through their books, other writings and speeches.
+In the investing sphere, one must use money, time and action to create real results, and everyone is either a 0 or a 1. Investors who can successfully produce returns over the long term are 1s, and the rest are 0s, including those so-called experts who spend all of their time yelling through the television or other mediums but have no skin in the game. Investors like Warren Buffett, Joel Greenblatt and Ray Dalio, don't need to spend all day screaming through the television, because their ideas have already been clearly expressed through their books, other writings and speeches.
 
 Perhaps the most simple, direct, brutal and effective strategy that novice investors can use is to just buy whatever Warren Buffett buys. They don't need to dream about "beating Warren Buffet", they can just “keep up with Warren Buffett" by buying shares in his companies. The easiest way to do this, of course, is to just buy Berkshire Hathaway shares. If novice investors feel that Berkshire Hathaway's share price is too expensive (it was over \$310,000 in October of 2019), then they can look at its individual holdings and choose the stocks they want!
 
@@ -427,17 +421,17 @@ Perhaps the most simple, direct, brutal and effective strategy that novice inves
 >
 >> [https://www.cnbc.com/berkshire-hathaway-portfolio/](https://www.cnbc.com/berkshire-hathaway-portfolio/)
 
-Of course, if you actually did this, your success would be dependent on whether you were able to hold the stocks for as long as Warren Buffett does. For the vast majority of people, holding for the long term is a much bigger challenge than making the initial choice of what to buy.
+Of course, if they actually did this, their success would be dependent on whether you were able to hold the stocks for as long as Warren Buffett does. For the vast majority of people, holding for the long term is a much bigger challenge than making the initial choice of what to buy.
 
-Alternatively, they could go to Joel Greenblatt's [Magic Formula Investing site](https://www.magicformulainvesting.com), enter a few parameters, and buy the suggested collection of stocks. It's important to note, however, that Greenblatt's Magic Formula is not suitable for regular investing, since his method is to choose a new batch of stocks each year.  See? Regular investing isn't the only effective strategy, it's just the easiest for most people to put into practice.
+Alternatively, they could go to Joel Greenblatt's [Magic Formula Investing site](https://www.magicformulainvesting.com), enter a few parameters, and buy the suggested collection of stocks. It's important to note, however, that Greenblatt's Magic Formula is not suitable for regular investing, since his method is to choose a new batch of stocks each year. See? Regular investing isn't the only effective strategy, it's just the easiest for most people to put into practice.
 
-Why can we blindly follow these truly successful investors who have shown excellent returns over the long term? It's because they have used their own strategies over the long term, and their strategies have passed the test of time. They are skilled at thinking with a long-term perspective, or else they wouldn't have been able to carry out their initial strategies over the long term. In their eyes, the long-term effectiveness of a strategy is not related to how complicated it is. To the contrary, only simple strategies can actually be carried out over the long term. Furthermore, the long-term effectiveness of a strategy is not correlated to the intellect of the user. The core prerequisite for the long-term effectiveness of an investment strategy is whether or not it is faithfully carried out over the long term.
+Why can we blindly follow these truly successful investors who have shown excellent returns over the long term? It's because they have used their own strategies over the long term, and their strategies have passed the test of time. They are skilled at thinking with a long-term perspective, or else they wouldn't have been able to carry out their strategies over the long term. In their eyes, the long-term effectiveness of a strategy is not related to how complicated it is. To the contrary, only simple strategies can actually be carried out over the long term. Furthermore, the long-term effectiveness of a strategy is not correlated to the intellect of the user. The core prerequisite for the long-term effectiveness of an investment strategy is whether or not it is faithfully carried out over the long term.
 
-**In fact, there is no secret to success. Even if there were, it would be an "open secret".** All paths to success are open, as are all of the necessary tools and knowledge. It's just few people are able to patiently follow a path, picking up knowledge and understanding bit-by-bit, and persistently execute along the way. How few? They're actually quite hard to find.
+**In fact, there is no secret to success. Even if there were, it would be an "open secret".** All paths to success are open, as are all of the necessary tools and knowledge. It's just that few people are able to patiently follow a path, picking up knowledge and understanding bit-by-bit, and persistently execute along the way. How few? They're actually quite hard to find.
 
-These people are the rare ones who have achieved a **unity of knowledge and action**. Actually the suggestions of anyone in any field throughout history who has achieved unity of knowledge and action are worth acceptation and putting into practice. If we understand it right away, that's great, just do it. If at first we don't understand, we can **blindly follow**.
+These people are the rare ones who have achieved a **unity of knowledge and action**. Actually, the suggestions of anyone in any field throughout history who has achieved unity of knowledge and action are worth accepting and putting into practice. If we understand it right away, that's great, just do it. If at first we don't understand, we can **blindly follow**.
 
-The key point is that investing ideas from the most successful investors are free! You don' even need to worry that these ideas will be adopted by everyone and lose their effectiveness, because history has shown that the vast majority of people won't use these ideas. Maybe it's because most people are afraid of simplicity. They think that success is difficult, so they must discover a complicated secret or they won't be able to succeed. There's also another important and common fear involved that keeps people from following this priceless advice: it's terrifying to use our own money to carry out other people's ideas that we still don't understand!
+The key point is that investing ideas from the most successful investors are free! You don't even need to worry that these ideas will be adopted by everyone and lose their effectiveness, because history has shown that the vast majority of people won't use these ideas. Maybe it's because most people are afraid of simplicity. They think that success is difficult, so they must discover a complicated secret or they won't be able to succeed. There's also another important and common fear involved that keeps people from following this priceless advice: it's terrifying to use our own money to carry out other people's ideas that we still don't understand!
 
 Of course, there's yet another reason: 
 
