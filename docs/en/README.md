@@ -1481,7 +1481,7 @@ When our investments go from an individual investment (like BTC) to a combinatio
 
 ### 1.2.3 Thoughts on allocation
 
-As of July 2019, "Bitcoin dominanc", which is the percentage that bitcoin represents of all blockchain assets, was 63%. This number might continue to rise in the short term, it will drop as blockchain technology and applications become more widespread. It's not that bitcoin won't continue to develop, it's just that other assets are likely to develop faster than bitcoin over the long term. So, from a long-term perspective, it is reasonable to have a 50% allocation for bitcoin.
+As of July 2019, "Bitcoin dominance", which is the percentage that bitcoin represents of all blockchain assets, was 63%. This number might continue to rise in the short term, it will drop as blockchain technology and applications become more widespread. It's not that bitcoin won't continue to develop, it's just that other assets are likely to develop faster than bitcoin over the long term. So, from a long-term perspective, it is reasonable to have a 50% allocation for bitcoin.
 
 The remaining 50% is allocated to EOS and XIN with a 4:1 ratio. This is because I think that XIN will develop rapidly, maybe even faster than EOS.
 
