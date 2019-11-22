@@ -441,9 +441,9 @@ Of course, there's yet another reason:
 
 ### 2.2 Value Investing and Trend Investing
 
-When people talk about **Value investing** and **Trend investing**, they often mistakenly see them as opposites. In fact, they are only opposites when views from a short-term perspective. 
+When people talk about **value investing** and **trend investing**, they often mistakenly see them as opposites. In fact, they are only opposites when viewed from a short-term perspective. 
 
-However, for regular investors, who always view things from a long-term perspective, value investing and trend investing are not opposites. In the long term, which is to say after two full market cycles, value investments will show a trend of compound growth, and investments that trend upward in over the long term will certainly be valuable. A simple change in perspective can cause the relationship between to terms to be completely opposite!
+For regular investors, however, who always view things from a long-term perspective, value investing and trend investing are not opposites. In the long term, which is to say after two full market cycles, value investments will show a trend of compound growth, and investments that trend upward over the long term will also certainly be valuable. A simple change in perspective can cause the relationship between two terms to be completely opposite!
 
 I often say the following:
 
@@ -453,15 +453,15 @@ I also often say this:
 
 >Don't have a one-sided understanding of value investing.
 
-Why do I always feel that I have to remind people of this? Because I often see this situation:
+Why do I feel that I always have to remind people of this? Because I often see this situation:
 
->Most people are clearly (short-term) trend investors, because the bull market was obviously the reason they entered the market! But as soon as they get trapped by the falling prices in the bear market, the suddenly become value investors!
+>Most people are clearly (short-term) trend investors, because the bull market was obviously the reason they entered the market! But as soon as they get trapped by the falling prices in the bear market, they suddenly become value investors!
 
-That is to say, in most situations, people who mention the concept of value investing to you actually only became value investors after getting trapped in the market. I can also guarantee to you that once the market picks up, they will suddenly turn into what they would call trend investors.
+So, in most situations, people who mention the concept of value investing to you actually only became value investors after getting trapped in the market. I can also guarantee to you that once the market picks up, they will suddenly turn into what they would call trend investors.
 
-This is truly an interesting phenomenon. They don't completely fail to understand that huge loss and awkward situation that they are facing is entirely due to having a different perspective. Even sadder is that these people who use the short term as the basis for their decisions also don't know that they have no way of understanding that free and correct advice that is available on the market from those most successful investors who can be blindly followed. And it's all due to a different perspective! Because those "truly successful investors who have shown excellent returns over the long term" all look at things from a long-term perspective.
+This is truly a fascinating phenomenon. They completely fail to understand that the huge loss and awkward situation that they are facing are entirely due to having a different perspective. Even sadder is that these people, who use the short term as the basis for their decisions, also don't know that they have no way of understanding the free and correct advice on the market that is available from those most successful investors who can be blindly followed. And it's all due to a different perspective! Because those "truly successful investors who have shown excellent returns over the long term" all look at things from a long-term perspective.
 
-To take it a step further, looking back after two or more full cycles, **from a long-term perspective, trend investing is better than value investing**.
+To take it a step further, **trend investing is better than value investing when viewed from a long-term perspective**.
 
 Even though Benjamin Graham's value investing thesis is obviously correct, few people notice that it has a hidden limitation:
 
@@ -473,29 +473,27 @@ Behind this hidden limitation is an even more deeply hidden factor:
 
 It's an almost impossible feat to both pay attention to the details of the present and seriously consider everything that could happen in the distant future. This is the key reason why truly successful value investors are so rare. A good analogy is the saying that if you wear one watch you'll basically know what time it is, even if it's a few minutes slow or a few minutes fast, but if you wear two watches you'll be very mixed up.
 
-According to value investing theory, you must work hard to find an investment target with a price below its actual value. But when will you sell it? According to the theory, once its price exceeds its actual value you should sell it, whether it's ten days or ten years after you purchased it. 
+According to value investing theory, you must work hard to find an investment with a price below its actual value. But when will you sell it? According to the theory, once its price exceeds its actual value you should sell it, whether it's ten days or ten years after you purchased it. 
 
-Following this theory, even Warren Buffett will make mistakes. His most famous mistake was his investment in Disney, as he actually made two mistakes trading Disney stock. In 1966, 36-year-old Buffett met Disney founder Walt Disney in California. Following the meeting, Buffett bought 5% of Disney ([NYSE:DIS](https://www.google.com/search?q=NYSE:+DIS)) for \$4 million at a price of \$0.31 per share.
+Following this theory, even Warren Buffett will make mistakes. His most famous mistake was his investment in Disney -- he actually made two mistakes trading Disney stock. In 1966, 36-year-old Buffett met Disney founder Walt Disney in California. Following the meeting, Buffett bought 5% of Disney ([NYSE:DIS](https://www.google.com/search?q=NYSE:+DIS)) for \$4 million at a price of \$0.31 per share.
 
 ![Figure13](../images/Figure13.png)
 
->Note: Historical data is from [Yahoo Finance (DIS)](https://finance.yahoo.com/quote/dis), and the chart above was created in Google Sheets. You can view the data and chart [here](https://docs.google.com/spreadsheets/d/1Vni-yvkOk7FPixEzQjGa4T7qLa-DzpaQuwlO0xTzrwI/edit?usp=sharing).
+>Note: Historical data is from [Yahoo Finance (DIS)](https://finance.yahoo.com/quote/dis), and the chart above was created in Google Sheets; you can view the data and chart [here](https://docs.google.com/spreadsheets/d/1Vni-yvkOk7FPixEzQjGa4T7qLa-DzpaQuwlO0xTzrwI/edit?usp=sharing).
 
 In his [1995 investor letter](https://www.berkshirehathaway.com/letters/1995.html), Buffett relayed this story. He bought Disney stock in 1966 at \$0.31 per share, and then sold it a year later for \$0.48 per share, making a profit of 50%. Over the next thirty years, Buffett could only watch as Disney stock rose, reaching \$65 in 1995. 
 
-But the story was not over. In 1995, Buffett helped Disney to purchase Capital Cities/ABC, which Buffett was a shareholder of, and Buffett once again ended up with 3.6% of Disney's stock! He sold his shares within three years, though, and missed out as Disney's stock continued to rise up to \$129 in October of 2019. [Business Insider calculated](https://markets.businessinsider.com/news/stocks/warren-buffett-made-20-billion-mistake-by-selling-disney-twice-2019-8-1028484967) that had Buffett continued to hold 8.3% of Disney through 2019 his shares would be worth \$21 billion and he would have received \$1.5 billion in dividends.
+But the story was not over. In 1995, Buffett helped Disney purchase Capital Cities/ABC, which he was a shareholder of, and Buffett once again ended up with a 3.6% stake in Disney! He sold his shares within three years, though, and missed out as Disney's stock continued to rise up to \$129 in October of 2019. [Business Insider calculated](https://markets.businessinsider.com/news/stocks/warren-buffett-made-20-billion-mistake-by-selling-disney-twice-2019-8-1028484967) that, had Buffett continued to hold 8.3% of Disney through 2019, his shares would be worth \$21 billion, and he would have received \$1.5 billion in dividends.
 
-Of course, this story doesn't mean that Buffett failed in his investment, and he certainly didn't actually "lose" \$22.5 billion.. After all, he made a profit on Disney and he didn't just spend the money after selling -- he kept investing according to his strategy, and has a 55-year track record of around 25% returns. Over the past 53 years, not accounting for dividends, Disney has returned just over 19% compounded annually. If dividends are taken in to account, Buffett would have been better off holding Disney, but he certainly didn't "lose" as much trading Disney as some people think.
+Of course, this story doesn't mean that Buffett failed in his investment, and he certainly didn't actually "lose" \$22.5 billion. After all, he made a profit on Disney, and he didn't just spend the money after selling -- he kept investing according to his strategy, and he has a 55-year track record of around 25% returns. Over the past 53 years, not accounting for dividends, Disney has returned just over 19% compounded annually. If dividends are taken in to account, Buffett would have been better off holding Disney, but he certainly didn't "lose" as much trading Disney as some people think.
 
-***
+What this story really tells us is that, over at least two full cycles, value investing, which requires constant focus on price, is not necessarily better than long-term trend investing.
 
-What this story really tells us is that over at least two full cycles, value investing, which requires constant focus on price, is not necessarily better than long-term trend investing.
-
-Therefore, **regular investors focus more on the overall trend**. Even though we are also value investors, the difference is that we view things from a long term perspective. Even thought it can make people uncomfortable, the logic is sound:
+Therefore, **regular investors focus more on the overall trend**. Even though we are also value investors, the difference is that we view things from a long-term perspective. While it can make people uncomfortable, the logic is sound:
 
 >If the correct trend is chosen, then while the difference between price and value is not unimportant, it's not as important as people think.
 
-With a focus on long-term trends and the requirement of only focusing on the long-term, regular investment targets must be chosen in a different way. Compared to many other investors, regular investors have an extra screening criteria:
+With a focus on long-term trends and the requirement of only focusing on the long term, regular investment targets must be chosen in a different way. Compared to many other investors, regular investors have an extra screening criteria:
 
 >Sustained growth over the long term.
 
@@ -503,7 +501,7 @@ Don't discount the importance of "one extra criteria".
 
 Amazon ([NASDAQ: AMZN](https://finance.yahoo.com/quote/AMZN/)) currently has the highest market cap of any e-commerce company in the world.  According to [Morningstar's calculations](http://performance.morningstar.com/stock/performance-return.action?t=AMZN), it has provided investors with a compound yearly return of 40.42% over the past five years. Over the past 15 years, the compound yearly return has been 28.51%.
 
-Have you thought about why Amazon started by selling books, even though there were so many other potential items to sell? Aside from the fact that the book market is a large market, and that people need and want to buy books frequently, there is one extra screening criteria that the book market passes: once you have sold a book, you very rarely need to provide customer service. Just this one extra criteria eliminated 99.99% of the other choices!
+Have you thought about why Amazon started by selling books, even though there were so many other potential items to sell? Aside from the fact that the book market is a large market, and the fact that people need and want to buy books frequently, there is one extra screening criteria that the book market passes: once you have sold a book, you very rarely need to provide customer service. Just this one extra criteria eliminated 99.99% of the other choices!
 
 Regular investors can only chose investments that grow sustainably over the long term (of course, the more growth the better!). Just this one seemingly simple criteria eliminates 99.99% of the options, because, strictly speaking, there is no one individual investment that we can be sure will meet this criteria, no matter how good it looks now. This is because companies are just like people:
 
@@ -515,7 +513,7 @@ So what should a regular investor do?
 
 Everyone can understand how difficult it is to pick the best possible investment, especially in the midst of price fluctuations. It's as difficult as a world champion archer standing on a boat being rocked by waves in the middle of the ocean hitting the bullseye on a target on the shore.
 
-Only investing in one investment also entails opportunity cost. Time and money are limited resources, and if you use them in one way you can't use them in another way. So if you invested in A but B performs better, then the opportunity cost of your investment decision can be calculated. 
+Only investing in one investment also entails opportunity cost. Time and money are limited resources, and if you use them in one way you can't use them in another. So, if you invested in A but B performs better, the opportunity cost of your investment decision can be calculated. 
 
 Fortunately, we have another simple, direct, brutal and effective solution:
 
@@ -527,130 +525,130 @@ This sounds a little bit crazy, and perhaps a bit stupid, but let's put aside wh
 
 ![Figure14](../images/Figure14.png)
 
-In addition to the MSCI World Index, there are several other MSCI indexes, including the MSCI Emerging Markets Index. From December 31, 1987, to September 30, 2019, the MSCI World Index has shown yearly compounded returns of 7.86%, and the MSCI Emerging Markets Index has shown yearly compounded returns of 10.37%. This makes sense, as you would expect emerging markets to grow faster, albeit with more risk.
+In addition to the MSCI World Index, there are several other MSCI indexes, including the MSCI Emerging Markets Index. From December 31st, 1987, to September 30th, 2019, the MSCI World Index has shown yearly compounded returns of 7.86%, and the MSCI Emerging Markets Index has shown yearly compounded returns of 10.37%. This makes sense, as you would expect emerging markets to grow faster, albeit with more risk.
 
-An investment in a fund that tracks the MSCI World Index as a bet on the growth of the world economy, and an investment in an S&P 500 fund is like a bet on the US economy. If we look again at the chart of the S&P 500, we can see that it has also provided around 9% returns over several decades!
+An investment in a fund that tracks the MSCI World Index is like a bet on the growth of the world economy, and an investment in an S&P 500 fund is like a bet on the US economy. If we look again at the chart of the S&P 500, we can see that it has also provided around 9% returns over several decades!
 
 ![Figure15](../images/Figure15.png)
 
->Note: The historical figures above are from [Yahoo Finance (^GSPC)](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC), and the chart was created in Google Sheets. You can view the chart and data [here](https://docs.google.com/spreadsheets/d/1RsmiifuZajR_POx1zO_--qUcOgwb7tABNQpT-O69Ryk/edit?usp=sharing). 
+>Note: The historical figures above are from [Yahoo Finance (^GSPC)](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC), and the chart was created in Google Sheets; you can view the chart and data [here](https://docs.google.com/spreadsheets/d/1RsmiifuZajR_POx1zO_--qUcOgwb7tABNQpT-O69Ryk/edit?usp=sharing). 
 
-Investing in the S&P 500, with an averaged compound growth rate (ACGR) of 9%, performed better than investing in the MSCI World Index, which had an ACGR of 7.86%, but the MSCI Emerging Markets Index performed even better, with an ACGR of 10.37%. What's the easiest way to explain this?
+Investing in the S&P 500, with an average compound growth rate (ACGR) of 9%, performed better than investing in the MSCI World Index, which had an ACGR of 7.86%, but the MSCI Emerging Markets Index performed even better, with an ACGR of 10.37%. What's the easiest way to explain this?
 
 > * The US grew faster than the world;
-> * Emerging markets grew faster than the US.
+> * emerging markets grew faster than the US.
 
 Now we can see that, when we choosing investments, in addition to "one" (quite dangerous) and "all" (mediocre), there is another choice: "part". So which parts are worth choosing? I like this analogy even better than "betting on the world": 
 
->Choosing investments is like choosing a method of transportation. If you walk, you can still get there, it will just take longer. But if you have a bike you shouldn't walk, if you have a car you shouldn't take a bike, and if you have an airplane you shouldn't take a car -- you should take whatever will get you there the fastest.
+>Choosing investments is like choosing a method of transportation. If you walk, you can still get there, it will just take longer. But if you have a bike you shouldn't walk, if you have a car you shouldn't bike, and if you have an airplane you shouldn't drive -- you should take whatever will get you there the fastest.
 
-We've seen that emerging markets develop faster, so it's easy, we can just choose the "emerging market part" right? Or could not just choose one country, but choose the fastest growing industry in that country? Sure! Choosing the market that is growing faster is just like choosing a faster method of transportation. 
+We've seen that emerging markets develop faster, so it's easy, we can just choose the "emerging market part", right? Or could we just choose one fastest-growing country, or even just choose the fastest growing industry in that country? Sure! Choosing the market that is growing faster is just like choosing a faster method of transportation. 
 
 It's extremely difficult to pick the best investment out of tens of thousands of possibilities, but it's quite easy to pick a couple of the the fastest-growing areas out of ten or so regions. Everyone knows that the US and China are the fastest-growing places in the world. If I were to design an ETF, I would look for my investments in just these two places. This ETF would have a high probability of doing better than the MSCI World, wouldn't it? To take it a step further, it wouldn't be difficult to further limit my investments to the fastest growing one or two industries in each country. At least legendary investor [Masayoshi Son](https://en.wikipedia.org/wiki/Masayoshi_Son) doesn't think it would be difficult:
 
 >Making money is easy. All you need to have done is have invested in the Internet 20 years ago, because at that time the internet was the future of the world. Now, you should invest in AI, because AI is the future of the world. 
 
-Actually, I have already designed a zero-fee index fund. The working name is "Odyssey", and it should be issued in the US in October of 2020. It's made up of about 30 investments, all in listed companies in the US and China. There is only one selection criterion:
+Actually, I have already designed a no-load, no-management-fee index fund. The working name is "Odyssey", and it should be issued in the US in October of 2020. It will be made up of about 30 investments, all in listed companies in the US and China. There is only one selection criterion:
 
 >"Who has constantly growing user data?"
 
 I agree with Sun Zhengyi's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
 
->No matter how good the algorithm is, it needs data to feed it. Public companies who have large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then their growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
+>No matter how good the algorithm is, it needs data to feed it. Public companies who have large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
 
-When I started to buy lots of Bitcoin in 2011, many people thought I was crazy. They all said the same thing: "Isn't it too risky?" They felt like it was too risky, but I had the opposite feeling:
+When I started to buy lots of bitcoin in 2011, many people thought I was crazy. They all said the same thing: "Isn't it too risky?" They felt like it was too risky, but I had the opposite feeling:
 
 >Isn't it too risky not to invest in Bitcoin?
 
 This was the logical reasoning behind this feeling:
 
 >We've seen the incredible changes brought about by the Internet allowing information to flow rapidly with basically zero cost, so what kind of incredible changes would be brought about if assets could also flow rapidly with basically zero cost?
-
+>
 >After ten years, the Internet is still bringing about massive change. Even if it isn't exactly what we initially imagined, it's still amazing. In the same way, ten years from now the financial internet is extremely likely to have brought about incredible change, even if we can't know exactly what those changes will be...
 
 So for me at the time, blockchain was the future, blockchain was a trend, and blockchain would likely be the fastest growing industry. Looking back from eight years later, it has become the fastest growing industry, and my investment has grown at a scale not even imaginable at the time.
 
-You see? "Choosing the fastest growing sector" is the most simple, direct, brutal and effective method. It's also the most direct conclusion that can be derived from macro observation. For those who can't think based on the long term, this statement isn't understandable as an effective piece of advice. To them it seems stupid, and you can imagine them yelling out, "Who doesn't know this!?" Yes, everyone knows this, but not everyone thinks based on the long term, so they are not used to macro observation, and so  of course they can't understand the power of long-term macro observation. 
+You see? "Choosing the fastest growing sector" is the most simple, direct, brutal and effective method. It's also the most direct conclusion that can be derived from macro observation. For those who can't think based on the long term, this statement isn't understandable as an effective piece of advice. To them, it seems stupid, and you can imagine them yelling out, "Who doesn't know this!?" Yes, everyone knows this, but not everyone thinks based on the long term, so they are not used to macro observation, and so of course they can't understand the power of long-term macro observation. 
 
-Can we take it further, and ask ourselves, "can I choose the fastest growing company in this fastest growing sector?" I don't think it's worth it, because doing so is essentially returning to the most dangerous situation, and becoming more vulnerable to regression to the mean.*** The core skill of macro observation is very simple: don't go to extremes. The reason is that we hate risk, and we hate systematic risk even more. The core strategy is always "a piece of a piece":
+Can we take it further, and ask ourselves, "Can I choose the fastest growing company in this fastest growing sector?" I don't think it's worth it, because doing so is essentially returning to the most dangerous situation, and becoming more vulnerable to regression to the mean. The core skill of macro observation is very simple: don't go to extremes. The reason is that we hate risk, and we hate systematic risk even more. The core strategy is always "a part of a part":
 
 > * Look for one or more regions in the world;
-> * In those regions look for one or more sectors;
-> * In those sectors look for the best companies...
+> * in those regions look for one or more sectors;
+> * in those sectors look for the best companies...
 
-However, whether we're choosing regions, sectors, companies or projects, we should never just pick one. So in a global sector such as blockchain, as long as the time is right, my choice is no longer a single investment, but the mix of investments in BOX, which includes BTC, EOS, and XIN.
+However, whether we're choosing regions, sectors, companies or projects, we should never pick just one. So in a global sector such as blockchain, as long as opportunities are available, my choice is no longer a single investment, but the mix of investments in BOX, which includes BTC, EOS, and XIN.
 
-The diagram below make make it easier to understand.
+The diagram below may make it easier to understand.
 
 ![Figure16](../images/Figure16.png)
 
 The largest circle represents the entire world, and you are standing in the middle holding a bow an arrow....
 
 >You look around, hoping to find the best place to shoot your arrow. It's difficult, because in the entire circle there are limitless places to chose, and it's basically impossible for you to choose the best possible place and hit it from so far away...
-
->So you think about it, and you choose everywhere. You decide to change tools, and trade your arrow for a net. This is much better! It's easy, and even if the results are average, it's much better than shooting arrows all day and hitting nothing...
-
+>
+>So you think about it, and you choose "everywhere". You decide to change tools, and trade your arrow for a net. This is much better! It's easy, and even if the results are average, it's much better than shooting arrows all day and hitting nothing...
+>
 >But you'd like to have better results, so you first choose a general direction. You're not just choosing randomly, you have a reasonable basis for your choice: you decide to shoot your arrow in the direction of the area that is developing most rapidly. This way you're more likely to hit something, right? Or you could put down your arrows, and just throw your net in that direction!
+>
+>But then you realize that you could use the same basic rationale to adjust your general direction. If there are regions that are growing more rapidly, then there must also be sectors within those regions that are growing the most rapidly. The same logic still works.
+>
+>You've already made three guesses: 1) a net might work better than an arrow; 2) certain regions might grow more rapidly than the whole; and 3) some sectors within those regions might grow even more rapidly. If you keep guessing, your accuracy will certainly suffer. So what should you do? Don't use an arrow, use a shotgun! This way, although your accuracy will suffer, you'll be more likely, and perhaps almost certain, to hit something. Anyway, since it's so far away, no one can be completely accurate, but after so many adjustments, you're more likely than others to be accurate!
+>
+>In the end you have another discovery, which is that using an arrow is never the best choice...
 
-But then you realize that you could use the same basic rationale to adjust your general direction. If there are regions that are growing more rapidly, then there must also be sectors within those regions that are growing the most rapidly. The same logic still works.
+Choosing a mix of multiple investments, rather than just one, has a powerful effect. The most famous example once again comes from Warren Buffet. In April of 2017, United Airlines had a [PR disaster](https://en.wikipedia.org/wiki/United_Express_Flight_3411_incident) on their hands when, after overselling a flight, they had 69-year-old David Dao dragged off of an aircraft. Quite a few of the media reports that followed were about Warren Buffett, because he owned a large amount of stock in United's parent company. The reports said that, since the company's stock had gone down 4%, losing more than \$1 billion in market value, Buffett had lost more than \$90 million. At the end of trading that day, the stock was down just over 1%, so Buffett's paper loss was around \$24 million. 
 
-You've already made three guesses: 1) a net might work better than an arrow; 2) certain regions might grow more rapidly than the whole; and 3) some sectors within those regions might grow even more rapidly. If you keep guessing, your accuracy will certainly suffer. So what should you do? Don't use an arrow, use a shotgun! This way, although your accuracy will suffer, you'l be more likely, and perhaps almost certain, to hit something. Anyway, since it's so far away, no one can be completely accurate, but after so many adjustments, you're more likely than others to be accurate!
-
->In the end you have another discover, which is that using an arrow is never the best choice...
-
-Choosing mix of multiple investments, rather than just one, has a powerful effect. The most famous example once again comes from Warren Buffet. In April of 2017 United Airlines had a [PR disaster](https://en.wikipedia.org/wiki/United_Express_Flight_3411_incident) on their hands when, after overselling a flight, they had 69-year-old David Dao dragged off of an aircraft. Quite a few of the media reports that followed were about Warren Buffett, because he owned a large amount of stock in United's parent company. The reports said that, since the company's stock had gone down 4%, losing more than \$1 billion in market value, Buffett had lost more than \$90 million. At the end of trading that day, the stock was down just over 1%, so Buffett's paper loss was around \$24 million. 
-
-But did Buffett really lose money? No. In addition to United, he also had stock in American Airlines and Delta Airlines, and Southwest Airlines. Those stock prices of those three airlines all went *up* that day, giving Buffett an overall paper *gain* of \$1.4 billion on his airline stocks that day! Buffett's diversification in the airline sector insulated him from price volatility of a single airline stock. Had Buffett not had diversified holdings in the airline sector, the result would have been quite different!
+But did Buffett really lose money? No. In addition to United, he also had stock in American Airlines, Delta Airlines, and Southwest Airlines. The stock prices of those three airlines all went *up* that day, giving Buffett an overall paper *gain* of \$1.4 billion on his airline stocks! Buffett's diversification in the airline sector insulated him from the price volatility of a single airline stock. Had Buffett not had diversified his holdings in the airline sector, the result would have been quite different!
 
 ### 2.4 All Trends Have Bubbles
 
-The words that have been paired most frequently with "bubble" include "tulip" and "Internet". In 2019, a new pairing has been added: "Artificial Intelligence". People are worried that that a global AI bubble is about to burst, even though just a year ago startups in the AI sector were the hottest in the world. On October 5, 2018, *Forbes* reported that there were 14 AI unicorns just in China (a "unicorn" is a startup with a valuation of over \$1 billion). In aggregate, these companies had valuations of over \$40 billion. A year previously, AI startups had been even hotter, with a report from Tsinghua University stating that 369 investments had been made in AI startups in China, with the total investment reaching \$27.7 billion.
+Words that have been paired most frequently with "bubble" include "tulip" and "Internet". In 2019, a new one has been added: "Artificial Intelligence". People are worried that that a global AI bubble is about to burst, even though just a year ago startups in the AI sector were the hottest in the world. On October 5, 2018, *Forbes* reported that there were 14 AI unicorns just in China (a "unicorn" is a startup with a valuation of over \$1 billion). In aggregate, these companies had valuations of over \$40 billion. A year previously, AI startups had been even hotter, with a report from Tsinghua University stating that 369 investments had been made in AI startups in China, with the total investment reaching \$27.7 billion.
 
-But why are people suddenly worried about a bubble? It's because there has been a rash of negative news stories about the AI sector. For instance, it was reported that [Facebook](https://observer.com/2019/08/facebook-audio-transcription-scandal-ai-dilemma/) infringed on user privacy in order to develop their voice recognition system, and [IBM](https://www.technologyreview.com/f/613131/ibms-photo-scraping-scandal-shows-what-a-weird-bubble-ai-researchers-live-in/) used similar methods to develop their facial recognition system.. AI has also been used for what some consider to be nefarious purposes, such as in the case of [Cambridge Analytica's](https://www.theguardian.com/technology/2018/apr/16/cambridge-analytica-scandal-highlights-need-for-ai-regulation) use of Facebook user data in the US elections, and [Amazon's](https://futurism.com/amazon-ai-fire-workers) use of AI to fire low-productivity workers.
+But why are people suddenly worried about a bubble? It's because there has been a rash of negative news stories about the AI sector. For instance, it was reported that [Facebook](https://observer.com/2019/08/facebook-audio-transcription-scandal-ai-dilemma/) infringed on user privacy in order to develop their voice recognition system, and [IBM](https://www.technologyreview.com/f/613131/ibms-photo-scraping-scandal-shows-what-a-weird-bubble-ai-researchers-live-in/) used similar methods to develop their facial recognition system. AI has also been used for what some consider to be nefarious purposes, such as in the case of [Cambridge Analytica's](https://www.theguardian.com/technology/2018/apr/16/cambridge-analytica-scandal-highlights-need-for-ai-regulation) use of Facebook user data in the US elections, and [Amazon's](https://futurism.com/amazon-ai-fire-workers) use of AI to fire low-productivity workers.
 
 Perhaps the silliest story was about Kiwi Campus, a startup founded at UC-Berkeley in 2017 that makes robots, called Kiwibots, that deliver food on campuses. It has received multiple rounds of funding, and its CEO received an entrepreneurship award from MIT in 2018. In the summer of 2018, however, it was reported that the "AI robots" were actually being controlled remotely by students in Columbia being paid \$2 an hour.
 
-The AI sector seems to hot. With startups raising too much money, unclear valuation methods, and frequent issues with applications, it's hard not to be reminded of the Internet bubble. So, of course, people start to worry that there may be an AI bubble that could burst...
+The AI sector seems too hot. With startups raising too much money, unclear valuation methods, and frequent issues with applications, it's hard not to be reminded of the Internet bubble. So, of course, people start to worry that there may be an AI bubble that could burst...
 
 But is it such a bad thing for a bubble to burst?
 
 ![Figure17](../images/Figure17.png)
 
-Let's take another look at the historical price chart for the S&P 500. The two red circles indicate the peak of the Internet bubble in 2000 and the people of the housing bubble that let do the financial crisis in 2008. If we were living in the world of 2000 to 2003, it would seem to be a terrible winter for the Internet, with companies going bankrupt and dissolving. But from our vantage point in 2019, we can see that from 2000 to 2019 the Internet developed from being the world of a few to being everyone's world. According to the World Bank, in 2000 on 1.8% of the people in China were online; by 2019, WeChat --  just one app -- had over [1.1 billion users](https://new.qq.com/omn/20190516/20190516A0AY8B.html). This is the story of the Internet in China -- from 1.8% of the population using the Internet to 70% of people using just one app in around 20 years. Long-term trends can take a while, but they are quite powerful!
+Let's take another look at the historical price chart for the S&P 500. The two red circles indicate the peak of the Internet bubble in 2000 and the peak of the housing bubble that let to the financial crisis in 2008. If we were living in the world of 2000 to 2003, it would seem to be a terrible winter for the Internet, with companies going bankrupt and dissolving. From our vantage point in 2019, however we can see that from 2000 to 2019 the Internet developed from being the world of a few to being everyone's world. According to the World Bank, in 2000 only 1.8% of people in China were online; by 2019, WeChat --  just one app -- had over [1.1 billion users](https://new.qq.com/omn/20190516/20190516A0AY8B.html). This is the story of the Internet in China -- from 1.8% of the population using the Internet to 70% of people using just one app in around 20 years. Long-term trends can take a while, but they are quite powerful!
 
-For regular investors, even if we entered the market at the height of the bubble in 2000, looking back after two full cycles, in 2015, our entry point still looks like a "low" price. It turns out that the secret to "buy low, sell high", is quite simple:
+For regular investors, even if we entered the market at the height of the bubble in 2000, looking back after two full cycles, in 2015, our entry point still looks like a "low" price. It turns out that the secret to "buy low, sell high" is quite simple:
 
 >Wait for a long time after you buy before you sell.
 
 So is the popping of the AI bubble a good thing or a bad thing? It's hard to say for others, but for regular investors a bubble popping is always a good thing. In fact, **the popping of a bubble might be a great opportunity for a regular investor to enter the market.**
 
-If we look back over history, industries representing all great trends went through bubbles. The difference between the tulip bubble and the Internet bubble was that while tulips were not completely without value, there was no way for their value to grow sustainably. The Internet, however, had a value that could grow over time. All the way through the Internet bubble, the Internet was growing, creating value, and changing the world. 
+If we look back over history, industries representing all great trends went through bubbles. The difference between the tulip bubble and the Internet bubble was that, while tulips were not completely without value, there was no way for their value to grow sustainably. The Internet, however, had a value that could grow over time. All the way through the Internet bubble the Internet was growing, creating value, and changing the world. 
 
 Why do all great trends go through a bubble? The best explanation comes from John Fisher's [Transition Curve](https://www.ucd.ie/t4cms/Transition%20Curve%20Cranfield%20Article.pdf): 
 
 ![Figure18](../images/Figure18.png)
 
-When going through a transition, after some initial anxiety people feel happy because they think that, "At last something's going to change!" But then they often enter into a myriad of negative emotions. Some people deny the negative emotions, and then crash later, while some slowly fall into feelings of fear, guilt and even depression. While some eventually give up, others slowing begin to accept and adapt to the change. But this only happens after a long process.
+When going through a transition, after some initial anxiety, people feel happy because they think that, "At last something's going to change!" But then they often enter into a myriad of negative emotions. Some people deny the negative emotions, and then crash later, while some slowly fall into feelings of fear, guilt and even depression. While some eventually give up, others slowing begin to accept and adapt to the change. But this only happens after a long process.
 
 Major trends, which become apparent after many years, must initially go through the process of acceptance described above. The first crest in the curve is the cause of the bubble, and the ensuing trough is the reason for the bubble bursting. This is shown most clearly in the markets, because the market price at each moment is a representation of everyone in the market's collective understanding of an investment. When people are feeling disillusioned, the bubble pops.
 
-So, contrary to what most people think, the popping of a bubble quite possibly represents opportunity. Whether or not there is actually an opportunity depends on whether or not the object of the bubble has long-term sustainable value and growth. If it does, then there is an opportunity. Furthermore, it is possible that bubbles may continue to occur until its value has been fully realized.
+So, contrary to what most people think, the popping of a bubble quite possibly represents opportunity. Whether or not there is actually an opportunity depends on whether or not the object of the bubble has long-term sustainable value and growth potential. If it does, then there is an opportunity. Furthermore, it is possible that bubbles may continue to occur until its value has been fully realized.
 
-After reaching an all-time high of \$19,800 in December of 2017, Bitcoin entered a long bear market. As of October of 2019, it remains in a bear market, with the price less than 43% of the all-time high. But is the popping of this bubble different from the popping of previous bubbles in the Bitcoin market? Since its inception, Bitcoin has been pronounced dead [337 times](https://99bitcoins.com/bitcoin-obituaries/) (through October 11, 2019). Each short bull market has been called a bubble, and they have all popped, but the popping of the bubble in 2017 has one difference from previous bubbles:
+After reaching an all-time high of \$19,800 in December of 2017, bitcoin entered a long bear market. As of October of 2019, it remains in a bear market, with its price less than 43% of its all-time high. But is the popping of this bubble different from the popping of previous bubbles in the bitcoin market? Since its inception, bitcoin has been pronounced dead [337 times](https://99bitcoins.com/bitcoin-obituaries/) (as of October 11th, 2019). Each short bull market has been called a bubble, and they have all popped, but the popping of the bubble in 2017 has one difference from previous bubbles:
 
->No one denies Bitcoin's value. 
+>No one denies bitcoin's value. 
 
 This is an extremely important, if subtle, difference. I have a very simple, direct, brutal and effective way to determine if a trend is established: 
 
 >Don't look at how many people have already accepted it, look to see if most people can no longer deny it.
 
-**Undeniability** is an important sign of an established trend. It doesn't matter whether or not they understand it, or whether or not they accept it. If they can't deny it, then the trend has basically already "dried out the bubble". This is the best signal for regular investors to decide when to enter the market. This is why I didn't introduce BOX, my zero-fee blockchain ETF, until July of 2019, even though my thinking about and designs for a blockchain ETF began in 2015.
+**Undeniability** is an important sign of an established trend. It doesn't matter whether or not they understand it, or whether or not they accept it. If they can't deny it, then the trend has basically already "filled up the bubble". This is the best signal for regular investors to decide when to enter the market. This is why I didn't introduce BOX, my no-load, no-management-fee blockchain ETF, until July of 2019, even though my thinking about and designs for a blockchain ETF began in 2015.
 
-It's important to point out that most novice investors fall into the trap of "looking for the next...". Actually, very few people succeed by choosing carefully and holding over the long term (whether through regular investing or not), and the vast majority of people never make deep macro observations from a long-term perspective, but everyone is jealous of those who have already succeeded, and so they can't help but thinking:
+It's important to point out that most novice investors fall into the trap of "looking for the next...". Actually, very few people succeed by choosing carefully and holding over the long term (whether through regular investing or not), and the vast majority of people never make deep macro observations from a long-term perspective, but everyone is jealous of those who have already succeeded, so they can't help but thinking:
 
->If only I had chosen correctly that early!
+>If only I had also chosen correctly that early!
 
-But it's hard for that thought to not evolve into this next thought:
+But it's hard for that thought not to evolve into this next thought:
 
 >I also want to find an investment that I can get in early on!
 
@@ -671,7 +669,7 @@ Choices are the most important thing, especially in investing. If we review what
 
 It's a lot of decisions, but they are easy to summarize. All of them are decisions about **trends**. Not choosing just one investment, but stepping back and choosing to invest in everything, is done in order to reduce risk and **keep up with the global trend**. In this case, *alpha* is zero. Choosing the best parts of the whole is done in order to find the parts that are developing the fastest, and in doing so create positive *alpha*. Choosing the best parts of the best parts is done to create even higher *alpha* by following trends. Finally, choosing combinations of investements in the best parts of the best parts is pursuing the same goal: first reduce risk, and then see if it is possible to increase *alpha*.
 
-In order to choose our combination of investments, the most simple, direct, brutal and effective principles is this:
+In order to choose our combination of investments, the most simple, direct, brutal and effective principle is this:
 
 >Match the sector's development trends.
 
@@ -679,12 +677,12 @@ Below, I will take BOX as an example, because it is a combination of investments
 
 > **Risk Warning** 
 
-> **The strategy of regular investment is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing are the responsibility of each investor. Each investor much use their own money and time over the long term to take responsibility for their choices. Please be cautious.
-
-> This section is primarily about how I chose BTC, EOS, and XIN to be the components of BOX, and it necessarily contains some of my own subjective judgements. You must use your own objective understanding of the objective world to chose your own investments.**
-
+> The strategy of regular investment is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor much use their own money and time over the long term to take responsibility for their own choices. Please be cautious.
+>
+> This section is primarily about how I chose BTC, EOS, and XIN to be the components of BOX, and it necessarily contains some of my own subjective judgements. You must use your own objective understanding of the objective world to choose your own investments.
+>
 > **Conflict of Interest Notice**
-
+>
 > * I am a long-term holder of BTC (from May of 2011)
 > * I was an angel investor in BlockOne, which developed EOS (May of 2017)
 > * I was an angel investor in Mixin Network (October of 2017)
@@ -693,37 +691,37 @@ After eight years of observation, thinking and practice, I think that blockchain
 
 >Trusted ledger (BTC) → Trusted platform for code (ETH/EOS) → Trusted execution environment (Mixin) → Trusted hardware (?) ...
 
-[Bitcoin](https://bitcoin.org/) was the world's first blockchain application. At its core it is a open, transparent, immutable, distributed, trusted ledger. Projects such as [Ethereum](https://www.ethereum.org) and [EOS](https://eos.io), which came along later, had the goal of becoming a blockchain application platform, which is to say that application code would be written to and execute on an open, transparent, immutable, distributed, trusted ledger. Putting a ledger on a blockchain allowed for  a trusted ledger, and putting application code on a blockchain allowed for trusted code. [Mixin Network](https://mixin.one) combines a Trusted Execution Environment (TEE) and a Directed Acyclic Graph (DAG) to create a new open, transparent, immutable, distributed digital assets storage network, or a trusted execution environment. Maybe in the near future we will also see trusted hardware.
+[Bitcoin](https://bitcoin.org/) was the world's first blockchain application. At its core it is a open, transparent, immutable, distributed, trusted ledger. Projects such as [Ethereum](https://www.ethereum.org) and [EOS](https://eos.io), which came along later, have the goal of becoming a blockchain application platform, which is to say that application code can be written to and executed on an open, transparent, immutable, distributed, trusted ledger. Putting a ledger on a blockchain allowed for a trusted ledger, and putting application code on a blockchain allowed for trusted code. [Mixin Network](https://mixin.one) combines a Trusted Execution Environment (TEE) and a Directed Acyclic Graph (DAG) to create an open, transparent, immutable, distributed digital assets storage network, or a trusted execution environment. Maybe in the near future we will also see trusted hardware.
 
 The reasons for not choosing Ethereum are technical. It currently uses a [Proof-of Work (PoW)](https://en.wikipedia.org/wiki/Proof_of_work) consensus mechanism, and this type of consensus mechanism, which measures confirmations in minutes, is fundamentally unsuitable for an application platform. Ethereum's experience over the past three years has shown that this flaw cannot be resolved in a PoW system. Even if Ethereum switches to a Proof-of-Stake (PoS) system, it will necessarily require a hard fork. Ethereum already underwent a poorly considered hard fork in 2017 that gave birth to Ethereum Classic, which has no clear use case. All of this is to say that investors in Ethereum are faced with a great amount of risk.
 
-There is one final reason why I choose these investments. From their inception until they are widely accepted, almost all technologies go through her following three stages:
+There is one final reason why I chose these investments. From their inception until they are widely accepted, almost all technologies go through her following three stages:
 
 >Inception → Adoption by businesses (2B) → Adoption by individuals (2C)
 
-From this perspective, EOS is a blockchain platform for businesses, and Mixin Network's first dApp, Mixin Messenger, is a platform for individuals. On of Mixin Messenger's most important components, which is a base-layer feature of Mixin Network's public chain, is a distributed, multi-coin wallet with the best user experience in the industry. 
+From this perspective, EOS is a blockchain platform for businesses, and Mixin Network's first dApp, Mixin Messenger, is a platform for individuals. One of Mixin Messenger's most important components, which is a base-layer feature of Mixin Network's public chain, is a distributed, multi-coin wallet with the best user experience in the industry. 
 
 Furthermore, these three investments have reached the "undeniable" stage. They of course haven't been accepted by everyone, but no one can deny their value. This is the best time for regular investors to enter the market.
 
-Let's take Odyssey (temporary name), the zero-fee stock ETF that will be issued in the second half of 2020, as another example. As I mentioned it in a previous chapter:
+Let's take Odyssey, the no-load, no-management-fee stock ETF that will be issued in the second half of 2020, as another example. As I mentioned it in a previous chapter:
 
 >I agree with Sun Zhengyi's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
-
->>No matter how good the algorithm is, it needs data to feed it. Public companies who have large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then their growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
+>
+>>No matter how good the algorithm is, it needs data to feed it. Public companies who have large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
 
 The main point is in this sentence:
 
 >Most algorithm companies will in the end be used by large companies with data.
 
-This sentence is making an observation about an obvious trend that is in accordance with the trend. In this sector, this will definitely happen, so we should be prepared in advance.
+This sentence is making a judgment about an obvious trend that is in accordance with the trend. In this sector, this will definitely happen, so we should be prepared in advance.
 
-There has long been debate in the investment world about whether *alpha* -- results that beat the market) -- actually exists, even though rare investors such as Warren Buffet, Joel Greenblatt and Ray Dalio have consistency beaten the market over the long term. There's a joke that shows the silliness of blind adherents to "efficient market theory":
+There has long been debate in the investment world about whether *alpha* -- results that beat the market -- actually exists, even though rare investors such as Warren Buffet, Joel Greenblatt and Ray Dalio have consistency beaten the market over the long term. There's a joke that shows the silliness of blind adherents to "efficient market theory":
 
 >A student saw a hundred dollar bill on the ground and exclaimed to his professor, "Look! Is that a hundred dollar bill?" The professor didn't even deign to look, and said, "That's impossible! If it were really a hundred dollar bill, somebody would have picked it up a long time ago."
 
-If the market were 100% efficient, then *alpha* could not exist. The problem is that if we look at any given moment in the market in isolation, it's 100% inefficient. Price and value sometimes matching up doesn't mean anything -- a broken clock is right twice a day! If we put all of the individual moments back together, over the long term the market should be efficient, but how long is long term? No one knows. If we look at it from the perspective of a regular investor after two full cycles, the variance between the current price and the historical price at any given moment will seem even greater.
+If the market were 100% efficient, then *alpha* could not exist. The problem is that, if we look at any given moment in the market in isolation, it's 100% inefficient. Price and value sometimes matching up doesn't mean anything -- a broken clock is right twice a day! If we put all of the individual moments back together, then over the long term the market should be efficient, but how long is long term? No one knows. If we look at it from the perspective of a regular investor, after two full cycles, the variance between the current price and the historical price at any given moment will seem even greater.
 
-Obviously, I believe that *alpha* exists, and I'm always thinking about how find better strategies to create it. If you do well, *alpha* is positive; if you do poorly, *alpha* is negative. As a regular investor, you final results can be described by the following formula:
+Obviously, I believe that *alpha* exists, and I'm always thinking about how find better strategies to create it. If you do well, *alpha* is positive; if you do poorly, *alpha* is negative. As a regular investor, your final results can be described by the following formula:
 
 >**p = δ + α - γ**
 
@@ -731,9 +729,9 @@ Obviously, I believe that *alpha* exists, and I'm always thinking about how find
 
 >**β**, or *beta*, the second letter of the Greek alphabet, refers to the correlation between your returns and overall market returns. When *beta* is 0, they are completely uncorrelated. For instance, if you "regularly invest in US dollars", then your returns will be completely uncorrelated with the stock market. When *beta* is 1, your returns are 100% correlated with the market. In our equation, **p = δ + α - γ**, *delta* is equivalent to a *beta* of 1.
 
-For regular investors, all *alpha* comes from careful decisions that were made before they started investing. Regular investors are lucky in that once they start investing they don't need to worry about things like choices, adjustments, or other issues that keep other investors up at night. 
+For regular investors, all *alpha* comes from careful decisions that are made before starting to invest. Regular investors are lucky in that once they start investing they don't need to worry about things like choices, adjustments, or other issues that keep other investors up at night. 
 
-As you have seen, the choice of investments for regular investing doesn't require many tactics or smarts. As long as you get the process basically right , you should be okay. However, the difficult part of being a regular investor is that even before you start you have to be sure that you have made your choice and will stick with it over the long term. This is probably the best example I can come up with of how something can be "simple but not easy".
+As you have seen, the choice of investments for regular investing doesn't require many tactics or smarts. As long as you get the process basically right you should be okay. However, the difficult part of being a regular investor is that even before you start you have to be sure that you have made your choice and will stick with it over the long term. This is probably the best example I can come up with of how something can be "simple but not easy".
 
 ## Part Three: The Process of Regular Investing
 
