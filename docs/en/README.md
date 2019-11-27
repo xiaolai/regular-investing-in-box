@@ -1558,7 +1558,7 @@ So from my perspective, everyone should seriously study investing. I can't think
 
 ## About the Author
 
-Li Xiaolai is an investor and a lifelong learner. http://lixiaolai.com · xiaolai@github
+Li Xiaolai is an investor and a lifelong learner. http://lixiaolai.com · [xiaolai@github](https://github.com/xiaolai)
 
 ### Publications
 
@@ -1572,18 +1572,16 @@ Li Xiaolai is an investor and a lifelong learner. http://lixiaolai.com · xiaola
 
 ### Other Links
 
-> * *[I Also Have Something to Say](http://lixiaolai.com/#/i-have-a-say/)*
-> * *[Everyone Can Learn English](http://lixiaolai.com/#/everyone-can-use-english/)*
-> * *[Squeeze A Little and it Will Come: A guide to orgasms for women](http://lixiaolai.com/#/ji/)*
+> * [*I Also Have Something to Say*](http://lixiaolai.com/#/i-have-a-say/)
+> * [*Everyone Can Learn English*](http://lixiaolai.com/#/everyone-can-use-english/)
+> * [*Squeeze A Little and it Will Come: A guide to orgasms for women*](http://lixiaolai.com/#/ji/)
 > * *INBlockchain's Open-source Investing Principles* ([English](http://lixiaolai.com/#/INB-principles/en/), [Chinese](http://lixiaolai.com/#/INB-principles/cn/))
-> * *[Bitcoin Whitepaper (Chinese and English)](http://lixiaolai.com/#/bitcoin-whitepaper-cn-en-translation/Bitcoin-Whitepaper-EN-CN.html)*
-> * *[Little Book of Blockchain](https://blockchainlittlebook.com/#/)*
+> * [*Bitcoin Whitepaper (Chinese and English)*](http://lixiaolai.com/#/bitcoin-whitepaper-cn-en-translation/Bitcoin-Whitepaper-EN-CN.html)
+> * [*Little Book of Blockchain*](https://blockchainlittlebook.com/#/)
 
 -----
 
 
 
 This book is released under the [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh).
-
-![CC-BY-NC-ND](../images/CC-BY-NC-ND.png)
 
