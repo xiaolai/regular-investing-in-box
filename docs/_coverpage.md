@@ -3,7 +3,7 @@
 
 rewritten in English by John Gordon & Xiaolai Li
 
-[中文](/cn/) · [English](/en/) 
+[点击阅读中文版](/cn/) · [Click to read English edition](/en/) 
 
 <!-- · [日本語](jp/) · [한국어](ko/) · [Le français](fr/) · [Pусский](ru/) · [Deutsch](ge/) · [
 Espanol](sp/)-->
