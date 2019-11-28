@@ -67,7 +67,7 @@ Investing is not easy, and successful investing is even harder. But just because
 Regular investing is quite simple: 
 >Regularly invest a set amount in a particular investment over a long period of time.
 
-For example, **every week** (regularly) for the next **five to ten years** (a long period of time) invest **200 USD** (a set amount) in **[BOX](https://b.watch)** (a particular investment). Of course, you could change BOX to any investment that is worth investing in and holding over a long period of time, such as shares in [Apple](https://finance.yahoo.com/quote/AAPL/), [Maotai](https://hk.finance.yahoo.com/quote/600519.SS/), [Coca-Cola](https://finance.yahoo.com/quote/KO), or an [S&P 500](https://en.wikipedia.org/wiki/S%26P_500_Index) Index Fund.
+For example, **every week** (regularly) for the next **five to ten years** (a long period of time) invest **200 USD** (a set amount) in [**BOX**](https://b.watch) (a particular investment). Of course, you could change BOX to any investment that is worth investing in and holding over a long period of time, such as shares in [Apple](https://finance.yahoo.com/quote/AAPL/), [Maotai](https://hk.finance.yahoo.com/quote/600519.SS/), [Coca-Cola](https://finance.yahoo.com/quote/KO), or an [S&P 500](https://en.wikipedia.org/wiki/S%26P_500_Index) Index Fund.
 
 Is such a simple strategy really effective? The numbers don't lie.
 
@@ -874,7 +874,7 @@ Immediate redemption means that at any given point in time, you **must** be able
 
 For regular investors, investing is even more different than normal business. If we must calculate the cost of their investments, **their true cost, relatively speaking, is their time, because the time that they invest is much more important than the money that they invest**. In the previous chapter we saw how overall time invested is more important than choosing the right time. You must be invested every day, not missing the bad days and definitely not missing the good days.
 
-*The greater and more important cost is time**. This concept can change how investors feel, and thus change their decisions and results. When you think that your only cost is money, it's hard to resist the impulse to "get your costs out". But once you know that your main cost is time, you will understand that you can't get back the time you have already invested.
+**The greater and more important cost is time**. This concept can change how investors feel, and thus change their decisions and results. When you think that your only cost is money, it's hard to resist the impulse to "get your costs out". But once you know that your main cost is time, you will understand that you can't get back the time you have already invested.
 
 More importantly, this understanding will get rid of your impulse to "take profits", because you know that doing so will greatly reduce the impact of your future time! The main cost for regular investors is the time required to be in the market for two or more full cycles. In traditional stock markets, this is around twenty to thirty years. In blockchain digital asset markets, this is around five to eight years. As a regular investor, you know that your results depend on your overall time in the market, so your thinking is quite different from most investors. You know that giving up your time, even if it seems like just a little today, has a huge impact when viewed from the perspective of having been invested for two or more full cycles. It's hard for you to be so cruel to yourself.
 
@@ -1209,7 +1209,7 @@ According to JP Morgan's statistics, since 1980 more than 40% of all stocks have
 
 Siegal looked at historical data from 1802 to 2012 and found that for any given ten-year period, stocks performed better than cash *80%* of the time. Furthermore, stocks performed better than stocks over every twenty-year period. Stocks also performed much better than gold, which many people think of as a safe asset. Contrary to many people's intuition, which is that stocks are the riskiest asset, stocks performed better than other assets over the long term, with annualized returns of 6.6% over 210 years. Cash, which people tend to think of as the safest asset, actually had negative real returns of -1.4%. When you see these numbers, you should think to yourself, "Where is risk the greatest?" In the stock market? Or out of the stock market?
 
->Based on this "discovery", Professor Siegal published a book entitled, *[Stocks for the Long Run: The Definitive Guide to Financial Market Returns & Long-Term Investment Strategies](https://www.amazon.com/gp/product/B00GWSXX26/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)*, which as of 2014 was on its fifth printing.
+>Based on this "discovery", Professor Siegal published a book entitled, [*Stocks for the Long Run: The Definitive Guide to Financial Market Returns & Long-Term Investment Strategies*](https://www.amazon.com/gp/product/B00GWSXX26/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0), which as of 2014 was on its fifth printing.
 
 The *alpha* of regular investors comes from their careful choice before they start investing. Once they start investing, *alpha* has already been decided, so the only thing to do is to reduce *gamma* by avoiding mistakes. Siegal's most shocking point is the following:
 
@@ -1306,7 +1306,7 @@ Because regular investors only do one thing -- buy -- they don't need to do anyt
 
 There is an investing phenomenon that is worth paying attention to, especially for long-term holders:
 
->**The earlier the mistake the greater the long-term cost**, because the cost is compounded over the long term.
+> **The earlier the mistake the greater the long-term cost**, because the cost is compounded over the long term.
 
 Furthermore, the longer the mistake persists, the greater the effect is over the long term. We can use the following approximation to illustrate this:
 
@@ -1350,7 +1350,7 @@ Most funds are established to chase *alpha*. Even though there are some clearly 
 
 How difficult is it to create *alpha*? Someone once joked that you if threw stock certificates in a room, let a monkey into the room, and made fund based on which stocks the monkey peed on, you could still beat the fund managers of most actively-managed funds. Sadly, the joke is correct!
 
-According to [a report](https://www.wsj.com/articles/indexes-beat-stock-pickers-even-over-15-years-1492039859) in the Wall Street Journal, in the fifteen years ending in 2016, *95.4%* of mid-cap funds underperformed the S&P MidCap 400, *93.2%* of small-cap funds underperformed the S&P SmallCap 600, and *92.2% of large-cap funds underperformed the S&P 500...
+According to [a report](https://www.wsj.com/articles/indexes-beat-stock-pickers-even-over-15-years-1492039859) in the Wall Street Journal, in the fifteen years ending in 2016, *95.4%* of mid-cap funds underperformed the S&P MidCap 400, *93.2%* of small-cap funds underperformed the S&P SmallCap 600, and *92.2%* of large-cap funds underperformed the S&P 500...
 
 ![Figure36](../images/Figure36.png)
 
@@ -1426,7 +1426,7 @@ October 2019, Beijing
 
 ### 1.1 Details of BOX
 
-Quite simply, BOX is **a blockchain token that tracks a basket of blockchain assets. Its components are as follows:
+Quite simply, BOX is **a blockchain token** that tracks a basket of blockchain assets. Its components are as follows:
 
 > * 1 BTC
 > * 1500 EOS
@@ -1520,7 +1520,7 @@ Under this system, the corporate value of b.watch is basically a 0.5% commission
 
 ## 3. About the Regular Investing Practice Group
 
-The**Regular Investing Practice Group" is my blockchain education product.
+The "Regular Investing Practice Group" is my blockchain education product.
 
 After eight years of surviving in the blockchain world, I have a strong desire to share my survival experience and wisdom. I'm sure that you can understand. 
 
