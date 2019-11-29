@@ -52,7 +52,7 @@ The strategy of regular investing is correct, but the target investment must be 
 
 *On Regular Investing* is not only an open-source book, it’s also paired with [BOX](https://b.watch), the first digital asset ETF with no load or management fees, which I designed. Regular investing is simple, but not necessarily easy, because it’s as if the boat we are sailing in is passing by the island of the Sirens. BOX is the boat, and those who are investing in BOX with us are the sailors who need to fill their ears with wax. The wax is continuous learning about regular investing, which I hope to provide in this book and in my classes. I suppose I am Odysseus, tying myself to the mast. Since there are no management fees, the way I make money is simple: like everyone else, I am in the same boat, regularly investing in BOX.
 
-We should solve the most important problem at the very beginning, and not let it take root and grow into a problem tree that gives us a plethora of persistent troubles to deal with. This might be the single most important wisdom in life. 
+We should solve the most important problem at the very beginning, and not let it take root and grow into a problem tree that gives us a plethora of persistent troubles to deal with. This might be the single most important piece of wisdom in life. 
 
 Before long, you will discover that the strategy of regular investing is not only applicable to investing. Actually, it’s applicable to most areas of life, including study, work, and personal relationships. These are all areas in which the strategy should be used from the very beginning. 
 
