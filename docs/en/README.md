@@ -8,11 +8,11 @@
 
 ## Warning
 
-While financial trading markets are no doubt the best to make money through critical thinking and the application of knowledge, there’s also no other place where people are more severely punished for a lack of critical thinking.
+While the financial trading markets are no doubt the best to make money through critical thinking and the application of knowledge, there’s also no other place where people are more severely punished for a lack of critical thinking.
 
 > Investing is risky, so make your decisions carefully!
 
-As [Howard Stanley Marks](https://en.wikipedia.org/wiki/Howard_Marks_(investor)), who was listed as the 327<sup>th</sup> most wealthy person in United States in 2017, once said:
+As [Howard Stanley Marks](https://en.wikipedia.org/wiki/Howard_Marks_(investor)), who was listed as the 327<sup>th</sup> wealthiest person in the United States in 2017, once said:
 
 > “There are *old* investors, and there are *bold* investors, but there are no *old bold* investors.”
 
@@ -32,17 +32,17 @@ Because I have been writing in this simple, direct, brutal and effective way for
 
 Actually, most problems in life are due to failing to resolve the most important problem right from the start. If you can handle the most important problem in the beginning, then even though there will still be many other difficulties, they won’t be the eternal problems that so many people face.
 
-When facing with the few truly essential decisions in life, many people also ignore the most important problem. For instance, when choosing whom to marry, “Is she or he reasonable?” is always outside the scope of consideration, even though it is the single most important factor. Instead, they focus on appearance, education, background, etc., without considering which factor will be the most important in the future. Of course, maybe this is because they themselves aren’t a reasonable person (yes, it’s true, most people aren’t very reasonable, and they stay this way throughout their lives). 
+When facing the few truly essential decisions in life, many people also ignore the most important problem. For instance, when choosing whom to marry, “Is she or he reasonable?” is always outside the scope of consideration, even though it is the single most important factor. Instead, they focus on appearance, education, background, etc., without considering which factor will be the most important in the future. Of course, maybe this is because they themselves aren’t a reasonable person (yes, it’s true, most people aren’t very reasonable, and they stay this way throughout their lives). 
 
-Because they haven’t eradicated the most important problem, it sprouts like a seed, growing both a tree above ground and a deep root structure below, creating countless new problems. And so we see the same situation again and again: people surround the “problem tree” above ground, wasting lots of time and energy trying to find ways to solve perceived problems that wouldn't have existed at all if they made the right decision long time ago. They don't even notice that the real problem is in the roots of the tree.
+Because they haven’t eradicated the most important problem, it sprouts like a seed, growing both a tree above ground and a deep root structure below, creating countless new problems. And so we see the same situation again and again: people surround the “problem tree” above ground, wasting lots of time and energy trying to find ways to solve perceived problems that wouldn't have existed at all if they made the right decision a long time ago. They don't even notice that the real problem is in the roots of the tree.
 
-Another common yet surprising example is most people’s perception on “success”. *Most people see success as an end point* , and this misunderstanding leads to countless new problems that could have been avoided if this mistake had been avoided in the beginning. Success is hard to achieve if we see it as an end point, because we will imbue such a final goal with so many unrealistic hopes and fantasies that we will be unlikely to reach it. Even if some people who take success as an end point are lucky enough to reach it, the process will make them abnormal. The craziness that follows success, and the result of that craziness, is actually the result of the mistaken belief from years before that success is an end point. 
+Another common yet surprising example can be found in most people’s perception of “success”. *Most people see success as an end point* , and this misunderstanding leads to countless new problems that could have been avoided if this one mistake had been avoided in the beginning. Success is hard to achieve if we see it as an end point, because we will imbue such a final goal with so many unrealistic hopes and fantasies that we will be unlikely to reach it. Even if some who take success as an end point are lucky enough to reach it, the process will make them abnormal. The craziness that follows success, and the result of that craziness, is actually the result of the mistaken belief from years before that success is an end point. 
 
-In fact, success is a new beginning. If you start a business, this is a beginning rather than an end. Each time your business raises money from venture capitals, that is also a new beginning. Even if you go public, that’s still a new beginning rather than an end point, because you have to continue to help the company grow. In fact, the most tragic failures in life always come from perceiving a new beginning as an end point. 
+In fact, success is a new beginning. If you start a business, this is a beginning rather than an end. Each time your business raises money from venture capital, that is also a new beginning. Even if you go public, that’s still a new beginning rather than an end point, because you have to continue to help the company grow. In fact, the most tragic failures in life always come from perceiving a new beginning as an end point. 
 
-Investment is also one of these few essential decisions in life, but most people haven’t seriously thought about it, let alone made a decision. The investment arena is divided into two extremes -- it’s a binary world in which you’re either a 1 or a 0. Either you are extremely successful, or you are not extremely successful, and then you are mediocre like everybody else, which is basically equal to zero. In my view, the existence of this phenomenon is also related to the fact that most people fail to resolve the most important problem at the beginning.
+Investment is also one of these few essential decisions in life, but most people haven’t seriously thought about it, let alone made a decision. The investment arena is divided into two extremes -- it’s a binary world in which you’re either a 1 or a 0. Either you are extremely successful, or you are not extremely successful, and then you are mediocre like everyone else, which is basically equal to zero. In my view, the existence of this phenomenon is also related to the fact that most people fail to resolve the most important problem at the beginning.
 
-So what’s the most important concept in the area of investment? **Long-term**.There are more scams in the investment world than in any other area. Why? Because people who have not deeply understood the important concept of long-term are always confronting their “problem tree”. Each leaf on the tree is a perceived problem that they must solve, and each branch is something bigger that they need to think about. They ignore the roots underground, though, because they are too mysterious to understand. In fact, though, this tree should not even exist.
+So what’s the most important concept in the area of investment? **Long-term**.There are more scams in the investment world than in any other area. Why? Because people who have not deeply understood the important concept of long term are always confronting their “problem tree”. Each leaf on the tree is a perceived problem that they must solve, and each branch is something bigger that they need to think about. They ignore the roots underground, though, because they are too mysterious to understand. In fact, this tree should not even exist.
 
 There is a huge gap between knowing and doing, and long-term practice is the only way to cross this gap. A strategy of **regular investing** is the simplest way to practice investing, as all you have to do is regularly purchase a set investment over the long term. However, simple itself doesn’t necessarily mean easy.
 
@@ -54,9 +54,9 @@ The strategy of regular investing is correct, but the target investment must be 
 
 We should solve the most important problem at the very beginning, and not let it take root and grow into a problem tree that gives us a plethora of persistent troubles to deal with. This might be the single most important wisdom in life. 
 
-Before long, you will discover that the strategy of regular investing is not only applicable to investing. Actually, it’s applicable to most of life, including study, work, and personal relationships, all areas in which the strategy should be used from the very beginning. 
+Before long, you will discover that the strategy of regular investing is not only applicable to investing. Actually, it’s applicable to most areas of life, including study, work, and personal relationships. These are all areas in which the strategy should be used from the very beginning. 
 
-So again, the reason I am writing this book is because I hope that ten, twenty or even thirty years from now its content will still be useful to many.
+So again, the reason I am writing this book is because I hope that ten, twenty, or even thirty years from now its content will still be useful to many.
 
 ## Part One: Regular Investing
 
