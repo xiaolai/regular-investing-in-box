@@ -20,7 +20,7 @@ Don’t be so naïve as to believe that you can turn into a superman just becaus
 
 ## Preface
 
-It’s been ten years since I published *Befriending Time*, and it’s still a bestseller. While I was writing the book, I tried to adhere to the following principle:
+It’s been ten years since I published [*Befriending Time*](https://item.jd.com/34924669813.html), and it’s still a bestseller. While I was writing the book, I tried to adhere to the following principle:
 
 >*Will this book still be useful to readers in ten years?*
 
