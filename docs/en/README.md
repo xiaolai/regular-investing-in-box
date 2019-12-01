@@ -89,7 +89,7 @@ The key point is that you entered the market at the worst time –- on October 8
 
 ![Figure03](../images/Figure03.png)
 
-But if you take another look at chart above, you'll see that the red line crosses the blue line for the first time in 2009. So while it took the S&P 500 **286** weeks to return to its high, your strategy of regular investing began to see steady positive returns after just *111* weeks. When you started to see positive returns, the S&P 500 was still 30% off its all-time high. When the S&P 500 finally returned to its high after 286 weeks, your strategy was already showing returns of *32.64%*.
+But if you take another look at the chart above, you'll see that the red line crosses the blue line for the first time in 2009. So while it took the S&P 500 **286** weeks to return to its high, your strategy of regular investing began to see steady positive returns after just *111* weeks. When you started to see positive returns, the S&P 500 was still 30% off its all-time high. When the S&P 500 finally returned to its high after 286 weeks, your strategy was already showing returns of *32.64%*.
 
 Let's take a look at an even more striking example. Suppose you started regularly investing in Bitcoin in December of 2017, when Bitcoin was at it's all-time high of \$19,800. Shortly afterwards, the price crashed, and it still hasn't returned to its all-time high. The chart below assumes you started regularly investing in Bitcoin on December 11th, 2017, and kept it up for 87 weeks. 
 
@@ -155,7 +155,7 @@ Why do we need to emphasize at least **two** market cycles? Because many people 
 
 >Only after **two full cycles** can we make an **accurate** judgement about whether a trend is more likely to be upward or downward.
 
-Furthermore, please notice the use of "more likely to be" in the sentence above. Even after two full cycles, we still cannot be 100% sure about the future trend based on historical data. At this point in time (October 2019), bitcoin's price has still not returned to its historical high, and we cannot be 100% sure that Bitcoin will every exceed its historical high. We will only be able to make this determination after the fact –- long after the fact. In the end, from any point in time, we can only make investment decisions based on less than 100% certainty. Since the future is full of risk and unknown factors, we can only use terms such as "more likely. Actually, this is precisely why investing is so interesting.
+Furthermore, please notice the use of "more likely to be" in the sentence above. Even after two full cycles, we still cannot be 100% sure about the future trend based on historical data. At this point in time (October 2019), bitcoin's price has still not returned to its historical high, and we cannot be 100% sure that Bitcoin will every exceed its historical high. We will only be able to make this determination after the fact –- long after the fact. In the end, from any point in time, we can only make investment decisions based on less than 100% certainty. Since the future is full of risk and unknown factors, we can only use terms such as "more likely". Actually, this is precisely why investing is so interesting.
 
 In the chart above, we can barely see the high reached in June of 2011. But if we separate each historical high into separate charts, we see that they look strikingly similar.
 
@@ -170,7 +170,7 @@ Let's briefly summarize what we have discussed thus far:
 > * we can take each **historical high** as the starting point for Period B of a full cycle;
 > * we can only determine the historical high of a period **after the fact**;
 > * it takes **at least two full cycles** to determine a **trend**;
-> * the best we can do is determine that a trend is **more likely**;
+> * the best we can do is to determine that a trend is **more likely**;
 > * an upward trend often results in a **new historical high**, but we can only determine the highest price of a cycle after the fact;
 > * long-term holding refers to holding for **at least two full cycles**, or through two bear markets and two bull markets.
 
