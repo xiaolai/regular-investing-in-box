@@ -1538,7 +1538,7 @@ Mixin Network 的做法**是自上而下**（Top Down）：先做一个非常好
 
 ### 2. 关于 b.watch
 
-[b.watch](https://b.watch) 是 [BOX](https://b.watch) 申购、赎回与交易的场所。
+[b.watch](https://b.watch) 是 [BOX](https://b.watch) 申购、赎回与交易的场所。（近期会启用新域名：[https://firesbox.com](https://firesbox.com)，2019.12）
 
 目前 [b.watch](https://b.watch) 的未来可能收益来自于两方面：
 
@@ -1562,7 +1562,7 @@ Mixin Network 的做法**是自上而下**（Top Down）：先做一个非常好
 
 ### 3. 关于笑来定投课堂
 
-**笑来定投课堂**，是李笑来的区块链教育产品。
+**笑来定投课堂**（Mixin Messenger 上现在的群名是 “BOX 定投践行群”），是李笑来的区块链教育产品。
 
 在区块链世界里生存了八年之后，李笑来这有很强烈的欲望把自己的生存经验和智慧传播出去 —— 相信你能理解。
 
