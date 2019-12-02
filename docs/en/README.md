@@ -62,9 +62,10 @@ So again, the reason I am writing this book is because I hope that ten, twenty, 
 
 Investing is not easy, and successful investing is even harder. But just because something isn't easy doesn't mean there isn't a simple, direct, brutal and effective strategy that almost everyone can correctly master and deploy.
 
-### 1.1 The Strategy and Results
+### 1.1 The Strategy and Its Results
 
 Regular investing is quite simple: 
+
 >Regularly invest a set amount in a particular investment over a long period of time.
 
 For example, **every week** (regularly) for the next **five to ten years** (a long period of time) invest **200 USD** (a set amount) in [**BOX**](https://b.watch) (a particular investment). Of course, you could change BOX to any investment that is worth investing in and holding over a long period of time, such as shares in [Apple](https://finance.yahoo.com/quote/AAPL/), [Maotai](https://hk.finance.yahoo.com/quote/600519.SS/), [Coca-Cola](https://finance.yahoo.com/quote/KO), or an [S&P 500](https://en.wikipedia.org/wiki/S%26P_500_Index) Index Fund.
@@ -75,13 +76,13 @@ Suppose you started investing in the S&P 500 on October 8th, 2007. Knowing what 
 
 ![Figure01](../images/Figure01.png)
 
-What would the result be? Back in October 8th, 2007, would be really hard to say. But looking at it from today, more than a decade later, the answer is clear: the results were fantastic! We experienced a crash in the market from \$1,561 to a low of \$683, but we kept buying at that low price. Later, the market recovered, and by October of 2019 the S&P 500 had exceeded \$2,960.
+What would the result be? Back on October 8th, 2007, it was really hard to say. Looking at it from today, however, more than a decade later, the answer is clear: the results were fantastic! We experienced a crash in the market from \$1,561 to a low of \$683, but we kept buying at that low price. Later, the market recovered, and by October of 2019 the S&P 500 had risen to more than \$2,960.
 
-But this description is missing an important detail. The chart below shows the value of your total assets (the red line) and the value of your total investment (the blue line). 
+But this description is missing an important detail. The chart below shows the total value of your assets (the red line) and the the total amount that you invested (the blue line). 
 
 ![Figure02](../images/Figure02.png)
 
-There is an extended period of time when your asset value drops below your total investments. But towards the end of 2009 the red line passes the blue line, and it almost never drops below it again, growing faster over time.
+There is an extended period of time when your asset value drops below your total invested amount. Towards the end of 2009, however, the red line passes the blue line, and it almost never drops below it again, growing faster over time.
 
 >Note: The historical data in this chart is from [Yahoo Finance (^GSPC)](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC), and the chart was created in Google Sheets; you can view the data and chart [here](https://docs.google.com/spreadsheets/d/1QE3itAH_TwUv4Gp9EVwwIz3Xb8taT5N-etfJCkYEvrg/edit?usp=sharing).
 
@@ -89,21 +90,21 @@ The key point is that you entered the market at the worst time –- on October 8
 
 ![Figure03](../images/Figure03.png)
 
-But if you take another look at the chart above, you'll see that the red line crosses the blue line for the first time in 2009. So while it took the S&P 500 **286** weeks to return to its high, your strategy of regular investing began to see steady positive returns after just *111* weeks. When you started to see positive returns, the S&P 500 was still 30% off its all-time high. When the S&P 500 finally returned to its high after 286 weeks, your strategy was already showing returns of *32.64%*.
+But if we take another look at the chart above, we can see that the red line crosses the blue line for the first time in 2009. So while it took the S&P 500 **286** weeks to return to its high, your strategy of regular investing began to see steady positive returns after just *111* weeks. When you started to see positive returns, the S&P 500 was still 30% off its all-time high. When the S&P 500 finally returned to its high after 286 weeks, your strategy was already showing returns of *32.64%*.
 
-Let's take a look at an even more striking example. Suppose you started regularly investing in Bitcoin in December of 2017, when Bitcoin was at it's all-time high of \$19,800. Shortly afterwards, the price crashed, and it still hasn't returned to its all-time high. The chart below assumes you started regularly investing in Bitcoin on December 11th, 2017, and kept it up for 87 weeks. 
+Let's take a look at an even more striking example. Suppose you started regularly investing in bitcoin in December of 2017, when bitcoin was at its all-time high of \$19,800. Shortly afterwards, the price crashed, and it still hasn't returned to its all-time high. The chart below assumes you started regularly investing in bitcoin on December 11th, 2017, and kept it up for 87 weeks. 
 
 ![Figure04](../images/Figure04.png)
 
 >Note: The historical data in this chart is from [Yahoo Finance (Bitcoin USD)](https://finance.yahoo.com/quote/BTC-USD/history/), and the chart was created in Google Sheets; you can view the data and chart [here](https://docs.google.com/spreadsheets/d/1pzc6p4UhyAMtqaKis2_uU3hbi8Um34ArTiUQr1tZpc0/edit?usp=sharing).
 
-Even though you entered the market at the worst time, your investment has still been profitable in USD terms, with the red line (your assets in USD terms) passing the blue line (your total investment in USD terms) on May 6th, 2009. If you invested \$100 each week, by the 87th week you would have invested \$8,700, but your Bitcoin would have been worth \$16,417, for a gain of **88.71%**. This is despite the fact that Bitcoin remained over 62.85% off of it's all-time high, which was when you started investing. 
+Even though you entered the market at the worst time, your investment has still been profitable in USD terms, with the red line (your assets in USD terms) passing the blue line (your total amount invested in USD terms) on May 6th, 2019. If you invested \$100 each week, by the 87th week you would have invested \$8,700, but your bitcoin would have been worth \$16,417, for a gain of **88.71%**. This is despite the fact that bitcoin remained more than 62.85% off its all-time high, which was when you started investing. 
 
 This can seem really flabbergasting at first: 
 
 >With regular investing, even if you start at what seems like the worst time, such as just before a market crash, your overall investment will become profitable **before the market recovers**.
 
-Some fans of regular investing always emphasize a partially correct fact, which is that regular investing will effectively reduce your average cost. But the other side of the coin is that it also probably raises your average cost. It's obvious, isn't it? So these fans are using an incorrect reason to choose the correct strategy . But how long can an operating system with an error at the base level continue to run for?
+Some fans of regular investing frequently emphasize a partially correct fact, which is that regular investing will effectively reduce your average cost. But the other side of the coin is that it also probably raises your average cost. It's obvious, isn't it? So these fans are using an incorrect reason to choose the correct strategy. But how long can an operating system with an error at the base level continue to run for?
 
 The reason why regular investing is effective is that **it matches up with the following reality of markets**:
 
@@ -115,15 +116,15 @@ Once you understand this key point, you will understand the following;
 
 >With regular investing, **your profits essentially all come from the bear market!**
 
-Most investors don't understand this, and it is the core reason why their investments are destined to fail. They want to make money quickly in the ephemeral bull market. It's really quite depressing: most of the "investors" who enter the market during a bull market are destined to lose their shirts, because before they realize it, the short bull market has ended, and the long bear market has begun. Regular investors, on the other hand, are slowly accumulating throughout the bear market.
+Most investors don't understand this, and it is the core reason why their investments are destined to fail. They want to make money quickly in the ephemeral bull market. It's really quite depressing: most "investors" who enter the market during a bull market are destined to lose their shirts, because -- even before they realize it -- the short bull market has ended and the long bear market has begun. Regular investors, on the other hand, slowly accumulate throughout the bear market.
 
-In fact, the strategy of regular investing is not only applicable to trading markets, it's useful in almost all important areas of life, whether it be study, work or family. "Lifelong learning" is essentially a regular investing strategy, isn't it? If you could draw a "price curve" for an individual's learning, it would look a lot like the S&P 500. Even though it increases substantially over time, it goes through long periods of flat growth or even drops. Often when you are inviting time in learning something it feels like you would be better off not learning it. The "bear market" is long, isn't it? This explains why so few people are able to become true lifelong learners. The reason is the same: everyone wants to make money quickly in the bull market and then leave.
+In fact, the strategy of regular investing is not only applicable to trading markets, it's useful in almost all important areas of life, including study, work and relationships. "Lifelong learning" is essentially a regular investing strategy, isn't it? If you could draw a "price curve" for an individual's learning, it would look a lot like the S&P 500. Even though it increases substantially over time, it goes through long periods of flat growth or even drops. When you are investing time in learning something, it often feels like you would be better off not learning it. The "bear market" is long, isn't it? This explains why so few people are able to become true lifelong learners. The reason is the same: everyone wants to make money quickly in the bull market and then leave.
 
 [Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos) once asked [Warren Buffett](https://en.wikipedia.org/wiki/Warren_Buffett), "Your investment thesis is so simple... Why doesn't everyone just copy you?" Buffett's [reply](https://www.beingguru.com/2019/05/warren-buffett-nobody-wants-to-get-rich-slow/) was quite striking:
 
 >**Because nobody wants to get rich slow.**
 
-The most important part of Buffett's strategy is to hold for the long term. He has said that "Our favorite holding period is forever." At its core, the reason why regular investing works is that it is the ideal version of a long-term holding strategy. Most of the time, even Buffett doesn't just buy a target all at once; he enters his position over time. Those who follow the regular investing strategy also **continue to buy at regular intervals over the long term, and hold the asset throughout the process**.
+The most important part of Buffett's strategy is to hold for the long term. He has said, "Our favorite holding period is forever." At its core, the reason why regular investing works is that it is the ideal version of a long-term holding strategy. Most of the time, even Buffett doesn't just buy a target all at once; he enters his position over time. Those who follow the regular investing strategy also **buy at regular intervals over the long term, and they hold the asset throughout the process**.
 
 ### 1.2 How long is "long-term"
 
