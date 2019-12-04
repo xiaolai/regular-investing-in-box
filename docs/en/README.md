@@ -221,6 +221,7 @@ There is a set of data that can help us understand how little time we actually h
 > * We spend 4 years eating and drinking;
 > * We only spend 3.5 years on education;
 > * We spend 2.5 years grooming;
+> * We spend 2.5 years shopping;
 > * We spend 1.5 years on child care;
 > * We spend 1.3 years commuting.
 
