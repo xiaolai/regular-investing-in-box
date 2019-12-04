@@ -62,10 +62,9 @@ So again, the reason I am writing this book is because I hope that ten, twenty, 
 
 Investing is not easy, and successful investing is even harder. But just because something isn't easy doesn't mean there isn't a simple, direct, brutal and effective strategy that almost everyone can correctly master and deploy.
 
-### 1.1 The Strategy and Its Results
+### 1.1 The Strategy and Results
 
 Regular investing is quite simple: 
-
 >Regularly invest a set amount in a particular investment over a long period of time.
 
 For example, **every week** (regularly) for the next **five to ten years** (a long period of time) invest **200 USD** (a set amount) in [**BOX**](https://b.watch) (a particular investment). Of course, you could change BOX to any investment that is worth investing in and holding over a long period of time, such as shares in [Apple](https://finance.yahoo.com/quote/AAPL/), [Maotai](https://hk.finance.yahoo.com/quote/600519.SS/), [Coca-Cola](https://finance.yahoo.com/quote/KO), or an [S&P 500](https://en.wikipedia.org/wiki/S%26P_500_Index) Index Fund.
@@ -76,13 +75,13 @@ Suppose you started investing in the S&P 500 on October 8th, 2007. Knowing what 
 
 ![Figure01](../images/Figure01.png)
 
-What would the result be? Back on October 8th, 2007, it was really hard to say. Looking at it from today, however, more than a decade later, the answer is clear: the results were fantastic! We experienced a crash in the market from \$1,561 to a low of \$683, but we kept buying at that low price. Later, the market recovered, and by October of 2019 the S&P 500 had risen to more than \$2,960.
+What would the result be? Back in October 8th, 2007, would be really hard to say. But looking at it from today, more than a decade later, the answer is clear: the results were fantastic! We experienced a crash in the market from \$1,561 to a low of \$683, but we kept buying at that low price. Later, the market recovered, and by October of 2019 the S&P 500 had exceeded \$2,960.
 
-But this description is missing an important detail. The chart below shows the total value of your assets (the red line) and the the total amount that you invested (the blue line). 
+But this description is missing an important detail. The chart below shows the value of your total assets (the red line) and the value of your total investment (the blue line). 
 
 ![Figure02](../images/Figure02.png)
 
-There is an extended period of time when your asset value drops below your total invested amount. Towards the end of 2009, however, the red line passes the blue line, and it almost never drops below it again, growing faster over time.
+There is an extended period of time when your asset value drops below your total investments. But towards the end of 2009 the red line passes the blue line, and it almost never drops below it again, growing faster over time.
 
 >Note: The historical data in this chart is from [Yahoo Finance (^GSPC)](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC), and the chart was created in Google Sheets; you can view the data and chart [here](https://docs.google.com/spreadsheets/d/1QE3itAH_TwUv4Gp9EVwwIz3Xb8taT5N-etfJCkYEvrg/edit?usp=sharing).
 
@@ -90,21 +89,21 @@ The key point is that you entered the market at the worst time –- on October 8
 
 ![Figure03](../images/Figure03.png)
 
-But if we take another look at the chart above, we can see that the red line crosses the blue line for the first time in 2009. So while it took the S&P 500 **286** weeks to return to its high, your strategy of regular investing began to see steady positive returns after just *111* weeks. When you started to see positive returns, the S&P 500 was still 30% off its all-time high. When the S&P 500 finally returned to its high after 286 weeks, your strategy was already showing returns of *32.64%*.
+But if you take another look at the chart above, you'll see that the red line crosses the blue line for the first time in 2009. So while it took the S&P 500 **286** weeks to return to its high, your strategy of regular investing began to see steady positive returns after just *111* weeks. When you started to see positive returns, the S&P 500 was still 30% off its all-time high. When the S&P 500 finally returned to its high after 286 weeks, your strategy was already showing returns of *32.64%*.
 
-Let's take a look at an even more striking example. Suppose you started regularly investing in bitcoin in December of 2017, when bitcoin was at its all-time high of \$19,800. Shortly afterwards, the price crashed, and it still hasn't returned to its all-time high. The chart below assumes you started regularly investing in bitcoin on December 11th, 2017, and kept it up for 87 weeks. 
+Let's take a look at an even more striking example. Suppose you started regularly investing in Bitcoin in December of 2017, when Bitcoin was at it's all-time high of \$19,800. Shortly afterwards, the price crashed, and it still hasn't returned to its all-time high. The chart below assumes you started regularly investing in Bitcoin on December 11th, 2017, and kept it up for 87 weeks. 
 
 ![Figure04](../images/Figure04.png)
 
 >Note: The historical data in this chart is from [Yahoo Finance (Bitcoin USD)](https://finance.yahoo.com/quote/BTC-USD/history/), and the chart was created in Google Sheets; you can view the data and chart [here](https://docs.google.com/spreadsheets/d/1pzc6p4UhyAMtqaKis2_uU3hbi8Um34ArTiUQr1tZpc0/edit?usp=sharing).
 
-Even though you entered the market at the worst time, your investment has still been profitable in USD terms, with the red line (your assets in USD terms) passing the blue line (your total amount invested in USD terms) on May 6th, 2019. If you invested \$100 each week, by the 87th week you would have invested \$8,700, but your bitcoin would have been worth \$16,417, for a gain of **88.71%**. This is despite the fact that bitcoin remained more than 62.85% off its all-time high, which was when you started investing. 
+Even though you entered the market at the worst time, your investment has still been profitable in USD terms, with the red line (your assets in USD terms) passing the blue line (your total investment in USD terms) on May 6th, 2009. If you invested \$100 each week, by the 87th week you would have invested \$8,700, but your Bitcoin would have been worth \$16,417, for a gain of **88.71%**. This is despite the fact that Bitcoin remained over 62.85% off of it's all-time high, which was when you started investing. 
 
 This can seem really flabbergasting at first: 
 
 >With regular investing, even if you start at what seems like the worst time, such as just before a market crash, your overall investment will become profitable **before the market recovers**.
 
-Some fans of regular investing frequently emphasize a partially correct fact, which is that regular investing will effectively reduce your average cost. But the other side of the coin is that it also probably raises your average cost. It's obvious, isn't it? So these fans are using an incorrect reason to choose the correct strategy. But how long can an operating system with an error at the base level continue to run for?
+Some fans of regular investing always emphasize a partially correct fact, which is that regular investing will effectively reduce your average cost. But the other side of the coin is that it also probably raises your average cost. It's obvious, isn't it? So these fans are using an incorrect reason to choose the correct strategy . But how long can an operating system with an error at the base level continue to run for?
 
 The reason why regular investing is effective is that **it matches up with the following reality of markets**:
 
@@ -116,23 +115,23 @@ Once you understand this key point, you will understand the following;
 
 >With regular investing, **your profits essentially all come from the bear market!**
 
-Most investors don't understand this, and it is the core reason why their investments are destined to fail. They want to make money quickly in the ephemeral bull market. It's really quite depressing: most "investors" who enter the market during a bull market are destined to lose their shirts, because -- even before they realize it -- the short bull market has ended and the long bear market has begun. Regular investors, on the other hand, slowly accumulate throughout the bear market.
+Most investors don't understand this, and it is the core reason why their investments are destined to fail. They want to make money quickly in the ephemeral bull market. It's really quite depressing: most of the "investors" who enter the market during a bull market are destined to lose their shirts, because before they realize it, the short bull market has ended, and the long bear market has begun. Regular investors, on the other hand, are slowly accumulating throughout the bear market.
 
-In fact, the strategy of regular investing is not only applicable to trading markets, it's useful in almost all important areas of life, including study, work and relationships. "Lifelong learning" is essentially a regular investing strategy, isn't it? If you could draw a "price curve" for an individual's learning, it would look a lot like the S&P 500. Even though it increases substantially over time, it goes through long periods of flat growth or even drops. When you are investing time in learning something, it often feels like you would be better off not learning it. The "bear market" is long, isn't it? This explains why so few people are able to become true lifelong learners. The reason is the same: everyone wants to make money quickly in the bull market and then leave.
+In fact, the strategy of regular investing is not only applicable to trading markets, it's useful in almost all important areas of life, whether it be study, work or family. "Lifelong learning" is essentially a regular investing strategy, isn't it? If you could draw a "price curve" for an individual's learning, it would look a lot like the S&P 500. Even though it increases substantially over time, it goes through long periods of flat growth or even drops. Often when you are inviting time in learning something it feels like you would be better off not learning it. The "bear market" is long, isn't it? This explains why so few people are able to become true lifelong learners. The reason is the same: everyone wants to make money quickly in the bull market and then leave.
 
 [Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos) once asked [Warren Buffett](https://en.wikipedia.org/wiki/Warren_Buffett), "Your investment thesis is so simple... Why doesn't everyone just copy you?" Buffett's [reply](https://www.beingguru.com/2019/05/warren-buffett-nobody-wants-to-get-rich-slow/) was quite striking:
 
 >**Because nobody wants to get rich slow.**
 
-The most important part of Buffett's strategy is to hold for the long term. He has said, "Our favorite holding period is forever." At its core, the reason why regular investing works is that it is the ideal version of a long-term holding strategy. Most of the time, even Buffett doesn't just buy a target all at once; he enters his position over time. Those who follow the regular investing strategy also **buy at regular intervals over the long term, and they hold the asset throughout the process**.
+The most important part of Buffett's strategy is to hold for the long term. He has said that "Our favorite holding period is forever." At its core, the reason why regular investing works is that it is the ideal version of a long-term holding strategy. Most of the time, even Buffett doesn't just buy a target all at once; he enters his position over time. Those who follow the regular investing strategy also **continue to buy at regular intervals over the long term, and hold the asset throughout the process**.
 
-### 1.2 How long is "long-term"
+### 1.2 How Long Is "Long-term"?
 
-The core of the regular investing strategy is long-term holding. It's well-recognized that the longer you hold the more likely you are to make a profit, but there is a key question we have to answer if we are to have a deeper discussion:
+The core of the regular investing strategy is long-term holding. It's well recognized that the longer you hold the more likely you are to make a profit, but there is a key question we have to answer if we are to have a deeper discussion:
 
 >**How long is "long-term"?**
 
-If we don't have an accurate answer to this question, we can't even really use the concept of "long-term". For any concept to be useful it must be clearly defined, and since we must combine concepts together, if we have multiple unclear concepts then the accuracy of our judgement will be severely impacted, just as multiplying 80% by itself 5 times will leave us with less than 32%. In course of reading this book, you will encounter several concepts that must be used together, and so they must be clearly and accurately defined in order to be useful.
+If we don't have an accurate answer to this question, we can't even really use the concept of "long-term". For any concept to be useful it must be clearly defined, and since we must combine concepts together, if we have multiple unclear concepts then the accuracy of our judgement will be severely impacted, just as multiplying 80% by itself five times will leave us with less than 32%. In the course of reading this book, you will encounter several concepts that must be used together, and they must be clearly and accurately defined in order to be useful.
 
 Unlike most people, I have a fairly clear, accurate and useful definition of long-term:
 
@@ -142,27 +141,27 @@ A clear and accurate definition of "long-term" thus depends on a clear and accur
 
 ![Figure05](../images/Figure05.png)
 
-A full market cycle is composed of a period of falling price (Period B), and a period of rising price (Period A). In this chart we can see a full market cycle, with Period B beginning in December of 2013, when prices started falling, and Period A ending in December of 2017, when bitcoin reached its historical high. 
+A full market cycle is composed of a period of falling price (Period B) and a period of rising price (Period A). In this chart we can see a full market cycle, with Period B beginning in December of 2013, when prices started falling, and Period A ending in December of 2017, when bitcoin reached its historical high. 
 
-How can you tell when a market cycle begins? Actually, we can only make this determination **after the fact**. Since short term prices can rise and fall unpredictably, it's impossible to know when a high or low point for a given period has been reached. It's hard to know how long after the fact it will be before we can make the determination, but we can be sure that it will be long enough that the it will not be useful for short-term trading decisions.
+How can you tell when a market cycle begins? Actually, we can only make this determination **after the fact**. Since short-term prices can rise and fall unpredictably, it's impossible to know when a high or low point for a given period has been reached. It's hard to know how long after the fact it will be before we can make the determination, but we can be sure that it will be long enough that it will not be useful for short-term trading decisions.
 
 ![Figure06](../images/Figure06.png)
 
-On the same chart, I have marked the three full market cycles that I have personally experienced with bitcoin. The first started around June 8th, 2011, at a price of \$32, and ended on April 11, 2013, at a price of \$266; the second started at the end of the first and ended on December 19, 2013, at a price of \$1,280; the third started at the end of the second and ended on December 17, 2017, at a price of \$19,800. Actually, I have experienced more cycles than this, since I entered the bitcoin market two months before the June 2011 high of \$32, and I have continued and will continue to hold Bitcoin since the December 2017 historical high of \$19,800.
+On the same chart, I have marked the three full market cycles that I have personally experienced with bitcoin. The first started around June 8th, 2011, at a price of \$32, and ended on April 11th, 2013, at a price of \$266; the second started at the end of the first and ended on December 19th, 2013, at a price of \$1,280; the third started at the end of the second and ended on December 17th, 2017, at a price of \$19,800. Actually, I have experienced more cycles than this, since I entered the bitcoin market two months before the June 2011 high of \$32, and I have continued and will continue to hold Bitcoin since the December 2017 historical high of \$19,800.
 
-The are several details in this chart that are worth looking at closely. For example, we can clearly see, as I mentioned earlier, that bear markets are much, much longer than bull markets. 
+The are several details in this chart that are worth looking at closely. For example, we can clearly see that, as I mentioned earlier, bear markets are much, much longer than bull markets. 
 
 Why do we need to emphasize at least **two** market cycles? Because many people misunderstand **trends**. They see that today's price is higher than yesterday's, and that yesterday's price was higher than the day before, and they think they have identified an "upward trend". They then erroneously assume that tomorrow's price will be higher than today's. But it's actually impossible to judge a trend in the short term, even over the course of one entire cycle.
 
 >Only after **two full cycles** can we make an **accurate** judgement about whether a trend is more likely to be upward or downward.
 
-Furthermore, please notice the use of "more likely to be" in the sentence above. Even after two full cycles, we still cannot be 100% sure about the future trend based on historical data. At this point in time (October 2019), bitcoin's price has still not returned to its historical high, and we cannot be 100% sure that Bitcoin will ever exceed its historical high. We will only be able to make this determination after the fact –- long after the fact. In the end, from any point in time, we can only make investment decisions based on less than 100% certainty. Since the future is full of risk and unknown factors, we can only use terms such as "more likely". Actually, this is precisely why investing is so interesting.
+Furthermore, please note the use of "more likely to be" in the sentence above. Even after two full cycles, we still cannot be 100% sure about the future trend based on historical data. At this point in time (October 2019), bitcoin's price has still not returned to its historical high, and we cannot be 100% sure that Bitcoin will every exceed its historical high. We will only be able to make this determination after the fact –- long after the fact. In the end, from any point in time, we can only make investment decisions based on less than 100% certainty. Since the future is full of risk and unknown factors, we can only use terms such as "more likely". Actually, this is precisely why investing is so interesting.
 
 In the chart above, we can barely see the high reached in June of 2011. But if we separate each historical high into separate charts, we see that they look strikingly similar.
 
 ![Figure07](../images/Figure07.png)
 
-Each of these charts looks quite similar to the overall historical chart, which is to say that even as I am in the midst of my fourth full cycle, even though I have made similar judgments based on "more likely" before, I still can't be completely sure this time. I still can only use "more likely" as the basis for my judgement. It's just that I've been quite lucky in that my previous three judgements based on "more likely" were proven to be correct.
+Each of these charts looks quite similar to the overall historical chart, which is to say that even as I am in the midst of my fourth full cycle, and even though I have made similar judgments based on "more likely" before, I still can't be completely sure this time. I still can only use "more likely" as the basis for my judgement. It's just that I've been quite lucky in that my previous three judgements based on "more likely" were proven to be correct.
 
 Let's briefly summarize what we have discussed thus far:
 
@@ -171,11 +170,11 @@ Let's briefly summarize what we have discussed thus far:
 > * we can take each **historical high** as the starting point for Period B of a full cycle;
 > * we can only determine the historical high of a period **after the fact**;
 > * it takes **at least two full cycles** to determine a **trend**;
-> * the best we can do is to determine that a trend is **more likely**;
+> * the best we can do is determine that a trend is **more likely**;
 > * an upward trend often results in a **new historical high**, but we can only determine the highest price of a cycle after the fact;
 > * long-term holding refers to holding for **at least two full cycles**, or through two bear markets and two bull markets.
 
-If we use this upgraded way of thinking to look at any price chart we will get a completely different result than before. Below is the price chart for the S&P 500 from 1956 to 2019:
+If we use this upgraded way of thinking to look at any price chart, we will get a completely different result than before. Below is the price chart for the S&P 500 from 1956 to 2019:
 
 ![Figure08](../images/Figure08.png)
 
@@ -187,15 +186,15 @@ There's an easy way to understand how economic cycles are shaped:
 
 When many parties -– and "many" here refers to so many that some parties don't even know of the existence of others -– are communicating more and more efficiently, the length of cycles will become shorter and shorter, even if fluctuations, which occur when parties are not coordinating well, may never be completely eliminated.
 
-If we look at it from this perspective, we can easily understand why the Great Depression of the 1930s took so long to recover from (i.e., complete the cycle), yet the recovery from the Asian Financial Crises of the 1990s only took a few years, and the recovery from the worldwide recession brought about by the US subprime crisis was even faster. 
+If we look at it from this perspective, we can easily understand why the Great Depression of the 1930s took so long to recover from (i.e., complete the cycle), yet the recovery from the Asian Financial Crisis of the 1990s only took a few years, and the recovery from the worldwide recession brought about by the US subprime crisis was even faster. 
 
 The reason is simple and easily understood:
 
 >The rapid flow of information makes worldwide cooperation easier and more seamless, so even though crises will continue to occur, **recoveries are becoming more rapid.**
 
-This is also why blockchain assets see shorter fluctuation cycles. Over the past eight years, I've often heard people use the halving of bitcoin's block reward every four years as a way to distinguish bitcoin's cycles. Maybe that was useful early on, but, now that Bitcoin is no longer the only valuable blockchain asset, using the block reward halving as a basis for determining cycles has slowly lost significance.
+This is also why blockchain assets see shorter fluctuation cycles. Over the past eight years I've often heard people use the halving of bitcoin's block reward every four years as a way to distinguish bitcoin's cycles. Maybe that was useful early on, but, now that Bitcoin is no longer the only valuable blockchain asset, using the block reward halving as a basis for determining cycles has slowly lost significance.
 
-I think the reason why blockchain asset markets have shorter cycles than stock markets is due to the fact that the players in the market are clearly coordinating more efficiently. We can see this just from looking at the number of trading markets. There are only a few influential stock markets, but there are thousands of markets on which to trade blockchain assets, and trading continues 24 hours a day, 365 days a year. This type of coordination greatly exceeds the coordination of traditional securities markets. 
+I think the reason why blockchain asset markets have shorter cycles than stock markets is due to the fact that the players in the market are clearly coordinating more efficiently. We can see this just by looking at the number of trading markets. There are only a few influential stock markets, but there are thousands of markets on which to trade blockchain assets, and trading continues 24 hours a day, 365 days a year. This type of coordination greatly exceeds the coordination of traditional securities markets. 
 
 It is truly great news:
 
@@ -203,13 +202,13 @@ It is truly great news:
 
 Cycles in stock markets have already shrunk from decades to less than a decade, and they continue to shrink. Blockchain market cycles are already shorter, and they are also shrinking.
 
-In my view, long-term doesn't mean forever, but is a clearly defined concept of two or more full market cycles. In the stock market, two full market cycles will take about 10-15 years; in the blockchain market, two full market cycles will take six to eight years. Either way, they are both futures worth waiting on, right?
+In my view, long-term doesn't mean forever, but is a clearly defined concept of two or more full market cycles. In the stock market, two full market cycles will take about ten to fifteen years; in the blockchain market, two full market cycles will take six to eight years. Either way, they are both futures worth waiting on, right?
 
-### 1.3 Why Use Money to Make Money
+### 1.3 Why to Use Money to Make Money
 
-For most people, money only has one use: consumption. Sadly, this is the basic reason why most people are unable to achieve financial independence. They have almost never thought seriously about money's second and much more important use: investment.
+For most people, money only has one use: consumption. Sadly, this is the basic reason why most people are unable to achieve financial independence. They have almost never seriously thought about money's second and much more important use: investment.
 
-For those who can only consume and don't understand investment, it's hard to escape from their original fate. They can only make money by selling their time, and the amount of time that they can sell is extremely limited –- we have much less time than we think. 
+For those who only know how to consume and don't understand investment, it's hard to escape their original fate. They can only make money by selling their time, and the amount of time that they can sell is extremely limited –- we have much less time than we think. 
 
 There is a set of data that can help us understand how little time we actually have to sell. If we take an average lifespan of 78 years...
 
@@ -222,16 +221,16 @@ There is a set of data that can help us understand how little time we actually h
 > * We spend 4 years eating and drinking;
 > * We only spend 3.5 years on education;
 > * We spend 2.5 years grooming;
-> * We spend 1.5 years on child carel
+> * We spend 1.5 years on child care;
 > * We spend 1.3 years commuting.
 
-According to these estimates, we only have nine years left to allocate at will! The amount of time we have to sell is our work time of 10.5 years plus the nine years we spend on leisure. Even if we allocate all of those 9 years to paid work, we still haven't even doubled the time we have to sell. And we still sleep for longer than the time we have available to sell. Sleep is expensive!
+According to these estimates, we only have nine years left to allocate as we please! The amount of time we have to sell is our work time of 10.5 years plus the nine years we spend on leisure. Even if we allocate all of those 9 years to paid work, we still haven't even doubled the time we have to sell. And we still sleep for longer than the time we have available to sell. Sleep is expensive!
 
 When I was young, I worked very hard just like everyone else.
 
 Upon graduating from college I started working in sales, and there were weeks in which I spent six nights sleeping on a train. I'd get off the train in the morning, find a place to shower and change clothes, spend the day running sales trainings, and then hop back on a train at night to head to the next city, where I'd start all over again.
 
-People who have known me for a long time know that I don't have holidays. This is because shortly after I graduated in 1995 I realized that there are so many holidays! In China, out of **365** days in the year, there are *115* legal holidays (including weekends)! That means we spend a third of the year resting! Something didn't seem right. Later I realized that "legal" holidays are established to limit corporations. If a corporation forces someone to work on a holiday without extra pay, it's illegal, but there's no limit on what an individual can do. There's no law at all that says, "today is a legal holiday, so if you don't rest you're breaking the law!" So, from that point on, I decided that I would have nothing to do with legal holidays. It's been 24 years since 1995, and I have done my best to ignore weekends and holidays. I just do what I want to each day! I've published a lot of books, and most of them have been written by myself over the Chinese New Year while everyone else is on vacation. I've worked very hard, haven't I?
+People who have known me for a long time know that I don't have holidays. This is because, shortly after I graduated from college in 1995, I realized that there are so many holidays! In China, out of **365** days in the year, there are *115* legal holidays (including weekends)! That means we spend a third of the year resting! Something didn't seem right. Later I realized that "legal" holidays are established to limit corporations. If a corporation forces someone to work on a holiday without extra pay, it's illegal, but there's no limit on what an individual can do. There's no law at all that says, "today is a legal holiday, so if you don't rest you're breaking the law!" So, from that point on, I decided that I would have nothing to do with legal holidays. It's been 24 years since 1995, and I have done my best to ignore weekends and holidays. I just do what I want to each day! I've published a lot of books, and most of them have been written by myself over the Chinese New Year while everyone else was on vacation. I've worked very hard, haven't I?
 
 About ten years ago, I suddenly realized what a waste of time it was to worry about hairstyles. Everybody spends a couple of hours to get their hair cut each time, and they often end up waiting for a long time at the barber. So I decided that I would cut my own hair. A good Phillips trimmer only costs about \$50, and you can use it for many years. So I've had the same hairstyle for the last decade -- a three millimeter buzzcut. It's easy to just use the trimmer every few days for a few minutes before I shower. Can you see how hard I work to save time?
 
@@ -243,17 +242,17 @@ Just over 10,000 hours. So how many years is that?
 
 > 11,040 ÷ (365 x 24) = 1.26
 
-You see? I've been so hard on myself, and all for what? All for merely *14%* more time than other people who work very hard but still take holidays. And what about the decision I made 10 years ago to cut my own hair? How much time have I saved with that? If you cut your hair once a month, and it takes 1.5 hours, so that's 18 hours per year. Over ten years, that's 180 hours. You see? I took such good care of my time and was so hard on myself, but I only saved 7.5 days! All that effort, and I only end up with *0.228%* more time than everybody else!
+You see? I've been so hard on myself, and all for what? All for merely *14%* more time than other people who work very hard but still take holidays. And what about the decision I made 10 years ago to cut my own hair? How much time have I saved with that? If you cut your hair once a month, and it takes 1.5 hours, that's 18 hours per year. Over ten years, that's 180 hours. You see? I took such good care of my time and was so hard on myself, but I only saved 7.5 days! All that effort, and I only end up with *0.228%* more time than everybody else!
 
-[Frank H. Knight](https://www.nytimes.com/2019/10/17/sports/basketball/nba-china-adam-silver.html), one of the most influential economists of the 20th century, has a famous postulation:
+[Frank H. Knight](https://en.wikipedia.org/wiki/Frank_Knight), one of the most influential economists of the 20th century, has a [famous postulation](https://books.google.de/books?id=J76dBHOB0yUC&pg=PA48&lpg=PA48&dq=Ownership+of+personal+or+material+productive+capacity&source=bl&ots=FWMMVl-FhM&sig=ACfU3U2d1JxOO9DWYcnkTnzkPx3nMjMnfQ&hl=en&sa=X&ved=2ahUKEwiys6vF7prmAhWRwAIHHXp5ApEQ6AEwAHoECAcQAQ#v=onepage&q=Ownership%20of%20personal%20or%20material%20productive%20capacity&f=false):
 
->Ownership of personal or material productive capacity is based upon a complex mixture of inheritance, luck and effort, probably in that order of relative importance.
+>Ownership of personal or material productive capacity is based upon a complex mixture of inheritance, luck, and effort, probably in that order of relative importance.
 
 Of course, this doesn't mean that effort isn't important. Some measure of success can be achieved through effort, but huge success depends on luck, and we all know that we can't control luck (or inheritance!). The problem, as we have seen, is that we have a limited amount of time that we can sell, so effort is of the least relative importance.
 
 However, it's different if we use money to make money. **The core of investing is using money to make money, and money doesn't rest –- as long as you make the right investment, it works for you 24 hours a day, 365 days a year.** How can your sweat and tears compete with that?
 
- The reason we admire Warren Buffett so much is due to the following fact: 
+The reason we admire Warren Buffett so much is due to the following fact: 
 
 >Warren Buffett was born in 1930 and bought his first stock when he was 11. It's now 2019, so he has been investing for 78 years!
 >
