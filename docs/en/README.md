@@ -311,13 +311,13 @@ As I see it, regular investing requires a trifecta of successful personal busine
 
 Even more importantly, a strategy of regular investing systematically reduces risk.
 
-### 1.5 The Regular Investing Strategy Does Not Need to Be Further Improved
+### 1.5 The Strategy of Regular Investing Does Not Need to Be Further Improved
 
 We're always trying to find ways to improve our strategies. Everyone wants the strategies that **they** use to be as good as possible. When it comes to regular investing, though,
 
 > **any efforts to improve the strategy of regular investing are futile.**
 
-From when the BOX Regular Investing Practice Group was established in late July 2019, to October 9th, 2019, 3261 members have joined. After understanding the essence of the regular investing strategy, the group members know that most of the profit from regular investing comes from the long bear market. Because they have a different way of thinking, they now have a completely opposite take on the same world. Each time the price drops, they don't feel disappointment and fear, they feel happy and even excited, because they can buy more at a cheaper price. Their decisions are the opposite of the outside world.
+From the establishment of the BOX Regular Investing Practice Group in late July of 2019, to October 9th, 2019, 3261 members have joined. After understanding the essence of the regular investing strategy, the group members know that most of the profit from regular investing comes from the long bear market. Because they have a different way of thinking, they now have a completely opposite take on the same world. Each time the price drops, they don't feel disappointment and fear, they feel happy, and even excited, because they can buy more at a cheaper price. Their decisions are the opposite of the outside world.
 
 Below is the historical price of BOX over the past few months:
 
@@ -329,11 +329,11 @@ The chart below adds the daily amount of newly-circulating BOX, which is the amo
 
 >Note 1: The charts were created with Google Sheets, and you can view the charts and data [here](https://docs.google.com/spreadsheets/d/1caNGqbFZKEjSPr9kf1gJhB2j8pLrHje0PsPZJKJdGIM/edit?usp=sharing).
 
->Note 2: The amount of newly-circulating BOX on September 2, 2019, was 221,010, but it really shouldn't count, because I alone bought 180,621 BOX on that day. I'm an old hand at regular investing, so of course I don't pay attention to daily fluctuations in price.
+>Note 2: The amount of newly-circulating BOX on September 2nd, 2019, was 221,010, but it really shouldn't count, because I alone bought 180,621 BOX on that day. I'm an old hand at regular investing, so of course I don't pay attention to daily fluctuations in price.
 
-We can see that each time there is a large drop in price the amount of newly-circulating BOX greatly increases. The clearest example is found on the three days from September 25 to September 27, which saw newly-circulating BOX of 214,048, 114,240, and 114,505, respectively, with September 25 showing an increase of five times the normal amount! 
+We can see that each time there is a large drop in price the amount of newly-circulating BOX greatly increases. The clearest example is found on the three days from September 25th to September 27th, which saw newly-circulating BOX of 214,048, 114,240, and 114,505, respectively, with September 25th showing an increase of five times the normal amount! 
 
-It's also clear from this data that people's reactions are late, because the drop in price actually happened several days earlier on September 22, when the price dropped from \$1.68 to \$1.41. As we can see in the chart, the increase in the amount of new BOX purchased always came days after the drop in price.
+It's also clear from this data that people's reactions are late, because the drop in price actually happened several days earlier on September 22nd, when the price dropped from \$1.68 to \$1.41. As we can see in the chart, the increase in the amount of new BOX purchased always came days after the drop in price.
 
 Furthermore, the group members had listened to my classes, in which I repeatedly emphasized the following:
 
@@ -341,7 +341,7 @@ Furthermore, the group members had listened to my classes, in which I repeatedly
 
 Yet many of them still couldn't resist being driven by this simple thought: wouldn't it be better if I bought a little more when the price drops? 
 
-Let's discuss why this "improvement" to the strategy of regular investment isn't actually an improvement at all. First of all, each time we use the current price as a reason for making a decision, we are always actually making the decision after the fact. Even more importantly, we are neglecting an important fact: the short-term direction of the price after we make our decision is an independent event, and not tied to the prior change in price. After we buy, the price could go up, go down, or stay the same -- we don't know!
+Let's discuss why this "improvement" to the strategy of regular investing isn't actually an improvement at all. First of all, each time we use the current price as a reason for making a decision, we are always actually making the decision after the fact. Even more importantly, we are neglecting an important fact: the short-term direction of the price after we make our decision is an independent event, and not tied to the prior change in price. After we buy, the price could go up, go down, or stay the same -- we don't know!
 
 Someone who increased their investment amount in July after a price drop would have discovered in September that their "improvement" to the strategy was useless and actually lost them money, because the increased investment in July actually ended up increasing their average cost.
 
@@ -349,11 +349,11 @@ Whether or not an investor has a clear grasp of statistical probability is the f
 
 A person who understands statistical probability couldn't help but laugh at the following phenomenon:
 
->Some people without basic knowledge of statistical probability try their best to prove on which day of the week prices are lowest.
+>Some people, lacking basic knowledge of statistical probability, try their best to prove on which day of the week prices are lowest.
 
 Someone made a chart, and did some programming in Python, to support the following conclusion:
 
->After analyzing every 350-day period of weekly regular investing in bitcoin over the 900-day period from July 17, 2010, to January 2, 2013, the following conclusions have been reached:
+>After analyzing every 350-day period of weekly regular investing in bitcoin over the 900-day period from July 17th, 2010, to January 2nd, 2013, the following conclusions have been reached:
 >
 >> Investing on Monday performed 1.2% better than the average of the other days.
 >> Furthermore, it is best to avoid Sunday, as Sunday performed 0.8% worse than average, perhaps because people have more time on Sunday, or perhaps because they feel more optimistic on Sunday.
