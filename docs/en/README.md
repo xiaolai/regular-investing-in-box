@@ -678,7 +678,7 @@ Below, I will take BOX as an example, because it is a combination of investments
 
 > **Risk Warning** 
 
-> The strategy of regular investment is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor much use their own money and time over the long term to take responsibility for their own choices. Please be cautious.
+> The strategy of regular investment is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor must use their own money and time over the long term to take responsibility for their own choices. Please be cautious.
 >
 > This section is primarily about how I chose BTC, EOS, and XIN to be the components of BOX, and it necessarily contains some of my own subjective judgements. You must use your own objective understanding of the objective world to choose your own investments.
 >
@@ -716,13 +716,13 @@ The main point is in this sentence:
 
 This sentence is making a judgment about an obvious trend that is in accordance with the trend. In this sector, this will definitely happen, so we should be prepared in advance.
 
-There has long been debate in the investment world about whether *alpha* -- results that beat the market -- actually exists, even though rare investors such as Warren Buffet, Joel Greenblatt and Ray Dalio have consistency beaten the market over the long term. There's a joke that shows the silliness of blind adherents to "efficient market theory":
+There has long been debate in the investment world about whether *alpha* -- results that beat the market -- actually exists, even though rare investors such as Warren Buffet, Joel Greenblatt and Ray Dalio have consistently beaten the market over the long term. There's a joke that shows the silliness of blind adherents to "efficient market theory":
 
 >A student saw a hundred dollar bill on the ground and exclaimed to his professor, "Look! Is that a hundred dollar bill?" The professor didn't even deign to look, and said, "That's impossible! If it were really a hundred dollar bill, somebody would have picked it up a long time ago."
 
 If the market were 100% efficient, then *alpha* could not exist. The problem is that, if we look at any given moment in the market in isolation, it's 100% inefficient. Price and value sometimes matching up doesn't mean anything -- a broken clock is right twice a day! If we put all of the individual moments back together, then over the long term the market should be efficient, but how long is long term? No one knows. If we look at it from the perspective of a regular investor, after two full cycles, the variance between the current price and the historical price at any given moment will seem even greater.
 
-Obviously, I believe that *alpha* exists, and I'm always thinking about how find better strategies to create it. If you do well, *alpha* is positive; if you do poorly, *alpha* is negative. As a regular investor, your final results can be described by the following formula:
+Obviously, I believe that *alpha* exists, and I'm always thinking about how to find better strategies to create it. If you do well, *alpha* is positive; if you do poorly, *alpha* is negative. As a regular investor, your final results can be described by the following formula:
 
 >**p = δ + α - γ**
 
@@ -1413,7 +1413,7 @@ October 2019, Beijing
 
 >**Risk Warning**
 >
->The strategy of regular investment is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor much use their own money and time over the long term to take responsibility for their choices. Please be cautious.
+>The strategy of regular investment is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor must use their own money and time over the long term to take responsibility for their choices. Please be cautious.
 >
 >This section is primarily about how I chose BTC, EOS, and XIN to be the components of BOX, and it necessarily contains some of my own subjective judgements. You must use your own objective understanding of the objective world to choose your own investments.
 >
