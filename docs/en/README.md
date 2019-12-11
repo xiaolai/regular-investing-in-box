@@ -511,11 +511,11 @@ Regular investors can only choose investments that grow sustainably over the lon
 
 So what should a regular investor do?
 
-### 2.3 A Long-term Perspective and Macro Observations
+### 2.3 A Long-term Perspective and Macro Observation
 
 Everyone can understand how difficult it is to pick the best possible investment, especially in the midst of price fluctuations. It's as difficult as a world champion archer standing on a boat being rocked by waves in the middle of the ocean hitting the bullseye on a target on the shore.
 
-Only investing in one investment also entails opportunity cost. Time and money are limited resources, and if you use them in one way you can't use them in another. So, if you invested in A but B performs better, the opportunity cost of your investment decision can be calculated. 
+Only investing in one investment also entails opportunity cost. Time and money are limited resources, and if you use them in one way you can't use them in another. So, if you invested in A but B performs better, the opportunity cost of your investment decision is quantifiable. 
 
 Fortunately, we have another simple, direct, brutal and effective solution:
 
@@ -523,7 +523,7 @@ Fortunately, we have another simple, direct, brutal and effective solution:
 
 This sounds a little bit crazy, and perhaps a bit stupid, but let's put aside whether it's actually crazy and/or stupid, and first ask: Is it possible to invest in everything? The answer is definitely yes! The [MSCI World Index](https://en.wikipedia.org/wiki/MSCI_World) tracks the price of 1,650 mid- and high-cap stocks in 23 developed countries. If we actually invested in this index, what would our results be?
 
->Note: It's possible to buy ETFs that track various world stock indexes. The iShares MSCI World ETF (NYSEARCA: [URTH](https://www.investopedia.com/markets/etfs/urth/)) tracks the MSCI World Index; the iShares MSCI ACWI ETF (NASDAQ: [ACWI](https://www.investopedia.com/markets/quote?tvwidgetsymbol=acwi)) tracks the MSCI All Country World Index, which includes emerging markets; and the Vanguard Total World Stock ETF (NYSEARCA: [VT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=vt)), tracks the FTSE Global All Cap World Index, which also includes developed and emerging markets.
+>Note: It's possible to buy ETFs that track various world stock indexes. The iShares MSCI World ETF (NYSEARCA: [URTH](https://www.investopedia.com/markets/etfs/urth/)) tracks the MSCI World Index; the iShares MSCI ACWI ETF (NASDAQ: [ACWI](https://www.investopedia.com/markets/quote?tvwidgetsymbol=acwi)) tracks the MSCI All Country World Index, which includes emerging markets; and the Vanguard Total World Stock ETF (NYSEARCA: [VT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=vt)) tracks the FTSE Global All Cap World Index, which also includes developed and emerging markets.
 
 ![Figure14](../images/Figure14.png)
 
@@ -535,7 +535,7 @@ An investment in a fund that tracks the MSCI World Index is like a bet on the gr
 
 >Note: The historical figures above are from [Yahoo Finance (^GSPC)](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC), and the chart was created in Google Sheets; you can view the chart and data [here](https://docs.google.com/spreadsheets/d/1RsmiifuZajR_POx1zO_--qUcOgwb7tABNQpT-O69Ryk/edit?usp=sharing). 
 
-Investing in the S&P 500, with an average compound growth rate (ACGR) of 9%, performed better than investing in the MSCI World Index, which had an ACGR of 7.86%, but the MSCI Emerging Markets Index performed even better, with an ACGR of 10.37%. What's the easiest way to explain this?
+Investing in the S&P 500, with an annual compound growth rate (ACGR) of 9%, performed better than investing in the MSCI World Index, which had an ACGR of 7.86%, but the MSCI Emerging Markets Index performed even better, with an ACGR of 10.37%. What's the easiest way to explain this?
 
 > * The US grew faster than the world;
 > * emerging markets grew faster than the US.
@@ -544,19 +544,19 @@ Now we can see that, when we choosing investments, in addition to "one" (quite d
 
 >Choosing investments is like choosing a method of transportation. If you walk, you can still get there, it will just take longer. But if you have a bike you shouldn't walk, if you have a car you shouldn't bike, and if you have an airplane you shouldn't drive -- you should take whatever will get you there the fastest.
 
-We've seen that emerging markets develop faster, so it's easy, we can just choose the "emerging market part", right? Or could we just choose one fastest-growing country, or even just choose the fastest growing industry in that country? Sure! Choosing the market that is growing faster is just like choosing a faster method of transportation. 
+We've seen that emerging markets develop faster, so it's easy, we can just choose the "emerging market part", right? Or could we just choose one fastest-growing country, or even just choose the fastest growing industry in that country? Sure! Choosing a market that is growing faster is just like choosing a faster method of transportation. 
 
-It's extremely difficult to pick the best investment out of tens of thousands of possibilities, but it's quite easy to pick a couple of the the fastest-growing areas out of ten or so regions. Everyone knows that the US and China are the fastest-growing places in the world. If I were to design an ETF, I would look for my investments in just these two places. This ETF would have a high probability of doing better than the MSCI World, wouldn't it? To take it a step further, it wouldn't be difficult to further limit my investments to the fastest growing one or two industries in each country. At least legendary investor [Masayoshi Son](https://en.wikipedia.org/wiki/Masayoshi_Son) doesn't think it would be difficult:
+It's extremely difficult to pick the best investment out of tens of thousands of possibilities, but it's quite easy to pick a couple of the the fastest-growing areas out of ten or so regions. Everyone knows that the US and China are the fastest-growing places in the world. If I were to design an ETF, I would look for my investments in just these two places. This ETF would have a high probability of doing better than the MSCI World Index, wouldn't it? To take it a step further, it wouldn't be that difficult to further limit my investments to the fastest growing one or two industries in each country. At least legendary investor [Masayoshi Son](https://en.wikipedia.org/wiki/Masayoshi_Son) doesn't think it would be difficult:
 
->Making money is easy. All you need to have done is have invested in the Internet 20 years ago, because at that time the internet was the future of the world. Now, you should invest in AI, because AI is the future of the world. 
+>Making money is easy. All you need to have done is invested in the Internet 20 years ago, because at that time the Internet was the future of the world. Now, you should invest in AI, because AI is the future of the world. 
 
 Actually, I have already designed a no-load, no-management-fee index fund. The working name is "Odyssey", and it should be issued in the US in October of 2020. It will be made up of about 30 investments, all in listed companies in the US and China. There is only one selection criterion:
 
 >"Who has constantly growing user data?"
 
-I agree with Sun Zhengyi's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
+I agree with Masayoshi Sun's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
 
->No matter how good the algorithm is, it needs data to feed it. Public companies who have large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
+>No matter how good the algorithm is, it needs data to feed it. Public companies with large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
 
 When I started to buy lots of bitcoin in 2011, many people thought I was crazy. They all said the same thing: "Isn't it too risky?" They felt like it was too risky, but I had the opposite feeling:
 
@@ -566,7 +566,7 @@ This was the logical reasoning behind this feeling:
 
 >We've seen the incredible changes brought about by the Internet allowing information to flow rapidly with basically zero cost, so what kind of incredible changes would be brought about if assets could also flow rapidly with basically zero cost?
 >
->After ten years, the Internet is still bringing about massive change. Even if it isn't exactly what we initially imagined, it's still amazing. In the same way, ten years from now the financial internet is extremely likely to have brought about incredible change, even if we can't know exactly what those changes will be...
+>After ten years, the Internet is still bringing about massive change. Even if it isn't exactly what we initially imagined, it's still amazing. In the same way, ten years from now the financial Internet is extremely likely to have brought about incredible change, even if we can't know exactly what those changes will be...
 
 So for me at the time, blockchain was the future, blockchain was a trend, and blockchain would likely be the fastest growing industry. Looking back from eight years later, it has become the fastest growing industry, and my investment has grown at a scale not even imaginable at the time.
 
@@ -584,7 +584,7 @@ The diagram below may make it easier to understand.
 
 ![Figure16](../images/Figure16.png)
 
-The largest circle represents the entire world, and you are standing in the middle holding a bow an arrow....
+The largest circle represents the entire world, and you are standing in the middle holding a bow and arrow....
 
 >You look around, hoping to find the best place to shoot your arrow. It's difficult, because in the entire circle there are limitless places to chose, and it's basically impossible for you to choose the best possible place and hit it from so far away...
 >
@@ -596,7 +596,7 @@ The largest circle represents the entire world, and you are standing in the midd
 >
 >You've already made three guesses: 1) a net might work better than an arrow; 2) certain regions might grow more rapidly than the whole; and 3) some sectors within those regions might grow even more rapidly. If you keep guessing, your accuracy will certainly suffer. So what should you do? Don't use an arrow, use a shotgun! This way, although your accuracy will suffer, you'll be more likely, and perhaps almost certain, to hit something. Anyway, since it's so far away, no one can be completely accurate, but after so many adjustments, you're more likely than others to be accurate!
 >
->In the end you have another discovery, which is that using an arrow is never the best choice...
+>In the end, you have another discovery, which is that using an arrow is never the best choice...
 
 Choosing a mix of multiple investments, rather than just one, has a powerful effect. The most famous example once again comes from Warren Buffet. In April of 2017, United Airlines had a [PR disaster](https://en.wikipedia.org/wiki/United_Express_Flight_3411_incident) on their hands when, after overselling a flight, they had 69-year-old David Dao dragged off of an aircraft. Quite a few of the media reports that followed were about Warren Buffett, because he owned a large amount of stock in United's parent company. The reports said that, since the company's stock had gone down 4%, losing more than \$1 billion in market value, Buffett had lost more than \$90 million. At the end of trading that day, the stock was down just over 1%, so Buffett's paper loss was around \$24 million. 
 
