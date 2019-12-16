@@ -665,7 +665,7 @@ Choices are the most important thing, especially in investing. If we review what
 
 > * One or everything (global)
 > * The best parts (regions)
-> * The best parts of the best parts (sector)
+> * The best parts of the best parts (sectors)
 > * A combination of the best investments in the best parts of the best parts
 
 It's a lot of decisions, but they are easy to summarize. All of them are decisions about **trends**. Not choosing just one investment, but stepping back and choosing to invest in everything, is done in order to reduce risk and **keep up with the global trend**. In this case, *alpha* is zero. Choosing the best parts of the whole is done in order to find the parts that are developing the fastest, and in doing so create positive *alpha*. Choosing the best parts of the best parts is done to create even higher *alpha* by following trends. Finally, choosing combinations of investements in the best parts of the best parts is pursuing the same goal: first reduce risk, and then see if it is possible to increase *alpha*.
@@ -678,7 +678,7 @@ Below, I will take BOX as an example, because it is a combination of investments
 
 > **Risk Warning** 
 
-> The strategy of regular investment is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor must use their own money and time over the long term to take responsibility for their own choices. Please be cautious.
+> The strategy of regular investing is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor must use their own money and time over the long term to take responsibility for their own choices. Please be cautious.
 >
 > This section is primarily about how I chose BTC, EOS, and XIN to be the components of BOX, and it necessarily contains some of my own subjective judgements. You must use your own objective understanding of the objective world to choose your own investments.
 >
@@ -692,21 +692,21 @@ After eight years of observation, thinking and practice, I think that blockchain
 
 >Trusted ledger (BTC) → Trusted platform for code (ETH/EOS) → Trusted execution environment (Mixin) → Trusted hardware (?) ...
 
-[Bitcoin](https://bitcoin.org/) was the world's first blockchain application. At its core it is a open, transparent, immutable, distributed, trusted ledger. Projects such as [Ethereum](https://www.ethereum.org) and [EOS](https://eos.io), which came along later, have the goal of becoming a blockchain application platform, which is to say that application code can be written to and executed on an open, transparent, immutable, distributed, trusted ledger. Putting a ledger on a blockchain allowed for a trusted ledger, and putting application code on a blockchain allowed for trusted code. [Mixin Network](https://mixin.one) combines a Trusted Execution Environment (TEE) and a Directed Acyclic Graph (DAG) to create an open, transparent, immutable, distributed digital assets storage network, or a trusted execution environment. Maybe in the near future we will also see trusted hardware.
+[Bitcoin](https://bitcoin.org/) was the world's first blockchain application. At its core it is a open, transparent, immutable, distributed, trusted ledger. Projects such as [Ethereum](https://www.ethereum.org) and [EOS](https://eos.io), which came along later, have the goal of becoming a blockchain application platform, which is to say that application code can be written to and executed on an open, transparent, immutable, distributed, trusted ledger. Putting a ledger on a blockchain allowed for a trusted ledger, and putting application code on a blockchain allowed for trusted code. [Mixin Network](https://mixin.one) combines a Trusted Execution Environment (TEE) and a Directed Acyclic Graph (DAG) to create an open, transparent, immutable, distributed digital asset storage network, or a trusted execution environment. Maybe in the near future we will also see trusted hardware.
 
 The reasons for not choosing Ethereum are technical. It currently uses a [Proof-of Work (PoW)](https://en.wikipedia.org/wiki/Proof_of_work) consensus mechanism, and this type of consensus mechanism, which measures confirmations in minutes, is fundamentally unsuitable for an application platform. Ethereum's experience over the past three years has shown that this flaw cannot be resolved in a PoW system. Even if Ethereum switches to a Proof-of-Stake (PoS) system, it will necessarily require a hard fork. Ethereum already underwent a poorly considered hard fork in 2017 that gave birth to Ethereum Classic, which has no clear use case. All of this is to say that investors in Ethereum are faced with a great amount of risk.
 
-There is one final reason why I chose these investments. From their inception until they are widely accepted, almost all technologies go through her following three stages:
+There is one final reason why I chose these investments. From inception until they are widely accepted, almost all technologies go through the following three stages:
 
 >Inception → Adoption by businesses (2B) → Adoption by individuals (2C)
 
-From this perspective, EOS is a blockchain platform for businesses, and Mixin Network's first dApp, Mixin Messenger, is a platform for individuals. One of Mixin Messenger's most important components, which is a base-layer feature of Mixin Network's public chain, is a distributed, multi-coin wallet with the best user experience in the industry. 
+From this perspective, EOS is a blockchain platform for businesses, and Mixin Network's first dApp, Mixin Messenger, is a platform for individuals. One of Mixin Messenger's most important components -- in fact it is a base-layer feature of Mixin Network's public chain -- is a distributed, multi-coin wallet with the best user experience in the industry. 
 
-Furthermore, these three investments have reached the "undeniable" stage. They of course haven't been accepted by everyone, but no one can deny their value. This is the best time for regular investors to enter the market.
+Furthermore, these three investments have reached the "undeniable" stage. Of course they haven't been accepted by everyone, but no one can deny their value. This is the best time for regular investors to enter the market.
 
-Let's take Odyssey, the no-load, no-management-fee stock ETF that will be issued in the second half of 2020, as another example. As I mentioned it in a previous chapter:
+Let's take Odyssey, the no-load, no-management-fee stock ETF that will be issued in the second half of 2020, as another example. As I mentioned in a previous chapter:
 
->I agree with Sun Zhengyi's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
+>I agree with Masayoshi Sun's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
 >
 >>No matter how good the algorithm is, it needs data to feed it. Public companies who have large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
 
@@ -714,11 +714,11 @@ The main point is in this sentence:
 
 >Most algorithm companies will in the end be used by large companies with data.
 
-This sentence is making a judgment about an obvious trend that is in accordance with the trend. In this sector, this will definitely happen, so we should be prepared in advance.
+This sentence is making a judgment about an obvious trend that is itself in accordance with the trend. In this sector, this will definitely happen, so we should be prepared in advance.
 
 There has long been debate in the investment world about whether *alpha* -- results that beat the market -- actually exists, even though rare investors such as Warren Buffet, Joel Greenblatt and Ray Dalio have consistently beaten the market over the long term. There's a joke that shows the silliness of blind adherents to "efficient market theory":
 
->A student saw a hundred dollar bill on the ground and exclaimed to his professor, "Look! Is that a hundred dollar bill?" The professor didn't even deign to look, and said, "That's impossible! If it were really a hundred dollar bill, somebody would have picked it up a long time ago."
+>A student saw a hundred dollar bill on the ground and exclaimed to his professor, "Look! Is that a hundred dollar bill?" The professor didn't even deign to look, saying, "That's impossible! If it were really a hundred dollar bill, somebody would have picked it up a long time ago."
 
 If the market were 100% efficient, then *alpha* could not exist. The problem is that, if we look at any given moment in the market in isolation, it's 100% inefficient. Price and value sometimes matching up doesn't mean anything -- a broken clock is right twice a day! If we put all of the individual moments back together, then over the long term the market should be efficient, but how long is long term? No one knows. If we look at it from the perspective of a regular investor, after two full cycles, the variance between the current price and the historical price at any given moment will seem even greater.
 
