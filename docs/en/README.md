@@ -448,7 +448,7 @@ For regular investors, however, who always view things from a long-term perspect
 
 I often say the following:
 
->Don't have a blind faith in value investing.
+>Don't have blind faith in value investing.
 
 I also often say this:
 
@@ -456,11 +456,11 @@ I also often say this:
 
 Why do I feel that I always have to remind people of this? Because I often see this situation:
 
->Most people are clearly (short-term) trend investors, because the bull market was obviously the reason they entered the market! But as soon as they get trapped by the falling prices in the bear market, they suddenly become value investors!
+>Most people are clearly (short-term) trend investors, because the bull market was obviously the reason they entered the market! But as soon as they get trapped by falling prices in a bear market, they suddenly become value investors!
 
-So, in most situations, people who mention the concept of value investing to you actually only became value investors after getting trapped in the market. I can also guarantee to you that once the market picks up, they will suddenly turn into what they would call trend investors.
+So, in most situations, people who mention the concept of value investing to you actually only became value investors after getting trapped in the market. I can also guarantee to you that, once the market picks up, they will suddenly turn into what they would call trend investors.
 
-This is truly a fascinating phenomenon. They completely fail to understand that the huge loss and awkward situation that they are facing are entirely due to having a different perspective. Even sadder is that these people, who use the short term as the basis for their decisions, also don't know that they have no way of understanding the free and correct advice on the market that is available from those most successful investors who can be blindly followed. And it's all due to a different perspective! Because those "truly successful investors who have shown excellent returns over the long term" all look at things from a long-term perspective.
+This is truly a fascinating phenomenon. They completely fail to understand that the huge loss and the awkward situation that they are facing are entirely due to having a different perspective. Even sadder is that these people, who use the short term as the basis for their decisions, also don't know that they have no way of understanding the free and correct advice on the market that is available from those most successful investors who can be blindly followed. And it's all due to a different perspective! Because those "truly successful investors who have shown excellent returns over the long term" all look at things from a long-term perspective.
 
 To take it a step further, **trend investing is better than value investing when viewed from a long-term perspective**.
 
@@ -474,7 +474,7 @@ Behind this hidden limitation is an even more deeply hidden factor:
 
 It's an almost impossible feat to both pay attention to the details of the present and seriously consider everything that could happen in the distant future. This is the key reason why truly successful value investors are so rare. A good analogy is the saying that if you wear one watch you'll basically know what time it is, even if it's a few minutes slow or a few minutes fast, but if you wear two watches you'll be very mixed up.
 
-According to value investing theory, you must work hard to find an investment with a price below its actual value. But when will you sell it? According to the theory, once its price exceeds its actual value you should sell it, whether it's ten days or ten years after you purchased it. 
+According to value investing theory, you must work hard to find an investment with a price below its actual value. But when will you sell it? According to the theory, once its price exceeds its actual value you should sell it, whether it's been ten days or ten years since you purchased it. 
 
 Following this theory, even Warren Buffett will make mistakes. His most famous mistake was his investment in Disney -- he actually made two mistakes trading Disney stock. In 1966, 36-year-old Buffett met Disney founder Walt Disney in California. Following the meeting, Buffett bought 5% of Disney ([NYSE:DIS](https://www.google.com/search?q=NYSE:+DIS)) for \$4 million at a price of \$0.31 per share.
 
@@ -484,7 +484,7 @@ Following this theory, even Warren Buffett will make mistakes. His most famous m
 
 In his [1995 investor letter](https://www.berkshirehathaway.com/letters/1995.html), Buffett relayed this story. He bought Disney stock in 1966 at \$0.31 per share, and then sold it a year later for \$0.48 per share, making a profit of 50%. Over the next thirty years, Buffett could only watch as Disney stock rose, reaching \$65 in 1995. 
 
-But the story was not over. In 1995, Buffett helped Disney purchase Capital Cities/ABC, which he was a shareholder of, and Buffett once again ended up with a 3.6% stake in Disney! He sold his shares within three years, though, and missed out as Disney's stock continued to rise up to \$129 in October of 2019. [Business Insider calculated](https://markets.businessinsider.com/news/stocks/warren-buffett-made-20-billion-mistake-by-selling-disney-twice-2019-8-1028484967) that, had Buffett continued to hold 8.3% of Disney through 2019, his shares would be worth \$21 billion, and he would have received \$1.5 billion in dividends.
+But the story was not over. In 1995, Buffett helped Disney purchase Capital Cities/ABC, of which he was a shareholder, and once again ended up with a 3.6% stake in Disney! He sold his shares within three years, though, and missed out as Disney's stock continued to rise up to \$129 in October of 2019. [Business Insider calculated](https://markets.businessinsider.com/news/stocks/warren-buffett-made-20-billion-mistake-by-selling-disney-twice-2019-8-1028484967) that, had Buffett continued to hold 8.3% of Disney through 2019, his shares would have been worth \$21 billion, and he would have received \$1.5 billion in dividends.
 
 Of course, this story doesn't mean that Buffett failed in his investment, and he certainly didn't actually "lose" \$22.5 billion. After all, he made a profit on Disney, and he didn't just spend the money after selling -- he kept investing according to his strategy, and he has a 55-year track record of around 25% returns. Over the past 53 years, not accounting for dividends, Disney has returned just over 19% compounded annually. If dividends are taken in to account, Buffett would have been better off holding Disney, but he certainly didn't "lose" as much trading Disney as some people think.
 
@@ -494,27 +494,28 @@ Therefore, **regular investors focus more on the overall trend**. Even though we
 
 >If the correct trend is chosen, then while the difference between price and value is not unimportant, it's not as important as people think.
 
-With a focus on long-term trends and the requirement of only focusing on the long term, regular investment targets must be chosen in a different way. Compared to many other investors, regular investors have an extra screening criteria:
+With a focus on long-term trends, and the requirement of only focusing on the long term, regular investment targets must be chosen in a different way. Compared to many other investors, regular investors have an extra screening criterion:
 
 >Sustained growth over the long term.
 
-Don't discount the importance of "one extra criteria".
+Don't discount the importance of "one extra criterion".
 
 Amazon ([NASDAQ: AMZN](https://finance.yahoo.com/quote/AMZN/)) currently has the highest market cap of any e-commerce company in the world.  According to [Morningstar's calculations](http://performance.morningstar.com/stock/performance-return.action?t=AMZN), it has provided investors with a compound yearly return of 40.42% over the past five years. Over the past 15 years, the compound yearly return has been 28.51%.
 
-Have you thought about why Amazon started by selling books, even though there were so many other potential items to sell? Aside from the fact that the book market is a large market, and the fact that people need and want to buy books frequently, there is one extra screening criteria that the book market passes: once you have sold a book, you very rarely need to provide customer service. Just this one extra criteria eliminated 99.99% of the other choices!
+Have you thought about why Amazon started by selling books, even though there were so many other potential items to sell? Aside from the fact that the book market is a large market, and the fact that people need and want to buy books frequently, there is one extra screening criterion that the book market fulfills: once you have sold a book, you very rarely need to provide customer service. Just this one extra criterion eliminated 99.99% of the other choices!
 
-Regular investors can only chose investments that grow sustainably over the long term (of course, the more growth the better!). Just this one seemingly simple criteria eliminates 99.99% of the options, because, strictly speaking, there is no one individual investment that we can be sure will meet this criteria, no matter how good it looks now. This is because companies are just like people:
+Regular investors can only choose investments that grow sustainably over the long term (of course, the more growth the better!). Just this one seemingly simple criterion eliminates 99.99% of the options, because, strictly speaking, there is no one individual investment that we can be sure will meet this criterion, no matter how good it looks now. This is because companies are just like people:
 
->In the long run, we are all dead. -- John Maynard Keynes
+>In the long run, we are all dead. 
+> -- John Maynard Keynes
 
 So what should a regular investor do?
 
-### 2.3 A Long-term Perspective and Macro Observations
+### 2.3 A Long-term Perspective and Macro Observation
 
 Everyone can understand how difficult it is to pick the best possible investment, especially in the midst of price fluctuations. It's as difficult as a world champion archer standing on a boat being rocked by waves in the middle of the ocean hitting the bullseye on a target on the shore.
 
-Only investing in one investment also entails opportunity cost. Time and money are limited resources, and if you use them in one way you can't use them in another. So, if you invested in A but B performs better, the opportunity cost of your investment decision can be calculated. 
+Only investing in one investment also entails opportunity cost. Time and money are limited resources, and if you use them in one way you can't use them in another. So, if you invested in A but B performs better, the opportunity cost of your investment decision is quantifiable. 
 
 Fortunately, we have another simple, direct, brutal and effective solution:
 
@@ -522,7 +523,7 @@ Fortunately, we have another simple, direct, brutal and effective solution:
 
 This sounds a little bit crazy, and perhaps a bit stupid, but let's put aside whether it's actually crazy and/or stupid, and first ask: Is it possible to invest in everything? The answer is definitely yes! The [MSCI World Index](https://en.wikipedia.org/wiki/MSCI_World) tracks the price of 1,650 mid- and high-cap stocks in 23 developed countries. If we actually invested in this index, what would our results be?
 
->Note: It's possible to buy ETFs that track various world stock indexes. The iShares MSCI World ETF (NYSEARCA: [URTH](https://www.investopedia.com/markets/etfs/urth/)) tracks the MSCI World Index; the iShares MSCI ACWI ETF (NASDAQ: [ACWI](https://www.investopedia.com/markets/quote?tvwidgetsymbol=acwi)) tracks the MSCI All Country World Index, which includes emerging markets; and the Vanguard Total World Stock ETF (NYSEARCA: [VT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=vt)), tracks the FTSE Global All Cap World Index, which also includes developed and emerging markets.
+>Note: It's possible to buy ETFs that track various world stock indexes. The iShares MSCI World ETF (NYSEARCA: [URTH](https://www.investopedia.com/markets/etfs/urth/)) tracks the MSCI World Index; the iShares MSCI ACWI ETF (NASDAQ: [ACWI](https://www.investopedia.com/markets/quote?tvwidgetsymbol=acwi)) tracks the MSCI All Country World Index, which includes emerging markets; and the Vanguard Total World Stock ETF (NYSEARCA: [VT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=vt)) tracks the FTSE Global All Cap World Index, which also includes developed and emerging markets.
 
 ![Figure14](../images/Figure14.png)
 
@@ -534,7 +535,7 @@ An investment in a fund that tracks the MSCI World Index is like a bet on the gr
 
 >Note: The historical figures above are from [Yahoo Finance (^GSPC)](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC), and the chart was created in Google Sheets; you can view the chart and data [here](https://docs.google.com/spreadsheets/d/1RsmiifuZajR_POx1zO_--qUcOgwb7tABNQpT-O69Ryk/edit?usp=sharing). 
 
-Investing in the S&P 500, with an average compound growth rate (ACGR) of 9%, performed better than investing in the MSCI World Index, which had an ACGR of 7.86%, but the MSCI Emerging Markets Index performed even better, with an ACGR of 10.37%. What's the easiest way to explain this?
+Investing in the S&P 500, with an annual compound growth rate (ACGR) of 9%, performed better than investing in the MSCI World Index, which had an ACGR of 7.86%, but the MSCI Emerging Markets Index performed even better, with an ACGR of 10.37%. What's the easiest way to explain this?
 
 > * The US grew faster than the world;
 > * emerging markets grew faster than the US.
@@ -543,19 +544,19 @@ Now we can see that, when we choosing investments, in addition to "one" (quite d
 
 >Choosing investments is like choosing a method of transportation. If you walk, you can still get there, it will just take longer. But if you have a bike you shouldn't walk, if you have a car you shouldn't bike, and if you have an airplane you shouldn't drive -- you should take whatever will get you there the fastest.
 
-We've seen that emerging markets develop faster, so it's easy, we can just choose the "emerging market part", right? Or could we just choose one fastest-growing country, or even just choose the fastest growing industry in that country? Sure! Choosing the market that is growing faster is just like choosing a faster method of transportation. 
+We've seen that emerging markets develop faster, so it's easy, we can just choose the "emerging market part", right? Or could we just choose one fastest-growing country, or even just choose the fastest growing industry in that country? Sure! Choosing a market that is growing faster is just like choosing a faster method of transportation. 
 
-It's extremely difficult to pick the best investment out of tens of thousands of possibilities, but it's quite easy to pick a couple of the the fastest-growing areas out of ten or so regions. Everyone knows that the US and China are the fastest-growing places in the world. If I were to design an ETF, I would look for my investments in just these two places. This ETF would have a high probability of doing better than the MSCI World, wouldn't it? To take it a step further, it wouldn't be difficult to further limit my investments to the fastest growing one or two industries in each country. At least legendary investor [Masayoshi Son](https://en.wikipedia.org/wiki/Masayoshi_Son) doesn't think it would be difficult:
+It's extremely difficult to pick the best investment out of tens of thousands of possibilities, but it's quite easy to pick a couple of the the fastest-growing areas out of ten or so regions. Everyone knows that the US and China are the fastest-growing places in the world. If I were to design an ETF, I would look for my investments in just these two places. This ETF would have a high probability of doing better than the MSCI World Index, wouldn't it? To take it a step further, it wouldn't be that difficult to further limit my investments to the fastest growing one or two industries in each country. At least legendary investor [Masayoshi Son](https://en.wikipedia.org/wiki/Masayoshi_Son) doesn't think it would be difficult:
 
->Making money is easy. All you need to have done is have invested in the Internet 20 years ago, because at that time the internet was the future of the world. Now, you should invest in AI, because AI is the future of the world. 
+>Making money is easy. All you need to have done is invested in the Internet 20 years ago, because at that time the Internet was the future of the world. Now, you should invest in AI, because AI is the future of the world. 
 
 Actually, I have already designed a no-load, no-management-fee index fund. The working name is "Odyssey", and it should be issued in the US in October of 2020. It will be made up of about 30 investments, all in listed companies in the US and China. There is only one selection criterion:
 
 >"Who has constantly growing user data?"
 
-I agree with Sun Zhengyi's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
+I agree with Masayoshi Sun's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
 
->No matter how good the algorithm is, it needs data to feed it. Public companies who have large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
+>No matter how good the algorithm is, it needs data to feed it. Public companies with large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
 
 When I started to buy lots of bitcoin in 2011, many people thought I was crazy. They all said the same thing: "Isn't it too risky?" They felt like it was too risky, but I had the opposite feeling:
 
@@ -565,7 +566,7 @@ This was the logical reasoning behind this feeling:
 
 >We've seen the incredible changes brought about by the Internet allowing information to flow rapidly with basically zero cost, so what kind of incredible changes would be brought about if assets could also flow rapidly with basically zero cost?
 >
->After ten years, the Internet is still bringing about massive change. Even if it isn't exactly what we initially imagined, it's still amazing. In the same way, ten years from now the financial internet is extremely likely to have brought about incredible change, even if we can't know exactly what those changes will be...
+>After ten years, the Internet is still bringing about massive change. Even if it isn't exactly what we initially imagined, it's still amazing. In the same way, ten years from now the financial Internet is extremely likely to have brought about incredible change, even if we can't know exactly what those changes will be...
 
 So for me at the time, blockchain was the future, blockchain was a trend, and blockchain would likely be the fastest growing industry. Looking back from eight years later, it has become the fastest growing industry, and my investment has grown at a scale not even imaginable at the time.
 
@@ -583,7 +584,7 @@ The diagram below may make it easier to understand.
 
 ![Figure16](../images/Figure16.png)
 
-The largest circle represents the entire world, and you are standing in the middle holding a bow an arrow....
+The largest circle represents the entire world, and you are standing in the middle holding a bow and arrow....
 
 >You look around, hoping to find the best place to shoot your arrow. It's difficult, because in the entire circle there are limitless places to chose, and it's basically impossible for you to choose the best possible place and hit it from so far away...
 >
@@ -595,57 +596,57 @@ The largest circle represents the entire world, and you are standing in the midd
 >
 >You've already made three guesses: 1) a net might work better than an arrow; 2) certain regions might grow more rapidly than the whole; and 3) some sectors within those regions might grow even more rapidly. If you keep guessing, your accuracy will certainly suffer. So what should you do? Don't use an arrow, use a shotgun! This way, although your accuracy will suffer, you'll be more likely, and perhaps almost certain, to hit something. Anyway, since it's so far away, no one can be completely accurate, but after so many adjustments, you're more likely than others to be accurate!
 >
->In the end you have another discovery, which is that using an arrow is never the best choice...
+>In the end, you have another discovery, which is that using an arrow is never the best choice...
 
 Choosing a mix of multiple investments, rather than just one, has a powerful effect. The most famous example once again comes from Warren Buffet. In April of 2017, United Airlines had a [PR disaster](https://en.wikipedia.org/wiki/United_Express_Flight_3411_incident) on their hands when, after overselling a flight, they had 69-year-old David Dao dragged off of an aircraft. Quite a few of the media reports that followed were about Warren Buffett, because he owned a large amount of stock in United's parent company. The reports said that, since the company's stock had gone down 4%, losing more than \$1 billion in market value, Buffett had lost more than \$90 million. At the end of trading that day, the stock was down just over 1%, so Buffett's paper loss was around \$24 million. 
 
-But did Buffett really lose money? No. In addition to United, he also had stock in American Airlines, Delta Airlines, and Southwest Airlines. The stock prices of those three airlines all went *up* that day, giving Buffett an overall paper *gain* of \$1.4 billion on his airline stocks! Buffett's diversification in the airline sector insulated him from the price volatility of a single airline stock. Had Buffett not had diversified his holdings in the airline sector, the result would have been quite different!
+But did Buffett really lose money? No. In addition to United, he also had stock in American Airlines, Delta Airlines, and Southwest Airlines. The stock prices of those three airlines all went *up* that day, giving Buffett an overall paper *gain* of \$140 million on his airline stocks! Buffett's diversification in the airline sector insulated him from the price volatility of a single airline stock. Had Buffett not had diversified his holdings in the airline sector, the result would have been quite different!
 
-### 2.4 All Trends Have Bubbles
+### 2.4 Major Trends All Have Bubbles
 
-Words that have been paired most frequently with "bubble" include "tulip" and "Internet". In 2019, a new one has been added: "Artificial Intelligence". People are worried that that a global AI bubble is about to burst, even though just a year ago startups in the AI sector were the hottest in the world. On October 5, 2018, *Forbes* reported that there were 14 AI unicorns just in China (a "unicorn" is a startup with a valuation of over \$1 billion). In aggregate, these companies had valuations of over \$40 billion. A year previously, AI startups had been even hotter, with a report from Tsinghua University stating that 369 investments had been made in AI startups in China, with the total investment reaching \$27.7 billion.
+Words that have been paired most frequently with "bubble" include "tulip" and "Internet". In 2019, a new one has been added: "Artificial Intelligence". People are worried that that a global AI bubble is about to burst, even though just a year ago startups in the AI sector were the hottest in the world. On October 5th, 2018, *Forbes* reported that there were 14 AI unicorns just in China (a "unicorn" is a startup with a valuation of over \$1 billion). In aggregate, these companies had valuations of over \$40 billion. A year previously, AI startups had been even hotter, with a report from Tsinghua University stating that 369 investments had been made in AI startups in China, with the total investment reaching \$27.7 billion.
 
-But why are people suddenly worried about a bubble? It's because there has been a rash of negative news stories about the AI sector. For instance, it was reported that [Facebook](https://observer.com/2019/08/facebook-audio-transcription-scandal-ai-dilemma/) infringed on user privacy in order to develop their voice recognition system, and [IBM](https://www.technologyreview.com/f/613131/ibms-photo-scraping-scandal-shows-what-a-weird-bubble-ai-researchers-live-in/) used similar methods to develop their facial recognition system. AI has also been used for what some consider to be nefarious purposes, such as in the case of [Cambridge Analytica's](https://www.theguardian.com/technology/2018/apr/16/cambridge-analytica-scandal-highlights-need-for-ai-regulation) use of Facebook user data in the US elections, and [Amazon's](https://futurism.com/amazon-ai-fire-workers) use of AI to fire low-productivity workers.
+But why are people suddenly worried about a bubble? It's because there has been a rash of negative news stories about the AI sector. For instance, it was reported that [Facebook](https://observer.com/2019/08/facebook-audio-transcription-scandal-ai-dilemma/) infringed on user privacy in order to develop their voice recognition system, and that [IBM](https://www.technologyreview.com/f/613131/ibms-photo-scraping-scandal-shows-what-a-weird-bubble-ai-researchers-live-in/) used similar methods to develop their facial recognition system. AI has also been used for what some consider to be nefarious purposes, such as in the case of [Cambridge Analytica's](https://www.theguardian.com/technology/2018/apr/16/cambridge-analytica-scandal-highlights-need-for-ai-regulation) use of Facebook user data in the US elections, and [Amazon's](https://futurism.com/amazon-ai-fire-workers) use of AI to fire low-productivity workers.
 
 Perhaps the silliest story was about Kiwi Campus, a startup founded at UC-Berkeley in 2017 that makes robots, called Kiwibots, that deliver food on campuses. It has received multiple rounds of funding, and its CEO received an entrepreneurship award from MIT in 2018. In the summer of 2018, however, it was reported that the "AI robots" were actually being controlled remotely by students in Columbia being paid \$2 an hour.
 
-The AI sector seems too hot. With startups raising too much money, unclear valuation methods, and frequent issues with applications, it's hard not to be reminded of the Internet bubble. So, of course, people start to worry that there may be an AI bubble that could burst...
+The AI sector seems too hot. With startups raising too much money, unclear valuation methods, and frequent issues with applications of the technology, it's hard not to be reminded of the Internet bubble. So, of course, people start to worry that there may be an AI bubble that could burst...
 
 But is it such a bad thing for a bubble to burst?
 
 ![Figure17](../images/Figure17.png)
 
-Let's take another look at the historical price chart for the S&P 500. The two red circles indicate the peak of the Internet bubble in 2000 and the peak of the housing bubble that let to the financial crisis in 2008. If we were living in the world of 2000 to 2003, it would seem to be a terrible winter for the Internet, with companies going bankrupt and dissolving. From our vantage point in 2019, however we can see that from 2000 to 2019 the Internet developed from being the world of a few to being everyone's world. According to the World Bank, in 2000 only 1.8% of people in China were online; by 2019, WeChat --  just one app -- had over [1.1 billion users](https://new.qq.com/omn/20190516/20190516A0AY8B.html). This is the story of the Internet in China -- from 1.8% of the population using the Internet to 70% of people using just one app in around 20 years. Long-term trends can take a while, but they are quite powerful!
+Let's take another look at the historical price chart for the S&P 500. The two red circles indicate the peak of the Internet bubble in 2000 and the peak of the housing bubble that led to the financial crisis in 2008. If we were living in the world of 2000 to 2003, it would seem to be a terrible winter for the Internet, with companies going bankrupt and dissolving. From our vantage point in 2019, however, we can see that from 2000 to 2019 the Internet grew from being the world of a few to being everyone's world. According to the World Bank, in 2000 only 1.8% of people in China were online; by 2019, WeChat --  just one app -- had over [1.1 billion users](https://new.qq.com/omn/20190516/20190516A0AY8B.html). This is the story of the Internet in China -- from 1.8% of the population using the Internet to 70% of people using just one app in around 20 years. Long-term trends can take a while, but they are quite powerful!
 
 For regular investors, even if we entered the market at the height of the bubble in 2000, looking back after two full cycles, in 2015, our entry point still looks like a "low" price. It turns out that the secret to "buy low, sell high" is quite simple:
 
 >Wait for a long time after you buy before you sell.
 
-So is the popping of the AI bubble a good thing or a bad thing? It's hard to say for others, but for regular investors a bubble popping is always a good thing. In fact, **the popping of a bubble might be a great opportunity for a regular investor to enter the market.**
+So is the popping of the AI bubble a good thing or a bad thing? It's hard to say for others, but for regular investors a bubble popping is always a good thing. In fact, **the popping of a bubble may be a great opportunity for a regular investor to enter the market.**
 
 If we look back over history, industries representing all great trends went through bubbles. The difference between the tulip bubble and the Internet bubble was that, while tulips were not completely without value, there was no way for their value to grow sustainably. The Internet, however, had a value that could grow over time. All the way through the Internet bubble the Internet was growing, creating value, and changing the world. 
 
-Why do all great trends go through a bubble? The best explanation comes from John Fisher's [Transition Curve](https://www.ucd.ie/t4cms/Transition%20Curve%20Cranfield%20Article.pdf): 
+Why do all great trends go through bubbles? The best explanation comes from John Fisher's [Transition Curve](https://www.ucd.ie/t4cms/Transition%20Curve%20Cranfield%20Article.pdf): 
 
 ![Figure18](../images/Figure18.png)
 
-When going through a transition, after some initial anxiety, people feel happy because they think that, "At last something's going to change!" But then they often enter into a myriad of negative emotions. Some people deny the negative emotions, and then crash later, while some slowly fall into feelings of fear, guilt and even depression. While some eventually give up, others slowing begin to accept and adapt to the change. But this only happens after a long process.
+When going through a transition, after some initial anxiety, people feel happy because they think that, "At last something's going to change!" But then they often begin to experience a myriad of negative emotions. Some people deny the negative emotions, and then crash later on, while some slowly fall into feelings of fear, guilt and even depression. While some eventually give up, others slowly begin to accept and adapt to the change. But this only happens after a long process.
 
 Major trends, which become apparent after many years, must initially go through the process of acceptance described above. The first crest in the curve is the cause of the bubble, and the ensuing trough is the reason for the bubble bursting. This is shown most clearly in the markets, because the market price at each moment is a representation of everyone in the market's collective understanding of an investment. When people are feeling disillusioned, the bubble pops.
 
-So, contrary to what most people think, the popping of a bubble quite possibly represents opportunity. Whether or not there is actually an opportunity depends on whether or not the object of the bubble has long-term sustainable value and growth potential. If it does, then there is an opportunity. Furthermore, it is possible that bubbles may continue to occur until its value has been fully realized.
+So, contrary to what most people think, the popping of a bubble quite possibly represents opportunity. Whether or not there actually is an opportunity depends on whether or not the object of the bubble has long-term sustainable value and growth potential. If it does, then there is an opportunity. It's possible, though, that bubbles may continue to occur until its value has been fully realized.
 
-After reaching an all-time high of \$19,800 in December of 2017, bitcoin entered a long bear market. As of October of 2019, it remains in a bear market, with its price less than 43% of its all-time high. But is the popping of this bubble different from the popping of previous bubbles in the bitcoin market? Since its inception, bitcoin has been pronounced dead [337 times](https://99bitcoins.com/bitcoin-obituaries/) (as of October 11th, 2019). Each short bull market has been called a bubble, and they have all popped, but the popping of the bubble in 2017 has one difference from previous bubbles:
+After reaching an all-time high of \$19,800 in December of 2017, bitcoin entered a long bear market. As of October 2019, it remains in a bear market, with its price less than 43% of its all-time high. But is the popping of this bubble different from the popping of previous bubbles in the bitcoin market? As of October 11th, 2019, bitcoin had been pronounced dead [337 times](https://99bitcoins.com/bitcoin-obituaries/) since its inception. Each short bull market has been called a bubble, and they have all popped, but the popping of the bubble in 2017 has one difference from previous bubbles:
 
 >No one denies bitcoin's value. 
 
-This is an extremely important, if subtle, difference. I have a very simple, direct, brutal and effective way to determine if a trend is established: 
+This is an extremely important, if subtle, difference. I have a very simple, direct, brutal and effective way to determine if a trend has been established: 
 
 >Don't look at how many people have already accepted it, look to see if most people can no longer deny it.
 
 **Undeniability** is an important sign of an established trend. It doesn't matter whether or not they understand it, or whether or not they accept it. If they can't deny it, then the trend has basically already "filled up the bubble". This is the best signal for regular investors to decide when to enter the market. This is why I didn't introduce BOX, my no-load, no-management-fee blockchain ETF, until July of 2019, even though my thinking about and designs for a blockchain ETF began in 2015.
 
-It's important to point out that most novice investors fall into the trap of "looking for the next...". Actually, very few people succeed by choosing carefully and holding over the long term (whether through regular investing or not), and the vast majority of people never make deep macro observations from a long-term perspective, but everyone is jealous of those who have already succeeded, so they can't help but thinking:
+It's important to point out that most novice investors fall into the trap of "looking for the next...". Actually, very few people succeed by choosing carefully and holding over the long term (whether through regular investing or not), and the vast majority of people never make deep macro observations from a long-term perspective, but everyone is jealous of those who have already succeeded, so they can't help but think:
 
 >If only I had also chosen correctly that early!
 
@@ -655,7 +656,7 @@ But it's hard for that thought not to evolve into this next thought:
 
 This is a dangerous thought, especially for novice investors! The problem is, the more of a novice one is, the stronger this thought is. Just ask yourself, have you had this thought? Then ask yourself again, didn't you have this thought as soon as you started investing? Doesn't this thought always make you feel anxious?
 
-There are lots of details that those who are about to fall into this trap don't know. For instance, there are actually quite few major trends that will really change the world. Also, if a new major trend does appear, it will probably be years from now, rather than right now or in the immediate future. More importantly, the development of a great trend that has already been identified will continue for a long time with increasingly rapid growth. Actually, "this one" is much more realistic than "the next one".
+There are lots of details that those who are about to fall into this trap don't know. For instance, there are actually very few major trends that will really change the world. Also, if a new major trend does appear, it will probably be years from now, rather than right now or in the immediate future. More importantly, the development of a great trend that has already been identified will continue for a long time with increasingly rapid growth. Actually, "this one" is much more realistic than "the next one".
 
 If we're able to grab on to one major trend in our lifetime, we're already very lucky!
 
@@ -665,7 +666,7 @@ Choices are the most important thing, especially in investing. If we review what
 
 > * One or everything (global)
 > * The best parts (regions)
-> * The best parts of the best parts (sector)
+> * The best parts of the best parts (sectors)
 > * A combination of the best investments in the best parts of the best parts
 
 It's a lot of decisions, but they are easy to summarize. All of them are decisions about **trends**. Not choosing just one investment, but stepping back and choosing to invest in everything, is done in order to reduce risk and **keep up with the global trend**. In this case, *alpha* is zero. Choosing the best parts of the whole is done in order to find the parts that are developing the fastest, and in doing so create positive *alpha*. Choosing the best parts of the best parts is done to create even higher *alpha* by following trends. Finally, choosing combinations of investements in the best parts of the best parts is pursuing the same goal: first reduce risk, and then see if it is possible to increase *alpha*.
@@ -678,7 +679,7 @@ Below, I will take BOX as an example, because it is a combination of investments
 
 > **Risk Warning** 
 
-> The strategy of regular investment is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor must use their own money and time over the long term to take responsibility for their own choices. Please be cautious.
+> The strategy of regular investing is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor must use their own money and time over the long term to take responsibility for their own choices. Please be cautious.
 >
 > This section is primarily about how I chose BTC, EOS, and XIN to be the components of BOX, and it necessarily contains some of my own subjective judgements. You must use your own objective understanding of the objective world to choose your own investments.
 >
@@ -692,21 +693,21 @@ After eight years of observation, thinking and practice, I think that blockchain
 
 >Trusted ledger (BTC) → Trusted platform for code (ETH/EOS) → Trusted execution environment (Mixin) → Trusted hardware (?) ...
 
-[Bitcoin](https://bitcoin.org/) was the world's first blockchain application. At its core it is a open, transparent, immutable, distributed, trusted ledger. Projects such as [Ethereum](https://www.ethereum.org) and [EOS](https://eos.io), which came along later, have the goal of becoming a blockchain application platform, which is to say that application code can be written to and executed on an open, transparent, immutable, distributed, trusted ledger. Putting a ledger on a blockchain allowed for a trusted ledger, and putting application code on a blockchain allowed for trusted code. [Mixin Network](https://mixin.one) combines a Trusted Execution Environment (TEE) and a Directed Acyclic Graph (DAG) to create an open, transparent, immutable, distributed digital assets storage network, or a trusted execution environment. Maybe in the near future we will also see trusted hardware.
+[Bitcoin](https://bitcoin.org/) was the world's first blockchain application. At its core it is a open, transparent, immutable, distributed, trusted ledger. Projects such as [Ethereum](https://www.ethereum.org) and [EOS](https://eos.io), which came along later, have the goal of becoming a blockchain application platform, which is to say that application code can be written to and executed on an open, transparent, immutable, distributed, trusted ledger. Putting a ledger on a blockchain allowed for a trusted ledger, and putting application code on a blockchain allowed for trusted code. [Mixin Network](https://mixin.one) combines a Trusted Execution Environment (TEE) and a Directed Acyclic Graph (DAG) to create an open, transparent, immutable, distributed digital asset storage network, or a trusted execution environment. Maybe in the near future we will also see trusted hardware.
 
 The reasons for not choosing Ethereum are technical. It currently uses a [Proof-of Work (PoW)](https://en.wikipedia.org/wiki/Proof_of_work) consensus mechanism, and this type of consensus mechanism, which measures confirmations in minutes, is fundamentally unsuitable for an application platform. Ethereum's experience over the past three years has shown that this flaw cannot be resolved in a PoW system. Even if Ethereum switches to a Proof-of-Stake (PoS) system, it will necessarily require a hard fork. Ethereum already underwent a poorly considered hard fork in 2017 that gave birth to Ethereum Classic, which has no clear use case. All of this is to say that investors in Ethereum are faced with a great amount of risk.
 
-There is one final reason why I chose these investments. From their inception until they are widely accepted, almost all technologies go through her following three stages:
+There is one final reason why I chose these investments. From inception until they are widely accepted, almost all technologies go through the following three stages:
 
 >Inception → Adoption by businesses (2B) → Adoption by individuals (2C)
 
-From this perspective, EOS is a blockchain platform for businesses, and Mixin Network's first dApp, Mixin Messenger, is a platform for individuals. One of Mixin Messenger's most important components, which is a base-layer feature of Mixin Network's public chain, is a distributed, multi-coin wallet with the best user experience in the industry. 
+From this perspective, EOS is a blockchain platform for businesses, and Mixin Network's first dApp, Mixin Messenger, is a platform for individuals. One of Mixin Messenger's most important components -- in fact it is a base-layer feature of Mixin Network's public chain -- is a distributed, multi-coin wallet with the best user experience in the industry. 
 
-Furthermore, these three investments have reached the "undeniable" stage. They of course haven't been accepted by everyone, but no one can deny their value. This is the best time for regular investors to enter the market.
+Furthermore, these three investments have reached the "undeniable" stage. Of course they haven't been accepted by everyone, but no one can deny their value. This is the best time for regular investors to enter the market.
 
-Let's take Odyssey, the no-load, no-management-fee stock ETF that will be issued in the second half of 2020, as another example. As I mentioned it in a previous chapter:
+Let's take Odyssey, the no-load, no-management-fee stock ETF that will be issued in the second half of 2020, as another example. As I mentioned in a previous chapter:
 
->I agree with Sun Zhengyi's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
+>I agree with Masayoshi Sun's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
 >
 >>No matter how good the algorithm is, it needs data to feed it. Public companies who have large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
 
@@ -714,11 +715,11 @@ The main point is in this sentence:
 
 >Most algorithm companies will in the end be used by large companies with data.
 
-This sentence is making a judgment about an obvious trend that is in accordance with the trend. In this sector, this will definitely happen, so we should be prepared in advance.
+This sentence is making a judgment about an obvious trend that is itself in accordance with the trend. In this sector, this will definitely happen, so we should be prepared in advance.
 
 There has long been debate in the investment world about whether *alpha* -- results that beat the market -- actually exists, even though rare investors such as Warren Buffet, Joel Greenblatt and Ray Dalio have consistently beaten the market over the long term. There's a joke that shows the silliness of blind adherents to "efficient market theory":
 
->A student saw a hundred dollar bill on the ground and exclaimed to his professor, "Look! Is that a hundred dollar bill?" The professor didn't even deign to look, and said, "That's impossible! If it were really a hundred dollar bill, somebody would have picked it up a long time ago."
+>A student saw a hundred dollar bill on the ground and exclaimed to his professor, "Look! Is that a hundred dollar bill?" The professor didn't even deign to look, saying, "That's impossible! If it were really a hundred dollar bill, somebody would have picked it up a long time ago."
 
 If the market were 100% efficient, then *alpha* could not exist. The problem is that, if we look at any given moment in the market in isolation, it's 100% inefficient. Price and value sometimes matching up doesn't mean anything -- a broken clock is right twice a day! If we put all of the individual moments back together, then over the long term the market should be efficient, but how long is long term? No one knows. If we look at it from the perspective of a regular investor, after two full cycles, the variance between the current price and the historical price at any given moment will seem even greater.
 
@@ -750,9 +751,9 @@ In his book, [*The Success Equation: Untangling Skill and Luck in Business, Spor
 
 Activities on the far right, such as chess, depend 100% on skill, and there is essentially no luck involved. Activities on the far left, such as playing slot machines, depend 100% on luck, and there is essentially no skill involved. Most of the rest of the activities in the image depend on some mixture of luck and skill. So in most situations, if you want to be hugely successful, you have to be more skillful than others and also get lucky. Investing, however, is on the left side of the picture, implying that luck is more important than skill. In fact, luck is much more important than skill, which is why so many smart people end up being unsuccessful in the trading markets.
 
-However, since there are many different types of investment, we need to slightly adjust Mauboussin's placement of investment in the image. For example, long-term holding and frequent trading are clearly completely different. Also, carefully selecting assets to hold over the long term is generally acknowledged to be a successful strategy. If someone doesn't believe this, just show them [the chart of the S&P 500 over the past several decades](https://docs.google.com/spreadsheets/d/1RsmiifuZajR_POx1zO_--qUcOgwb7tABNQpT-O69Ryk/edit?usp=sharing). Regular investing is at its core simply an improvement to the strategy of carefully selecting assets to hold over the long term. Since it hardly depends on any luck, this type of investment should actually be on the right side of the image.
+However, since there are many different types of investing, we need to slightly adjust Mauboussin's placement of investing in the image. For example, long-term holding and frequent trading are clearly completely different. Also, carefully selecting assets to hold over the long term is generally acknowledged to be a successful strategy. If someone doesn't believe this, just show them [the chart of the S&P 500 over the past several decades](https://docs.google.com/spreadsheets/d/1RsmiifuZajR_POx1zO_--qUcOgwb7tABNQpT-O69Ryk/edit?usp=sharing). Regular investing is at its core simply an improvement to the strategy of carefully selecting assets to hold over the long term. Since it hardly depends on any luck, this type of investment should actually be on the right side of the image.
 
-Regular investors do only one thing:
+Regular investors only do one thing:
 
 > Buy. 
 
@@ -760,17 +761,17 @@ Regular investing seems so simple that most people will initially doubt its effe
 
 But please take note: **the power of regular investing comes precisely from the fact that it only involves doing one thing**. This is because doing only one thing means that regular investors have no room to make mistakes by doing other things, which ensures that *gamma* is 0. All you have to do is buy. In the future you will understand that doing other things is a mistake that may greatly increase *gamma*. 
 
-What about the people who think they have all sorts of tricks? If we look at it logically, we will see where their weaknesses are.
+What about people who think they have all sorts of tricks? If we look at it logically, we will see where their weaknesses are.
 
 For example, we know that regular investors only do one thing: buy. And those with lots of tricks? They want to carry out the well-known secret strategy of "buy low and sell high", so they need to buy when they should buy, and then sell when they should sell. The problem is, when should they **really** buy? They don't know for sure, and each time they buy it's only when they **think** they should.
 
 To take it a step further, these frequent traders are missing a key point: in order for their strategy to work, being right just once isn't enough -- they have to be right **twice**. They must buy when the price is really low and sell when the price is really high. It's the combination of these two trades that will produce the result they're hoping for. If they only get one of the steps right, their effort was all for naught. 
 
-If they were able to be right every time, buying when they should and selling when they should through multiple trades, then that would be great! But without help from some higher being, they've basically got about a 50% chance of selling when they should buy and buying when they should sell. They just added one thing (trying to buy low and sell high), and their chances of success have dropped from 100% to 25%.
+If they were able to be right every time, buying when they should and selling when they should across multiple trades, then that would be great! But without help from some higher being, they've basically got about a 50% chance of selling when they should buy and buying when they should sell. They just added one thing (trying to buy low and sell high), and their chances of success have dropped from 100% to 25%.
 
 Regular investors are different. Each time they buy they are "buying low", because, if they eventually decide to sell after two or more full cycles, the price that they initially bought at will always seem cheap. See? That well-known secret of "buy low and sell high" is always working for regular investors.
 
-Frequent traders are definitely not willing to concede. "How could I have a 50% chance of making a mistake?!" Alright, let's say you have an 80% chance of being right. Actually, you have to be right twice in a row, so your chances of success are only 80% x 80% = 64%. That's still much lower than 100%! Furthermore, if you have actually tried investing using your own money, you know that being right 80% of the time is incredibly unlikely. If you're right even 60% of the time you can be considered an expert! And if you're right 60% of the time, your chances of being right twice in a row drop to 36%. This explains why the vast majority of investors end up thinking that every action they took was wrong. Once you understand that short-term price movements are an unpredictable ["random walk"](https://en.wikipedia.org/wiki/Random_walk_hypothesis), you will understand why the chances of success are really 50% x 50% = 25%. No more no less.
+Frequent traders are definitely not willing to concede this point. "How could I have a 50% chance of making a mistake?!" Alright, let's say you have an 80% chance of being right. Actually, you have to be right twice in a row, so your chances of success are only 80% x 80% = 64%. That's still much lower than 100%! Furthermore, if you have actually tried investing using your own money, you know that being right 80% of the time is incredibly unlikely. If you're right even 60% of the time you can be considered an expert! And if you're right 60% of the time, your chances of being right twice in a row drop to 36%. This explains why the vast majority of investors end up thinking that every action they took was wrong. Once you understand that short-term price movements are an unpredictable ["random walk"](https://en.wikipedia.org/wiki/Random_walk_hypothesis), you will understand why the chances of success are really 50% x 50% = 25%. No more no less.
 
 But we're not done yet! Another hidden and serious detail has been been left out. Frequent traders don't understand that what they are depending on is **judgement after the fact**. Putting aside whether their judgement is correct or not, by the time they realize something, and think, "Oh, this must be an upward trend", they've already missed a portion of the rise in price. And by the time they realize, "Oh, this looks like a downward trend", they can't avoid having participated in some of the drop in price. 
 
@@ -778,7 +779,7 @@ But we're not done yet! Another hidden and serious detail has been been left out
 
 This phenomenon is easy to see in the picture above. Even for the 25% of the time that they are right twice in a row, they actually only make about a third of the profit that they think they should. In their imagination, they buy at A and sell at B, but because their judgement of the short-term trend is actually made after the fact, they actually buy at A' and sell at B'.
 
->Just as an aside, the core problem with [momentum investing](https://en.wikipedia.org/wiki/Momentum_investing), which many people seem to fall in love with, is basically the same. Since you can only base decisions on judgments after the fact, even if you do everything right your gains are smaller than you had imagined. 
+>Just as an aside, the core problem with [momentum investing](https://en.wikipedia.org/wiki/Momentum_investing), which many people seem to fall in love with, is basically the same. Since you can only base decisions on judgments after the fact, even if you do everything right your gains are still smaller than you had imagined. 
 
 But there's still more! Another detail that must be considered is that the chance of guessing right is actually much lower than 50%, because in addition to **going up** or **going down**, the price could **stay the same**. So our odds of guessing correctly are actually 1/3 instead of 1/2, and our chances of guessing correctly twice in a row are even more startling: 1/3 x 1/3 = 11.11%...
 
@@ -790,15 +791,15 @@ This is why most investors who are truly able to reflect on their behavior after
 
 >Everything I tried to do was wrong.
 
-Their conclusion is not incorrect, because the more things they did the more likely they were to be wrong, and it all happened without their being aware of it. They didn't know that all of their short-term trading strategies depended on luck; they didn't know whether their strategies were really effective; they didn't know that they had to be right twice in a row to be successful; they didn't know that they were missing two thirds of their potential profits because they were making judgements after the fact; and they definitely didn't know that there is a cost to turning even correct knowledge into action. In the face of these factors, even the fees that Warren Buffett has called "vampires", because they can kill your returns, don't seem so scary.
+Their conclusion is not incorrect, because the more things they did the more likely they were to be wrong, and it all happened without their being aware of it. They didn't know that all of their short-term trading strategies depended on luck; they didn't know whether their strategies were really effective; they didn't know that they had to be right twice in a row to be successful; they didn't know that they were missing two thirds of their potential profits because they were making judgements after the fact; and they definitely didn't know that there is a cost to turning even correct knowledge into action. In the face of these factors, even the fees that Warren Buffett has called "vampires" -- because they can kill your returns -- don't seem so scary.
 
-Behavioral economist [Meir Statman](https://www.scu.edu/business/finance/faculty/statman/) once referred to a Swedish study which showed, based on figures from 19 stock exchanges, that accounts that traded frequently lost an average of 1.9%-4% per year. A [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=219228) by Brad Barber and Terrance Odean showed that men traded 45% more frequently than women, and that men have 1.4% lower yearly returns. Single men traded 67% more frequently than women, and had 2.3% lower returns. A study by [Vanguard](https://investor.vanguard.com/corporate-portal/) discovered that the returns of accounts that frequently changed strategies lagged far behind those of accounts that never changed strategies (see Chapter 2 of Daniel Crosby's [*The Behavioral Investor*](https://www.amazon.com/dp/B07HH99WH8/)).
+Behavioral economist [Meir Statman](https://www.scu.edu/business/finance/faculty/statman/) once referred to a Swedish study which showed, based on figures from 19 stock exchanges, that accounts which traded frequently lost an average of 1.9%-4% per year. A [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=219228) by Brad Barber and Terrance Odean showed that men traded 45% more frequently than women, and that men had 1.4% lower yearly returns. Single men traded 67% more frequently than women, and had 2.3% lower returns. A study by [Vanguard](https://investor.vanguard.com/corporate-portal/) discovered that the returns of accounts that frequently changed strategies lagged far behind those of accounts that never changed strategies (see Chapter 2 of Daniel Crosby's [*The Behavioral Investor*](https://www.amazon.com/dp/B07HH99WH8/)).
 
-Based on the figures above, frequent traders will likely have a *gamma* of at least 2%, whereas, had they just bought and held, their *gamma* would have been 0. Don't underestimate this 2%, because over 30 years a *gamma* of 2% will cost you 45% of your returns! So we can see that regular investing is the best strategy of **winning without fighting**.
+Based on the figures above, frequent traders will likely have a *gamma* of at least 2%, whereas, had they just bought and held, their *gamma* would have been 0. Don't underestimate this 2%, because over 30 years a *gamma* of 2% will cost you 45% of your returns! So we can see that regular investing is the best strategy for **winning without fighting**.
 
 ### 3.2 Don't Miss It!
 
-October 19th, 1987, is known as "[Black Monday](https://en.wikipedia.org/wiki/Black_Monday)". On that day the Dow Jones Industrial Average suddenly crashed. From the beginning of the year it had risen 38%, but that day it dropped **22.6%**, and people around the world went into a panic as they watched the crash live on television. Before this, never had so many people watched such a disaster unfold on live television.
+October 19th, 1987, is known as "[Black Monday](https://en.wikipedia.org/wiki/Black_Monday)". On that day the Dow Jones Industrial Average suddenly crashed. It had risen 38% since the beginning of the year, but that day it dropped **22.6%**, and people around the world went into a panic as they watched the crash live on television. Before this, never had so many people watched such a disaster unfold on live television.
 
 ![Figure21](../images/Figure21.png)
 
@@ -806,21 +807,21 @@ The Black Monday crash, which started in Hong Kong and spread to the rest of the
 
 If there is a heaven there is also a hell. Or, to put it another way, without the existence of such a terrible hell, people wouldn't have such a yearning for heaven.
 
-People can't help but think, "Wouldn't it be great if I could successfully avoid the worst days of the stock market?" It wouldn't just be great, it would be fantastic! In his 2009 paper "[Black swans, market timing and the Dow](https://pdfs.semanticscholar.org/9c64/3d7ed23a1ecdb862a169ff8654e9d1fd15ef.pdf)", IESE Professor [Javier Estrada](https://www.iese.edu/faculty-research/faculty/javier-estrada/) calculated that, if you were able to avoid the **ten** worst days in the market from 1900 to 2006, your returns would increase **206%**!
+People can't help but think, "Wouldn't it be great if I could successfully avoid the worst days of the stock market?" It wouldn't just be great, it would be fantastic! In his 2009 paper "[Black swans, market timing and the Dow](https://pdfs.semanticscholar.org/9c64/3d7ed23a1ecdb862a169ff8654e9d1fd15ef.pdf)", IESE Professor [Javier Estrada](https://www.iese.edu/faculty-research/faculty/javier-estrada/) calculated that, if you had been able to avoid the **ten** worst days in the market from 1900 to 2006, your returns would have increased by **206%**!
 
 ![Figure22](../images/Figure22.png)
 
 Of course, I hope you've also realized the following fact: there is no way to successfully avoid all of the worst days. It's just like how there will always be some rainy days when you forget to bring an umbrella.
 
-Even if you really were able to avoid all of the worst days, you would be faced with another uncomfortable fact:
+Even if you actually were able to avoid all of the worst days, you would be faced with another uncomfortable fact:
 
 >The best days often fall very close to the worst days. 
 
-If you really avoided all of the worst days, then you would almost certainly also "avoid" some of the best. days. In the [following chart](https://theirrelevantinvestor.com/2019/02/08/miss-the-worst-days-miss-the-best-days/) from [The Irrelevant Investor](http://theirrelevantinvestor.com), the red dots mark the worst days, and the green dots mark the best days. 
+If you really avoided all of the worst days, then you would almost certainly also "avoid" some of the best days. In the [following chart](https://theirrelevantinvestor.com/2019/02/08/miss-the-worst-days-miss-the-best-days/) from *[The Irrelevant Investor](http://theirrelevantinvestor.com)*, the red dots mark the worst days, and the green dots mark the best days. 
 
 ![Figure23](../images/Figure23.png)
 
-According to JP Morgan's [statistics](https://www.businessinsider.com/cost-of-missing-10-best-days-in-sp-500-2015-3), *six* of the ten best days in the stock market occurred within two weeks of the best ten days. Now, if you missed the best ten days of a ten year period, what would the influence your returns be?
+According to [statistics](https://www.businessinsider.com/cost-of-missing-10-best-days-in-sp-500-2015-3) from JP Morgan, *six* of the ten best days in the stock market occurred within two weeks of the worst ten days. Now, if you missed the best ten days of a ten year period, what would the influence on your returns be?
 
 ![Figure24](../images/Figure24.png)
 
@@ -830,13 +831,13 @@ If you missed the best ten days, you would lose *66%* of your returns, which is 
 
 So, what should we do? We should do nothing! Never underestimate the power of the Daoist concept of "doing nothing". Actually, it's hard to find a better example than the the trading markets to illustrate its power.
 
-Scary headlines attract more eyeballs, so the media makes a bigger deal of large price drops than it does of large increases. The media always prefers to report bad news instead of good news. Aside from the fact that bad news attracts more viewers and readership, reporting bad news is also a better fit for the media's self image. After all, if the media reports good news about a person or company, people tend to suspect that they are kissing up to someone. The April 2017 event on the United Airlines flight (bad news) was widely reported, and stories about Warren Buffett losing \$20 million on his United stock (bad news) were all over the place, but no one wrote an article about how Warren Buffett's overall airline stock holdings rose by more than \$100 million that day.
+Scary headlines attract more eyeballs, so the media makes a bigger deal of large price drops than it does of large increases. The media always prefers to report bad news instead of good news. Aside from the fact that bad news attracts more viewers and readership, reporting bad news is also a better fit for the media's self image. After all, if the media reports good news about a person or company, people tend to suspect that they are kissing up to someone. The April 2017 event on the United Airlines flight (bad news) was widely reported, and stories about Warren Buffett losing \$20 million on his United stock (bad news) were all over the place, but no one wrote an article about how Warren Buffett's overall airline stock holdings rose by more than \$140 million that day.
 
 Frequent traders always seem to make a big deal out of nothing. This is understandable, because they are always looking at price fluctuations, so their mood fluctuations are much more extreme than long-term holders. Whenever prices go down, you will see them in chat groups and forums all over the Internet screaming, "It's crashing!" But when the price goes back up just as much, they seem to have disappeared. Why is this?
 
 Behavioral psychologists would explain it this way: people hate loss, and the pain of losing a dollar is much greater than the pleasure of gaining a dollar, so even when the price goes up just as much, those people don't get as excited. This explanation makes sense, but I also have another more realistic explanation:
 
->The people running around screaming "crash!" can't handle the price dropping. They almost certainly were so terrified that they sold all of their holdings after the price dropped. When they price went back up, they'd either lost all of their money or exited the market, so they didn't have anything to get excited about. Just like in a ghost story, if they were screaming in another world, the people in this world had no way to hear them.
+>The people running around screaming "crash!" can't handle the price dropping. They were almost certainly so terrified that they sold all of their holdings after the price dropped. When they price went back up, they'd either lost all of their money or exited the market, so they didn't have anything to get excited about. Just like in a ghost story, it's as if they were screaming in another world, and the people in this world had no way to hear them.
 
 The vast majority of people who jump into the market for the first time don't understand investing strategy. Actually, they don't have any strategy, and their reason for entering the market is that they have seen the good days that others have had. But the core reason why most people end up quietly leaving the market is that there are always more bad days than good. The reason why the market still goes up in the long term, despite having more bad days than good, is that, in aggregate, the gains of the good days greatly exceed the losses of the bad days. The problem is that most people have a natural tendency to want to make decisions based on current events, and it's only the few people who have received good education about investing and practiced it over the long term who are able to truly gain the skill of macro observation based on a long-term perspective.
 
@@ -845,7 +846,7 @@ Success in regular investing depends primarily on the following factors:
 > * the careful choice of an investment;
 > * the complete execution of the regular investing plan.
 
-Regular investing is an excellent strategy. It's simple, direct, brutal and effective. However, it's rare to see people become successful by using it. One reason is that novices who have just entered the market are often unable to choose the best investment, so in most situations the best they can do is blindly follow the advice of truly successful investors who have shown excellent returns over the **long term**. They know that this is the only way for them to get more *alpha*. Unfortunately, those who choose to do this also have an inherent weakness, which is that, because they are actually ignorant, they can't be resolute. Just like when someone is driving and always feels like their own lane is moving too slowly, so they switch to the other lane, but then find out that their original lane was actually the fastest. 
+Regular investing is an excellent strategy. It's simple, direct, brutal and effective. However, it's rare to see people become successful by using it. One reason is that novices who have just entered the market are often unable to choose the best investment, so in most situations the best they can do is blindly follow the advice of truly successful investors who have shown excellent returns over the **long term**. They know that this is the only way for them to get more *alpha*. Unfortunately, those who choose to do this also have an inherent weakness, which is that, because they are actually ignorant, they can't be resolute. It's just like when someone is driving and always feels like their own lane is moving too slowly, so they switch to the other lane, but then find out that their original lane was actually the fastest. 
 
 Since all that regular investors do is buy, they definitely experience all of the bad days, including the worst days. However, precisely because of this, they also don't miss any of the good days. Again, the reason regular investing is effective is that it is naturally 100% in accordance with reality.
 
