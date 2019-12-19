@@ -852,7 +852,7 @@ Since all that regular investors do is buy, they definitely experience all of th
 
 ### 3.3 Investing is Not Normal Business
 
-Most investors do not realize until very late in the game that investing is vastly different from other types of business. Most investors, like normal businessmen, love to use the concept of "cost". Every day they compare the present value of their assets in hand to their "cost", and determine their gains or rate of return. Doing this has a strong effect on the fluctuations of their mood.
+Most investors do not realize until very late in the game that investing is vastly different from other types of business. Most investors, like normal businesspeople, love to use the concept of "cost". Every day they compare the present value of their assets to their "cost", and determine their gains or rate of return. Doing this has a strong effect on the fluctuations of their mood.
 
 Most businesses that we see in daily life do calculate their gains in this way. For instance, when starting a restaurant you have your setup costs and your daily expenses. Your setup costs must be amortized over time, and those costs and your daily expenses must be subtracted from your daily revenue to determine your profit. If your business does better and better, one day you will have accumulated enough profits to open up a new restaurant, and you will be very excited, because if things keep going that way you will be able to continue to expand.
 
@@ -884,25 +884,25 @@ There is another important thing to remember:
 
 >Many people underestimate or ignore the possibility of something unexpected happening in their lives. 
 
-But life is actually full of unexpected events, so your life costs are always much higher than your worst estimates. How much money should you use to invest? People often ask, "Is it enough if I invest 10% of my income?" For this question, though, using percentages often won't help us reach a meaningful conclusion.
+But life is actually full of unexpected events, so your living costs are always much higher than your worst estimates. How much money should you use to invest? People often ask, "Is it enough if I invest 10% of my income?" For this question, though, often using percentages won't help us reach a meaningful conclusion.
 
 ![Figure26](../images/Figure26.png)
 
 Imagine that your money is an egg.
 
 > * The yolk represents your daily expenses.
-> * The egg white represents your savings you have prepared to deal with risk.
+> * The egg white represents the savings you have prepared to deal with risk.
 > * The shell represents the money you have to invest, which can stay in the market no matter what over the next two full cycles.
 
-A lot of people fail at investing not because of their intellect, confidence, or resolve, but because they underestimated the cost of unexpected events in their lives. That is to say, they hadn't imagined that the egg white was so thick. For instance, their tooth fell out, a relative came down with a terminal illness, they were in a car accident, or their child made an expensive mistake. There are countless examples, but suffice it to say that unexpected events come in many shapes and sizes, and they can be very expensive.
+A lot of people fail at investing not because of their intellect, confidence, or resolve, but because they underestimate the cost of unexpected events in their lives. That is to say, they fail to imagine that the egg white is so thick. For instance, their tooth falls out, a relative comes down with a terminal illness, they are in a car accident, or their child makes an expensive mistake. There are countless examples, but suffice it to say that unexpected events come in many shapes and sizes, and they can be very expensive.
 
 This explains why it doesn't help to talk in percentages. For example, you have \$100,000, and you invest 10%. Then, before one full cycle has even passed, you have an unexpected expense of \$200,000, and your \$10,000 has already shrunk. What do you do?
 
-After being in the market for a period of time, all investors come the same deep understanding:
+After being in the market for a period of time, all investors come to the same deep understanding:
 
 >Every time you want to sell an investment for cash the price will always fall. 
 
-What is the cause of this unintuitive phenomenon? One cause is that bear markets are always longer than bull markets. Also, when you really need money it's usually when it's hard to make money outside of the market, which implies a weaker economy, so it's natural for the market to fall. Another factor at work is that when the price is rising you're less welling to sell. At times like that, longer-term holders don't have a strong impulse to spend. So the greatest losses always come when you "can't help but sell".
+What is the cause of this counterintuitive phenomenon? One cause is that bear markets are always longer than bull markets. Also, when you really need money it's usually when it's hard to make money outside of the market, which implies a weaker economy, so it's natural for the market to fall. Another factor at work is that when the price is rising you're less welling to sell. At times like that, longer-term holders don't have a strong impulse to spend. So the greatest losses always come when you "can't help but sell".
 
 You should now have a better understanding of this piece of advice, which you have probably heard countless times:
 
@@ -910,7 +910,7 @@ You should now have a better understanding of this piece of advice, which you ha
 
 Money that regular investors invest should have no cost and no term. You must be able to invest it for at least two full cycles, and you must have enough money set aside to deal with unexpected events. 
 
-This upgrade in thinking is the core reason why regular investors have a relative *gamma* of 0 or close to 0. If money has a cost, *gamma* will naturally rise, and if money has a term limit then the potential for *gamma* is unlimited. If preparations for unexpected events are not make, then the potential for *gamma* is not only large, it cannot be avoided.
+This upgrade in thinking is the core reason why regular investors have a relative *gamma* of 0 or close to 0. If money has a cost, *gamma* will naturally rise, and if money has a term, then the potential for *gamma* is unlimited. If preparations for unexpected events are not made, then the potential for *gamma* is not only large, it also cannot be avoided.
 
 ### 3.4 The Ability to Continuously Earn Money Outside of the Market
 
