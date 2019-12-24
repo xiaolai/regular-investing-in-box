@@ -1058,20 +1058,20 @@ The key to successful investing is to be completely objective -- about yourself,
 
 It's easy to despair when looking at research done by psychologists around the world over the years. They have repeatedly shown us one result: humans are completely unreliable, and we make absolutely terrible decisions.
 
-[Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman), who won the Nobel Prize in Economics in 2002, and his research partner, [Amos Tversky](https://en.wikipedia.org/wiki/Amos_Tversky), discovered many years ago that people have an extreme aversion to loss. We've already mentioned several times that the pain of losing a dollar greatly exceeds the pleasure of gaining a dollar, and actually even the way that we describe something can lead to different choices. 
+[Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman), who won the Nobel Prize in Economics in 2002, and his research partner, [Amos Tversky](https://en.wikipedia.org/wiki/Amos_Tversky), discovered many years ago that people have an extreme aversion to loss. We've already mentioned several times that the pain of losing a dollar greatly exceeds the pleasure of gaining a dollar. Actually, even the way that we describe something can lead to different choices. 
 
 For instance, [a paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2631940/) by Benedetto De Martino and his collaborators describes an experiment in which participants were told that they had received an amount of money, such as fifty British pounds. They were told that they would not necessarily be able to keep all of the money, but would instead have to choose between a "sure" option, in which they would keep a portion of the money, and a "gamble" option, in which they would either keep all of the money of lose all of the money. The expected outcomes of both options were the same, meaning that the average results of the "gamble", if repeated over time, would be the same as the "sure" option. For each round of the experiment, subjects were split into two groups, with the only difference being that the "sure" option was framed in different ways:
 
 > * Gain frame: you can keep 20 out of the 50 pounds.
 > * Loss frame: you will lose 30 out of the 50 pounds. 
 
-Obviously, the results of these two frames are the same, because no matter what the subject ends up with 20 pounds. But since the second choice described a loss, the tests subjects' loss aversion was activated. The key is what happened next: the activation of their loss aversion influenced their subsequent decisions. 
+Obviously, the results of these two frames are the same, because the subject ends up with 20 pounds no matter what. But since the second frame described a loss, the tests subjects' loss aversion was activated. The key is what happened next: the activation of their loss aversion influenced their subsequent decisions. 
 
 ![Figure29](../images/Figure29.png)
 
-While only 42.9% of the subjects who had been presented with the Gain frame chose to gamble, 61.6% of the subjects who had been presented with the Loss frame made the same choice. Remember, the amount that participants would keep with the "sure" option was the same for both frames -- the only difference was the way the option was described. Furthermore, this effect was present in all of the test subjects, albeit to various degrees.
+While only 42.9% of the subjects who had been presented with the Gain frame chose to gamble, 61.6% of the subjects who had been presented with the Loss frame decided to gamble. Remember, the amount that participants would keep with the "sure" option was the same for both frames -- the only difference was the way the option was described. Furthermore, this effect was present in all of the test subjects, albeit to various degrees.
 
-It turns out that people take many risks because they are afraid! Or, to put it another way, it turns out that the reason that many people take risks is not that they are brave! And furthermore, the thing that they are afraid of doesn't exist...
+It turns out that people take many risks because they are afraid! Or, to put it another way, it turns out that the reason many people take risks is not that they are brave! And furthermore, the thing that they are afraid of doesn't exist...
 
 But we're not done yet...
 
@@ -1079,21 +1079,21 @@ The most interesting part of the experiment was perhaps the post-experiment inte
 
 >I knew what was happening, but I couldn't control myself...
 
-This is really scary. Even when know what is going on, we still can't control ourselves.
+This is really scary. Even when we know what is going on, we still can't control ourselves.
 
-The results of this experiment should leave serious investors like us speechless and terrified. Why? Because we are investing with our own money, not just 20 British pounds. And we're not just investing with the money that we have today, but also with our future money and time, and with the money that we hope our money will make in the future. We have our money, our time, and what we believe to be a correct goal, but now we see that sometimes we may be unable to stop ourselves from making a wrong decision, or even a catastrophic decision, even when we know exactly what is happening! Could anything be more terrifying than this? It's like a ghost story or horror movie! Ghost stories are all the same, from east to west, from past to present, and you can sum them up in one sentence: for some reason, the main character sees themself moving toward destruction, but there is nothing they can do, even though they can see it happening, because they can't control themself...
+The results of this experiment should leave serious investors like us speechless and terrified. Why? Because we are investing with our own money, not just twenty British pounds. And we're not just investing with the money that we have today, but also with our future money and time, and with the money that we hope our money will make in the future. We have our money, our time, and what we believe to be a correct goal, but now we see that sometimes we may be unable to stop ourselves from making a wrong or even catostrophic decision, even when we know exactly what is happening! Could anything be more terrifying than this? It's like a ghost story or horror movie! Ghost stories are all the same, from east to west, from past to present, and you can sum them up in one sentence: for some reason, the main character sees themself moving toward destruction, but there is nothing they can do, even though they can see it happening, because they can't control themself...
 
-This experiment still isn't over, though. As the subjects made their choices, the researchers monitored their brain activity using functional magnetic resonance imaging technology (fMRI), and they observed an incredible phenomenon.
+This experiment still wasn't over, though. As the subjects made their choices, the researchers monitored their brain activity using functional magnetic resonance imaging technology (fMRI), and they observed an incredible phenomenon.
 
 ![Figure30](../images/Figure30.png)
 
 This image basically reveals why we can't control ourselves.
 
-The results of the experiment showed that when the subjects were unable to control their loss aversion their amygdalae were extremely active. What are the amygdalae? They are two almond-shaped clusters of neurons in the brain that play an important role in our decision-making, memory, and emotions or moods. They can trigger emergency responses such as the fight or flight reflex when faced with danger. The amygdalae are small, but they are extremely important in processing emotions, particularly fear.
+The results of the experiment showed that when the subjects were unable to control their loss aversion their amygdalae were extremely active. What are the amygdalae? They are two almond-shaped clusters of neurons in the brain that play an important role in our decision-making, memory, and emotions or moods. They can trigger emergency responses such as the fight or flight reflex when we are faced with danger. The amygdalae are small, but they are extremely important in processing emotions, particularly fear.
 
 If you look back on times when you have felt extremely fearful, you will remember that your fear wasn't just an emotional state, but also a physical one. Your heart rate increased, your stomach felt empty, you felt uncomfortable, and you began to sweat. You felt like your brain was empty, because your brain lacked blood and oxygen. This emergency response of the amygdalae was what doomed the subjects; it was what caused the subject to feel, "I knew  what was happening, but I couldn't control myself". 
 
-Even more disappointing is that we are unwilling to change. When our mistakes are pointed out to us, we become even more stubborn in our mistaken choices. At this point, you're probably thinking, "But I'm not like this, am I?" Allow me to answer for you: you are like this, because we are all like this to some extent or another. 
+Even more disappointing is that we are unwilling to change. When our mistakes are pointed out to us, we become even more stubborn in our mistaken choices. At this point, you're probably thinking, "But I'm not like this, am I?" Allow me to answer for you: you are like this, because we are all like this to some extent. 
 
 Francis Bacon made [the following observation](https://rintintin.colorado.edu/~vancecd/phil3600/Bacon.pdf):
 
