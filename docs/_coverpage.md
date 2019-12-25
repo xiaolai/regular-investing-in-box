@@ -1,5 +1,5 @@
 # On Regular Investing
-李笑来（著）©2019
+李笑来（著）©2019 第三版
 
 rewritten in English by John Gordon & Xiaolai Li
 
