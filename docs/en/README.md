@@ -1123,7 +1123,7 @@ Can you see how unreliable we are?
 
 ### 4.2 Don't Be Your Own Worst Enemy
 
-With more and more evidence showing how unreliable we are, there is an old saying that has become a tenet for many people: 
+With more and more evidence showing how unreliable we are, there is an old saying that has become an article of faith for many people: 
 
 >You are your own worst enemy.
 
@@ -1135,7 +1135,7 @@ I prefer [Plato's](https://en.wikipedia.org/wiki/Plato) [Chariot Allegory](https
 
 Put simply, the innermost portion, the reptile brain, is in charge of intuition; the middle portion, the monkey brain, is in charge of handling emotions; and the outermost portion, the human brain, is in charge of logic and reasoning. It's not an exaggeration to say that all of human culture is based on the neomammalian cortex, which I refer to here as the human brain. The largest difference between humans and other mammals is the development of this cortex.
 
-When the subjects of the experiment mentioned in the previous chapter were presented with choices, they used their human brain to understand them. As soon as they started take action, their loss aversion was activated by their monkey brain, but the not-always-correct instinct that loss is a bad thing comes from the reptile brain. When the subjects were unable to control themselves, this was because their monkey brains acted faster than their human brains, so whenever they had to make an immediate decision, the monkey, or even the reptile, raised its hand first. By the time the human had realized what was going on, it was too late. This is why the best way to have a cool head in daily life is to first close our eyes and do nothing.
+When the subjects of the experiment mentioned in the previous chapter were presented with choices, they used their human brain to understand them. As soon as they started to take action, their loss aversion was activated by their monkey brain, but the not-always-correct instinct that loss is a bad thing comes from the reptile brain. When the subjects were unable to control themselves, this was because their monkey brains acted faster than their human brains, so whenever they had to make an immediate decision, the monkey, or even the reptile, raised its hand first. By the time the human had realized what was going on, it was too late. This is why the best way to have a cool head in daily life is to first close our eyes and do nothing.
 
 The metaphor that Plato came up with 2,000 years ago is surprisingly similar to what scientists today have postulated after closer observations of how brains work. Take a look:
 
@@ -1149,9 +1149,9 @@ I like Plato's metaphor better than the "human, monkey, and reptile" names becau
 
 ![Figure32](../images/Figure32.png)
 
-In the beginning, the black horse is the strongest, because, from a genetic perspective, it is the oldest. It provides the most basic and rapid responses that allow us to survive in a treacherous world. Reptiles have no driver and no white horse, but they have been able to survive for so long -- much longer than humans -- with just one black horse. If a smaller animal from a different species enters its world, it eats it (Feed!); if a smaller member of its species of the same sex enters its world, it attacks it (Fight!); if a member of its species of the opposite sex enters its world, it copulates with it (Fuck!); If a larger member of its species of the same sex enters its world, it runs away (Flee!). If something that is none of the above enters its world, it stays still (Freeze!) All of this is without contemplation and without emotion.
+In the beginning, the black horse is the strongest, because, from a genetic perspective, it is the oldest. It provides the most basic and rapid responses that allow us to survive in a treacherous world. Reptiles have no driver and no white horse, but they have been able to survive for so long -- much longer than humans -- with just one black horse. If a smaller animal of a different species enters its world, it eats it (Feed!); if a smaller member of its own species of the same sex enters its world, it attacks it (Fight!); if a member of its own species of the opposite sex enters its world, it copulates with it (Fuck!); If a larger member of its own species of the same sex enters its world, it runs away (Flee!). If something that is none of the above enters its world, it stays still (Freeze!) All of this is without contemplation and without emotion.
 
-The white horse is younger than the black horse, so it is weaker, but it can handle more situations. Emotions can help us judge good and bad, and make us feel happy or sad based on the results of our choices. This helps us learn and remember so that we can make better and more rapid choices the next time. All of the basic emotions, such as happiness, sadness, fear, revulsion, anger and surprise, can be seen as shortcuts to access our learnings. A certain situation will give rise to a certain emotion, which will activate an instinct that activates a behavior, or it emotion may even directly activate the behavior.
+The white horse is younger than the black horse, so it is weaker, but it can handle more situations. Emotions can help us judge good and bad, and make us feel happy or sad based on the results of our choices. This helps us learn and remember so that we can make better and more rapid choices the next time. All of the basic emotions, such as happiness, sadness, fear, revulsion, anger and surprise, can be seen as shortcuts to access our learnings. A certain situation will give rise to a certain emotion, which will activate an instinct that activates a behavior, or the emotion may even directly activate the behavior.
 
 You can understand the process like this. When you encounter a situation, if the black horse can handle it it handles it directly. But the black horse can only directly handle limited types of situations, and if it can't handle it it hands it off to the white horse. Once the white horse has processed it, it hands it back to the black horse to take action.
 
@@ -1161,15 +1161,15 @@ We can define "keeping a cool head" in the following way:
 
 >No matter what happens, all three roles process it once before passing it on to the driver for a final decision.
 
-That is to say that you do not take any action until all three roles have processed the situation. This simple, direct, brutal and effective strategy will change the performance of the whole chariot. The driver will quickly understand that the both the black horse and the white horse can have incorrect responses. The driver will further discover that, after repeated communication between the three roles, the white horse may listen to the driver, and the black horse can develop new and correct intuition. 
+That is to say that you do not take any action until all three roles have processed the situation. This simple, direct, brutal and effective strategy will change the performance of the whole chariot. The driver will quickly understand that both the black horse and the white horse can have incorrect responses. The driver will further discover that, after repeated communication between the three roles, the white horse may listen to the driver, and the black horse can develop new and correct intuition. 
 
-The driver starts off as the weakest of the three, and it is only by keeping a cool head that they can participate, gain experience, and continuously grow. As the driver continuously grows, the white horse and the black horse go through countlesss cycles of correction and coordination, and they all end up different than before. So when people tell you to "trust our intuition", you now know that your black horse and the black horse of an expert may be completely different. The expert can trust their intuition, but maybe you can't.
+The driver starts off as the weakest of the three, and it is only by keeping a cool head that they can participate, gain experience, and continuously grow. As the driver continuously grows, the white horse and the black horse go through countlesss cycles of correction and coordination, and they all end up different than before. So when people tell you to "trust your intuition", you now know that your black horse and the black horse of an expert may be completely different. The expert can trust their intuition, but maybe you can't.
 
 Members of my Regular Investing Practice Group have already experienced this magical process. 
 
 Before they started regularly investing, their black horses were the same as everyone else's, running away whenever the price fell. As to why they ran away, they didn't even have time to think about it, or even time to be afraid, because they had already run away. This intuition led to the fear and disappointment of the white horse, and the chariot was far away before the driver even knew what had happened. 
 
-After reading books, listening to classes and repeated discussion and thought, the members of the practice group started to exhibit surprising changes. 
+After reading books, listening to classes and engaging in repeated discussion and thought, the members of the practice group started to exhibit surprising changes. 
 
 When the price fell, the black horse still wanted to run, and the white horse was still afraid, but the driver thought about it and said to the white horse, "No! You shouldn't be afraid or disappointed, you should be happy! This situation is good for you, because you can buy at cheaper prices." The white horse understood that its initial reaction was wrong, so it corrected itself. The next time the price fell, the white horse was happy instead of disappointed. After several rounds of this, the black horse also understood, and it began to change: "If the white horse is happy, why should I run?" After each round of successful communication, the driver became more powerful and was able to work more effectively with the horses. 
 
@@ -1179,7 +1179,7 @@ You must calmly accept this fact:
 
 >Your brain contains three roles: the driver, the white horse, and the black horse.
 
-More importantly, these three roles must be friends with each other instead of enemies. In addition to continuously learning, the driver must be in constant communication with the black horse and the white horse, helping them develop new and correct emotions and intuition that allow the chariot, which is the whole of you, to be its best.
+More importantly, these three roles must be friends with each other instead of enemies. In addition to continuously learning, the driver must be in constant communication with the black horse and the white horse, helping them develop new and correct emotions and intuitions that allow the chariot, which is the whole of you, to be its best.
 
 Always remember:
 
