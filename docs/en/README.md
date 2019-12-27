@@ -1189,27 +1189,27 @@ As far as how to keep good relations between the three roles, it's really quite 
 
 ### 4.3 Long-term Education and the Mirror Effect
 
-This following is my favorite analogy for education:
+The following is my favorite analogy for education:
 
->Education is like a pair of glasses. You are in the same world before and after wearing the glasses, but you can see more clearly and accurately after wearing the glasses. You are in the same world before or after you learn something, but with the lens of education you can see the same world more clearly and accurately.
+>Education is like a pair of glasses. You are in the same world before and after putting on the glasses, but you can see more clearly and accurately after putting on the glasses. You are in the same world before or after you learn something, but you can see the world more clearly and accurately through the lens of education.
 
-Over the years, collecting analogies has become a hobby of mine. Even though it's been so long that I don't remember where this analogy came from, it's still my favorite, bar none. Regarding the the results of education, I have come up with another extremely accurate analogy, and I call it "the Mirror Effect":
+Over the years, collecting analogies has become a hobby of mine. Even though it's been so long that I don't remember where this analogy came from, it's still my favorite, bar none. Regarding the the results of education, I have come up with another extremely accurate analogy that I call "the Mirror Effect":
 
 >The world in the mirror and the world outside of the mirror look the same, but they are actually reversed.
 
 Do you see? It's the same price drop, but in the world outside of the mirror all of the black horses immediately run away, all of the white horses run away in fear, and the driver loses control. But in the world inside the mirror? The black horse stays still, the white horse is happy, and the driver is in control.
 
-The Mirror Effect can be seen all over the investing space. For instance, almost every stock market around the world is legally required to post a notice something like this in a clearly visible location:
+The Mirror Effect can be seen all over the investing space. For instance, almost every stock market around the world is legally required to post a notice similar to the following in a clearly visible location:
 
 >Investing involves risk! Please make decisions carefully!
 
-Of course, many true stories about the risk of investing have been passed down over time: Newton losing it all in the market, Churchill's investing failures, or a group of Nobel laureates with huge market losses. Most of us also have stories of friends or relatives who have lost everything trading. 
+Of course, many true stories about the risks of investing have been passed down over time: Newton losing it all in the markets, Churchill's investing failures, or a group of Nobel laureates with huge market losses. Most of us also have stories of friends or relatives who lost everything trading. 
 
 According to JP Morgan's statistics, since 1980 more than 40% of all stocks have at one time or another experienced a loss of 70% or more. So the stock market does sound quite dangerous! However, Wharton Professor [Jeremy Siegel's](https://en.wikipedia.org/wiki/Jeremy_Siegel) [data](https://knowledge.wharton.upenn.edu/article/jeremy-siegel-on-why-stocks-are-and-will-remain-the-best-bet/) tells a different story: 
 
 ![Figure33](../images/Figure33.png)
 
-Siegal looked at historical data from 1802 to 2012 and found that for any given ten-year period, stocks performed better than cash *80%* of the time. Furthermore, stocks performed better than stocks over every twenty-year period. Stocks also performed much better than gold, which many people think of as a safe asset. Contrary to many people's intuition, which is that stocks are the riskiest asset, stocks performed better than other assets over the long term, with annualized returns of 6.6% over 210 years. Cash, which people tend to think of as the safest asset, actually had negative real returns of -1.4%. When you see these numbers, you should think to yourself, "Where is risk the greatest?" In the stock market? Or out of the stock market?
+Siegal looked at historical data from 1802 to 2012 and found that, for any given ten-year period, stocks performed better than cash *80%* of the time. Furthermore, stocks performed better than cash over every twenty-year period. Stocks also performed much better than gold, which many people think of as a safe asset. Contrary to many people's intuition, which is that stocks are the riskiest asset, stocks performed better than other assets over the long term, with annualized returns of 6.6% over 210 years. Cash, which people tend to think of as the safest asset, actually had negative real returns of -1.4%. When you see these numbers, you should think to yourself, "Where is risk the greatest?" In the stock market? Or out of the stock market?
 
 >Based on this "discovery", Professor Siegal published a book entitled, [*Stocks for the Long Run: The Definitive Guide to Financial Market Returns & Long-Term Investment Strategies*](https://www.amazon.com/gp/product/B00GWSXX26/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0), which as of 2014 was on its fifth printing.
 
@@ -1223,18 +1223,18 @@ Actually, it can be explained in one sentence:
 
 >**The mirror in this case is an understanding of the long term.** It is this mirror that brings about so many surprising examples of the Mirror Effect.
 
-Almost all of the surprising Mirror Effects are due to different understandings of the long term. It's an eternal fact that most people have no concept of the long term and only see that which is right in front of them.  To put it another way, for the vast majority of "chariots", the black horse is always the strongest, the white horse always follows the black horse, and driver never grows even a little bit.
+Almost all of the surprising Mirror Effects are due to different understandings of the long term. It's an eternal fact that most people have no concept of the long term and only see that which is right in front of them.  To put it another way, for the vast majority of "chariots", the black horse is always the strongest, the white horse always follows the black horse, and driver never grows at all.
 
-From another perspective, we can see the concept of long term as sunglasses that filter out all light that is not related to the long term, just as normal sunglasses filter out UV rays. With these sunglasses, we can't help but use our ability to make macro observations. It's just like wearing polarized sunglasses while driving, which not only filters out the harmful UV rays, but also keeps the harshest light away from your eyes. The sunglasses allow you to see more clearly and accurately.
+To make another analogy, we can see the concept of long term as sunglasses that filter out all light that is not related to the long term, just as normal sunglasses filter out UV rays. With these sunglasses, we can't help but use our ability to make macro observations. It's just like wearing polarized sunglasses while driving, which not only filters out the harmful UV rays, but also keeps the harshest light away from your eyes. The sunglasses allow you to see more clearly and accurately.
 
 After wearing these "long-term" sunglasses, the financial news media that you used to read and watch suddenly seems completely different. You see things you didn't see before, and you think about things in an opposite manner.
 
 People on TV discuss the efficiency of the market, and both sides get all excited arguing with each other. In the past, you might have been confused, and felt that both sides seemed to be making good points. But with these long-term polarized sunglasses you suddenly understand that there is really nothing to argue about. The facts are quite simple:
 
-> * From a long-term perspective, them market tends to be relatively efficient, and the longer the term the more efficient it will be.
+> * From a long-term perspective, the market tends to be relatively efficient, and the longer the term the more efficient it will be.
 > * But at any one point in time the market is extremely inefficient.
 
-Then you start to really like the concept of "market efficiency". The more people there are who expect that the market will be efficient in the short term the better, because that's the only way you can have a relative advantage. If the market were completely efficient, then there would be no reason for the market, because price and value would always be the same, and people wouldn't need to trade. The fact that the market is always inefficient is its reason for existence, and it is the reason why people like us have an opportunity. Fortunately, because we are always wearing "long-term" sunglasses, we just have to use our time to wait for the market to show its long-term efficiency.
+Then you start to really like the concept of "market efficiency". The more people there are who expect that the market will be efficient in the short term the better, because that's the only way you can have a relative advantage. If the market were completely efficient, then there would be no reason for the market to exist, because price and value would always be the same, and people wouldn't need to trade. The fact that the market is always inefficient is its reason for existence, and it is the reason why people like us have an opportunity. Fortunately, because we are always wearing "long-term" sunglasses, we just have to use our time to wait for the market to show its long-term efficiency.
 
 Once you have done all you can to develop your concept of the long term, you will discover how different and simple macro observations are, and you will be surprised to discover this fact:
 
@@ -1242,13 +1242,13 @@ Once you have done all you can to develop your concept of the long term, you wil
 
 In Chapter 3 of Part Two, we saw how regular investors choose their investments. All they do is make several simple choices that only need to be right in the general direction, but their future returns are likely to be greater and more certain than active traders. Most other people in the market, however, spend huge amounts of time and energy to apply their entire intellect to their choices. And all for what? They want to use all of the possible data to come up with a more precise conclusion, but is their probability of success greater? History shows us that they are wasting their efforts.
 
-In the 1990s, a huge amount of talented people left China. When they look back from thirty years later, how do they actually feel? Many of them feel like they lost the best years of their lives. Why? Because over the past thirty years China has been the fastest growing region in the world, and a rising tide lifts all boats. Many less-talented people who stayed in China are now better off than those who chose to leave, and this can be hard for those talented people who seemed to be making the right decision in the moment to face. Even harder to accept is that those who didn't leave may have wanted to leave but couldn't. Why is it like this?
+In the 1990s, a huge amount of talented people left China. When they look back from thirty years later, how do they actually feel? Many of them feel like they lost the best years of their lives. Why? Because over the past thirty years China has been the fastest growing region in the world, and a rising tide lifts all boats. Many less-talented people who stayed in China are now better off than those who chose to leave, and this can be hard for those talented people -- who seemed to be making the right decision in the moment -- to face. Even harder to accept is that those who didn't leave may have wanted to leave but couldn't. Why is it like this?
 
 The best explanation may be that they put all of their attention on the present, so they could only ignore facts that should have been obvious but would only come into play in the future.  There is a famous experiment, called "[The Invisible Gorilla](https://www.youtube.com/watch?v=IGQmdoK_ZfY)", in which subjects are asked to watch a video of two groups of students passing a ball, and to count the number of times that the students in white pass the ball.
 
 ![Figure34](../images/Figure34.png)
 
-After watching the video, many people are able to count correctly that the ball was passed sixteen times, but they failed to notice the large gorilla that walked across the stage, stopping to beat its chest several times.
+After watching the video, many people were able to count correctly that the ball was passed sixteen times, but failed to notice the large gorilla that walked across the stage, stopping to beat its chest several times.
 
 ![Figure35](../images/Figure35.png)
 
@@ -1256,7 +1256,7 @@ Some people may have heard of this experiment, so they correctly count the numbe
 
 Actually, since this is just how our brain works, there is no reliable way to deal with this problem. We either focus fully on the present, or we focus fully on the future. Anyway, those are the two worlds inside and outside of the mirror, and they are always the opposite of each other. Of course, Siegal's research tells us that, as far as making money goes, focusing only on the future is a better deal.
 
-If you are able to clearly remember everything we discussed prior to this chapter, you will discover many examples of the Mirror Effect, and almost every time the mirror that causes everything to look completely opposite is "long term". When you read this book again, I suggest that you keep a list in a notebook of all the examples of the Mirror Effect. In the years to come, you can add to this list as you come across new examples. As you go through this process, you will discover that these sunglasses will slowly become invisible, and you may not even need the sunglasses anymore because the  ability to think long-term will become a natural function of your eyes.
+If you are able to clearly remember everything we discussed prior to this chapter, you will discover many examples of the Mirror Effect, and almost every time the mirror that causes everything to look completely opposite is "long term". When you read this book again, I suggest that you keep a list in a notebook of all the examples of the Mirror Effect. In the years to come, you can add to this list as you come across new examples. As you go through this process, you will discover that these sunglasses will slowly become invisible, and you may not even need the sunglasses anymore, because the ability to think long-term will become a natural function of your eyes.
 
 This is the value and necessity of investment education. Your driver must mature, and your black and white horses must be trained. In the end, they will bring you into a mirror world in which everything will look the same but actually be the opposite of what you once saw. In fact, though, the world inside the mirror is the actual nature of the objective world. This is the secret of investment: have a 100% objective understanding of the objective world, and a 100% objective understanding of oneself. It's really very difficult. It's only difficult, though, from the perspective of the present, and it's certainly not impossible. Looked at from a long-term perspective, it shouldn't be difficult at all. 
 
