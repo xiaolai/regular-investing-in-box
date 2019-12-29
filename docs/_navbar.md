@@ -1,5 +1,5 @@
 * [Cover](/)
 * [中文](/cn/)
 * [English](/en/)
-* [文章](/blog/)
+* [博客](/blog/)
 
