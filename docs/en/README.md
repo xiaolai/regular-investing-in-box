@@ -1336,7 +1336,7 @@ The clearest example of this is parents raising children. If parents focus their
 
 Of course, a more common example occurs in the investing world. Do investors really need participate in operations? Maybe sometimes. But we can be almost certain that traders in the secondary market shouldn't participate in the operations of the companies they invest in. In fact, not needing to participate in operations is one of the biggest advantages of investing in the secondary markets.
 
-However, the operators of almost every publicly traded company receive many letters from shareholders every day. These shareholders have all sorts of complaints and advice, and they often end up working themselves into quite a tizzy. They are incognizant of the fact that they are wasting effort outside of their own border. They have idea that effort outside of that border is completely useless, and that if it has any effect at all it will be negative. They will never understand, because they themselves lack the ability to create an effective business model and eventually secure investment from the public. If they were able to do so, they would discover that it's terrible to have so many people on the outside trying to influence you, and that it's even worse to be actually swayed by those on the outside. You could even say the following: a company that is easily swayed by the secondary market is not worth investing in.
+However, the operators of almost every publicly traded company receive many letters from shareholders every day. These shareholders have all sorts of complaints and advice, and they often end up working themselves into quite a tizzy. They are incognizant of the fact that they are wasting effort outside of their own border. They have no idea that effort outside of that border is completely useless, and that if it has any effect at all it will be negative. They will never understand, because they themselves lack the ability to create an effective business model and eventually secure investment from the public. If they were able to do so, they would discover that it's terrible to have so many people on the outside trying to influence you, and that it's even worse to be actually swayed by those on the outside. You could even say the following: a company that is easily swayed by the secondary market is not worth investing in.
 
 Let's take another look at the equation that describes our returns: 
 
@@ -1350,7 +1350,7 @@ But if you invest in an MSCI World Index fund, or an S&P 500 fund, what can you 
 
 Most funds are established to chase *alpha*. Even though there are some clearly successful examples, they are extremely rare, and we can't eliminate the possibility that they were just lucky. Even Warren Buffett has clearly been lucky: he was born in the US. In addition to the US having been the fastest growing area in the world over the past fifty-five years, it has also had a stable legal environment in which private property has been relatively protected. If Warren Buffett had been born in South Korea, which has the highest rate of presidents and tycoons going to jail, how would he have done?
 
-How difficult is it to create *alpha*? Someone once joked that you if threw stock certificates in a room, let a monkey into the room, and made fund based on which stocks the monkey peed on, you could still beat the fund managers of most actively-managed funds. Sadly, the joke is correct!
+How difficult is it to create *alpha*? Someone once joked that if you threw stock certificates in a room, let a monkey into the room, and made fund based on which stocks the monkey peed on, you could still beat the fund managers of most actively-managed funds. Sadly, the joke is correct!
 
 According to [a report](https://www.wsj.com/articles/indexes-beat-stock-pickers-even-over-15-years-1492039859) in the Wall Street Journal, in the fifteen years ending in 2016, *95.4%* of mid-cap funds underperformed the S&P MidCap 400, *93.2%* of small-cap funds underperformed the S&P SmallCap 600, and *92.2%* of large-cap funds underperformed the S&P 500...
 
@@ -1370,7 +1370,7 @@ For example, deep thinking about these three concepts has made it very difficult
 
 >Why are some people able to succeed in even the harshest environments?
 
-My choice to be a regular investor, and my eventual ability to explain regular investing in detail, all started from asking myself this question. Looking at things from a long-term perspective can lead to you to the opposite of your previous conclusions; macro observations can lead you to choices that will produce better results over the long term; and awareness of borders can help you avoid trouble and wasted efforts. I have no need to complain about a poor environment, and I don't want to complain about how society is unfair. Unfairness in society is like the markets: as long as you look at it from a long-term perspective, it's pretty fair, but if you look at it minute-by-minute it's always unfair. Most importantly, I am increasingly able to accept always being underestimated. Just like in the stock market, you will only be very briefly overvalued, and it's probably a bubble, right?
+My choice to be a regular investor, and my eventual ability to explain regular investing in detail, all started from asking myself this question. Looking at things from a long-term perspective can lead you to the opposite of your previous conclusions; macro observations can lead you to choices that will produce better results over the long term; and awareness of borders can help you avoid trouble and wasted efforts. I have no need to complain about a poor environment, and I don't want to complain about how society is unfair. Unfairness in society is like the markets: as long as you look at it from a long-term perspective, it's pretty fair, but if you look at it minute-by-minute it's always unfair. Most importantly, I am increasingly able to accept always being underestimated. Just like in the stock market, you will only be very briefly overvalued, and it's probably a bubble, right?
 
 Objectivity is very important. Not only objectivity about the world, but objectivity about yourself, and careful objectivity about the border of your self. Furthermore, it's even more important to be objective over the long term. This is the secret of investing. Of course, it's an open secret. 
 
@@ -1390,7 +1390,7 @@ There is no secret to success. Or, if there are secrets, they are open secrets. 
 
 It's not an exaggeration to say that regular investing can change a person's life. 
 
-China enforced the One Child Policy from 1979 to 2015. People of child-rearing age in 1979 are around seventy now, and the are in a special state called "the loneliness of old age". They have been retired for ten or more years, and their only child is currently in the middle of their busiest stage of life, having just had kids. Because times have changed, more and more of them don't life in the same cities as their children, and so many of these parents no longer see their children regularly. They've got nothing to do, and no one to accompany them.
+China enforced the One Child Policy from 1979 to 2015. People of child-rearing age in 1979 are around seventy now, and they are in a special state called "the loneliness of old age". They have been retired for ten or more years, and their only child is currently in the middle of their busiest stage of life, having just had kids. Because times have changed, more and more of them don't live in the same cities as their children, and so many of these parents no longer see their children regularly. They've got nothing to do, and no one to accompany them.
 
 There is an awkward fact:
 
@@ -1452,7 +1452,7 @@ The necessary conditions to redeem BTC, EOS, and XIN with BOX are as follows:
 
 BOX is an ETF product, but it is different from the funds you have seen before, in that it doesn't charge a management fee. Why? Because I don't want to earn a management fee. And I am also regularly investing in BOX.
 
-BOX is 100% open and transparent. The addresses in which assets are held are public, and you can check them at any time. All of the records are on the Mixin public chain, and you can find instructions to check the addresses on the b.watch website. How much BTC, EOS, and XIN are in BOX? How many corresponding BOX tokens are circulating? How many BOX tokens are still in "cold storage" (including those for future distribution and those that have been redeemed)? The data to answer all of these questions are open and transparent, so it is easy to check the current issuance of BOX and confirm its underlying assets. If BOX is listed on any exchange, users can use also use this data to confirm that the exchange is not artificially inflating the supply of BOX. (As to why this is important, it will take a novice some time to learn and understand.)
+BOX is 100% open and transparent. The addresses in which assets are held are public, and you can check them at any time. All of the records are on the Mixin public chain, and you can find instructions to check the addresses on the b.watch website. How much BTC, EOS, and XIN are in BOX? How many corresponding BOX tokens are circulating? How many BOX tokens are still in "cold storage" (including those for future distribution and those that have been redeemed)? The data to answer all of these questions are open and transparent, so it is easy to check the current issuance of BOX and confirm its underlying assets. If BOX is listed on any exchange, users can also use this data to confirm that the exchange is not artificially inflating the supply of BOX. (As to why this is important, it will take a novice some time to learn and understand.)
 
 ### 1.2 The Advantages of BOX
 
@@ -1478,7 +1478,7 @@ When our investments go from an individual investment (like BTC) to a combinatio
 
 ### 1.2.3 Thoughts on allocation
 
-As of July 2019, "Bitcoin dominance", which is the percentage of of all blockchain assets that bitcoin represents, was 63%. Although this number may continue to rise in the short term, it will drop as blockchain technology and applications become more widespread. It's not that bitcoin won't continue to develop, it's just that other assets are likely to develop faster than bitcoin over the long term. So, from a long-term perspective, it is reasonable to have a 50% allocation for bitcoin.
+As of July 2019, "Bitcoin dominance", which is the percentage of all blockchain assets that bitcoin represents, was 63%. Although this number may continue to rise in the short term, it will drop as blockchain technology and applications become more widespread. It's not that bitcoin won't continue to develop, it's just that other assets are likely to develop faster than bitcoin over the long term. So, from a long-term perspective, it is reasonable to have a 50% allocation for bitcoin.
 
 The remaining 50% is allocated to EOS and XIN with a 4:1 ratio. This is because I think that XIN will develop rapidly, maybe even faster than EOS.
 
@@ -1494,7 +1494,7 @@ Other public chains have followed a bottom-up approach, first developing the pub
 
 Mixin Network has taken a top-down approach, first creating a great Dapp, Mixin Messenger, and then gradually completing the development of the base public chain. Thus, Mixin Messenger was first released in December of 2012, and, more than a year later, in February of 2019, the Mixin Network public chain was officially released. Dapps like dice games can simply be bots running on Mixin Messenger. Ocean.one is a self-governing decentralized exchange running on Mixin Network, and it represents pioneering technology in the blockchain space. Other products that are being developed, like BOX and its b.watch exchange, would be impossible to realize without the Mixin Network public chain. It's not that I haven't tried other public chains, it's that they are unusable. This is the reason for XIN's allocation in BOX.
 
-In summary, BOX is an ETF product that I believe is very likely to succeed. If we lose money on it, it is because the blockchain industry has failed, and that is neither my fault nor yours. However, **as long as the blockchain industry does well, BOX will do well**, and the blockchain industry is just taking off, so were are likely to do well. It's that simple.
+In summary, BOX is an ETF product that I believe is very likely to succeed. If we lose money on it, it is because the blockchain industry has failed, and that is neither my fault nor yours. However, **as long as the blockchain industry does well, BOX will do well**, and the blockchain industry is just taking off, so we are likely to do well. It's that simple.
 
 ## 2. About b.watch
 
@@ -1534,7 +1534,7 @@ In addition to earning bitcoin by selling memberships, those who put the knowled
 
 > * They are eligible to receive shares in b.watch, the first on-chain ETF exchange in the world, thus benefiting not only from the development of BOX, but also from the development of b.watch.
 
-In brief, the Regular Investing Practice Group is is a place for me and my students to **develop together and make money together**.
+In brief, the Regular Investing Practice Group is a place for me and my students to **develop together and make money together**.
 
 At the same time, I am also regularly investing in and holding BOX, leading by example. Regular investing is the only reliable investing strategy for most people, but it is always easier said than done, and those who haven't done it have no way to know how difficult it really is. The most important thing is to have people to accompany you, so no one has to suffer loneliness for too long.
 
