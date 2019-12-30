@@ -902,7 +902,7 @@ After being in the market for a period of time, all investors come to the same d
 
 >Every time you want to sell an investment for cash the price will always fall. 
 
-What is the cause of this counterintuitive phenomenon? One cause is that bear markets are always longer than bull markets. Also, when you really need money it's usually when it's hard to make money outside of the market, which implies a weaker economy, so it's natural for the market to fall. Another factor at work is that when the price is rising you're less willing to sell. At times like that, longer-term holders don't have a strong impulse to spend. So the greatest losses always come when you "can't help but sell".
+What is the cause of this counterintuitive phenomenon? One cause is that bear markets are always longer than bull markets. Also, when you really need money it's usually when it's hard to make money outside of the market, which implies a weaker economy, so it's natural for the market to fall. Another factor at work is that when the price is rising you're less willing to sell. At times like that, long-term holders don't have a strong impulse to spend. So the greatest losses always come when you "can't help but sell".
 
 You should now have a better understanding of this piece of advice, which you have probably heard countless times:
 
@@ -1050,7 +1050,7 @@ Many years ago I discovered a simple principle:
 
 So I like to teach, and I have been teaching for twenty years. I've taught tests, writing, entrepreneurship, investment... Teaching is something that I can do until the day I die, and it's something that I love doing. I can always change what I'm teaching, because I always want to learn new things. It's that simple. In my experience, **finding something that is worth doing for your whole life is the best armor a person can have**. Now I teach thousands of students online, and in the future it will be even more. I wake up in the morning, teach for ten minutes, and I am happy. The bigger the projects you work on, the more trouble is involved, but for me there are no troubles that teaching for ten minutes won't fix.
 
-## Part Four: Objectity, Objectivity, Objectivity!
+## Part Four: Objectivity, Objectivity, Objectivity!
 
 The key to successful investing is to be completely objective -- about yourself, the world, and every aspect of everything. Any time we are not sufficiently objective, our **gamma** goes up.
 
@@ -1060,7 +1060,7 @@ It's easy to despair when looking at research done by psychologists around the w
 
 [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman), who won the Nobel Prize in Economics in 2002, and his research partner, [Amos Tversky](https://en.wikipedia.org/wiki/Amos_Tversky), discovered many years ago that people have an extreme aversion to loss. We've already mentioned several times that the pain of losing a dollar greatly exceeds the pleasure of gaining a dollar. Actually, even the way that we describe something can lead to different choices. 
 
-For instance, [a paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2631940/) by Benedetto De Martino and his collaborators describes an experiment in which participants were told that they had received an amount of money, such as fifty British pounds. They were told that they would not necessarily be able to keep all of the money, but would instead have to choose between a "sure" option, in which they would keep a portion of the money, and a "gamble" option, in which they would either keep all of the money of lose all of the money. The expected outcomes of both options were the same, meaning that the average results of the "gamble", if repeated over time, would be the same as the "sure" option. For each round of the experiment, subjects were split into two groups, with the only difference being that the "sure" option was framed in different ways:
+For instance, [a paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2631940/) by Benedetto De Martino and his collaborators describes an experiment in which participants were told that they had received an amount of money, such as fifty British pounds. They were told that they would not necessarily be able to keep all of the money, but would instead have to choose between a "sure" option, in which they would keep a portion of the money, and a "gamble" option, in which they would either keep all of the money or lose all of the money. The expected outcomes of both options were the same, meaning that the average results of the "gamble", if repeated over time, would be the same as the "sure" option. For each round of the experiment, subjects were split into two groups, with the only difference being that the "sure" option was framed in different ways:
 
 > * Gain frame: you can keep 20 out of the 50 pounds.
 > * Loss frame: you will lose 30 out of the 50 pounds. 
@@ -1099,7 +1099,7 @@ Francis Bacon made [the following observation](https://rintintin.colorado.edu/~v
 
 > Once a human intellect has adopted an opinion (either as something it likes or as something generally accepted), it draws everything else in to confirm and support it.
 
-What about about when that opinion is proven wrong? [Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) observed the following: 
+What about when that opinion is proven wrong? [Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) observed the following: 
 
 > “My characterization of a loser is someone who, after making a mistake, doesn’t introspect, doesn’t exploit it, feels embarrassed and defensive rather than enriched with a new piece of information, and tries to explain why he made the mistake rather than moving on.”
 >
@@ -1111,7 +1111,7 @@ In *The Behavioral Investor*, Daniel Crosby used the debates over plastic bags a
 
 It doesn't matter which side you belong to, the important thing is that we can see how strongly people hold their opinions, and, if we observe carefully, we will be surprised to see how the fierceness of the debate has nothing to do with the facts. It's as if people don't care about the facts -- all they care about is whether they win or lose. Facts and figures can't change people's opinions. If you win, you keep fighting; if you lose, you keep fighting. And if you happen to notice the facts, will they defeat you? No, you'll keep on looking for facts that support your opinion. 
 
-This phenomenon of an opinion growing stronger in the face of evidence that proves it wrong is called "[the backfire effect](https://rationalwiki.org/wiki/Backfire_effect)" in psychology. Researchers have discovered that the backfire effect becomes even stronger when the evidence that contradicts the opinion is slightly ambiguous. For instance, after a relatively uneventful New Year's Day in the year 2000, those who thought that Armageddon was coming at the turn of the millennium didn't think, "Oh, it turned out I was wrong, maybe Armageddon isn't coming." Instead, they thought, "Maybe it's isn't coming right at the year 2000", or "Maybe it has been delayed because we weren't pious enough".
+This phenomenon of an opinion growing stronger in the face of evidence that proves it wrong is called "[the backfire effect](https://rationalwiki.org/wiki/Backfire_effect)" in psychology. Researchers have discovered that the backfire effect becomes even stronger when the evidence that contradicts the opinion is slightly ambiguous. For instance, after a relatively uneventful New Year's Day in the year 2000, those who thought that Armageddon was coming at the turn of the millennium didn't think, "Oh, it turned out I was wrong, maybe Armageddon isn't coming." Instead, they thought, "Maybe it isn't coming right at the year 2000", or "Maybe it has been delayed because we weren't pious enough".
 
 The backfire effect, and its tendency to be even stonger when there is not 100% clarity, is even more obvious in investing. The clearest example is the prognosticator who constantly gives inaccurate predictions. They may have been proven wrong many times, but because there is so much uncertainty in the investing world, they not only don't admit defeat, they double down, saying, "Just you wait! I'll be proven right someday!"
 
