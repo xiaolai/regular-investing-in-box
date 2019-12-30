@@ -902,7 +902,7 @@ After being in the market for a period of time, all investors come to the same d
 
 >Every time you want to sell an investment for cash the price will always fall. 
 
-What is the cause of this counterintuitive phenomenon? One cause is that bear markets are always longer than bull markets. Also, when you really need money it's usually when it's hard to make money outside of the market, which implies a weaker economy, so it's natural for the market to fall. Another factor at work is that when the price is rising you're less willing to sell. At times like that, long-term holders don't have a strong impulse to spend. So the greatest losses always come when you "can't help but sell".
+What is the cause of this counterintuitive phenomenon? One cause is that bear markets are always longer than bull markets. Also, when you really need money it's usually when it's hard to make money outside of the market, which implies a weaker economy, so it's natural for the market to fall. Another factor at work is that when the price is rising you're less willing to sell. At times like that, longer-term holders don't have a strong impulse to spend. So the greatest losses always come when you "can't help but sell".
 
 You should now have a better understanding of this piece of advice, which you have probably heard countless times:
 
@@ -1050,7 +1050,7 @@ Many years ago I discovered a simple principle:
 
 So I like to teach, and I have been teaching for twenty years. I've taught tests, writing, entrepreneurship, investment... Teaching is something that I can do until the day I die, and it's something that I love doing. I can always change what I'm teaching, because I always want to learn new things. It's that simple. In my experience, **finding something that is worth doing for your whole life is the best armor a person can have**. Now I teach thousands of students online, and in the future it will be even more. I wake up in the morning, teach for ten minutes, and I am happy. The bigger the projects you work on, the more trouble is involved, but for me there are no troubles that teaching for ten minutes won't fix.
 
-## Part Four: Objectivity, Objectivity, Objectivity!
+## Part Four: Objectity, Objectivity, Objectivity!
 
 The key to successful investing is to be completely objective -- about yourself, the world, and every aspect of everything. Any time we are not sufficiently objective, our **gamma** goes up.
 
@@ -1060,7 +1060,7 @@ It's easy to despair when looking at research done by psychologists around the w
 
 [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman), who won the Nobel Prize in Economics in 2002, and his research partner, [Amos Tversky](https://en.wikipedia.org/wiki/Amos_Tversky), discovered many years ago that people have an extreme aversion to loss. We've already mentioned several times that the pain of losing a dollar greatly exceeds the pleasure of gaining a dollar. Actually, even the way that we describe something can lead to different choices. 
 
-For instance, [a paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2631940/) by Benedetto De Martino and his collaborators describes an experiment in which participants were told that they had received an amount of money, such as fifty British pounds. They were told that they would not necessarily be able to keep all of the money, but would instead have to choose between a "sure" option, in which they would keep a portion of the money, and a "gamble" option, in which they would either keep all of the money or lose all of the money. The expected outcomes of both options were the same, meaning that the average results of the "gamble", if repeated over time, would be the same as the "sure" option. For each round of the experiment, subjects were split into two groups, with the only difference being that the "sure" option was framed in different ways:
+For instance, [a paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2631940/) by Benedetto De Martino and his collaborators describes an experiment in which participants were told that they had received an amount of money, such as fifty British pounds. They were told that they would not necessarily be able to keep all of the money, but would instead have to choose between a "sure" option, in which they would keep a portion of the money, and a "gamble" option, in which they would either keep all of the money of lose all of the money. The expected outcomes of both options were the same, meaning that the average results of the "gamble", if repeated over time, would be the same as the "sure" option. For each round of the experiment, subjects were split into two groups, with the only difference being that the "sure" option was framed in different ways:
 
 > * Gain frame: you can keep 20 out of the 50 pounds.
 > * Loss frame: you will lose 30 out of the 50 pounds. 
@@ -1099,7 +1099,7 @@ Francis Bacon made [the following observation](https://rintintin.colorado.edu/~v
 
 > Once a human intellect has adopted an opinion (either as something it likes or as something generally accepted), it draws everything else in to confirm and support it.
 
-What about when that opinion is proven wrong? [Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) observed the following: 
+What about about when that opinion is proven wrong? [Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) observed the following: 
 
 > “My characterization of a loser is someone who, after making a mistake, doesn’t introspect, doesn’t exploit it, feels embarrassed and defensive rather than enriched with a new piece of information, and tries to explain why he made the mistake rather than moving on.”
 >
@@ -1111,7 +1111,7 @@ In *The Behavioral Investor*, Daniel Crosby used the debates over plastic bags a
 
 It doesn't matter which side you belong to, the important thing is that we can see how strongly people hold their opinions, and, if we observe carefully, we will be surprised to see how the fierceness of the debate has nothing to do with the facts. It's as if people don't care about the facts -- all they care about is whether they win or lose. Facts and figures can't change people's opinions. If you win, you keep fighting; if you lose, you keep fighting. And if you happen to notice the facts, will they defeat you? No, you'll keep on looking for facts that support your opinion. 
 
-This phenomenon of an opinion growing stronger in the face of evidence that proves it wrong is called "[the backfire effect](https://rationalwiki.org/wiki/Backfire_effect)" in psychology. Researchers have discovered that the backfire effect becomes even stronger when the evidence that contradicts the opinion is slightly ambiguous. For instance, after a relatively uneventful New Year's Day in the year 2000, those who thought that Armageddon was coming at the turn of the millennium didn't think, "Oh, it turned out I was wrong, maybe Armageddon isn't coming." Instead, they thought, "Maybe it isn't coming right at the year 2000", or "Maybe it has been delayed because we weren't pious enough".
+This phenomenon of an opinion growing stronger in the face of evidence that proves it wrong is called "[the backfire effect](https://rationalwiki.org/wiki/Backfire_effect)" in psychology. Researchers have discovered that the backfire effect becomes even stronger when the evidence that contradicts the opinion is slightly ambiguous. For instance, after a relatively uneventful New Year's Day in the year 2000, those who thought that Armageddon was coming at the turn of the millennium didn't think, "Oh, it turned out I was wrong, maybe Armageddon isn't coming." Instead, they thought, "Maybe it's isn't coming right at the year 2000", or "Maybe it has been delayed because we weren't pious enough".
 
 The backfire effect, and its tendency to be even stonger when there is not 100% clarity, is even more obvious in investing. The clearest example is the prognosticator who constantly gives inaccurate predictions. They may have been proven wrong many times, but because there is so much uncertainty in the investing world, they not only don't admit defeat, they double down, saying, "Just you wait! I'll be proven right someday!"
 
@@ -1264,25 +1264,25 @@ This is the value and necessity of investment education. Your driver must mature
 
 **Knowing** is one thing, **doing** is another. The difference between knowing and doing is greater than almost anyone imagines.
 
-Think back to when you were learning to write in elementary school. There were words that you always seemed to spell wrong, no matter what. For instance, maybe you would always spell "believe" as "beleive", mixing up the order of "i" and "e", even when they weren't "after c". Even though the teacher corrected you so many times, you would still get it wrong. Slowly, though, you finally got to the point where you would spell it right every time. 
+Think back to when you were learning to write in elementary school. There were words that you always seemed to spell wrong, no matter what. For instance, maybe you would always spell "believe" as "beleive", mixing up the order of "i" and "e", even when they weren't "after c". The teacher corrected you so many times, but you would still get it wrong. Eventually, though, you finally got to the point where you would spell it right every time. 
 
-Even simple knowledge can be this difficult, taking a long time to finally master. Well then, what about more complex knowledge? It can take even longer.
+If even simple knowledge can be this difficult, taking a long time to finally master, then what about more complex knowledge? It can take even longer.
 
-Logic is perhaps the clearest example. [*Beyond Feelings: A Guide to Critical Thinking*](https://www.amazon.com/Beyond-Feelings-Guide-Critical-Thinking/dp/0078038189/), which is now on its 9th edition, is the book that first taught me logic. One foggy morning I went to the library and searched for *thinking*. Among the results I saw *critical thinking*, a combination I had never seen before. I chose the book which had been updated the most times, which was *Beyond Feelings* (at the time it was on its 3rd edition). Why did I search for thinking? Because the day before two people were having a heated debate, and it pained me to discover that I thought they were both right! First, this was impossible; second, it meant that I wasn't able to think. Or, at least, something was wrong with my way of thinking. At that time I was almost 25 years old.
+Logic is perhaps the clearest example. [*Beyond Feelings: A Guide to Critical Thinking*](https://www.amazon.com/Beyond-Feelings-Guide-Critical-Thinking/dp/0078038189/), which is now on its 9th edition, is the book that first taught me logic. One foggy morning I went to the library and searched for *thinking*. Among the results I saw *critical thinking*, a combination I had never seen before. I chose the book which had been updated the most times, which was *Beyond Feelings* (at the time it was on its 3rd edition). Why did I search for thinking? Because the day before two people were having a heated debate, and it pained me to discover that I thought they were both right! First, this was impossible; second, it meant that I wasn't able to think. Or, at least, something was wrong with my way of thinking. At the time I was nearly 25 years old.
 
-Even though I'd learned some logic before graduating from college, and even though I had incorrectly assumed that I had very strong logic, I discovered that the difference between knowing nothing and knowing what I knew was very small. My goal was very clear, so reading the book gave me more pleasure than pain. By the time I finished I felt like an entirely new person! But that was an illusion, because I quickly discovered that I still frequently fell for logical fallacies. In retrospect, this is not surprising, since every logical fallacy has countless iterations. Slowly, this book became the book that I would re-read the most times over the course of my life. The mirror effect is ubiquitous, though, and this book that has had a huge impact on my life is [trash](https://www.amazon.com/gp/customer-reviews/R3S1K0E2LMJE8V/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0078038189) in the eyes of some.
+Even though I'd learned some logic before graduating from college, and even though I had incorrectly assumed that I had very strong logic, I discovered that the difference between knowing nothing and knowing as much as I knew was very small. My goal was clear, so reading the book gave me more pleasure than pain. By the time I finished I felt like an entirely new person! But that was an illusion, because I quickly discovered that I still frequently fell for logical fallacies. In retrospect, this is not surprising, since every logical fallacy has countless iterations. Slowly, this book became the book that I would re-read the most times over the course of my life. The mirror effect is ubiquitous, though, and this book that has had a huge impact on my life is [trash](https://www.amazon.com/gp/customer-reviews/R3S1K0E2LMJE8V/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0078038189) in the eyes of some.
 
 Was it enough to read this book multiple times? No. Several years later, when I was teaching at New Oriental, there was a period during which I taught the writing and logic portions of the GMAT. I was extremely glad that I had trained myself in logic for several years, but it was still difficult. GMAT questions are often like this:
 
 >Of the choices below (A, B, C, D, E), which, if correct, would severely weaken the author's argument?
 
-Looking back, my most valuable periods of self-teaching were repeatedly reading *Beyond Feelings* and teaching logic at New Oriental. These two periods of training myself in logic played an indispensable role in my wealth accumulation over the long term.
+Looking back, my most valuable periods of self-teaching were when I was repeatedly reading *Beyond Feelings* and teaching logic at New Oriental. Those two periods of training myself in logic have played an indispensable role in my wealth accumulation over the long term.
 
 Earlier, I noted the following:
 
 >More than 130 common cognitive biases have been identified, and I'm sure many more will be discovered.
 
-In my Regular Investing Practice Group, I have repeatedly gone over the reasons for these cognitive biases, their effects, suggestions for how to avoid them, and recent examples. But will this be immediately effective? It won't. Almost everybody is the same, and I am certainly no exception. Every once in a while I will discover that I have once again fallen for a logical fallacy that I thought I had already taught myself to avoid. 
+In my Regular Investing Practice Group, I have repeatedly gone over the reasons for these cognitive biases, their effects, suggestions for how to avoid them, and recent examples. But will this be immediately effective? It won't. This is true for almost everyone, and I am certainly no exception. Every once in a while I will discover that I have once again fallen for a logical fallacy that I thought I had already taught myself to avoid. 
 
 There's another hidden reason why the distance between knowing and doing is so great: 
 
@@ -1314,7 +1314,7 @@ Furthermore, the longer the mistake persists, the greater the effect is over the
 
 >98% <sup>30</sup> ≈ 54.55%
 
-Regular investors are fortunate because they do the right thing from the start, and as long as they keep doing it for two full cycles they can't make a mistake. Throughout this process of not making mistakes there are only two things they need to do: 1) constantly strengthen their ability to make money outside of the market, and 2) more importantly, constantly learn about investing, patiently crossing the gap between knowing and doing.
+Regular investors are fortunate because they do the right thing from the start, and as long as they keep doing it for two full cycles they can't make a mistake. Throughout this process of not making mistakes, there are only two things they need to do: 1) constantly strengthen their ability to make money outside of the market, and 2) more importantly, constantly learn about investing, patiently crossing the gap between knowing and doing.
 
 ### 4.5 The Border Between Active and Passive
 
@@ -1336,7 +1336,7 @@ The clearest example of this is parents raising children. If parents focus their
 
 Of course, a more common example occurs in the investing world. Do investors really need participate in operations? Maybe sometimes. But we can be almost certain that traders in the secondary market shouldn't participate in the operations of the companies they invest in. In fact, not needing to participate in operations is one of the biggest advantages of investing in the secondary markets.
 
-However, the operators of almost every publicly traded company receive many letters from shareholders every day. These shareholders have all sorts of complaints and advice, and they often end up working themselves into quite a tizzy. They are incognizant of the fact that they are wasting effort outside of their own border. They have no idea that effort outside of that border is completely useless, and that if it has any effect at all it will be negative. They will never understand, because they themselves lack the ability to create an effective business model and eventually secure investment from the public. If they were able to do so, they would discover that it's terrible to have so many people on the outside trying to influence you, and that it's even worse to be actually swayed by those on the outside. You could even say the following: a company that is easily swayed by the secondary market is not worth investing in.
+However, the operators of almost every publicly traded company receive many letters from shareholders every day. These shareholders have all sorts of complaints and advice, and they often end up working themselves into quite a tizzy. They are incognizant of the fact that they are wasting effort outside of their own border. They have idea that effort outside of that border is completely useless, and that if it has any effect at all it will be negative. They will never understand, because they themselves lack the ability to create an effective business model and eventually secure investment from the public. If they were able to do so, they would discover that it's terrible to have so many people on the outside trying to influence you, and that it's even worse to be actually swayed by those on the outside. You could even say the following: a company that is easily swayed by the secondary market is not worth investing in.
 
 Let's take another look at the equation that describes our returns: 
 
@@ -1350,7 +1350,7 @@ But if you invest in an MSCI World Index fund, or an S&P 500 fund, what can you 
 
 Most funds are established to chase *alpha*. Even though there are some clearly successful examples, they are extremely rare, and we can't eliminate the possibility that they were just lucky. Even Warren Buffett has clearly been lucky: he was born in the US. In addition to the US having been the fastest growing area in the world over the past fifty-five years, it has also had a stable legal environment in which private property has been relatively protected. If Warren Buffett had been born in South Korea, which has the highest rate of presidents and tycoons going to jail, how would he have done?
 
-How difficult is it to create *alpha*? Someone once joked that if you threw stock certificates in a room, let a monkey into the room, and made fund based on which stocks the monkey peed on, you could still beat the fund managers of most actively-managed funds. Sadly, the joke is correct!
+How difficult is it to create *alpha*? Someone once joked that you if threw stock certificates in a room, let a monkey into the room, and made fund based on which stocks the monkey peed on, you could still beat the fund managers of most actively-managed funds. Sadly, the joke is correct!
 
 According to [a report](https://www.wsj.com/articles/indexes-beat-stock-pickers-even-over-15-years-1492039859) in the Wall Street Journal, in the fifteen years ending in 2016, *95.4%* of mid-cap funds underperformed the S&P MidCap 400, *93.2%* of small-cap funds underperformed the S&P SmallCap 600, and *92.2%* of large-cap funds underperformed the S&P 500...
 
@@ -1370,7 +1370,7 @@ For example, deep thinking about these three concepts has made it very difficult
 
 >Why are some people able to succeed in even the harshest environments?
 
-My choice to be a regular investor, and my eventual ability to explain regular investing in detail, all started from asking myself this question. Looking at things from a long-term perspective can lead you to the opposite of your previous conclusions; macro observations can lead you to choices that will produce better results over the long term; and awareness of borders can help you avoid trouble and wasted efforts. I have no need to complain about a poor environment, and I don't want to complain about how society is unfair. Unfairness in society is like the markets: as long as you look at it from a long-term perspective, it's pretty fair, but if you look at it minute-by-minute it's always unfair. Most importantly, I am increasingly able to accept always being underestimated. Just like in the stock market, you will only be very briefly overvalued, and it's probably a bubble, right?
+My choice to be a regular investor, and my eventual ability to explain regular investing in detail, all started from asking myself this question. Looking at things from a long-term perspective can lead to you to the opposite of your previous conclusions; macro observations can lead you to choices that will produce better results over the long term; and awareness of borders can help you avoid trouble and wasted efforts. I have no need to complain about a poor environment, and I don't want to complain about how society is unfair. Unfairness in society is like the markets: as long as you look at it from a long-term perspective, it's pretty fair, but if you look at it minute-by-minute it's always unfair. Most importantly, I am increasingly able to accept always being underestimated. Just like in the stock market, you will only be very briefly overvalued, and it's probably a bubble, right?
 
 Objectivity is very important. Not only objectivity about the world, but objectivity about yourself, and careful objectivity about the border of your self. Furthermore, it's even more important to be objective over the long term. This is the secret of investing. Of course, it's an open secret. 
 
@@ -1390,7 +1390,7 @@ There is no secret to success. Or, if there are secrets, they are open secrets. 
 
 It's not an exaggeration to say that regular investing can change a person's life. 
 
-China enforced the One Child Policy from 1979 to 2015. People of child-rearing age in 1979 are around seventy now, and they are in a special state called "the loneliness of old age". They have been retired for ten or more years, and their only child is currently in the middle of their busiest stage of life, having just had kids. Because times have changed, more and more of them don't live in the same cities as their children, and so many of these parents no longer see their children regularly. They've got nothing to do, and no one to accompany them.
+China enforced the One Child Policy from 1979 to 2015. People of child-rearing age in 1979 are around seventy now, and the are in a special state called "the loneliness of old age". They have been retired for ten or more years, and their only child is currently in the middle of their busiest stage of life, having just had kids. Because times have changed, more and more of them don't life in the same cities as their children, and so many of these parents no longer see their children regularly. They've got nothing to do, and no one to accompany them.
 
 There is an awkward fact:
 
@@ -1452,7 +1452,7 @@ The necessary conditions to redeem BTC, EOS, and XIN with BOX are as follows:
 
 BOX is an ETF product, but it is different from the funds you have seen before, in that it doesn't charge a management fee. Why? Because I don't want to earn a management fee. And I am also regularly investing in BOX.
 
-BOX is 100% open and transparent. The addresses in which assets are held are public, and you can check them at any time. All of the records are on the Mixin public chain, and you can find instructions to check the addresses on the b.watch website. How much BTC, EOS, and XIN are in BOX? How many corresponding BOX tokens are circulating? How many BOX tokens are still in "cold storage" (including those for future distribution and those that have been redeemed)? The data to answer all of these questions are open and transparent, so it is easy to check the current issuance of BOX and confirm its underlying assets. If BOX is listed on any exchange, users can also use this data to confirm that the exchange is not artificially inflating the supply of BOX. (As to why this is important, it will take a novice some time to learn and understand.)
+BOX is 100% open and transparent. The addresses in which assets are held are public, and you can check them at any time. All of the records are on the Mixin public chain, and you can find instructions to check the addresses on the b.watch website. How much BTC, EOS, and XIN are in BOX? How many corresponding BOX tokens are circulating? How many BOX tokens are still in "cold storage" (including those for future distribution and those that have been redeemed)? The data to answer all of these questions are open and transparent, so it is easy to check the current issuance of BOX and confirm its underlying assets. If BOX is listed on any exchange, users can use also use this data to confirm that the exchange is not artificially inflating the supply of BOX. (As to why this is important, it will take a novice some time to learn and understand.)
 
 ### 1.2 The Advantages of BOX
 
@@ -1478,7 +1478,7 @@ When our investments go from an individual investment (like BTC) to a combinatio
 
 ### 1.2.3 Thoughts on allocation
 
-As of July 2019, "Bitcoin dominance", which is the percentage of all blockchain assets that bitcoin represents, was 63%. Although this number may continue to rise in the short term, it will drop as blockchain technology and applications become more widespread. It's not that bitcoin won't continue to develop, it's just that other assets are likely to develop faster than bitcoin over the long term. So, from a long-term perspective, it is reasonable to have a 50% allocation for bitcoin.
+As of July 2019, "Bitcoin dominance", which is the percentage of of all blockchain assets that bitcoin represents, was 63%. Although this number may continue to rise in the short term, it will drop as blockchain technology and applications become more widespread. It's not that bitcoin won't continue to develop, it's just that other assets are likely to develop faster than bitcoin over the long term. So, from a long-term perspective, it is reasonable to have a 50% allocation for bitcoin.
 
 The remaining 50% is allocated to EOS and XIN with a 4:1 ratio. This is because I think that XIN will develop rapidly, maybe even faster than EOS.
 
@@ -1494,7 +1494,7 @@ Other public chains have followed a bottom-up approach, first developing the pub
 
 Mixin Network has taken a top-down approach, first creating a great Dapp, Mixin Messenger, and then gradually completing the development of the base public chain. Thus, Mixin Messenger was first released in December of 2012, and, more than a year later, in February of 2019, the Mixin Network public chain was officially released. Dapps like dice games can simply be bots running on Mixin Messenger. Ocean.one is a self-governing decentralized exchange running on Mixin Network, and it represents pioneering technology in the blockchain space. Other products that are being developed, like BOX and its b.watch exchange, would be impossible to realize without the Mixin Network public chain. It's not that I haven't tried other public chains, it's that they are unusable. This is the reason for XIN's allocation in BOX.
 
-In summary, BOX is an ETF product that I believe is very likely to succeed. If we lose money on it, it is because the blockchain industry has failed, and that is neither my fault nor yours. However, **as long as the blockchain industry does well, BOX will do well**, and the blockchain industry is just taking off, so we are likely to do well. It's that simple.
+In summary, BOX is an ETF product that I believe is very likely to succeed. If we lose money on it, it is because the blockchain industry has failed, and that is neither my fault nor yours. However, **as long as the blockchain industry does well, BOX will do well**, and the blockchain industry is just taking off, so were are likely to do well. It's that simple.
 
 ## 2. About b.watch
 
@@ -1534,7 +1534,7 @@ In addition to earning bitcoin by selling memberships, those who put the knowled
 
 > * They are eligible to receive shares in b.watch, the first on-chain ETF exchange in the world, thus benefiting not only from the development of BOX, but also from the development of b.watch.
 
-In brief, the Regular Investing Practice Group is a place for me and my students to **develop together and make money together**.
+In brief, the Regular Investing Practice Group is is a place for me and my students to **develop together and make money together**.
 
 At the same time, I am also regularly investing in and holding BOX, leading by example. Regular investing is the only reliable investing strategy for most people, but it is always easier said than done, and those who haven't done it have no way to know how difficult it really is. The most important thing is to have people to accompany you, so no one has to suffer loneliness for too long.
 
