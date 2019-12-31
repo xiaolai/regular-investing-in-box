@@ -508,7 +508,7 @@
 
 绝对不要小瞧 “仅仅多出一个筛选标准” 的作用。
 
-亚马逊（Amazon, [NASDAQ: AMZN](https://finance.yahoo.com/quote/AMZN/)）是一家伟大的公司，它也是当今世界上市值最大的电子商务平台。[根据���星（Morning Star）的统计](http://performance.morningstar.com/stock/performance-return.action?t=AMZN)，截至 2019 年，它在近 5 年的时间段里为投资者带来了  40.42% 的年化复合回报率；在近 15 年的时间段里，它为投资者创造了 28.51% 的年化复合回报率。
+亚马逊（Amazon, [NASDAQ: AMZN](https://finance.yahoo.com/quote/AMZN/)）是一家伟大的公司，它也是当今世界上市值最大的电子商务平台。[根据晨星（Morning Star）的统计](http://performance.morningstar.com/stock/performance-return.action?t=AMZN)，截至 2019 年，它在近 5 年的时间段里为投资者带来了  40.42% 的年化复合回报率；在近 15 年的时间段里，它为投资者创造了 28.51% 的年化复合回报率。
 
 你有没有想过亚马逊为什么最开始的时候，在那么多种可选商品品类中只选择了书籍销售作为起点呢？除了人们熟知的、经常讨论的 “书籍属于刚需高频大市场” 之外仅仅多出了一个人们没想到的筛选依据：卖书几乎不需要提供售后服务 —— 仅仅多出这一条筛选依据就直接剔除了 99% 的其它选择！
 
