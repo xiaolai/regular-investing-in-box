@@ -1,5 +1,4 @@
 <h1 style="text-align: center;">On Regular Investing</h1>
-<hr />
 <p style="text-align: center;"> by <em>Xiaolai Li</em>, rewritten in English by <em>John Gordon</em> & <em>Xiaolai Li</em> &copy;2019</p>
 <div style="text-align: center;">
     <img src="../images/coverimage.gif" />
@@ -1582,6 +1581,10 @@ Li Xiaolai is an investor and a lifelong learner. http://lixiaolai.com · [xiaol
 > * [*Little Book of Blockchain*](https://blockchainlittlebook.com/#/)
 
 -----
+
+
+
+[Download PDF of this book](../pdf/on-regularinvesting-en.pdf)
 
 
 
