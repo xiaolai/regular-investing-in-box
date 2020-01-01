@@ -1582,7 +1582,7 @@ Li Xiaolai is an investor and a lifelong learner. http://lixiaolai.com · [xiaol
 
 -----
 
-[Download PDF of this book](pdf/on-regularinvesting-en.pdf)
+[Download PDF of this book](https://onregularinvesting.com/pdf/on-regularinvesting-en.pdf)
 
 This book is released under the [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.en).
 
