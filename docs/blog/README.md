@@ -2,6 +2,11 @@
 
 -----
 
+## 2020.1.2 增加本书 PDF 版本下载
+
+> * [定投改变命运（第三版）PDF](https://onregularinvesting.com/pdf/on-regularinvesting-cn.pdf)
+> * [On Regular Investing（3rd/ed）PDF](https://onregularinvesting.com/pdf/on-regularinvesting-en.pdf)
+
 ## 2019.12.29 重要投资书籍列表（持续更新）
 
 | 书名                                                         | 英文版购买链接                                               | 中文版购买链接                            |
