@@ -1650,11 +1650,7 @@ iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-
 
 -----
 
-
-
-[下载本书 PDF 版本](../pdf/on-regularinvesting-cn.pdf)
-
-
+[下载本书 PDF 版本](pdf/on-regularinvesting-cn.pdf)
 
 本书的版权协议为 [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)。
 
