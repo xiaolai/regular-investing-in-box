@@ -2,6 +2,23 @@
 
 -----
 
+## 2020.01.04 九十年前的一篇文章
+
+大约 90 年前，有一位先知，[John Jacob Raskob](https://en.wikipedia.org/wiki/John_J._Raskob) 倡议美国民众可以每月投资股市 15 美元（那时候，美国人的周薪平均约为 17～22 美元）…… 这是目前有据可查的最早的 “定投策略”…… 
+
+谁曾想，1929 年 8 月份，Raskob 的文章《Everyone Ought to Be Rich》发表后不到 7 周，美国历史上最惨烈的股市崩盘事件发生了…… 民众当然并不会深入理解 Raskob 的意图，于是，此后的近百年时间里，Raskob 一直背负着骂名……
+
+可实际上 Raskob 并没有错…… 一点儿都没有错。
+
+今天我们再研读 Raskob 当年的文章，会有另外一番滋味。
+
+> Everyone Ought to Be Rich
+>
+> > * [Text Edition](Everybody-Ought-to-Be-Rich-1929-by-John-Raskob/)
+> > * [Download PDF](Everybody-Ought-to-Be-Rich-1929-by-John-Raskob/Everybody-Ought-to-Be-Rich-1929-by-John-Raskob)
+
+
+
 ## 2020.01.02 增加本书 PDF 版本下载
 
 > * [定投改变命运（第三版）PDF](https://onregularinvesting.com/pdf/on-regularinvesting-cn.pdf)
