@@ -15,7 +15,7 @@
 > Everyone Ought to Be Rich
 >
 > > * [Text Edition](Everybody-Ought-to-Be-Rich-1929-by-John-Raskob/)
-> > * [Download PDF](Everybody-Ought-to-Be-Rich-1929-by-John-Raskob/Everybody-Ought-to-Be-Rich-1929-by-John-Raskob)
+> > * [Download PDF](Everybody-Ought-to-Be-Rich-1929-by-John-Raskob/EverybodyOughtToBeRich.pdf)
 
 
 
