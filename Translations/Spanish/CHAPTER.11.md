@@ -38,7 +38,7 @@ En este caso,
 
 Cuando has oido hablar de nuevo de que ellos se quebrantan, ¿no tienes ni idea por qué? Acaso un mundo normal no debe ser así? Los sabelotodos normales no deben vivir una vida normalmente miserable?
 
-Si realmente quieres hacer negocios de futuros, hay que por lo menos estudiar un poco. En [ybmex.com](https://ybmex.com/) hay un simulacro de negocios donde uno puede jugar un poco con "dinero falso". Opera después de confirmar que tú has entendido cómo funciona de verdad con un largo periodo (por ejemplo por lo menos 3 meses) de un estudio detallado. Cuando necesitas hacer negocios de futuros, no seas Sabelotodo, sino usas estrategia de cobertura en la bolsa de efectivo (por ejemplo BigOne: https://big.one or https://b1.run) \-- la estrategia de cobertura arriba explicada se puede utilizar al revés.
+Si realmente quieres hacer negocios de futuros, hay que por lo menos estudiar un poco. En [btcmex.com](https://btcmex.com/) hay un simulacro de negocios donde uno puede jugar un poco con "dinero falso". Opera después de confirmar que tú has entendido cómo funciona de verdad con un largo periodo (por ejemplo por lo menos 3 meses) de un estudio detallado. Cuando necesitas hacer negocios de futuros, no seas Sabelotodo, sino usas estrategia de cobertura en la bolsa de efectivo (por ejemplo BigOne: https://big.one or https://b1.run) \-- la estrategia de cobertura arriba explicada se puede utilizar al revés.
 
 Eso es fundamentalmente nuestra actitud de la vida:
 

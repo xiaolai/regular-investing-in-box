@@ -50,7 +50,7 @@ Why do you say that 99% of contract traders are dabblers? Because they do not do
 
 So, when you heard that they broke the position again, you still don't understand why? Isn't the normal world supposed to be like this? Isn’t the normal dabblers supposed to live a bit worse?
 
-So, if you really need to trade in futures contracts, then at least you need to learn more. There is a simulation transaction on [ybmex.com](https://ybmex.com) . You are going to play around with "counterfeit currency". It takes a long time (such as at least three months) to carefully study every detail and make sure that you really understand it before you actually start the operation. When you need to trade in a futures contract, don't be a dabbler. Use a hedging strategy at the spot exchange (such as BigOne: [https://big.one](https://big.one) or [https://b1.run](https://b1.run) ) - the set of instructions above. The policy is also applicable in turn.
+So, if you really need to trade in futures contracts, then at least you need to learn more. There is a simulation transaction on [btcmex.com](https://btcmex.com) . You are going to play around with "counterfeit currency". It takes a long time (such as at least three months) to carefully study every detail and make sure that you really understand it before you actually start the operation. When you need to trade in a futures contract, don't be a dabbler. Use a hedging strategy at the spot exchange (such as BigOne: [https://big.one](https://big.one) or [https://b1.run](https://b1.run) ) - the set of instructions above. The policy is also applicable in turn.
 
 This is basically our attitude towards life:
 

@@ -74,7 +74,7 @@ Alors, quand vous entendez qu’ils ont tout perdu, vous comprenez pourquoi ? Le
 
  
 
-Donc, si vous voulez opérer sur les contrats à terme, vous devriez au moins apprendre à mieux les connaître. Il existe une plateforme de simulation sur *ybmex.com*, sur laquelle vous pouvez vous essayer grâce à l’argent virtuel. Passez-y beaucoup de temps (au moins trois mois), étudiez minutieusement les moindres détails, assurez de bien comprendre le fonctionnement des marchés et seulement après cela vous pourrez passer à la suite. Sur les marchés à terme, être un amateur est proscrit. Vous devez élaborer une     stratégie     de     couverture      sur un marché au comptant  (tel que *BigOne* : *https://big.one* ou *https://b1.run*), comme la stratégie de couverture expliquée ci-dessus.
+Donc, si vous voulez opérer sur les contrats à terme, vous devriez au moins apprendre à mieux les connaître. Il existe une plateforme de simulation sur *btcmex.com*, sur laquelle vous pouvez vous essayer grâce à l’argent virtuel. Passez-y beaucoup de temps (au moins trois mois), étudiez minutieusement les moindres détails, assurez de bien comprendre le fonctionnement des marchés et seulement après cela vous pourrez passer à la suite. Sur les marchés à terme, être un amateur est proscrit. Vous devez élaborer une     stratégie     de     couverture      sur un marché au comptant  (tel que *BigOne* : *https://big.one* ou *https://b1.run*), comme la stratégie de couverture expliquée ci-dessus.
 
  
 
