@@ -1557,6 +1557,35 @@ Investing education is important. Even more basic than investing, making money i
 
 So from my perspective, everyone should seriously study investing. I can't think of any reason why not.
 
+### 4. How to Join the BOX Regular Investing Practice Group
+
+#### 4.1 Download Mixin Messenger
+
+Mixin download links:
+
+> * iOS
+>   * Mainland China App Store accounts，download [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019) on the App Store
+>   * Other App Store accounts，[download Mixin Messenger](https://apps.apple.com/app/mixin/id1322324266) on the App Store
+> * Android
+>   * In China，[download on the Tencent App Store](https://a.app.qq.com/o/simple.jsp?pkgname=one.mixin.messenger)，or [download on the Xiaomi App Store](http://app.mi.com/details?id=one.mixin.messenger)
+>   * Outside of China, [download on the Google Play Store](https://play.google.com/store/apps/details?id=one.mixin.messenger)
+
+iOS users with Mainland China App Store accounts who download [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019) must add the wallet bot (ID: *7000101425*) in order to sent, receive and store digital assets.
+
+![](../images/miniwallet.png)
+
+Also, the exit bot (ID: 7000101276) provides OTC service within Mixin.
+
+#### 4.2 Adding the “BOX Regular Investing Practice Group” Bot
+
+Search for *7000102069* to add the “BOX Regular Investing Practice Group” bot. However, without the recommendation of a member of the group, you will be unable to pay and join the group, so you must ask around in other groups to find someone who is willing to recommend you. 
+
+#### 4.3 Blockchain Open Class
+
+Search for and add the following bot: *7000102093*.
+
+I often hold open classes in this group, and you can also find recordings of previous open classes here. Just click on the robot icon and then the “course record” icon to access the recordings
+
 ## About the Author
 
 Li Xiaolai is an investor and a lifelong learner. http://lixiaolai.com · [xiaolai@github](https://github.com/xiaolai)
