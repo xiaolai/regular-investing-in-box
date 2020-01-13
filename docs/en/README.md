@@ -1427,7 +1427,7 @@ October 2019, Beijing
 
 ### 1.1 Details of BOX
 
-Quite simply, BOX is **a blockchain token** that tracks a basket of blockchain assets. Its components are as follows:
+Quite simply, BOX is **a blockchain token that tracks a basket of mainstream blockchain assets**. Its components are as follows:
 
 > * 1 BTC
 > * 1500 EOS
@@ -1443,7 +1443,7 @@ Put another way, to exchange for 1 BOX, you would need 0.0001 BTC + 0.15 EOS + 0
 > * After meeting certain conditions, you can also redeem BOX for the respective amounts of BTC, EOS, and XIN.
 > * You can also use USDT to directly purchase BOX on secondary markets. 
 
-The necessary conditions to redeem BTC, EOS, and XIN with BOX are as follows:
+The necessary conditions to redeem BOX for BTC, EOS, and XIN are as follows:
 
 > If the market value of your BOX exceeds \$100,000, the redemption fee is 1%.
 > Alternatively, you can sell it directly on a secondary market, in which case both parties will be charged a commission of 0.1%.
@@ -1459,7 +1459,7 @@ The components and allocation of BOX were determined in accordance with the foll
 
 ### 1.2.1 It is best to invest in mainstream blockchain assets
 
-In the new round of trends, mainstream blockchain assets will receive disproportionate attention. The market has been educated by the bull and bear markets of 2017 and 2018, and the "blind optimism" around new tokens has been fully deflated. Projects that raise millions just based on writing a white paper have been discredited. In the new round, the assets that may see huge appreciation are either mainstream assets or multi-level marketing (MLM) assets. The reason to stay away from MLM assets isn't that they can't make money -- actually, they can make a lot of money! -- but because they can't succeed over the long term, and are thus not suitable choices for regular investing. Regular investors invest through more than one cycle, and thus they can only choose long-term investments. So, between mainstream assets and MLM assets, we can only choose mainstream assets. 
+In the new round of trends, mainstream blockchain assets will receive disproportionate attention. The market has been educated by the bull and bear markets of 2017 and 2018, and the "blind optimism" around new tokens has been fully deflated. Projects that raised millions just based on writing a white paper have been discredited. In the new round, the assets that may see huge appreciation are either mainstream assets or multi-level marketing (MLM) assets. The reason to stay away from MLM assets isn't that they can't make money -- actually, they can make a lot of money! -- but because they can't succeed over the long term, and are thus not suitable choices for regular investing. Regular investors invest through more than one cycle, and thus they can only choose long-term investments. So, between mainstream assets and MLM assets, we can only choose mainstream assets. 
 
 ### 1.2.2 The internal logic of the development of blockchain technology
 
@@ -1467,17 +1467,17 @@ After eight years of observation, investment, practice and thinking, I believe t
 
 > Trusted ledger (BTC) → Trusted platform for code (ETH/EOS) → Trusted execution environment (Mixin) → Trusted hardware (?) ...
 
-Actually, this is also the investment path I have followed. After bitcoin, the exchange that I invested in, Yunbi, became the first exchange to list Ethereum (ETH), and I was an angel investor in EOS and Mixin. The core of successful investing is investing in accordance with the way things are developing, which makes friends with trends and allows trends to constantly work in favor of your investments, rather than allowing trends to become enemies and obstacles to your investments. 
+Actually, this is also the investment path I have followed. After bitcoin, the exchange that I invested in, Yunbi, became the first exchange to list Ethereum (ETH), and I was an angel investor in EOS and Mixin. The core of successful investing is investing in accordance with the way things are developing, which befriends trends and allows trends to constantly work in favor of your investments, rather than allowing trends to become enemies and obstacles to your investments. 
 
 The choice of components of BOX is in accordance with the internal logic of the development of blockchain technology.
 
-As to why EOS was chosen instead of ETH, despite the fact that ETH appeared before EOS in the trusted code stage, the difference between the two of these is like the difference between DOS and Windows, in that EOS is multithreaded. Furthermore, BlockOne, the technical team behind EOS, is one of the most well-funded teams in the space, so EOS is a more reliable choice and is more likely to be successful over the long term.
+As to why EOS was chosen instead of ETH, despite the fact that ETH appeared before EOS in the trusted code stage, the difference between them is like the difference between DOS and Windows, in that EOS is multithreaded. Furthermore, BlockOne, the technical team behind EOS, is one of the most well-funded teams in the space, so EOS is a more reliable choice and is more likely to be successful over the long term.
 
-When our investments go from an individual investment (like BTC) to a combination of investments (like BOX), we have both reduced opportunity cost and changed from investing in one project to investing in an entire industry. This is an extremely reliable way to reduce risk.
+When our investments go from an individual investment (like BTC) to a combination of investments (like BOX), we both reduce opportunity cost and change from investing in one project to investing in an entire industry. This is an extremely reliable way to reduce risk.
 
 ### 1.2.3 Thoughts on allocation
 
-As of July 2019, "Bitcoin dominance", which is the percentage of of all blockchain assets that bitcoin represents, was 63%. Although this number may continue to rise in the short term, it will drop as blockchain technology and applications become more widespread. It's not that bitcoin won't continue to develop, it's just that other assets are likely to develop faster than bitcoin over the long term. So, from a long-term perspective, it is reasonable to have a 50% allocation for bitcoin.
+As of July 2019, the "Bitcoin dominance index", which is the percentage of of all blockchain assets that bitcoin represents, was 63%. Although this number may continue to rise in the short term, it will drop as blockchain technology and applications become more widespread. It's not that bitcoin won't continue to develop, it's just that other assets are likely to develop faster than bitcoin over the long term. So, from a long-term perspective, it is reasonable to have a 50% allocation for bitcoin.
 
 The remaining 50% is allocated to EOS and XIN with a 4:1 ratio. This is because I think that XIN will develop rapidly, maybe even faster than EOS.
 
@@ -1489,9 +1489,9 @@ The main misunderstanding people have of [Mixin](https://mixin.one) is that they
 
 Mixin Network has taken a different technical development path. 
 
-Other public chains have followed a bottom-up approach, first developing the public chain and then developing on-chain Dapps. This is called "building an ecosystem".
+Other public chains have followed a *bottom-up* approach, first developing the public chain and then developing on-chain Dapps. This is called "building an ecosystem".
 
-Mixin Network has taken a top-down approach, first creating a great Dapp, Mixin Messenger, and then gradually completing the development of the base public chain. Thus, Mixin Messenger was first released in December of 2012, and, more than a year later, in February of 2019, the Mixin Network public chain was officially released. Dapps like dice games can simply be bots running on Mixin Messenger. Ocean.one is a self-governing decentralized exchange running on Mixin Network, and it represents pioneering technology in the blockchain space. Other products that are being developed, like BOX and its b.watch exchange, would be impossible to realize without the Mixin Network public chain. It's not that I haven't tried other public chains, it's that they are unusable. This is the reason for XIN's allocation in BOX.
+Mixin Network has taken a *top-down* approach, first creating a great Dapp, Mixin Messenger, and then gradually completing the development of the base public chain. Thus, Mixin Messenger was first released in December of 2012, and, more than a year later, in February of 2019, the Mixin Network public chain was officially released. Dapps such as dice games can simply be bots running on Mixin Messenger. Ocean.one is a self-governing decentralized exchange running on Mixin Network, and it represents pioneering technology in the blockchain space. Other products that are being developed, like BOX and its b.watch exchange, would be impossible to realize without the Mixin Network public chain. It's not that I haven't tried other public chains, it's that they are unusable. This is the reason for XIN's allocation in BOX.
 
 In summary, BOX is an ETF product that I believe is very likely to succeed. If we lose money on it, it is because the blockchain industry has failed, and that is neither my fault nor yours. However, **as long as the blockchain industry does well, BOX will do well**, and the blockchain industry is just taking off, so were are likely to do well. It's that simple.
 
@@ -1511,19 +1511,17 @@ Later on, other sources of potential income may include:
 > * Income from an EOS Block Producer
 > * Income from XIN nodes
 
-It takes a large amount of reserves and preparation to become an EOS Block Producer or a XIN node. When the time is right, b.watch plans to run these nodes, and, after deducting operation costs, 100% of proceeds will be distributed to BOX holders. 
+It takes a large amount of reserves and preparation to become an EOS Block Producer or a XIN node. When the time is right, b.watch plans to run these nodes, and after deducting operation costs 100% of proceeds will be distributed to BOX holders. 
 
-Under this system, the corporate value of b.watch is basically a 0.5% commission on BOX redemptions and a 0.1% commission on BOX trading. In seven years 100% of BOX shares will be distributed to my Regular Investing Practice Group members according to certain conditions. For instance:
+Under this system, the corporate value of b.watch is basically a 0.5% commission on BOX redemptions and a 0.1% commission on BOX trading. After seven year, 100% of BOX shares will be distributed to my Regular Investing Practice Group members according to certain conditions. For instance:
 
 > * Time holding BOX
 > * Degree of successful completion of regular investing tasks
 > * Affiliate sales of the Regular Investing Practice Group
 
-## 3. About the Regular Investing Practice Group
+## 3. About the BOX Regular Investing Practice Group
 
-The "Regular Investing Practice Group" is my blockchain education product.
-
-After eight years of surviving in the blockchain world, I have a strong desire to share my survival experience and wisdom. I'm sure that you can understand. 
+The *"BOX Regular Investing Practice Group"* is my blockchain education product. After eight years of surviving in the blockchain world, I have a strong desire to share my survival experience and wisdom. I'm sure that you can understand. 
 
 But what you might not have thought of is that what I want to do even more is to make money with lots of other people by sharing reliable investing knowledge and following my own advice. It's rare to have a chance like I have with the Regular Investing Practice Group to help my students make money by sharing knowledge. Fortunately, the rapid development of the blockchain industry has given us an unprecedented opportunity. 
 
@@ -1535,11 +1533,11 @@ In addition to earning bitcoin by selling memberships, those who put the knowled
 
 In brief, the Regular Investing Practice Group is is a place for me and my students to **develop together and make money together**.
 
-At the same time, I am also regularly investing in and holding BOX, leading by example. Regular investing is the only reliable investing strategy for most people, but it is always easier said than done, and those who haven't done it have no way to know how difficult it really is. The most important thing is to have people to accompany you, so no one has to suffer loneliness for too long.
+At the same time, I am also *leading by example* by regularly investing in and holding BOX. Regular investing is the only reliable investing strategy for most people, but it is always easier said than done, and those who haven't done it have no way to know how difficult it really is. The most important thing is to have people to accompany you, so no one has to suffer loneliness for too long.
 
 The Regular Investing Practice Group is different from other groups and courses because I have followed the following principle over the past ten years:
 
->I only talk and write about things I have already done.
+>*I only talk and write about things I have already done.*
 
 BOX is something that I only talked about once it was created, and I have kept improving it. It's not something that I started on a whim.
 
@@ -1556,6 +1554,35 @@ Investing education is important. Even more basic than investing, making money i
 **There's no disgrace in making money -- it's only a disgrace to make unclean money.**
 
 So from my perspective, everyone should seriously study investing. I can't think of any reason why not.
+
+### 4. How to Join the BOX Regular Investing Practice Group
+
+#### 4.1 Download Mixin Messenger
+
+Mixin download links:
+
+> * iOS
+>   * Mainland China App Store accounts，download [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019) on the App Store
+>   * Other App Store accounts，[download Mixin Messenger](https://apps.apple.com/app/mixin/id1322324266) on the App Store
+> * Android
+>   * In China，[download on the Tencent App Store](https://a.app.qq.com/o/simple.jsp?pkgname=one.mixin.messenger)，or [download on the Xiaomi App Store](http://app.mi.com/details?id=one.mixin.messenger)
+>   * Outside of China, [download on the Google Play Store](https://play.google.com/store/apps/details?id=one.mixin.messenger)
+
+iOS users with Mainland China App Store accounts who download [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019) must add the wallet bot (ID: *7000101425*) in order to sent, receive and store digital assets.
+
+![](../images/miniwallet.png)
+
+Also, the exit bot (ID: 7000101276) provides OTC service within Mixin.
+
+#### 4.2 Adding the “BOX Regular Investing Practice Group” Bot
+
+Search for *7000102069* to add the “BOX Regular Investing Practice Group” bot. However, without the recommendation of a member of the group, you will be unable to pay and join the group, so you must ask around in other groups to find someone who is willing to recommend you. 
+
+#### 4.3 Blockchain Open Class
+
+Search for and add the following bot: *7000102093*.
+
+I often hold open classes in this group, and you can also find recordings of previous open classes here. Just click on the robot icon and then the “course record” icon to access the recordings
 
 ## About the Author
 
