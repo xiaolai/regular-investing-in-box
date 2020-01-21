@@ -15,7 +15,7 @@ As [Howard Stanley Marks](https://en.wikipedia.org/wiki/Howard_Marks_(investor))
 
 > “There are *old* investors, and there are *bold* investors, but there are no *old bold* investors.”
 
-Don’t be so naïve as to believe that you can turn into a superman just because you learned something new yesterday. Translating knowledge into meaninful action takes much more time than you’ve ever imagined. Relax, take it easy, and don’t rush. You can lift a very heavy weight, but without proper training you can hurt yourself.
+Don’t be so naïve as to believe that you can turn into a superman just because you learned something new yesterday. Translating knowledge into meaningful action takes much more time than you’ve ever imagined. Relax, take it easy, and don’t rush. You can lift a very heavy weight, but without proper training you can hurt yourself.
 
 ## Preface
 
