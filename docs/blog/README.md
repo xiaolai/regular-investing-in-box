@@ -25,7 +25,7 @@
 > Depends.
 
 **What can I buy with bitcoin?**
-> Everything.
+> Anything.
 
 **I once heard of it, but couldn’t get it, what should I do?**
 > Learn.
