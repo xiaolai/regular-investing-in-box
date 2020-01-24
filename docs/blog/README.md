@@ -1,5 +1,65 @@
 # 博客
 
+## 2020.01.24 多年前的一篇短文
+
+我曾经用过 xiaolai.li 这个域名，后来不用了。现在，这篇文章只能在 [archive.org](https://web.archive.org/web/20140523062542/xiaolai.li/bitcoin-period) 上看到了。
+
+#### Bitcoin Period
+
+**What is bitcoin?**
+> Money.
+
+**Is it a scam?**
+> No.
+
+**Can I have some coins?**
+> Yes.
+
+**What is the best way to get some coins?**
+> Buy.
+
+**Is there any way to have coins other than buying?**
+> Mine.
+
+**Is it safe?**
+> Depends.
+
+**What can I buy with bitcoin?**
+> Everything.
+
+**I once heard of it, but couldn’t get it, what should I do?**
+> Learn.
+
+**Is it too expensive now?**
+> No.
+
+**Is it too late now?**
+> Never.
+
+**Should I buy bitcoin as an investment?**
+> Don’t.
+
+**What is the best move after getting some coins?**
+> Hold.
+
+**The price is too high, should I sell them all?**
+> No.
+
+**The price is dropping too fast, what should I do?**
+> Nothing.
+
+**How much will the price of bitcoin go up to?**
+> Higher.
+
+**People are asking questions, I cannot explain, what should I do?**
+> Try.
+
+**… but how?**
+> Harder.
+
+**Are you crazy?**
+> Maybe.
+
 ## 2020.01.22 区块链市场前景
 
 比特币作为世界上第一个应用，并没有像最初很多人以为的那样，“颠覆主权货币” —— 顶多，是地球上多了一个社区货币而已。
