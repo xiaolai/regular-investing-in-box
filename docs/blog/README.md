@@ -4,7 +4,7 @@
 
 我曾经用过 xiaolai.li 这个域名，后来不用了。现在，这篇文章只能在 [archive.org](https://web.archive.org/web/20140523062542/xiaolai.li/bitcoin-period) 上看到了。
 
-#### Bitcoin Period
+**Bitcoin Period**
 
 **What is bitcoin?**
 > Money.
