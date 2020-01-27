@@ -6,4 +6,5 @@
   * [中文 PDF](https://onregularinvesting.com/pdf/on-regularinvesting-cn.pdf)
   * [English PDF](https://onregularinvesting.com/pdf/on-regularinvesting-en.pdf)
 * [Blog](/blog/)
+* [Data](/data/)
 
