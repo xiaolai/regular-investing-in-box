@@ -704,7 +704,6 @@ From this perspective, EOS is a blockchain platform for businesses, and Mixin Ne
 
 Furthermore, these three investments have reached the "undeniable" stage. Of course they haven't been accepted by everyone, but no one can deny their value. This is the best time for regular investors to enter the market.
 
-以下图示，是从 2019 年 7 月 12 日开始算起的 BOX、BTC、EOS、XIN 的价格变化以及定投 BOX 收益的变化：
 The figure below shows the price change of BOX, BTC, EOS, XIN, and the profit change of investing BOX regularly (daily):
 
 ![](https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/data/box-historical-price-change.png)
