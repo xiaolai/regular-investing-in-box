@@ -52,8 +52,7 @@ series["XIN"] = xin_price_change
 series["BOX"] = box_price_change
 series["RI-BOX"] = ri_box_change
 
-# print(series)
-
+# draw the figure
 ax = plt.gca()
 ax.yaxis.set_major_formatter(FuncFormatter(lambda y, _: '{:.0%}'.format(y))) 
 series.plot(kind='line', x='Date', y='BTC', ax=ax, figsize = (20,10), color="red")
@@ -62,4 +61,5 @@ series.plot(kind='line', x='Date', y='XIN', ax=ax, figsize = (20,10), color="pur
 series.plot(kind='line', x='Date', y='BOX', ax=ax, figsize = (20,10), color="green")
 series.plot(kind='line', x='Date', y='RI-BOX', ax=ax, figsize = (20,10), color="blue")
 
-plt.show()
+# plt.show()
+plt.savefig("box-historical-price-change.png", transparent=True)
