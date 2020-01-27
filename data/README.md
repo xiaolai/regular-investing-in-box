@@ -11,5 +11,5 @@
 本仓库总的每日自动更新是我自己一个 linode 上的 crontab：
 
 ``` bash
-58 15 * * * cd /root/regular-investing-in-box/data && /root/anaconda3/bin/python boxhistoricalprice.py && /root/anaconda3/bin/python visualization.py && cd /root/regular-investing-in-box && git pull && git add . && git commit -a -m "box historical price auto-updated and figure re-generated" && git push -u origin master
+58 15 * * * cd /root/regular-investing-in-box && git pull && /root/anaconda3/bin/python /root/regular-investing-in-box/data/boxhistoricalprice.py && git add . && git commit -am "box historical price file auto-updated" && git push -u origin master && git pull && /root/anaconda3/bin/python /root/regular-investing-in-box/data/visualization.py && git add . && git commit -am "box historical price figure re-generated" && git push -u origin master
 ```
