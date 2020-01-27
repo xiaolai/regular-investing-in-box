@@ -704,6 +704,13 @@ From this perspective, EOS is a blockchain platform for businesses, and Mixin Ne
 
 Furthermore, these three investments have reached the "undeniable" stage. Of course they haven't been accepted by everyone, but no one can deny their value. This is the best time for regular investors to enter the market.
 
+以下图示，是从 2019 年 7 月 12 日开始算起的 BOX、BTC、EOS、XIN 的价格变化以及定投 BOX 收益的变化：
+The figure below shows the price change of BOX, BTC, EOS, XIN, and the profit change of investing BOX regularly (daily):
+
+![](https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/data/box-historical-price-change.png)
+
+> Note: [click this link to view the data](https://github.com/xiaolai/regular-investing-in-box/tree/master/data)
+
 Let's take Odyssey, the no-load, no-management-fee stock ETF that will be issued in the second half of 2020, as another example. As I mentioned in a previous chapter:
 
 >I agree with Masayoshi Sun's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 

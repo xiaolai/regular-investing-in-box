@@ -713,6 +713,12 @@ EOS 从这个角度望过去，就是个面向区块链企业的平台。而 Mix
 
 另外，在我看来，这三个标的都到了 “皆难否” 的阶段，它们当然还没有被所有人接受；然而，所有的人都没办法否认它们的价值…… 这样的时候，定投策略采用者应该可以开始入场了。
 
+以下图示，是从 2019 年 7 月 12 日开始算起的 BOX、BTC、EOS、XIN 的价格变化以及定投 BOX 收益的变化：
+
+![](https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/data/box-historical-price-change.png)
+
+> 注：[点击这个链接查看具体数据](https://github.com/xiaolai/regular-investing-in-box/tree/master/data)
+
 再以计划将于 2020 年下半年公开发行的〇管理费、〇开润的股票 ETF 产品奥德赛（ODYSSEY，暂定名）为例 —— 之前的章节里我曾经提过：
 
 > 我个人非常认同[孙正义](https://en.wikipedia.org/wiki/Masayoshi_Son)的见解，未来的相当长一段时间里，人工智能就是最好的行业。只不过，我也有一些稍微不一样的看法，比如，我认定另外一件事情：
