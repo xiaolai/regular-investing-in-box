@@ -3,8 +3,9 @@ from matplotlib.ticker import FuncFormatter
 import pandas as pd
 from re import sub
 
+# "https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/data/box_price_history.txt",
 series = pd.read_csv(
-    "https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/data/box_price_history.txt",
+    "/root/regular-investing-in-box/data/box_price_history.txt",
     sep="\t"
 )
 
@@ -34,7 +35,7 @@ for i in range(0, number_of_rows):
     value_accumulated.append(holding * float(sub(r"[^\d.]", "", series.at[i, "BOX Price"])))
 series["Value Accumulated"] = value_accumulated    
 
-# add price changes
+# add price changes of BTC, EOS, XIN, BOX, and RI-BOX
 btc_price_change = []
 eos_price_change = []
 xin_price_change = []
