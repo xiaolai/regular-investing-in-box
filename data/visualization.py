@@ -70,3 +70,4 @@ series.plot(kind='line', linestyle='dotted', x='Date', y='Base', ax=ax, figsize 
 
 # plt.show()
 plt.savefig("box-historical-price-change.png", transparent=True)
+plt.close()
