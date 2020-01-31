@@ -481,7 +481,7 @@ Following this theory, even Warren Buffett will make mistakes. His most famous m
 
 >Note: Historical data is from [Yahoo Finance (DIS)](https://finance.yahoo.com/quote/dis), and the chart above was created in Google Sheets; you can view the data and chart [here](https://docs.google.com/spreadsheets/d/1Vni-yvkOk7FPixEzQjGa4T7qLa-DzpaQuwlO0xTzrwI/edit?usp=sharing).
 
-In his [1995 investor letter](https://www.berkshirehathaway.com/letters/1995.html), Buffett relayed this story. He bought Disney stock in 1966 at \$0.31 per share, and then sold it a year later for \$0.48 per share, making a profit of 50%. Over the next thirty years, Buffett could only watch as Disney stock rose, reaching \$65 in 1995. 
+In his [1995 investor letter](https://www.berkshirehathaway.com/letters/1995.html), Buffett relayed this story. He bought Disney stock in 1966 at \$0.31 per share, and then sold it a year later for \$0.48 per share, making a profit of 50%. Over the next thirty years, Buffett could only watch as Disney stock rose, reaching \$13 in 1995. 
 
 But the story was not over. In 1995, Buffett helped Disney purchase Capital Cities/ABC, of which he was a shareholder, and once again ended up with a 3.6% stake in Disney! He sold his shares within three years, though, and missed out as Disney's stock continued to rise up to \$129 in October of 2019. [Business Insider calculated](https://markets.businessinsider.com/news/stocks/warren-buffett-made-20-billion-mistake-by-selling-disney-twice-2019-8-1028484967) that, had Buffett continued to hold 8.3% of Disney through 2019, his shares would have been worth \$21 billion, and he would have received \$1.5 billion in dividends.
 

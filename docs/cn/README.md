@@ -489,7 +489,7 @@
 
 > 注：以上历史数据来自于 [Yahoo Finance (DIS)](https://finance.yahoo.com/quote/dis)，上图使用 Google Spreadsheet 制作，你可以在[这里](https://docs.google.com/spreadsheets/d/1Vni-yvkOk7FPixEzQjGa4T7qLa-DzpaQuwlO0xTzrwI/edit?usp=sharing)在线浏览数据和图表。
 
-[在 1995 年的投资人公开信](https://www.berkshirehathaway.com/letters/1995.html)当中，沃伦·巴菲特提起这个投资故事，他在 1966 年以 31 美分的价格买入迪士尼股票，然后在 1967 年，也就是不到一年之后，他就以 48 美分的价格将迪士尼股票卖了出去，当年斩获了差不多年化 50% 的盈利…… 而后的三十来年时间里，他就只能那样眼睁睁地看着迪士尼股票价格一路上涨到 1995 年的 65 美元。到了 2019 年 10 月，迪士尼股票的价格大约为 129 美元，相当于在 1995 年价格的基础上又翻了一倍…… 
+[在 1995 年的投资人公开信](https://www.berkshirehathaway.com/letters/1995.html)当中，沃伦·巴菲特提起这个投资故事，他在 1966 年以 31 美分的价格买入迪士尼股票，然后在 1967 年，也就是不到一年之后，他就以 48 美分的价格将迪士尼股票卖了出去，当年斩获了差不多年化 50% 的盈利…… 而后的三十来年时间里，他就只能那样眼睁睁地看着迪士尼股票价格一路上涨到 1995 年的 13 美元。到了 2019 年 10 月，迪士尼股票的价格大约为 129 美元，相当于在 1995 年价格的基础上又翻了擦笔吨 10 倍…… 
 
 故事并未结束。到了 1995 年，巴菲特帮助迪士尼收购了自己持股的资本城 ABC（Capital Cities/ABC），再一次间接获得了 3.6% 的迪士尼股份！可是呢，不到三年之后，他再一次卖掉了所有迪士尼股份…… [有人算过](https://markets.businessinsider.com/news/stocks/warren-buffett-made-20-billion-mistake-by-selling-disney-twice-2019-8-1028484967)，如果巴菲特至今（2019）依然持有这总计 8.6% 的迪士尼股份的话，那么这些股份约值 210 亿美金，并且会因此获得另外 15 亿美金的分红。
 
