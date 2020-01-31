@@ -13,3 +13,7 @@
 ``` bash
 58 15 * * * cd /root/regular-investing-in-box && git pull && /root/anaconda3/bin/python /root/regular-investing-in-box/data/boxhistoricalprice.py && git add . && git commit -am "box historical price file auto-updated" && git push -u origin master && git pull && /root/anaconda3/bin/python /root/regular-investing-in-box/data/visualization.py && git add . && git commit -am "box historical price figure re-generated" && git push -u origin master
 ```
+
+
+View visualization.py on gogole colab:
+> https://colab.research.google.com/drive/19fmIYzWM2E2VgtSApiIzT8cr1mTH2szR
