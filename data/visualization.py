@@ -67,7 +67,7 @@ series.plot(kind='line', x='Date', y='XIN', ax=ax, figsize = (20,10), color="pur
 series.plot(kind='line', x='Date', y='BOX', ax=ax, figsize = (20,10), color="green")
 series.plot(kind='line', x='Date', y='RI-BOX', ax=ax, figsize = (20,10), color="blue")
 series.plot(kind='line', linestyle='dotted', x='Date', y='Base', ax=ax, figsize = (20,10), color="gray")
-
+plt.xlabel(f'regularly invested in {number_of_rows} days')
 # plt.show()
 plt.savefig("box-historical-price-change.png", transparent=True)
 plt.close()
