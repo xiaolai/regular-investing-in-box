@@ -706,7 +706,7 @@ Furthermore, these three investments have reached the "undeniable" stage. Of cou
 
 The figure below shows the price change of BOX, BTC, EOS, XIN, and the profit change of investing BOX regularly (daily):
 
-![](https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/data/box-historical-price-change.png)
+<img src="https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/data/box-historical-price-change.png" style="border-radius: 5px; border: 5px solid #ddd; max-width: 100%;"/>
 
 > Note: [click this link to view the data](https://github.com/xiaolai/regular-investing-in-box/tree/master/data)
 
