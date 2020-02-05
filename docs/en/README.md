@@ -342,7 +342,7 @@ Yet many of them still couldn't resist being driven by this simple thought: woul
 
 Let's discuss why this "improvement" to the strategy of regular investing isn't actually an improvement at all. First of all, each time we use the current price as a reason for making a decision, we are always actually making the decision after the fact. Even more importantly, we are neglecting an important fact: the short-term direction of the price after we make our decision is an independent event, and not tied to the prior change in price. After we buy, the price could go up, go down, or stay the same -- we don't know!
 
-Someone who increased their investment amount in July after a price drop would have discovered in September that their "improvement" to the strategy was useless and actually lost them money, because the increased investment in July actually ended up increasing their average cost.
+Someone who increased their investment amount in July after a price drop would have discovered in September that their "improvement" to the strategy was useless and actually cost them money, because the increased investment in July actually ended up increasing their average cost.
 
 Whether or not an investor has a clear grasp of statistical probability is the factor that has the greatest influence on the accuracy of their decisions. Sadly, too many people don't pay enough attention to this basic knowledge, and they have no idea that this lack of knowledge causes them so much trouble and grief.
 
