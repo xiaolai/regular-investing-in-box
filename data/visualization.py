@@ -58,6 +58,12 @@ series["BOX"] = box_price_change
 series["RI-BOX"] = ri_box_change
 series["Base"] = base
 
+pstring =  lambda i: ("+" if i[0] != '-' else "") + str(i)
+BOX_Change = pstring("{0:.2%}".format(float(sub(r"[^\d.]", "", series.at[number_of_rows - 1, "BOX Price"]))/float(sub(r"[^\d.]", "", series.at[0, "BOX Price"])) - 1))
+BTC_Change = pstring("{0:.2%}".format(float(sub(r"[^\d.]", "", series.at[number_of_rows - 1, "BTC Price"]))/float(sub(r"[^\d.]", "", series.at[0, "BTC Price"])) - 1))
+EOS_Change = pstring("{0:.2%}".format(float(sub(r"[^\d.]", "", series.at[number_of_rows - 1, "EOS Price"]))/float(sub(r"[^\d.]", "", series.at[0, "EOS Price"])) - 1))
+XIN_Change = pstring("{0:.2%}".format(float(sub(r"[^\d.]", "", series.at[number_of_rows - 1, "XIN Price"]))/float(sub(r"[^\d.]", "", series.at[0, "XIN Price"])) - 1))
+
 # draw the figure
 ax = plt.gca()
 ax.yaxis.set_major_formatter(FuncFormatter(lambda y, _: '{:.0%}'.format(y))) 
@@ -67,7 +73,8 @@ series.plot(kind='line', x='Date', y='XIN', ax=ax, figsize = (20,10), color="pur
 series.plot(kind='line', x='Date', y='BOX', ax=ax, figsize = (20,10), color="green")
 series.plot(kind='line', x='Date', y='RI-BOX', ax=ax, figsize = (20,10), color="blue")
 series.plot(kind='line', linestyle='dotted', x='Date', y='Base', ax=ax, figsize = (20,10), color="gray")
-plt.xlabel(f'regularly invested in {number_of_rows} days')
+plt.xlabel(f'\nResult of regularly investing in {number_of_rows} days\n\nBOX: {BOX_Change}; BTC: {BTC_Change}; EOS: {EOS_Change}; XIN: {XIN_Change}')
+
 # plt.show()
-plt.savefig("box-historical-price-change.png", transparent=True)
+plt.savefig("box-historical-price-change.png", transparent=False)
 plt.close()
