@@ -63,6 +63,7 @@ BOX_Change = pstring("{0:.2%}".format(float(sub(r"[^\d.]", "", series.at[number_
 BTC_Change = pstring("{0:.2%}".format(float(sub(r"[^\d.]", "", series.at[number_of_rows - 1, "BTC Price"]))/float(sub(r"[^\d.]", "", series.at[0, "BTC Price"])) - 1))
 EOS_Change = pstring("{0:.2%}".format(float(sub(r"[^\d.]", "", series.at[number_of_rows - 1, "EOS Price"]))/float(sub(r"[^\d.]", "", series.at[0, "EOS Price"])) - 1))
 XIN_Change = pstring("{0:.2%}".format(float(sub(r"[^\d.]", "", series.at[number_of_rows - 1, "XIN Price"]))/float(sub(r"[^\d.]", "", series.at[0, "XIN Price"])) - 1))
+RIBOX_Change = pstring("{0:.2%}".format(float(series.at[number_of_rows - 1, "Value Accumulated"]/series.at[number_of_rows - 1, "Total Invested"] - 1)))
 
 # draw the figure
 ax = plt.gca()
@@ -73,7 +74,7 @@ series.plot(kind='line', x='Date', y='XIN', ax=ax, figsize = (20,10), color="pur
 series.plot(kind='line', x='Date', y='BOX', ax=ax, figsize = (20,10), color="green")
 series.plot(kind='line', x='Date', y='RI-BOX', ax=ax, figsize = (20,10), color="blue")
 series.plot(kind='line', linestyle='dotted', x='Date', y='Base', ax=ax, figsize = (20,10), color="gray")
-plt.xlabel(f'\nResult of regularly investing in {number_of_rows} days\n\nBOX: {BOX_Change}; BTC: {BTC_Change}; EOS: {EOS_Change}; XIN: {XIN_Change}')
+plt.xlabel(f'\nResult of regularly investing in {number_of_rows} days\n\nBOX: {BOX_Change}; BTC: {BTC_Change}; EOS: {EOS_Change}; XIN: {XIN_Change}; RI-BOX: {RIBOX_Change}')
 
 # plt.show()
 plt.savefig("box-historical-price-change.png", transparent=False)
