@@ -20,7 +20,9 @@ The third edition of the book was published online: https://onregularinvesting.c
 
 -----
 
+《定投改变命运》第三版，已放置在 https://onregularinvesting.com
 
+-----
 
 # 定投 —— 大佬的自我修养
 
