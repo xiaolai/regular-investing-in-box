@@ -3,7 +3,6 @@
 <div style="text-align: center;">
     <img src="../images/coverimage.gif" />
 </div>
-<hr />
 
 ## 警告
 
@@ -374,8 +373,6 @@
 请认真思考并揣摩以下一句名言的深刻含义，它是投资教父，沃伦·巴菲特的老师[本杰明·格雷厄姆](https://en.wikipedia.org/wiki/Benjamin_Graham)说的：
 
 > 短期来看市场是**投票机**，长期来看它是**称重机**。
-
------
 
 ## 第二部分 定投标的的选择
 
@@ -1461,8 +1458,6 @@ EOS 从这个角度望过去，就是个面向区块链企业的平台。而 Mix
 > * 李笑来是比特币的长期持有者（自 2011 年 5 月）
 > * 李笑来是 EOS 发行公司 BlockOne 的天使投资人（2017 年 5 月）
 > * 李笑来是 Mixin Network 项目的天使投资人（2017 年 10 月）
-
------
 
  [BOX](https://b.watch)是 **B**tc + e**O**s + **X**in 的缩写，而 [BOX](https://b.watch) 本身，又恰好是中文 “盒子” 的意思。又由于 [BOX](https://b.watch) 是李笑来设计的 ETF 产品，所以江湖戏称 “韭菜盒子”，而 “定投 [BOX](https://b.watch)”，被人们戏称 “总吃韭菜盒子”。
 
