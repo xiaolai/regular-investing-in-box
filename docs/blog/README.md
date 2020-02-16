@@ -5,6 +5,8 @@
 > * [定投改变命运（第三版）epub](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/epub/OnRegularInvesting_cn.epub)
 > * [On Regular Investing epub](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/epub/OnRegularInvesting_en.epub)
 
+另，次日新增 mobi 下载，请查看顶部下拉菜单。
+
 ## 2020.01.26 BOX 历史价格自动更新
 
 我在 github 仓库里，添加了一个 ```data``` 目录，里面的 BOX 历史价格文件会每日 23:59 更新一次价格。
