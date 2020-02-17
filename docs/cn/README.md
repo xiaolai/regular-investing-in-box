@@ -1648,11 +1648,30 @@ iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-
 > * [区块链小白书](https://blockchainlittlebook.com)
 > * [如何自助 —— 重大病毒性疫情中如何应对创伤应激障碍](https://github.com/xiaolai/help-to-be-helped)
 
+## 关于境内可能存在的访问困难
 
+境内访问本站（本站内容是托管在 [github.com](https://github.com/xiaolai/regular-investing-in-box) 上）可能会有访问困难，其原因在于境内可能存在的 DNS 污染，所以，可以通过修改系统 hosts 文件解决：
+
+Mac 的 hosts 文件位置为： ```/etc/hosts```
+
+Windows 的 hosts 文件位置为：```C:\Windows\System32\drivers\etc\hosts```
+
+在 hosts 文件中添加以下内容：
+
+```
+192.30.253.112     github.com
+185.199.111.153    assets-cdn.github.com
+151.101.193.194    github.global.ssl.fastly.net
+185.199.110.153    onregularinvesting.com
+```
+
+如此这般之后，理论上访问困难问题就可以解决了。
 
 -----
 
-[下载本书 PDF 版本](https://onregularinvesting.com/pdf/on-regularinvesting-cn.pdf)
+> * [下载本书 PDF 版本](https://onregularinvesting.com/pdf/on-regularinvesting-cn.pdf)
+> * [下载本书 ePub 版本](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/epub/OnRegularInvesting_cn.epub)
+> * [下载本书 mobi 版本](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/mobi/OnRegularInvesting_cn.mobi)
 
 本书的版权协议为 [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)。
 
