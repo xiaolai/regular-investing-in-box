@@ -544,7 +544,7 @@ Now we can see that, when we choosing investments, in addition to "one" (quite d
 
 We've seen that emerging markets develop faster, so it's easy, we can just choose the "emerging market part", right? Or could we just choose one fastest-growing country, or even just choose the fastest growing industry in that country? Sure! Choosing a market that is growing faster is just like choosing a faster method of transportation. 
 
-It's extremely difficult to pick the best investment out of tens of thousands of possibilities, but it's quite easy to pick a couple of the the fastest-growing areas out of ten or so regions. Everyone knows that the US and China are the fastest-growing places in the world. If I were to design an ETF, I would look for my investments in just these two places. This ETF would have a high probability of doing better than the MSCI World Index, wouldn't it? To take it a step further, it wouldn't be that difficult to further limit my investments to the fastest growing one or two industries in each country. At least legendary investor [Masayoshi Son](https://en.wikipedia.org/wiki/Masayoshi_Son) doesn't think it would be difficult:
+It's extremely difficult to pick the best investment out of tens of thousands of possibilities, but it's quite easy to pick a couple of the fastest-growing areas out of ten or so regions. Everyone knows that the US and China are the fastest-growing places in the world. If I were to design an ETF, I would look for my investments in just these two places. This ETF would have a high probability of doing better than the MSCI World Index, wouldn't it? To take it a step further, it wouldn't be that difficult to further limit my investments to the fastest growing one or two industries in each country. At least legendary investor [Masayoshi Son](https://en.wikipedia.org/wiki/Masayoshi_Son) doesn't think it would be difficult:
 
 >Making money is easy. All you need to have done is invested in the Internet 20 years ago, because at that time the Internet was the future of the world. Now, you should invest in AI, because AI is the future of the world. 
 
@@ -777,7 +777,7 @@ Regular investors are different. Each time they buy they are "buying low", becau
 
 Frequent traders are definitely not willing to concede this point. "How could I have a 50% chance of making a mistake?!" Alright, let's say you have an 80% chance of being right. Actually, you have to be right twice in a row, so your chances of success are only 80% x 80% = 64%. That's still much lower than 100%! Furthermore, if you have actually tried investing using your own money, you know that being right 80% of the time is incredibly unlikely. If you're right even 60% of the time you can be considered an expert! And if you're right 60% of the time, your chances of being right twice in a row drop to 36%. This explains why the vast majority of investors end up thinking that every action they took was wrong. Once you understand that short-term price movements are an unpredictable ["random walk"](https://en.wikipedia.org/wiki/Random_walk_hypothesis), you will understand why the chances of success are really 50% x 50% = 25%. No more no less.
 
-But we're not done yet! Another hidden and serious detail has been been left out. Frequent traders don't understand that what they are depending on is **judgement after the fact**. Putting aside whether their judgement is correct or not, by the time they realize something, and think, "Oh, this must be an upward trend", they've already missed a portion of the rise in price. And by the time they realize, "Oh, this looks like a downward trend", they can't avoid having participated in some of the drop in price. 
+But we're not done yet! Another hidden and serious detail has been left out. Frequent traders don't understand that what they are depending on is **judgement after the fact**. Putting aside whether their judgement is correct or not, by the time they realize something, and think, "Oh, this must be an upward trend", they've already missed a portion of the rise in price. And by the time they realize, "Oh, this looks like a downward trend", they can't avoid having participated in some of the drop in price. 
 
 ![Figure20](../images/Figure20.png)
 
@@ -833,7 +833,7 @@ If you missed the best ten days, you would lose *66%* of your returns, which is 
 
 ![Figure25](../images/Figure25.png)
 
-So, what should we do? We should do nothing! Never underestimate the power of the Daoist concept of "doing nothing". Actually, it's hard to find a better example than the the trading markets to illustrate its power.
+So, what should we do? We should do nothing! Never underestimate the power of the Daoist concept of "doing nothing". Actually, it's hard to find a better example than the trading markets to illustrate its power.
 
 Scary headlines attract more eyeballs, so the media makes a bigger deal of large price drops than it does of large increases. The media always prefers to report bad news instead of good news. Aside from the fact that bad news attracts more viewers and readership, reporting bad news is also a better fit for the media's self image. After all, if the media reports good news about a person or company, people tend to suspect that they are kissing up to someone. The April 2017 event on the United Airlines flight (bad news) was widely reported, and stories about Warren Buffett losing \$20 million on his United stock (bad news) were all over the place, but no one wrote an article about how Warren Buffett's overall airline stock holdings rose by more than \$140 million that day.
 
@@ -1197,7 +1197,7 @@ The following is my favorite analogy for education:
 
 >Education is like a pair of glasses. You are in the same world before and after putting on the glasses, but you can see more clearly and accurately after putting on the glasses. You are in the same world before or after you learn something, but you can see the world more clearly and accurately through the lens of education.
 
-Over the years, collecting analogies has become a hobby of mine. Even though it's been so long that I don't remember where this analogy came from, it's still my favorite, bar none. Regarding the the results of education, I have come up with another extremely accurate analogy that I call "the Mirror Effect":
+Over the years, collecting analogies has become a hobby of mine. Even though it's been so long that I don't remember where this analogy came from, it's still my favorite, bar none. Regarding the results of education, I have come up with another extremely accurate analogy that I call "the Mirror Effect":
 
 >The world in the mirror and the world outside of the mirror look the same, but they are actually reversed.
 
