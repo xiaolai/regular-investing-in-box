@@ -1103,7 +1103,7 @@ Francis Bacon made [the following observation](https://rintintin.colorado.edu/~v
 
 > Once a human intellect has adopted an opinion (either as something it likes or as something generally accepted), it draws everything else in to confirm and support it.
 
-What about about when that opinion is proven wrong? [Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) observed the following: 
+What about when that opinion is proven wrong? [Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) observed the following: 
 
 > “My characterization of a loser is someone who, after making a mistake, doesn’t introspect, doesn’t exploit it, feels embarrassed and defensive rather than enriched with a new piece of information, and tries to explain why he made the mistake rather than moving on.”
 >
