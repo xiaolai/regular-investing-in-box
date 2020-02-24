@@ -1662,7 +1662,6 @@ Windows 的 hosts 文件位置为：```C:\Windows\System32\drivers\etc\hosts```
 192.30.253.112     github.com
 185.199.111.153    assets-cdn.github.com
 151.101.193.194    github.global.ssl.fastly.net
-185.199.108.15    onregularinvesting.com
 ```
 
 如此这般之后，理论上访问困难问题就可以解决了。
