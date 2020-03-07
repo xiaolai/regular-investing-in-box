@@ -242,7 +242,7 @@ S&P 500에 2007년 10월 8일부터 투자를 시작했다고 가정해 보자. 
 
 결과가 보이는가? 결국 이게 다 무얼 위한 노력이었단 말인가 하는 질문을 던지지 않을 수 없다. 평소엔 열심히 일하고 휴일엔 편하게 쉬는 다른 사람들보다 고작 *14%* 많은 노동량이다. 10년 전 내 머리는 내 손으로 깎겠다는 결단 이후 나는 얼마나 많은 시간을 아꼈을까? 머리를 한 달에 한 번씩 1.5시간을 들여 깎는다고 치면, 1년에 18시간, 10년에 180시간이다. 스스로에게 가혹할 정도로 시간 관리를 한 결과로 나는 7.5일 남짓을 아끼게 되었다! 최선을 다해 시간을 아낀 결과 남들보다 고작 *0.228%* 많은 시간을 확보한 셈이다!
 
-20세기 가장 영향력있는 경제학자 중 한 명인 [프랭크 H. 나이트](https://en.wikipedia.org/wiki/Frank_Knight)(Frank H. Knight)가 세운 아주 유명한 [가설](https://books.google.de/books?id=J76dBHOB0yUC&pg=PA48&lpg=PA48&dq=Ownership+of+personal+or+material+productive+capacity&source=bl&ots=FWMMVl-FhM&sig=ACfU3U2d1JxOO9DWYcnkTnzkPx3nMjMnfQ&hl=en&sa=X&ved=2ahUKEwiys6vF7prmAhWRwAIHHXp5ApEQ6AEwAHoECAcQAQ#v=onepage&q=Ownership of personal or material productive capacity&f=false)이 있다.
+20세기 가장 영향력있는 경제학자 중 한 명인 [프랭크 H. 나이트](https://en.wikipedia.org/wiki/Frank_Knight)(Frank H. Knight)가 세운 아주 유명한 [가설](https://books.google.de/books?id=J76dBHOB0yUC&pg=PA48&lpg=PA48&dq=Ownership+of+personal+or+material+productive+capacity&source=bl&ots=FWMMVl-FhM&sig=ACfU3U2d1JxOO9DWYcnkTnzkPx3nMjMnfQ&hl=en&sa=X&ved=2ahUKEwiys6vF7prmAhWRwAIHHXp5ApEQ6AEwAHoECAcQAQ#v=onepage&q=Ownership%20of%20personal%20or%20material%20productive%20capacity&f=false)이 있다.
 
 > 개인의 재산이나 물질적 생산 능력은, 상대적 중요도 순으로 상속 받은 재산, 운, 노력에 의해 좌우된다.
 
