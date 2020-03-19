@@ -1,5 +1,164 @@
 # 博客
 
+## 2020.02.15 中英两个版本的 epub 已可下载
+
+> * [定投改变命运（第三版）epub](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/epub/OnRegularInvesting_cn.epub)
+> * [On Regular Investing epub](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/epub/OnRegularInvesting_en.epub)
+
+另，次日新增 mobi 下载，请查看顶部下拉菜单。
+
+## 2020.01.26 BOX 历史价格自动更新
+
+我在 github 仓库里，添加了一个 ```data``` 目录，里面的 BOX 历史价格文件会每日 23:59 更新一次价格。
+
+而后，可以使用这个文件去用 Python 制作价格变动图表，代码如下：
+
+
+
+```python
+import matplotlib.pyplot as plt
+import pandas as pd
+from re import sub
+
+series = pd.read_csv(
+    "https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/data/box_price_history.txt",
+    sep="\t"
+)
+
+number_of_rows = series.shape[0]
+
+daily_invested = 1
+
+# add column "Total Invested"
+total_invested = []
+for i in range(0, number_of_rows):
+    total_invested.append((i+1)*daily_invested)
+series["Total Invested"] = total_invested
+
+# add column "Daily Bought"
+BOX_daily_bought = []
+for i in range(0, number_of_rows):
+    BOX_daily_bought.append(daily_invested/float(sub(r"[^\d.]", "", series.at[i, "BOX Price"])))
+
+series["BOX Bought"] = BOX_daily_bought
+
+# add column "Value Accumulated"
+value_accumulated = []
+for i in range(0, number_of_rows):
+    holding = 0
+    for j in range(0, i+1):
+        holding += series.at[j, "BOX Bought"]
+    value_accumulated.append(holding * float(sub(r"[^\d.]", "", series.at[i, "BOX Price"])))
+series["Value Accumulated"] = value_accumulated    
+
+
+# add BTC price change
+btc_price_change = []
+eos_price_change = []
+xin_price_change = []
+box_price_change = []
+ri_box_change = []
+for i in range(0, number_of_rows):
+    btc_price_change.append(float(sub(r"[^\d.]", "", series.at[i, "BTC Price"]))/float(sub(r"[^\d.]", "", series.at[0, "BTC Price"])) - 1)
+    eos_price_change.append(float(sub(r"[^\d.]", "", series.at[i, "EOS Price"]))/float(sub(r"[^\d.]", "", series.at[0, "EOS Price"])) - 1)
+    xin_price_change.append(float(sub(r"[^\d.]", "", series.at[i, "XIN Price"]))/float(sub(r"[^\d.]", "", series.at[0, "XIN Price"])) - 1)
+    box_price_change.append(float(sub(r"[^\d.]", "", series.at[i, "BOX Price"]))/float(sub(r"[^\d.]", "", series.at[0, "BOX Price"])) - 1)    
+    ri_box_change.append(series.at[i, "Value Accumulated"]/series.at[i, "Total Invested"] - 1)
+series["BTC"] = btc_price_change
+series["EOS"] = eos_price_change
+series["XIN"] = xin_price_change
+series["BOX"] = box_price_change
+series["RI-BOX"] = ri_box_change
+
+# print(series)
+
+ax = plt.gca()
+series.plot(kind='line', x='Date', y='BTC', ax=ax)
+series.plot(kind='line', x='Date', y='EOS', ax=ax)
+series.plot(kind='line', x='Date', y='XIN', ax=ax)
+series.plot(kind='line', x='Date', y='BOX', ax=ax)
+series.plot(kind='line', x='Date', y='RI-BOX', ax=ax)
+plt.show()
+```
+
+![png](images/output_0_0.png)
+
+## 2020.01.24 多年前的一篇短文
+
+我曾经用过 xiaolai.li 这个域名，后来不用了。现在，这篇文章只能在 [archive.org](https://web.archive.org/web/20140523062542/xiaolai.li/bitcoin-period) 上看到了。
+
+**Bitcoin Period**
+
+**What is bitcoin?**
+> Money.
+
+**Is it a scam?**
+> No.
+
+**Can I have some coins?**
+> Yes.
+
+**What is the best way to get some coins?**
+> Buy.
+
+**Is there any way to have coins other than buying?**
+> Mine.
+
+**Is it safe?**
+> Depends.
+
+**What can I buy with bitcoin?**
+> Anything.
+
+**I once heard of it, but couldn’t get it, what should I do?**
+> Learn.
+
+**Is it too expensive now?**
+> No.
+
+**Is it too late now?**
+> Never.
+
+**Should I buy bitcoin as an investment?**
+> Don’t.
+
+**What is the best move after getting some coins?**
+> Hold.
+
+**The price is too high, should I sell them all?**
+> No.
+
+**The price is dropping too fast, what should I do?**
+> Nothing.
+
+**How much will the price of bitcoin go up to?**
+> Higher.
+
+**People are asking questions, I cannot explain, what should I do?**
+> Try.
+
+**… but how?**
+> Harder.
+
+**Are you crazy?**
+> Maybe.
+
+## 2020.01.22 区块链市场前景
+
+比特币作为世界上第一个应用，并没有像最初很多人以为的那样，“颠覆主权货币” —— 顶多，是地球上多了一个社区货币而已。
+
+然而，区块链交易市场却实实在在地在颠覆传统证券交易市场。
+
+![](images/marketcap-chart.png)
+
+当前区块链交易市场内总市值只有 2500 亿美元左右，港交所的总市值大约为 5 万亿美元，而纳斯达克的总市值大约为 14 万亿美元。
+
+哪怕是区块链交易市场总市值隔天马上翻上 20 倍，也才追上港交所；要隔天翻上 56 倍才可能赶上纳斯达克…… 可传统正确交易市场也不是静止不动的，也在发展…… 等有一天，区块链交易市场市值规模真的追上的时候呢？
+
+也就是说，如此粗略估算，区块链交易市场市值规模也至少有 50 ～ 100 的空间……
+
+看起来很像是胡说八道呢！
+
 ## 2020.01.12 GAFATA 近三年表现
 
 2017 年 1 月 1 日，在《通往财富自由》专栏之中，我向读者们介绍了 GAFATA 这个投资组合。

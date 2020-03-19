@@ -3,7 +3,6 @@
 <div style="text-align: center;">
     <img src="../images/coverimage.gif" />
 </div>
-<hr />
 
 ## Warning
 
@@ -15,7 +14,7 @@ As [Howard Stanley Marks](https://en.wikipedia.org/wiki/Howard_Marks_(investor))
 
 > “There are *old* investors, and there are *bold* investors, but there are no *old bold* investors.”
 
-Don’t be so naïve as to believe that you can turn into a superman just because you learned something new yesterday. Translating knowledge into meaninful action takes much more time than you’ve ever imagined. Relax, take it easy, and don’t rush. You can lift a very heavy weight, but without proper training you can hurt yourself.
+Don’t be so naïve as to believe that you can turn into a superman just because you learned something new yesterday. Translating knowledge into meaningful action takes much more time than you’ve ever imagined. Relax, take it easy, and don’t rush. You can lift a very heavy weight, but without proper training you can hurt yourself.
 
 ## Preface
 
@@ -96,7 +95,7 @@ Let's take a look at an even more striking example. Suppose you started regularl
 
 >Note: The historical data in this chart is from [Yahoo Finance (Bitcoin USD)](https://finance.yahoo.com/quote/BTC-USD/history/), and the chart was created in Google Sheets; you can view the data and chart [here](https://docs.google.com/spreadsheets/d/1pzc6p4UhyAMtqaKis2_uU3hbi8Um34ArTiUQr1tZpc0/edit?usp=sharing).
 
-Even though you entered the market at the worst time, your investment has still been profitable in USD terms, with the red line (your assets in USD terms) passing the blue line (your total investment in USD terms) on May 6th, 2009. If you invested \$100 each week, by the 87th week you would have invested \$8,700, but your Bitcoin would have been worth \$16,417, for a gain of **88.71%**. This is despite the fact that Bitcoin remained over 62.85% off of it's all-time high, which was when you started investing. 
+Even though you entered the market at the worst time, your investment has still been profitable in USD terms, with the red line (your assets in USD terms) passing the blue line (your total investment in USD terms) on May 6th, 2019. If you invested \$100 each week, by the 87th week you would have invested \$8,700, but your Bitcoin would have been worth \$16,417, for a gain of **88.71%**. This is despite the fact that Bitcoin remained over 62.85% off of it's all-time high, which was when you started investing. 
 
 This can seem really flabbergasting at first: 
 
@@ -148,13 +147,13 @@ How can you tell when a market cycle begins? Actually, we can only make this det
 
 On the same chart, I have marked the three full market cycles that I have personally experienced with bitcoin. The first started around June 8th, 2011, at a price of \$32, and ended on April 11th, 2013, at a price of \$266; the second started at the end of the first and ended on December 19th, 2013, at a price of \$1,280; the third started at the end of the second and ended on December 17th, 2017, at a price of \$19,800. Actually, I have experienced more cycles than this, since I entered the bitcoin market two months before the June 2011 high of \$32, and I have continued and will continue to hold Bitcoin since the December 2017 historical high of \$19,800.
 
-The are several details in this chart that are worth looking at closely. For example, we can clearly see that, as I mentioned earlier, bear markets are much, much longer than bull markets. 
+There are several details in this chart that are worth looking at closely. For example, we can clearly see that, as I mentioned earlier, bear markets are much, much longer than bull markets. 
 
 Why do we need to emphasize at least **two** market cycles? Because many people misunderstand **trends**. They see that today's price is higher than yesterday's, and that yesterday's price was higher than the day before, and they think they have identified an "upward trend". They then erroneously assume that tomorrow's price will be higher than today's. But it's actually impossible to judge a trend in the short term, even over the course of one entire cycle.
 
 >Only after **two full cycles** can we make an **accurate** judgement about whether a trend is more likely to be upward or downward.
 
-Furthermore, please note the use of "more likely to be" in the sentence above. Even after two full cycles, we still cannot be 100% sure about the future trend based on historical data. At this point in time (October 2019), bitcoin's price has still not returned to its historical high, and we cannot be 100% sure that Bitcoin will every exceed its historical high. We will only be able to make this determination after the fact –- long after the fact. In the end, from any point in time, we can only make investment decisions based on less than 100% certainty. Since the future is full of risk and unknown factors, we can only use terms such as "more likely". Actually, this is precisely why investing is so interesting.
+Furthermore, please note the use of "more likely to be" in the sentence above. Even after two full cycles, we still cannot be 100% sure about the future trend based on historical data. At this point in time (October 2019), bitcoin's price has still not returned to its historical high, and we cannot be 100% sure that Bitcoin will ever exceed its historical high. We will only be able to make this determination after the fact –- long after the fact. In the end, from any point in time, we can only make investment decisions based on less than 100% certainty. Since the future is full of risk and unknown factors, we can only use terms such as "more likely". Actually, this is precisely why investing is so interesting.
 
 In the chart above, we can barely see the high reached in June of 2011. But if we separate each historical high into separate charts, we see that they look strikingly similar.
 
@@ -342,7 +341,7 @@ Yet many of them still couldn't resist being driven by this simple thought: woul
 
 Let's discuss why this "improvement" to the strategy of regular investing isn't actually an improvement at all. First of all, each time we use the current price as a reason for making a decision, we are always actually making the decision after the fact. Even more importantly, we are neglecting an important fact: the short-term direction of the price after we make our decision is an independent event, and not tied to the prior change in price. After we buy, the price could go up, go down, or stay the same -- we don't know!
 
-Someone who increased their investment amount in July after a price drop would have discovered in September that their "improvement" to the strategy was useless and actually lost them money, because the increased investment in July actually ended up increasing their average cost.
+Someone who increased their investment amount in July after a price drop would have discovered in September that their "improvement" to the strategy was useless and actually cost them money, because the increased investment in July actually ended up increasing their average cost.
 
 Whether or not an investor has a clear grasp of statistical probability is the factor that has the greatest influence on the accuracy of their decisions. Sadly, too many people don't pay enough attention to this basic knowledge, and they have no idea that this lack of knowledge causes them so much trouble and grief.
 
@@ -481,7 +480,7 @@ Following this theory, even Warren Buffett will make mistakes. His most famous m
 
 >Note: Historical data is from [Yahoo Finance (DIS)](https://finance.yahoo.com/quote/dis), and the chart above was created in Google Sheets; you can view the data and chart [here](https://docs.google.com/spreadsheets/d/1Vni-yvkOk7FPixEzQjGa4T7qLa-DzpaQuwlO0xTzrwI/edit?usp=sharing).
 
-In his [1995 investor letter](https://www.berkshirehathaway.com/letters/1995.html), Buffett relayed this story. He bought Disney stock in 1966 at \$0.31 per share, and then sold it a year later for \$0.48 per share, making a profit of 50%. Over the next thirty years, Buffett could only watch as Disney stock rose, reaching \$65 in 1995. 
+In his [1995 investor letter](https://www.berkshirehathaway.com/letters/1995.html), Buffett relayed this story. He bought Disney stock in 1966 at \$0.31 per share, and then sold it a year later for \$0.48 per share, making a profit of 50%. Over the next thirty years, Buffett could only watch as Disney stock rose, reaching \$13 in 1995. 
 
 But the story was not over. In 1995, Buffett helped Disney purchase Capital Cities/ABC, of which he was a shareholder, and once again ended up with a 3.6% stake in Disney! He sold his shares within three years, though, and missed out as Disney's stock continued to rise up to \$129 in October of 2019. [Business Insider calculated](https://markets.businessinsider.com/news/stocks/warren-buffett-made-20-billion-mistake-by-selling-disney-twice-2019-8-1028484967) that, had Buffett continued to hold 8.3% of Disney through 2019, his shares would have been worth \$21 billion, and he would have received \$1.5 billion in dividends.
 
@@ -545,11 +544,11 @@ Now we can see that, when we choosing investments, in addition to "one" (quite d
 
 We've seen that emerging markets develop faster, so it's easy, we can just choose the "emerging market part", right? Or could we just choose one fastest-growing country, or even just choose the fastest growing industry in that country? Sure! Choosing a market that is growing faster is just like choosing a faster method of transportation. 
 
-It's extremely difficult to pick the best investment out of tens of thousands of possibilities, but it's quite easy to pick a couple of the the fastest-growing areas out of ten or so regions. Everyone knows that the US and China are the fastest-growing places in the world. If I were to design an ETF, I would look for my investments in just these two places. This ETF would have a high probability of doing better than the MSCI World Index, wouldn't it? To take it a step further, it wouldn't be that difficult to further limit my investments to the fastest growing one or two industries in each country. At least legendary investor [Masayoshi Son](https://en.wikipedia.org/wiki/Masayoshi_Son) doesn't think it would be difficult:
+It's extremely difficult to pick the best investment out of tens of thousands of possibilities, but it's quite easy to pick a couple of the fastest-growing areas out of ten or so regions. Everyone knows that the US and China are the fastest-growing places in the world. If I were to design an ETF, I would look for my investments in just these two places. This ETF would have a high probability of doing better than the MSCI World Index, wouldn't it? To take it a step further, it wouldn't be that difficult to further limit my investments to the fastest growing one or two industries in each country. At least legendary investor [Masayoshi Son](https://en.wikipedia.org/wiki/Masayoshi_Son) doesn't think it would be difficult:
 
 >Making money is easy. All you need to have done is invested in the Internet 20 years ago, because at that time the Internet was the future of the world. Now, you should invest in AI, because AI is the future of the world. 
 
-Actually, I have already designed a no-load, no-management-fee index fund. The working name is "Odyssey", and it should be issued in the US in October of 2020. It will be made up of about 30 investments, all in listed companies in the US and China. There is only one selection criterion:
+Actually, I have already designed a no-carry, no-management-fee index fund. The working name is "Odyssey", and it should be issued in the US in October of 2020. It will be made up of about 30 investments, all in listed companies in the US and China. There is only one selection criterion:
 
 >"Who has constantly growing user data?"
 
@@ -643,7 +642,7 @@ This is an extremely important, if subtle, difference. I have a very simple, dir
 
 >Don't look at how many people have already accepted it, look to see if most people can no longer deny it.
 
-**Undeniability** is an important sign of an established trend. It doesn't matter whether or not they understand it, or whether or not they accept it. If they can't deny it, then the trend has basically already "filled up the bubble". This is the best signal for regular investors to decide when to enter the market. This is why I didn't introduce BOX, my no-load, no-management-fee blockchain ETF, until July of 2019, even though my thinking about and designs for a blockchain ETF began in 2015.
+**Undeniability** is an important sign of an established trend. It doesn't matter whether or not they understand it, or whether or not they accept it. If they can't deny it, then the trend has basically already "filled up the bubble". This is the best signal for regular investors to decide when to enter the market. This is why I didn't introduce BOX, my no-carry, no-management-fee blockchain ETF, until July of 2019, even though my thinking about and designs for a blockchain ETF began in 2015.
 
 It's important to point out that most novice investors fall into the trap of "looking for the next...". Actually, very few people succeed by choosing carefully and holding over the long term (whether through regular investing or not), and the vast majority of people never make deep macro observations from a long-term perspective, but everyone is jealous of those who have already succeeded, so they can't help but think:
 
@@ -692,7 +691,7 @@ After eight years of observation, thinking and practice, I think that blockchain
 
 >Trusted ledger (BTC) → Trusted platform for code (ETH/EOS) → Trusted execution environment (Mixin) → Trusted hardware (?) ...
 
-[Bitcoin](https://bitcoin.org/) was the world's first blockchain application. At its core it is a open, transparent, immutable, distributed, trusted ledger. Projects such as [Ethereum](https://www.ethereum.org) and [EOS](https://eos.io), which came along later, have the goal of becoming a blockchain application platform, which is to say that application code can be written to and executed on an open, transparent, immutable, distributed, trusted ledger. Putting a ledger on a blockchain allowed for a trusted ledger, and putting application code on a blockchain allowed for trusted code. [Mixin Network](https://mixin.one) combines a Trusted Execution Environment (TEE) and a Directed Acyclic Graph (DAG) to create an open, transparent, immutable, distributed digital asset storage network, or a trusted execution environment. Maybe in the near future we will also see trusted hardware.
+[Bitcoin](https://bitcoin.org/) was the world's first blockchain application. At its core it is an open, transparent, immutable, distributed, trusted ledger. Projects such as [Ethereum](https://www.ethereum.org) and [EOS](https://eos.io), which came along later, have the goal of becoming a blockchain application platform, which is to say that application code can be written to and executed on an open, transparent, immutable, distributed, trusted ledger. Putting a ledger on a blockchain allowed for a trusted ledger, and putting application code on a blockchain allowed for trusted code. [Mixin Network](https://mixin.one) combines a Trusted Execution Environment (TEE) and a Directed Acyclic Graph (DAG) to create an open, transparent, immutable, distributed digital asset storage network, or a trusted execution environment. Maybe in the near future we will also see trusted hardware.
 
 The reasons for not choosing Ethereum are technical. It currently uses a [Proof-of Work (PoW)](https://en.wikipedia.org/wiki/Proof_of_work) consensus mechanism, and this type of consensus mechanism, which measures confirmations in minutes, is fundamentally unsuitable for an application platform. Ethereum's experience over the past three years has shown that this flaw cannot be resolved in a PoW system. Even if Ethereum switches to a Proof-of-Stake (PoS) system, it will necessarily require a hard fork. Ethereum already underwent a poorly considered hard fork in 2017 that gave birth to Ethereum Classic, which has no clear use case. All of this is to say that investors in Ethereum are faced with a great amount of risk.
 
@@ -704,7 +703,13 @@ From this perspective, EOS is a blockchain platform for businesses, and Mixin Ne
 
 Furthermore, these three investments have reached the "undeniable" stage. Of course they haven't been accepted by everyone, but no one can deny their value. This is the best time for regular investors to enter the market.
 
-Let's take Odyssey, the no-load, no-management-fee stock ETF that will be issued in the second half of 2020, as another example. As I mentioned in a previous chapter:
+The figure below shows the price change of BOX, BTC, EOS, XIN, and the profit change of investing BOX regularly (daily):
+
+<img src="https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/data/box-historical-price-change.png" style="border-radius: 5px; border: 5px solid #ddd; max-width: 100%;"/>
+
+> Note: [click this link to view the data](https://github.com/xiaolai/regular-investing-in-box/tree/master/data)
+
+Let's take Odyssey, the no-carry, no-management-fee stock ETF that will be issued in the second half of 2020, as another example. As I mentioned in a previous chapter:
 
 >I agree with Masayoshi Sun's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
 >
@@ -772,7 +777,7 @@ Regular investors are different. Each time they buy they are "buying low", becau
 
 Frequent traders are definitely not willing to concede this point. "How could I have a 50% chance of making a mistake?!" Alright, let's say you have an 80% chance of being right. Actually, you have to be right twice in a row, so your chances of success are only 80% x 80% = 64%. That's still much lower than 100%! Furthermore, if you have actually tried investing using your own money, you know that being right 80% of the time is incredibly unlikely. If you're right even 60% of the time you can be considered an expert! And if you're right 60% of the time, your chances of being right twice in a row drop to 36%. This explains why the vast majority of investors end up thinking that every action they took was wrong. Once you understand that short-term price movements are an unpredictable ["random walk"](https://en.wikipedia.org/wiki/Random_walk_hypothesis), you will understand why the chances of success are really 50% x 50% = 25%. No more no less.
 
-But we're not done yet! Another hidden and serious detail has been been left out. Frequent traders don't understand that what they are depending on is **judgement after the fact**. Putting aside whether their judgement is correct or not, by the time they realize something, and think, "Oh, this must be an upward trend", they've already missed a portion of the rise in price. And by the time they realize, "Oh, this looks like a downward trend", they can't avoid having participated in some of the drop in price. 
+But we're not done yet! Another hidden and serious detail has been left out. Frequent traders don't understand that what they are depending on is **judgement after the fact**. Putting aside whether their judgement is correct or not, by the time they realize something, and think, "Oh, this must be an upward trend", they've already missed a portion of the rise in price. And by the time they realize, "Oh, this looks like a downward trend", they can't avoid having participated in some of the drop in price. 
 
 ![Figure20](../images/Figure20.png)
 
@@ -828,7 +833,7 @@ If you missed the best ten days, you would lose *66%* of your returns, which is 
 
 ![Figure25](../images/Figure25.png)
 
-So, what should we do? We should do nothing! Never underestimate the power of the Daoist concept of "doing nothing". Actually, it's hard to find a better example than the the trading markets to illustrate its power.
+So, what should we do? We should do nothing! Never underestimate the power of the Daoist concept of "doing nothing". Actually, it's hard to find a better example than the trading markets to illustrate its power.
 
 Scary headlines attract more eyeballs, so the media makes a bigger deal of large price drops than it does of large increases. The media always prefers to report bad news instead of good news. Aside from the fact that bad news attracts more viewers and readership, reporting bad news is also a better fit for the media's self image. After all, if the media reports good news about a person or company, people tend to suspect that they are kissing up to someone. The April 2017 event on the United Airlines flight (bad news) was widely reported, and stories about Warren Buffett losing \$20 million on his United stock (bad news) were all over the place, but no one wrote an article about how Warren Buffett's overall airline stock holdings rose by more than \$140 million that day.
 
@@ -1049,7 +1054,7 @@ Many years ago I discovered a simple principle:
 
 So I like to teach, and I have been teaching for twenty years. I've taught tests, writing, entrepreneurship, investment... Teaching is something that I can do until the day I die, and it's something that I love doing. I can always change what I'm teaching, because I always want to learn new things. It's that simple. In my experience, **finding something that is worth doing for your whole life is the best armor a person can have**. Now I teach thousands of students online, and in the future it will be even more. I wake up in the morning, teach for ten minutes, and I am happy. The bigger the projects you work on, the more trouble is involved, but for me there are no troubles that teaching for ten minutes won't fix.
 
-## Part Four: Objectity, Objectivity, Objectivity!
+## Part Four: Objectivity, Objectivity, Objectivity!
 
 The key to successful investing is to be completely objective -- about yourself, the world, and every aspect of everything. Any time we are not sufficiently objective, our **gamma** goes up.
 
@@ -1098,7 +1103,7 @@ Francis Bacon made [the following observation](https://rintintin.colorado.edu/~v
 
 > Once a human intellect has adopted an opinion (either as something it likes or as something generally accepted), it draws everything else in to confirm and support it.
 
-What about about when that opinion is proven wrong? [Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) observed the following: 
+What about when that opinion is proven wrong? [Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) observed the following: 
 
 > “My characterization of a loser is someone who, after making a mistake, doesn’t introspect, doesn’t exploit it, feels embarrassed and defensive rather than enriched with a new piece of information, and tries to explain why he made the mistake rather than moving on.”
 >
@@ -1192,7 +1197,7 @@ The following is my favorite analogy for education:
 
 >Education is like a pair of glasses. You are in the same world before and after putting on the glasses, but you can see more clearly and accurately after putting on the glasses. You are in the same world before or after you learn something, but you can see the world more clearly and accurately through the lens of education.
 
-Over the years, collecting analogies has become a hobby of mine. Even though it's been so long that I don't remember where this analogy came from, it's still my favorite, bar none. Regarding the the results of education, I have come up with another extremely accurate analogy that I call "the Mirror Effect":
+Over the years, collecting analogies has become a hobby of mine. Even though it's been so long that I don't remember where this analogy came from, it's still my favorite, bar none. Regarding the results of education, I have come up with another extremely accurate analogy that I call "the Mirror Effect":
 
 >The world in the mirror and the world outside of the mirror look the same, but they are actually reversed.
 
@@ -1555,9 +1560,9 @@ Investing education is important. Even more basic than investing, making money i
 
 So from my perspective, everyone should seriously study investing. I can't think of any reason why not.
 
-### 4. How to Join the BOX Regular Investing Practice Group
+## 4. How to Join the BOX Regular Investing Practice Group
 
-#### 4.1 Download Mixin Messenger
+### 4.1 Download Mixin Messenger
 
 Mixin download links:
 
@@ -1574,11 +1579,11 @@ iOS users with Mainland China App Store accounts who download [Mixin 畅聊版](
 
 Also, the exit bot (ID: 7000101276) provides OTC service within Mixin.
 
-#### 4.2 Adding the “BOX Regular Investing Practice Group” Bot
+### 4.2 Adding the “BOX Regular Investing Practice Group” Bot
 
 Search for *7000102069* to add the “BOX Regular Investing Practice Group” bot. However, without the recommendation of a member of the group, you will be unable to pay and join the group, so you must ask around in other groups to find someone who is willing to recommend you. 
 
-#### 4.3 Blockchain Open Class
+### 4.3 Blockchain Open Class
 
 Search for and add the following bot: *7000102093*.
 
@@ -1586,7 +1591,7 @@ I often hold open classes in this group, and you can also find recordings of pre
 
 ## About the Author
 
-Li Xiaolai is an investor and a lifelong learner. http://lixiaolai.com · [xiaolai@github](https://github.com/xiaolai)
+Li Xiaolai is an investor and a lifelong learner. [http://lixiaolai.com]( http://lixiaolai.com) · [xiaolai@github](https://github.com/xiaolai)
 
 ### Publications
 
@@ -1609,7 +1614,9 @@ Li Xiaolai is an investor and a lifelong learner. http://lixiaolai.com · [xiaol
 
 -----
 
-[Download PDF of this book](https://onregularinvesting.com/pdf/on-regularinvesting-en.pdf)
+> * [Download PDF of this book](https://onregularinvesting.com/pdf/on-regularinvesting-en.pdf)
+> * [Download ePub of this book](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/epub/OnRegularInvesting_cn.epub)
+> * [Download mobi of this book](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/mobi/OnRegularInvesting_cn.mobi)
 
 This book is released under the [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.en).
 

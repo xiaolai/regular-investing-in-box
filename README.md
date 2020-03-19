@@ -20,7 +20,24 @@ The third edition of the book was published online: https://onregularinvesting.c
 
 -----
 
+《定投改变命运》第三版，HTML 版本已放置在 https://onregularinvesting.com
 
+## 下载（Download）
+
+### PDF
+
+> * [定投改变命运（第三版）pdf](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/pdf/on-regularinvesting-cn.pdf)
+> * [On Regular Investing pdf](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/pdf/on-regularinvesting-en.pdf)
+
+### EPUB
+> * [定投改变命运（第三版）epub](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/epub/OnRegularInvesting_cn.epub)
+> * [On Regular Investing epub](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/epub/OnRegularInvesting_en.epub)
+
+### MOBI
+> * [定投改变命运（第三版）mobi](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/mobi/OnRegularInvesting_cn.mobi)
+> * [On Regular Investing mobi](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/mobi/OnRegularInvesting_en.mobi)
+
+-----
 
 # 定投 —— 大佬的自我修养
 
