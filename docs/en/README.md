@@ -1167,7 +1167,7 @@ We can define "keeping a cool head" in the following way:
 
 That is to say that you do not take any action until all three roles have processed the situation. This simple, direct, brutal and effective strategy will change the performance of the whole chariot. The driver will quickly understand that both the black horse and the white horse can have incorrect responses. The driver will further discover that, after repeated communication between the three roles, the white horse may listen to the driver, and the black horse can develop new and correct intuition. 
 
-The driver starts off as the weakest of the three, and it is only by keeping a cool head that they can participate, gain experience, and continuously grow. As the driver continuously grows, the white horse and the black horse go through countlesss cycles of correction and coordination, and they all end up different than before. So when people tell you to "trust your intuition", you now know that your black horse and the black horse of an expert may be completely different. The expert can trust their intuition, but maybe you can't.
+The driver starts off as the weakest of the three, and it is only by keeping a cool head that they can participate, gain experience, and continuously grow. As the driver continuously grows, the white horse and the black horse go through countless cycles of correction and coordination, and they all end up different than before. So when people tell you to "trust your intuition", you now know that your black horse and the black horse of an expert may be completely different. The expert can trust their intuition, but maybe you can't.
 
 Members of my Regular Investing Practice Group have already experienced this magical process. 
 
