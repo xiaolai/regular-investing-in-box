@@ -6,7 +6,7 @@
 
 ## Warning
 
-While the financial trading markets are no doubt the best to make money through critical thinking and the application of knowledge, there’s also no other place where people are more severely punished for a lack of critical thinking.
+While the financial trading markets are no doubt the best place to make money through critical thinking and the application of knowledge, there is also no other place where people are more severely punished for a lack of critical thinking.
 
 > Investing is risky, so make your decisions carefully!
 
@@ -73,7 +73,7 @@ Suppose you started investing in the S&P 500 on October 8th, 2007. Knowing what 
 
 ![Figure01](../images/Figure01.png)
 
-What would the result be? Back in October 8th, 2007, would be really hard to say. But looking at it from today, more than a decade later, the answer is clear: the results were fantastic! We experienced a crash in the market from \$1,561 to a low of \$683, but we kept buying at that low price. Later, the market recovered, and by October of 2019 the S&P 500 had exceeded \$2,960.
+What would the result be? Back on October 8th, 2007, it would be really hard to say. But looking at it from today, more than a decade later, the answer is clear: the results were fantastic! We experienced a crash in the market from \$1,561 to a low of \$683, but we kept buying at that low price. Later, the market recovered, and by October of 2019 the S&P 500 had exceeded \$2,960.
 
 But this description is missing an important detail. The chart below shows the value of your total assets (the red line) and the value of your total investment (the blue line). 
 
@@ -87,7 +87,7 @@ The key point is that you entered the market at the worst time –- on October 8
 
 ![Figure03](../images/Figure03.png)
 
-But if you take another look at the chart above, you'll see that the red line crosses the blue line for the first time in 2009. So while it took the S&P 500 **286** weeks to return to its high, your strategy of regular investing began to see steady positive returns after just *111* weeks. When you started to see positive returns, the S&P 500 was still 30% off its all-time high. When the S&P 500 finally returned to its high after 286 weeks, your strategy was already showing returns of *32.64%*.
+But if you take another look at the chart above, you'll see that the red line crosses the blue line for the first time in 2009. So while it took the S&P 500 **286** weeks to return to its high, your strategy of regular investing began to see steadily positive returns after just *111* weeks. When you started to see positive returns, the S&P 500 was still 30% off its all-time high. When the S&P 500 finally returned to its high after 286 weeks, your strategy was already showing returns of *32.64%*.
 
 Let's take a look at an even more striking example. Suppose you started regularly investing in Bitcoin in December of 2017, when Bitcoin was at it's all-time high of \$19,800. Shortly afterwards, the price crashed, and it still hasn't returned to its all-time high. The chart below assumes you started regularly investing in Bitcoin on December 11th, 2017, and kept it up for 87 weeks. 
 
@@ -95,13 +95,13 @@ Let's take a look at an even more striking example. Suppose you started regularl
 
 >Note: The historical data in this chart is from [Yahoo Finance (Bitcoin USD)](https://finance.yahoo.com/quote/BTC-USD/history/), and the chart was created in Google Sheets; you can view the data and chart [here](https://docs.google.com/spreadsheets/d/1pzc6p4UhyAMtqaKis2_uU3hbi8Um34ArTiUQr1tZpc0/edit?usp=sharing).
 
-Even though you entered the market at the worst time, your investment has still been profitable in USD terms, with the red line (your assets in USD terms) passing the blue line (your total investment in USD terms) on May 6th, 2019. If you invested \$100 each week, by the 87th week you would have invested \$8,700, but your Bitcoin would have been worth \$16,417, for a gain of **88.71%**. This is despite the fact that Bitcoin remained over 62.85% off of it's all-time high, which was when you started investing. 
+Even though you entered the market at the worst time, your investment has still been profitable in USD terms, with the red line (your assets in USD terms) passing the blue line (your total investment in USD terms) on May 6th, 2019. If you invested \$100 each week, by the 87th week you would have invested \$8,700, but your Bitcoin would have been worth \$16,417, for a gain of **88.71%**. This is despite the fact that Bitcoin remained 62.85% off of it's all-time high, which was when you started investing. 
 
 This can seem really flabbergasting at first: 
 
 >With regular investing, even if you start at what seems like the worst time, such as just before a market crash, your overall investment will become profitable **before the market recovers**.
 
-Some fans of regular investing always emphasize a partially correct fact, which is that regular investing will effectively reduce your average cost. But the other side of the coin is that it also probably raises your average cost. It's obvious, isn't it? So these fans are using an incorrect reason to choose the correct strategy . But how long can an operating system with an error at the base level continue to run for?
+Some fans of regular investing always emphasize a partially correct fact, which is that regular investing will effectively reduce your average cost. But the other side of the coin is that it also probably raises your average cost. It's obvious, isn't it? So these fans are using an incorrect reason to choose the correct strategy. But how long can an operating system with an error at the base level continue to run for?
 
 The reason why regular investing is effective is that **it matches up with the following reality of markets**:
 
@@ -295,7 +295,7 @@ Even though there is a ceiling on this business model, it has allowed me to not 
 
 So regular investing is something that people with ambition but limited resources can do, and it is something that only this type of person can do. When Buffett purchased a controlling stake in Berkshire Hathaway, he was already not a poor man. After purchasing National Indemnity Company and entering the insurance industry, almost all of his investments were long-term buy-and-hold investments. Buffett didn't need a strategy of regular investing. Or, to put it more precisely, he didn't need to improve upon his buy-and-hold strategy. The simplest strategy in the world was already enough for him.
 
-As far as other fund managers, they are even less able to pursue a regular investing strategy, primarily because 99.99% of fund managers (or, everyone except Buffett) have a limited term for their capital. For some it may be ten years, for others it may be three to five years, but no matter how long it is it's still a limit, and that entails great risk. In the investment world it's rare to have a middle ground -- it's either a 1 or a 0. If capital has a term the risk is 1, if it doesn't the risk is 0, and there is no 0.2 or 0.8. Lots of people don't understand this, so they line up like lemmings to take risks and end up falling off a cliff. The riskiest job in the world is President of South Korea, and right after that is the fund manager who guarantees immediate redemption of capital.
+As for other fund managers, they are even less able to pursue a regular investing strategy, primarily because 99.99% of fund managers (or, everyone except Buffett) have a limited term for their capital. For some it may be ten years, for others it may be three to five years, but no matter how long it is it's still a limit, and that entails great risk. In the investment world it's rare to have a middle ground -- it's either a 1 or a 0. If capital has a term the risk is 1, if it doesn't the risk is 0, and there is no 0.2 or 0.8. Lots of people don't understand this, so they line up like lemmings to take risks and end up falling off a cliff. The riskiest job in the world is President of South Korea, and right after that is the fund manager who guarantees immediate redemption of capital.
 
 To put it another way, most "professional investors" don't have the ability to do regular investing, because they are not managing their own money, and their funds have a deadline after which they need to be returned. Once it's time to settle the funds, it doesn't matter if it's a bull market or a bear market, it's still time to settle, so how can you be sure of your earnings? Most people have never thought about how a fund's success is not dependent on the manager's acumen and strategy but instead dependent on the time the fund was established. Funds that are established at the end of Period B and the beginning of Period A are quite likely to succeed, because during that period you can make money investing in almost anything. The problem is that is the time at which investors are the most scared and circumspect, so it's hard to raise money. The easiest time to raise money is at the end of Period A, when everyone has gone crazy in the bull market. But if they raise money at that time, and the money has a term, it's going to be very difficult to succeed. 
 
