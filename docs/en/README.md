@@ -667,7 +667,7 @@ Choices are the most important thing, especially in investing. If we review what
 > * The best parts of the best parts (sectors)
 > * A combination of the best investments in the best parts of the best parts
 
-It's a lot of decisions, but they are easy to summarize. All of them are decisions about **trends**. Not choosing just one investment, but stepping back and choosing to invest in everything, is done in order to reduce risk and **keep up with the global trend**. In this case, *alpha* is zero. Choosing the best parts of the whole is done in order to find the parts that are developing the fastest, and in doing so create positive *alpha*. Choosing the best parts of the best parts is done to create even higher *alpha* by following trends. Finally, choosing combinations of investements in the best parts of the best parts is pursuing the same goal: first reduce risk, and then see if it is possible to increase *alpha*.
+It's a lot of decisions, but they are easy to summarize. All of them are decisions about **trends**. Not choosing just one investment, but stepping back and choosing to invest in everything, is done in order to reduce risk and **keep up with the global trend**. In this case, *alpha* is zero. Choosing the best parts of the whole is done in order to find the parts that are developing the fastest, and in doing so create positive *alpha*. Choosing the best parts of the best parts is done to create even higher *alpha* by following trends. Finally, choosing combinations of investments in the best parts of the best parts is pursuing the same goal: first reduce risk, and then see if it is possible to increase *alpha*.
 
 In order to choose our combination of investments, the most simple, direct, brutal and effective principle is this:
 
@@ -703,7 +703,7 @@ From this perspective, EOS is a blockchain platform for businesses, and Mixin Ne
 
 Furthermore, these three investments have reached the "undeniable" stage. Of course they haven't been accepted by everyone, but no one can deny their value. This is the best time for regular investors to enter the market.
 
-The figure below shows the price change of BOX, BTC, EOS, XIN, and the profit change of investing BOX regularly (daily):
+The figure below shows the price fluctuations of BOX, BTC, EOS, and XIN, and the profit fluctuations of investing in BOX regularly (daily):
 
 <img src="https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/data/box-historical-price-change.png" style="border-radius: 5px; border: 5px solid #ddd; max-width: 100%;"/>
 
@@ -713,7 +713,7 @@ Let's take Odyssey, the no-carry, no-management-fee stock ETF that will be issue
 
 >I agree with Masayoshi Sun's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
 >
->>No matter how good the algorithm is, it needs data to feed it. Public companies who have large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
+>>No matter how good the algorithm is, it needs data to feed it. Public companies with large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
 
 The main point is in this sentence:
 
@@ -755,7 +755,7 @@ In his book, [*The Success Equation: Untangling Skill and Luck in Business, Spor
 
 Activities on the far right, such as chess, depend 100% on skill, and there is essentially no luck involved. Activities on the far left, such as playing slot machines, depend 100% on luck, and there is essentially no skill involved. Most of the rest of the activities in the image depend on some mixture of luck and skill. So in most situations, if you want to be hugely successful, you have to be more skillful than others and also get lucky. Investing, however, is on the left side of the picture, implying that luck is more important than skill. In fact, luck is much more important than skill, which is why so many smart people end up being unsuccessful in the trading markets.
 
-However, since there are many different types of investing, we need to slightly adjust Mauboussin's placement of investing in the image. For example, long-term holding and frequent trading are clearly completely different. Also, carefully selecting assets to hold over the long term is generally acknowledged to be a successful strategy. If someone doesn't believe this, just show them [the chart of the S&P 500 over the past several decades](https://docs.google.com/spreadsheets/d/1RsmiifuZajR_POx1zO_--qUcOgwb7tABNQpT-O69Ryk/edit?usp=sharing). Regular investing is at its core simply an improvement to the strategy of carefully selecting assets to hold over the long term. Since it hardly depends on any luck, this type of investment should actually be on the right side of the image.
+However, since there are many different types of investing, we need to slightly adjust Mauboussin's placement of investing in the image. For example, long-term holding and frequent trading are clearly completely different. Also, carefully selecting assets to hold over the long term is generally acknowledged to be a successful strategy. If someone doesn't believe this, just show them [the chart of the S&P 500 over the past several decades](https://docs.google.com/spreadsheets/d/1RsmiifuZajR_POx1zO_--qUcOgwb7tABNQpT-O69Ryk/edit?usp=sharing). Regular investing is at its core simply an improvement to the strategy of carefully selecting assets to hold over the long term. Since it hardly depends on any luck, this type of investing should actually be on the right side of the image.
 
 Regular investors only do one thing:
 
