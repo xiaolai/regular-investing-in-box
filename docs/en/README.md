@@ -841,7 +841,7 @@ Frequent traders always seem to make a big deal out of nothing. This is understa
 
 Behavioral psychologists would explain it this way: people hate loss, and the pain of losing a dollar is much greater than the pleasure of gaining a dollar, so even when the price goes up just as much, those people don't get as excited. This explanation makes sense, but I also have another more realistic explanation:
 
->The people running around screaming "crash!" can't handle the price dropping. They were almost certainly so terrified that they sold all of their holdings after the price dropped. When they price went back up, they'd either lost all of their money or exited the market, so they didn't have anything to get excited about. Just like in a ghost story, it's as if they were screaming in another world, and the people in this world had no way to hear them.
+>The people running around screaming "crash!" can't handle the price dropping. They were almost certainly so terrified that they sold all of their holdings after the price dropped. When the price went back up, they'd either lost all of their money or exited the market, so they didn't have anything to get excited about. Just like in a ghost story, it's as if they were screaming in another world, and the people in this world had no way to hear them.
 
 The vast majority of people who jump into the market for the first time don't understand investing strategy. Actually, they don't have any strategy, and their reason for entering the market is that they have seen the good days that others have had. But the core reason why most people end up quietly leaving the market is that there are always more bad days than good. The reason why the market still goes up in the long term, despite having more bad days than good, is that, in aggregate, the gains of the good days greatly exceed the losses of the bad days. The problem is that most people have a natural tendency to want to make decisions based on current events, and it's only the few people who have received good education about investing and practiced it over the long term who are able to truly gain the skill of macro observation based on a long-term perspective.
 
@@ -908,7 +908,7 @@ After being in the market for a period of time, all investors come to the same d
 
 What is the cause of this counterintuitive phenomenon? One cause is that bear markets are always longer than bull markets. Also, when you really need money it's usually when it's hard to make money outside of the market, which implies a weaker economy, so it's natural for the market to fall. Another factor at work is that when the price is rising you're less willing to sell. At times like that, longer-term holders don't have a strong impulse to spend. So the greatest losses always come when you "can't help but sell".
 
-You should now have a better understanding of this piece of advice, which you have probably heard countless times:
+You should now have a better understanding of the following piece of advice, which you have probably heard countless times:
 
 >Only invest money that you can afford to lose.
 
