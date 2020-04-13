@@ -1069,11 +1069,11 @@ For instance, [a paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2631940/) b
 > * Gain frame: you can keep 20 out of the 50 pounds.
 > * Loss frame: you will lose 30 out of the 50 pounds. 
 
-Obviously, the results of these two frames are the same, because the subject ends up with 20 pounds no matter what. But since the second frame described a loss, the tests subjects' loss aversion was activated. The key is what happened next: the activation of their loss aversion influenced their subsequent decisions. 
+Obviously, the results of these two frames are the same, because the subject ends up with 20 pounds no matter what. But since the second frame described a loss, the test subjects' loss aversion was activated. The key is what happened next: the activation of their loss aversion influenced their subsequent decisions. 
 
 ![Figure29](../images/Figure29.png)
 
-While only 42.9% of the subjects who had been presented with the Gain frame chose to gamble, 61.6% of the subjects who had been presented with the Loss frame decided to gamble. Remember, the amount that participants would keep with the "sure" option was the same for both frames -- the only difference was the way the option was described. Furthermore, this effect was present in all of the test subjects, albeit to various degrees.
+While only 42.9% of the subjects who had been presented with the Gain frame chose to gamble, 61.6% of the subjects who had been presented with the Loss frame decided to gamble. Remember, the amount that participants would keep with the "sure" option was the same for both frames -- the only difference was the way the option was described. Furthermore, this effect was present in all of the test subjects, albeit to varying degrees.
 
 It turns out that people take many risks because they are afraid! Or, to put it another way, it turns out that the reason many people take risks is not that they are brave! And furthermore, the thing that they are afraid of doesn't exist...
 
@@ -1095,7 +1095,7 @@ This image basically reveals why we can't control ourselves.
 
 The results of the experiment showed that when the subjects were unable to control their loss aversion their amygdalae were extremely active. What are the amygdalae? They are two almond-shaped clusters of neurons in the brain that play an important role in our decision-making, memory, and emotions or moods. They can trigger emergency responses such as the fight or flight reflex when we are faced with danger. The amygdalae are small, but they are extremely important in processing emotions, particularly fear.
 
-If you look back on times when you have felt extremely fearful, you will remember that your fear wasn't just an emotional state, but also a physical one. Your heart rate increased, your stomach felt empty, you felt uncomfortable, and you began to sweat. You felt like your brain was empty, because your brain lacked blood and oxygen. This emergency response of the amygdalae was what doomed the subjects; it was what caused the subject to feel, "I knew  what was happening, but I couldn't control myself". 
+If you look back on times when you have felt extremely fearful, you will remember that your fear wasn't just an emotional state, but also a physical one. Your heart rate increased, your stomach felt empty, you felt uncomfortable, and you began to sweat. You felt like your brain was empty, because your brain lacked blood and oxygen. This emergency response of the amygdalae was what doomed the subjects; it was what caused the subjects to feel, "I knew  what was happening, but I couldn't control myself". 
 
 Even more disappointing is that we are unwilling to change. When our mistakes are pointed out to us, we become even more stubborn in our mistaken choices. At this point, you're probably thinking, "But I'm not like this, am I?" Allow me to answer for you: you are like this, because we are all like this to some extent. 
 
@@ -1143,7 +1143,7 @@ When the subjects of the experiment mentioned in the previous chapter were prese
 
 The metaphor that Plato came up with 2,000 years ago is surprisingly similar to what scientists today have postulated after closer observations of how brains work. Take a look:
 
-| Brain structure | Colloquial name | Plato's Chariot Analogy |
+| Brain structure | Colloquial name | Plato's Chariot Allegory |
 | -------- | -------- | -------------------- |
 | Outer cortex | Human brain | Driver                 |
 | Inner cortex   | Monkey brain | White horse                 |
@@ -1340,7 +1340,7 @@ The clearest example of this is parents raising children. If parents focus their
 
 Of course, a more common example occurs in the investing world. Do investors really need to participate in operations? Maybe sometimes. But we can be almost certain that traders in the secondary market shouldn't participate in the operations of the companies they invest in. In fact, not needing to participate in operations is one of the biggest advantages of investing in the secondary markets.
 
-However, the operators of almost every publicly traded company receive many letters from shareholders every day. These shareholders have all sorts of complaints and advice, and they often end up working themselves into quite a tizzy. They are incognizant of the fact that they are wasting effort outside of their own border. They have idea that effort outside of that border is completely useless, and that if it has any effect at all it will be negative. They will never understand, because they themselves lack the ability to create an effective business model and eventually secure investment from the public. If they were able to do so, they would discover that it's terrible to have so many people on the outside trying to influence you, and that it's even worse to be actually swayed by those on the outside. You could even say the following: a company that is easily swayed by the secondary market is not worth investing in.
+However, the operators of almost every publicly traded company receive many letters from shareholders every day. These shareholders have all sorts of complaints and advice, and they often end up working themselves into quite a tizzy. They are incognizant of the fact that they are wasting effort outside of their own border. They have no idea that effort outside of that border is completely useless, and that if it has any effect at all it will be negative. They will never understand, because they themselves lack the ability to create an effective business model and eventually secure investment from the public. If they were able to do so, they would discover that it's terrible to have so many people on the outside trying to influence you, and that it's even worse to be actually swayed by those on the outside. You could even say the following: a company that is easily swayed by the secondary market is not worth investing in.
 
 Let's take another look at the equation that describes our returns: 
 
@@ -1394,7 +1394,7 @@ There is no secret to success. Or, if there are secrets, they are open secrets. 
 
 It's not an exaggeration to say that regular investing can change a person's life. 
 
-China enforced the One Child Policy from 1979 to 2015. People of child-rearing age in 1979 are around seventy now, and the are in a special state called "the loneliness of old age". They have been retired for ten or more years, and their only child is currently in the middle of their busiest stage of life, having just had kids. Because times have changed, more and more of them don't live in the same cities as their children, and so many of these parents no longer see their children regularly. They've got nothing to do, and no one to accompany them.
+China enforced the One Child Policy from 1979 to 2015. People of child-rearing age in 1979 are around seventy now, and they are in a special state called "the loneliness of old age". They have been retired for ten or more years, and their only child is currently in the middle of their busiest stage of life, having just had kids. Because times have changed, more and more of them don't live in the same cities as their children, and so many of these parents no longer see their children regularly. They've got nothing to do, and no one to accompany them.
 
 There is an awkward fact:
 
