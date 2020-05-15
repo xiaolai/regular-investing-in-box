@@ -1418,7 +1418,7 @@ October 2019, Beijing
 
 >**Risk Warning**
 >
->The strategy of regular investment is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor must use their own money and time over the long term to take responsibility for their choices. Please be cautious.
+>The strategy of regular investing is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor must use their own money and time over the long term to take responsibility for their choices. Please be cautious.
 >
 >This section is primarily about how I chose BTC, EOS, and XIN to be the components of BOX, and it necessarily contains some of my own subjective judgements. You must use your own objective understanding of the objective world to choose your own investments.
 >
@@ -1496,9 +1496,9 @@ Mixin Network has taken a different technical development path.
 
 Other public chains have followed a *bottom-up* approach, first developing the public chain and then developing on-chain Dapps. This is called "building an ecosystem".
 
-Mixin Network has taken a *top-down* approach, first creating a great Dapp, Mixin Messenger, and then gradually completing the development of the base public chain. Thus, Mixin Messenger was first released in December of 2012, and, more than a year later, in February of 2019, the Mixin Network public chain was officially released. Dapps such as dice games can simply be bots running on Mixin Messenger. Ocean.one is a self-governing decentralized exchange running on Mixin Network, and it represents pioneering technology in the blockchain space. Other products that are being developed, like BOX and its b.watch exchange, would be impossible to realize without the Mixin Network public chain. It's not that I haven't tried other public chains, it's that they are unusable. This is the reason for XIN's allocation in BOX.
+Mixin Network has taken a *top-down* approach, first creating a great Dapp, Mixin Messenger, and then gradually completing the development of the base public chain. Thus, Mixin Messenger was first released in December of 2017, and, more than a year later, in February of 2019, the Mixin Network public chain was officially released. Dapps such as dice games can simply be bots running on Mixin Messenger. Ocean.one is a self-governing decentralized exchange running on Mixin Network, and it represents pioneering technology in the blockchain space. Other products that are being developed, like BOX and its b.watch exchange, would be impossible to realize without the Mixin Network public chain. It's not that I haven't tried other public chains, it's that they are unusable. This is the reason for XIN's allocation in BOX.
 
-In summary, BOX is an ETF product that I believe is very likely to succeed. If we lose money on it, it is because the blockchain industry has failed, and that is neither my fault nor yours. However, **as long as the blockchain industry does well, BOX will do well**, and the blockchain industry is just taking off, so were are likely to do well. It's that simple.
+In summary, BOX is an ETF product that I believe is very likely to succeed. If we lose money on it, it is because the blockchain industry has failed, and that is neither my fault nor yours. However, **as long as the blockchain industry does well, BOX will do well**, and the blockchain industry is just taking off, so we are likely to do well. It's that simple.
 
 ## 2. About b.watch
 
@@ -1516,9 +1516,9 @@ Later on, other sources of potential income may include:
 > * Income from an EOS Block Producer
 > * Income from XIN nodes
 
-It takes a large amount of reserves and preparation to become an EOS Block Producer or a XIN node. When the time is right, b.watch plans to run these nodes, and after deducting operation costs 100% of proceeds will be distributed to BOX holders. 
+It takes a large amount of reserves and preparation to become an EOS Block Producer or an XIN node. When the time is right, b.watch plans to run these nodes, and after deducting operation costs 100% of proceeds will be distributed to BOX holders. 
 
-Under this system, the corporate value of b.watch is basically a 0.5% commission on BOX redemptions and a 0.1% commission on BOX trading. After seven year, 100% of BOX shares will be distributed to my Regular Investing Practice Group members according to certain conditions. For instance:
+Under this system, the corporate value of b.watch is basically a 0.5% commission on BOX redemptions and a 0.1% commission on BOX trading. After seven years, 100% of the shares of b.watch will be distributed to my Regular Investing Practice Group members according to certain conditions. For instance:
 
 > * Time holding BOX
 > * Degree of successful completion of regular investing tasks
@@ -1573,11 +1573,11 @@ Mixin download links:
 >   * In China，[download on the Tencent App Store](https://a.app.qq.com/o/simple.jsp?pkgname=one.mixin.messenger)，or [download on the Xiaomi App Store](http://app.mi.com/details?id=one.mixin.messenger)
 >   * Outside of China, [download on the Google Play Store](https://play.google.com/store/apps/details?id=one.mixin.messenger)
 
-iOS users with Mainland China App Store accounts who download [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019) must add the wallet bot (ID: *7000101425*) in order to sent, receive and store digital assets.
+iOS users with Mainland China App Store accounts who download [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019) must add the wallet bot (ID: *7000101425*) in order to send, receive and store digital assets.
 
 ![](../images/miniwallet.png)
 
-Also, the exit bot (ID: 7000101276) provides OTC service within Mixin.
+Also, the exin bot (ID: 7000101276) provides OTC services within Mixin.
 
 ### 4.2 Adding the “BOX Regular Investing Practice Group” Bot
 
@@ -1587,11 +1587,11 @@ Search for *7000102069* to add the “BOX Regular Investing Practice Group” bo
 
 Search for and add the following bot: *7000102093*.
 
-I often hold open classes in this group, and you can also find recordings of previous open classes here. Just click on the robot icon and then the “course record” icon to access the recordings
+I often hold open classes in this group, and you can also find recordings of previous open classes here. Just click on the robot icon and then the “Course Record” icon to access the recordings
 
 ## About the Author
 
-Li Xiaolai is an investor and a lifelong learner. [http://lixiaolai.com]( http://lixiaolai.com) · [xiaolai@github](https://github.com/xiaolai)
+Xiaolai Li is an investor and a lifelong learner. [http://lixiaolai.com]( http://lixiaolai.com) · [xiaolai@github](https://github.com/xiaolai)
 
 ### Publications
 
