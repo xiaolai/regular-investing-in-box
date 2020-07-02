@@ -20,7 +20,7 @@ The third edition of the book was published online: https://onregularinvesting.c
 
 -----
 
-《定投改变命运》第三版，HTML 版本已放置在 https://onregularinvesting.com
+《定投改变命运》第三版，HTML 版本已放置在 https://onregularinvesting.com 备用域名：https://ri.firesbox.com 
 
 ## 下载（Download）
 

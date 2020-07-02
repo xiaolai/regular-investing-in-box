@@ -6,7 +6,7 @@
 
 ## Warning
 
-While the financial trading markets are no doubt the best to make money through critical thinking and the application of knowledge, there’s also no other place where people are more severely punished for a lack of critical thinking.
+While the financial trading markets are no doubt the best place to make money through critical thinking and the application of knowledge, there is also no other place where people are more severely punished for a lack of critical thinking.
 
 > Investing is risky, so make your decisions carefully!
 
@@ -48,7 +48,7 @@ In Greek mythology, there is an island inhabited by the beautiful Sirens. Their 
 
 The strategy of regular investing is correct, but the target investment must be chosen by each individual investor. In this book I will provide you the tools to make your own decision about what to invest in. I will do so by showing you what I’m regularly investing in, and explaining the reasoning behind that choice.
 
-*On Regular Investing* is not only an open-source book, it’s also paired with [BOX](https://b.watch), the first digital asset ETF with no load or management fees, which I designed. Regular investing is simple, but not necessarily easy, because it’s as if the boat we are sailing in is passing by the island of the Sirens. BOX is the boat, and those who are investing in BOX with us are the sailors who need to fill their ears with wax. The wax is continuous learning about regular investing, which I hope to provide in this book and in my classes. I suppose I am Odysseus, tying myself to the mast. Since there are no management fees, the way I make money is simple: like everyone else, I am in the same boat, regularly investing in BOX.
+*On Regular Investing* is not only an open-source book, it’s also paired with [BOX](https://b.watch), the first digital asset ETF with no carry or management fees, which I designed. Regular investing is simple, but not necessarily easy, because it’s as if the boat we are sailing in is passing by the island of the Sirens. BOX is the boat, and those who are investing in BOX with us are the sailors who need to fill their ears with wax. The wax is continuous learning about regular investing, which I hope to provide in this book and in my classes. I suppose I am Odysseus, tying myself to the mast. Since there are no management fees, the way I make money is simple: like everyone else, I am in the same boat, regularly investing in BOX.
 
 We should solve the most important problem at the very beginning, and not let it take root and grow into a problem tree that gives us a plethora of persistent troubles to deal with. This might be the single most important piece of wisdom in life. 
 
@@ -73,7 +73,7 @@ Suppose you started investing in the S&P 500 on October 8th, 2007. Knowing what 
 
 ![Figure01](../images/Figure01.png)
 
-What would the result be? Back in October 8th, 2007, would be really hard to say. But looking at it from today, more than a decade later, the answer is clear: the results were fantastic! We experienced a crash in the market from \$1,561 to a low of \$683, but we kept buying at that low price. Later, the market recovered, and by October of 2019 the S&P 500 had exceeded \$2,960.
+What would the result be? Back on October 8th, 2007, it would be really hard to say. But looking at it from today, more than a decade later, the answer is clear: the results were fantastic! We experienced a crash in the market from \$1,561 to a low of \$683, but we kept buying at that low price. Later, the market recovered, and by October of 2019 the S&P 500 had exceeded \$2,960.
 
 But this description is missing an important detail. The chart below shows the value of your total assets (the red line) and the value of your total investment (the blue line). 
 
@@ -87,7 +87,7 @@ The key point is that you entered the market at the worst time –- on October 8
 
 ![Figure03](../images/Figure03.png)
 
-But if you take another look at the chart above, you'll see that the red line crosses the blue line for the first time in 2009. So while it took the S&P 500 **286** weeks to return to its high, your strategy of regular investing began to see steady positive returns after just *111* weeks. When you started to see positive returns, the S&P 500 was still 30% off its all-time high. When the S&P 500 finally returned to its high after 286 weeks, your strategy was already showing returns of *32.64%*.
+But if you take another look at the chart above, you'll see that the red line crosses the blue line for the first time in 2009. So while it took the S&P 500 **286** weeks to return to its high, your strategy of regular investing began to see steadily positive returns after just *111* weeks. When you started to see positive returns, the S&P 500 was still 30% off its all-time high. When the S&P 500 finally returned to its high after 286 weeks, your strategy was already showing returns of *32.64%*.
 
 Let's take a look at an even more striking example. Suppose you started regularly investing in Bitcoin in December of 2017, when Bitcoin was at it's all-time high of \$19,800. Shortly afterwards, the price crashed, and it still hasn't returned to its all-time high. The chart below assumes you started regularly investing in Bitcoin on December 11th, 2017, and kept it up for 87 weeks. 
 
@@ -95,13 +95,13 @@ Let's take a look at an even more striking example. Suppose you started regularl
 
 >Note: The historical data in this chart is from [Yahoo Finance (Bitcoin USD)](https://finance.yahoo.com/quote/BTC-USD/history/), and the chart was created in Google Sheets; you can view the data and chart [here](https://docs.google.com/spreadsheets/d/1pzc6p4UhyAMtqaKis2_uU3hbi8Um34ArTiUQr1tZpc0/edit?usp=sharing).
 
-Even though you entered the market at the worst time, your investment has still been profitable in USD terms, with the red line (your assets in USD terms) passing the blue line (your total investment in USD terms) on May 6th, 2019. If you invested \$100 each week, by the 87th week you would have invested \$8,700, but your Bitcoin would have been worth \$16,417, for a gain of **88.71%**. This is despite the fact that Bitcoin remained over 62.85% off of it's all-time high, which was when you started investing. 
+Even though you entered the market at the worst time, your investment has still been profitable in USD terms, with the red line (your assets in USD terms) passing the blue line (your total investment in USD terms) on May 6th, 2019. If you invested \$100 each week, by the 87th week you would have invested \$8,700, but your Bitcoin would have been worth \$16,417, for a gain of **88.71%**. This is despite the fact that Bitcoin remained 62.85% off of it's all-time high, which was when you started investing. 
 
 This can seem really flabbergasting at first: 
 
 >With regular investing, even if you start at what seems like the worst time, such as just before a market crash, your overall investment will become profitable **before the market recovers**.
 
-Some fans of regular investing always emphasize a partially correct fact, which is that regular investing will effectively reduce your average cost. But the other side of the coin is that it also probably raises your average cost. It's obvious, isn't it? So these fans are using an incorrect reason to choose the correct strategy . But how long can an operating system with an error at the base level continue to run for?
+Some fans of regular investing always emphasize a partially correct fact, which is that regular investing will effectively reduce your average cost. But the other side of the coin is that it also probably raises your average cost. It's obvious, isn't it? So these fans are using an incorrect reason to choose the correct strategy. But how long can an operating system with an error at the base level continue to run for?
 
 The reason why regular investing is effective is that **it matches up with the following reality of markets**:
 
@@ -295,7 +295,7 @@ Even though there is a ceiling on this business model, it has allowed me to not 
 
 So regular investing is something that people with ambition but limited resources can do, and it is something that only this type of person can do. When Buffett purchased a controlling stake in Berkshire Hathaway, he was already not a poor man. After purchasing National Indemnity Company and entering the insurance industry, almost all of his investments were long-term buy-and-hold investments. Buffett didn't need a strategy of regular investing. Or, to put it more precisely, he didn't need to improve upon his buy-and-hold strategy. The simplest strategy in the world was already enough for him.
 
-As far as other fund managers, they are even less able to pursue a regular investing strategy, primarily because 99.99% of fund managers (or, everyone except Buffett) have a limited term for their capital. For some it may be ten years, for others it may be three to five years, but no matter how long it is it's still a limit, and that entails great risk. In the investment world it's rare to have a middle ground -- it's either a 1 or a 0. If capital has a term the risk is 1, if it doesn't the risk is 0, and there is no 0.2 or 0.8. Lots of people don't understand this, so they line up like lemmings to take risks and end up falling off a cliff. The riskiest job in the world is President of South Korea, and right after that is the fund manager who guarantees immediate redemption of capital.
+As for other fund managers, they are even less able to pursue a regular investing strategy, primarily because 99.99% of fund managers (or, everyone except Buffett) have a limited term for their capital. For some it may be ten years, for others it may be three to five years, but no matter how long it is it's still a limit, and that entails great risk. In the investment world it's rare to have a middle ground -- it's either a 1 or a 0. If capital has a term the risk is 1, if it doesn't the risk is 0, and there is no 0.2 or 0.8. Lots of people don't understand this, so they line up like lemmings to take risks and end up falling off a cliff. The riskiest job in the world is President of South Korea, and right after that is the fund manager who guarantees immediate redemption of capital.
 
 To put it another way, most "professional investors" don't have the ability to do regular investing, because they are not managing their own money, and their funds have a deadline after which they need to be returned. Once it's time to settle the funds, it doesn't matter if it's a bull market or a bear market, it's still time to settle, so how can you be sure of your earnings? Most people have never thought about how a fund's success is not dependent on the manager's acumen and strategy but instead dependent on the time the fund was established. Funds that are established at the end of Period B and the beginning of Period A are quite likely to succeed, because during that period you can make money investing in almost anything. The problem is that is the time at which investors are the most scared and circumspect, so it's hard to raise money. The easiest time to raise money is at the end of Period A, when everyone has gone crazy in the bull market. But if they raise money at that time, and the money has a term, it's going to be very difficult to succeed. 
 
@@ -394,7 +394,7 @@ How can someone who doesn't even know what their criteria should be make a choic
 
 >The more long-term successful experience investors have, the more open they are.
 
-Warren Buffett started writing public letters to investors a long time ago, and later on he continued to share his investing ideas and decision-making process on television and though other media. Starting in 1965, Buffett has written a public letter to investors each year. As of 2019, he has been writing them for 54 years! Ever since 1973, he and Charlie Munger have held freewheeling Q&A sessions at yearly shareholder meetings. In 2019, the 46<sup>th</sup> year, a record 16,200 people attended, not including people watching online around the world.
+Warren Buffett started writing public letters to investors a long time ago, and later on he continued to share his investing ideas and decision-making process on television and through other media. Starting in 1965, Buffett has written a public letter to investors each year. As of 2019, he has been writing them for 54 years! Ever since 1973, he and Charlie Munger have held freewheeling Q&A sessions at yearly shareholder meetings. In 2019, the 46<sup>th</sup> year, a record 16,200 people attended, not including people watching online around the world.
 
 >Berkshire Hathaway's shareholder letters from 1977 to 2018 are available here: 
 >
@@ -402,7 +402,7 @@ Warren Buffett started writing public letters to investors a long time ago, and 
 >>CNBC's website has a special section called the "Warren Buffet Archive":
 >>[https://buffett.cnbc.com/warren-buffett-archive/](https://buffett.cnbc.com/warren-buffett-archive/)
 
-Warren Buffett's mentor, [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham), was also someone who shared without reservation. In addition to teaching investing classes, he wrote several books, most notably [Security Analysis](https://www.amazon.com/Security-Analysis-Foreword-Buffett-Editions-ebook-dp-B0037JO5J8/dp/B0037JO5J8/) (1934) and [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/) (1949). Warren Buffett read *The Intelligent Investor* when he was 19, and he became a fan of Benjamin Graham. One Saturday in 1951, while in the library of Columbia Business School, Buffett learned that Benjamin Graham was Chairman of GEICO, and immediately decided to pay a visit to the company's office. Many years later, in an interview with *Forbes*, Buffett recalled that the investment he made in GEICO at the age of 20 was one of the investments he was most proud of.
+Warren Buffett's mentor, [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham), was also someone who shared without reservation. In addition to teaching investing classes, he wrote several books, most notably [Security Analysis](https://www.amazon.com/Security-Analysis-Foreword-Buffett-Editions-ebook-dp-B0037JO5J8/dp/B0037JO5J8/) (1934) and [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/) (1949). Warren Buffett read *The Intelligent Investor* when he was 19, and he became a fan of Benjamin Graham. One Saturday in 1951, while in the library of Columbia Business School, Buffett learned that Benjamin Graham was Chairman of GEICO, and he immediately decided to pay a visit to the company's office. Many years later, in an interview with *Forbes*, Buffett recalled that the investment he made in GEICO at the age of 20 was one of the investments he was most proud of.
 
 Joel Greenblatt's investing returns are perhaps even more impressive than Warren Buffet's -- from 1985 to 2006, his annual compounded returns exceeded 40%! Having been successful over the long term, Joel Greenblatt is also quite willing to openly share. He has published three books, namely [You Can Be a Stock Market Genius](https://www.amazon.com/You-Can-Stock-Market-Genius/dp/0684840073/) (1999), [The Little Book That Still Beats the Markets](https://www.amazon.com/Little-Book-Still-Beats-Market/dp/0470624159/) (2010), and [The Big Secret for the Small Investor](https://www.amazon.com/Big-Secret-Small-Investor-Investment-ebook/dp/B004J4WKHE/) (2011). He is so down to earth that his standard for writing the books was that his teenage children could understand them. 
 
@@ -667,7 +667,7 @@ Choices are the most important thing, especially in investing. If we review what
 > * The best parts of the best parts (sectors)
 > * A combination of the best investments in the best parts of the best parts
 
-It's a lot of decisions, but they are easy to summarize. All of them are decisions about **trends**. Not choosing just one investment, but stepping back and choosing to invest in everything, is done in order to reduce risk and **keep up with the global trend**. In this case, *alpha* is zero. Choosing the best parts of the whole is done in order to find the parts that are developing the fastest, and in doing so create positive *alpha*. Choosing the best parts of the best parts is done to create even higher *alpha* by following trends. Finally, choosing combinations of investements in the best parts of the best parts is pursuing the same goal: first reduce risk, and then see if it is possible to increase *alpha*.
+It's a lot of decisions, but they are easy to summarize. All of them are decisions about **trends**. Not choosing just one investment, but stepping back and choosing to invest in everything, is done in order to reduce risk and **keep up with the global trend**. In this case, *alpha* is zero. Choosing the best parts of the whole is done in order to find the parts that are developing the fastest, and in doing so create positive *alpha*. Choosing the best parts of the best parts is done to create even higher *alpha* by following trends. Finally, choosing combinations of investments in the best parts of the best parts is pursuing the same goal: first reduce risk, and then see if it is possible to increase *alpha*.
 
 In order to choose our combination of investments, the most simple, direct, brutal and effective principle is this:
 
@@ -703,7 +703,7 @@ From this perspective, EOS is a blockchain platform for businesses, and Mixin Ne
 
 Furthermore, these three investments have reached the "undeniable" stage. Of course they haven't been accepted by everyone, but no one can deny their value. This is the best time for regular investors to enter the market.
 
-The figure below shows the price change of BOX, BTC, EOS, XIN, and the profit change of investing BOX regularly (daily):
+The figure below shows the price fluctuations of BOX, BTC, EOS, and XIN, and the profit fluctuations of investing in BOX regularly (daily):
 
 <img src="https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/data/box-historical-price-change.png" style="border-radius: 5px; border: 5px solid #ddd; max-width: 100%;"/>
 
@@ -713,7 +713,7 @@ Let's take Odyssey, the no-carry, no-management-fee stock ETF that will be issue
 
 >I agree with Masayoshi Sun's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
 >
->>No matter how good the algorithm is, it needs data to feed it. Public companies who have large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
+>>No matter how good the algorithm is, it needs data to feed it. Public companies with large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
 
 The main point is in this sentence:
 
@@ -755,7 +755,7 @@ In his book, [*The Success Equation: Untangling Skill and Luck in Business, Spor
 
 Activities on the far right, such as chess, depend 100% on skill, and there is essentially no luck involved. Activities on the far left, such as playing slot machines, depend 100% on luck, and there is essentially no skill involved. Most of the rest of the activities in the image depend on some mixture of luck and skill. So in most situations, if you want to be hugely successful, you have to be more skillful than others and also get lucky. Investing, however, is on the left side of the picture, implying that luck is more important than skill. In fact, luck is much more important than skill, which is why so many smart people end up being unsuccessful in the trading markets.
 
-However, since there are many different types of investing, we need to slightly adjust Mauboussin's placement of investing in the image. For example, long-term holding and frequent trading are clearly completely different. Also, carefully selecting assets to hold over the long term is generally acknowledged to be a successful strategy. If someone doesn't believe this, just show them [the chart of the S&P 500 over the past several decades](https://docs.google.com/spreadsheets/d/1RsmiifuZajR_POx1zO_--qUcOgwb7tABNQpT-O69Ryk/edit?usp=sharing). Regular investing is at its core simply an improvement to the strategy of carefully selecting assets to hold over the long term. Since it hardly depends on any luck, this type of investment should actually be on the right side of the image.
+However, since there are many different types of investing, we need to slightly adjust Mauboussin's placement of investing in the image. For example, long-term holding and frequent trading are clearly completely different. Also, carefully selecting assets to hold over the long term is generally acknowledged to be a successful strategy. If someone doesn't believe this, just show them [the chart of the S&P 500 over the past several decades](https://docs.google.com/spreadsheets/d/1RsmiifuZajR_POx1zO_--qUcOgwb7tABNQpT-O69Ryk/edit?usp=sharing). Regular investing is at its core simply an improvement to the strategy of carefully selecting assets to hold over the long term. Since it hardly depends on any luck, this type of investing should actually be on the right side of the image.
 
 Regular investors only do one thing:
 
@@ -841,7 +841,7 @@ Frequent traders always seem to make a big deal out of nothing. This is understa
 
 Behavioral psychologists would explain it this way: people hate loss, and the pain of losing a dollar is much greater than the pleasure of gaining a dollar, so even when the price goes up just as much, those people don't get as excited. This explanation makes sense, but I also have another more realistic explanation:
 
->The people running around screaming "crash!" can't handle the price dropping. They were almost certainly so terrified that they sold all of their holdings after the price dropped. When they price went back up, they'd either lost all of their money or exited the market, so they didn't have anything to get excited about. Just like in a ghost story, it's as if they were screaming in another world, and the people in this world had no way to hear them.
+>The people running around screaming "crash!" can't handle the price dropping. They were almost certainly so terrified that they sold all of their holdings after the price dropped. When the price went back up, they'd either lost all of their money or exited the market, so they didn't have anything to get excited about. Just like in a ghost story, it's as if they were screaming in another world, and the people in this world had no way to hear them.
 
 The vast majority of people who jump into the market for the first time don't understand investing strategy. Actually, they don't have any strategy, and their reason for entering the market is that they have seen the good days that others have had. But the core reason why most people end up quietly leaving the market is that there are always more bad days than good. The reason why the market still goes up in the long term, despite having more bad days than good, is that, in aggregate, the gains of the good days greatly exceed the losses of the bad days. The problem is that most people have a natural tendency to want to make decisions based on current events, and it's only the few people who have received good education about investing and practiced it over the long term who are able to truly gain the skill of macro observation based on a long-term perspective.
 
@@ -908,7 +908,7 @@ After being in the market for a period of time, all investors come to the same d
 
 What is the cause of this counterintuitive phenomenon? One cause is that bear markets are always longer than bull markets. Also, when you really need money it's usually when it's hard to make money outside of the market, which implies a weaker economy, so it's natural for the market to fall. Another factor at work is that when the price is rising you're less willing to sell. At times like that, longer-term holders don't have a strong impulse to spend. So the greatest losses always come when you "can't help but sell".
 
-You should now have a better understanding of this piece of advice, which you have probably heard countless times:
+You should now have a better understanding of the following piece of advice, which you have probably heard countless times:
 
 >Only invest money that you can afford to lose.
 
@@ -1069,11 +1069,11 @@ For instance, [a paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2631940/) b
 > * Gain frame: you can keep 20 out of the 50 pounds.
 > * Loss frame: you will lose 30 out of the 50 pounds. 
 
-Obviously, the results of these two frames are the same, because the subject ends up with 20 pounds no matter what. But since the second frame described a loss, the tests subjects' loss aversion was activated. The key is what happened next: the activation of their loss aversion influenced their subsequent decisions. 
+Obviously, the results of these two frames are the same, because the subject ends up with 20 pounds no matter what. But since the second frame described a loss, the test subjects' loss aversion was activated. The key is what happened next: the activation of their loss aversion influenced their subsequent decisions. 
 
 ![Figure29](../images/Figure29.png)
 
-While only 42.9% of the subjects who had been presented with the Gain frame chose to gamble, 61.6% of the subjects who had been presented with the Loss frame decided to gamble. Remember, the amount that participants would keep with the "sure" option was the same for both frames -- the only difference was the way the option was described. Furthermore, this effect was present in all of the test subjects, albeit to various degrees.
+While only 42.9% of the subjects who had been presented with the Gain frame chose to gamble, 61.6% of the subjects who had been presented with the Loss frame decided to gamble. Remember, the amount that participants would keep with the "sure" option was the same for both frames -- the only difference was the way the option was described. Furthermore, this effect was present in all of the test subjects, albeit to varying degrees.
 
 It turns out that people take many risks because they are afraid! Or, to put it another way, it turns out that the reason many people take risks is not that they are brave! And furthermore, the thing that they are afraid of doesn't exist...
 
@@ -1095,7 +1095,7 @@ This image basically reveals why we can't control ourselves.
 
 The results of the experiment showed that when the subjects were unable to control their loss aversion their amygdalae were extremely active. What are the amygdalae? They are two almond-shaped clusters of neurons in the brain that play an important role in our decision-making, memory, and emotions or moods. They can trigger emergency responses such as the fight or flight reflex when we are faced with danger. The amygdalae are small, but they are extremely important in processing emotions, particularly fear.
 
-If you look back on times when you have felt extremely fearful, you will remember that your fear wasn't just an emotional state, but also a physical one. Your heart rate increased, your stomach felt empty, you felt uncomfortable, and you began to sweat. You felt like your brain was empty, because your brain lacked blood and oxygen. This emergency response of the amygdalae was what doomed the subjects; it was what caused the subject to feel, "I knew  what was happening, but I couldn't control myself". 
+If you look back on times when you have felt extremely fearful, you will remember that your fear wasn't just an emotional state, but also a physical one. Your heart rate increased, your stomach felt empty, you felt uncomfortable, and you began to sweat. You felt like your brain was empty, because your brain lacked blood and oxygen. This emergency response of the amygdalae was what doomed the subjects; it was what caused the subjects to feel, "I knew  what was happening, but I couldn't control myself". 
 
 Even more disappointing is that we are unwilling to change. When our mistakes are pointed out to us, we become even more stubborn in our mistaken choices. At this point, you're probably thinking, "But I'm not like this, am I?" Allow me to answer for you: you are like this, because we are all like this to some extent. 
 
@@ -1143,7 +1143,7 @@ When the subjects of the experiment mentioned in the previous chapter were prese
 
 The metaphor that Plato came up with 2,000 years ago is surprisingly similar to what scientists today have postulated after closer observations of how brains work. Take a look:
 
-| Brain structure | Colloquial name | Plato's Chariot Analogy |
+| Brain structure | Colloquial name | Plato's Chariot Allegory |
 | -------- | -------- | -------------------- |
 | Outer cortex | Human brain | Driver                 |
 | Inner cortex   | Monkey brain | White horse                 |
@@ -1167,7 +1167,7 @@ We can define "keeping a cool head" in the following way:
 
 That is to say that you do not take any action until all three roles have processed the situation. This simple, direct, brutal and effective strategy will change the performance of the whole chariot. The driver will quickly understand that both the black horse and the white horse can have incorrect responses. The driver will further discover that, after repeated communication between the three roles, the white horse may listen to the driver, and the black horse can develop new and correct intuition. 
 
-The driver starts off as the weakest of the three, and it is only by keeping a cool head that they can participate, gain experience, and continuously grow. As the driver continuously grows, the white horse and the black horse go through countlesss cycles of correction and coordination, and they all end up different than before. So when people tell you to "trust your intuition", you now know that your black horse and the black horse of an expert may be completely different. The expert can trust their intuition, but maybe you can't.
+The driver starts off as the weakest of the three, and it is only by keeping a cool head that they can participate, gain experience, and continuously grow. As the driver continuously grows, the white horse and the black horse go through countless cycles of correction and coordination, and they all end up different than before. So when people tell you to "trust your intuition", you now know that your black horse and the black horse of an expert may be completely different. The expert can trust their intuition, but maybe you can't.
 
 Members of my Regular Investing Practice Group have already experienced this magical process. 
 
@@ -1340,7 +1340,7 @@ The clearest example of this is parents raising children. If parents focus their
 
 Of course, a more common example occurs in the investing world. Do investors really need to participate in operations? Maybe sometimes. But we can be almost certain that traders in the secondary market shouldn't participate in the operations of the companies they invest in. In fact, not needing to participate in operations is one of the biggest advantages of investing in the secondary markets.
 
-However, the operators of almost every publicly traded company receive many letters from shareholders every day. These shareholders have all sorts of complaints and advice, and they often end up working themselves into quite a tizzy. They are incognizant of the fact that they are wasting effort outside of their own border. They have idea that effort outside of that border is completely useless, and that if it has any effect at all it will be negative. They will never understand, because they themselves lack the ability to create an effective business model and eventually secure investment from the public. If they were able to do so, they would discover that it's terrible to have so many people on the outside trying to influence you, and that it's even worse to be actually swayed by those on the outside. You could even say the following: a company that is easily swayed by the secondary market is not worth investing in.
+However, the operators of almost every publicly traded company receive many letters from shareholders every day. These shareholders have all sorts of complaints and advice, and they often end up working themselves into quite a tizzy. They are incognizant of the fact that they are wasting effort outside of their own border. They have no idea that effort outside of that border is completely useless, and that if it has any effect at all it will be negative. They will never understand, because they themselves lack the ability to create an effective business model and eventually secure investment from the public. If they were able to do so, they would discover that it's terrible to have so many people on the outside trying to influence you, and that it's even worse to be actually swayed by those on the outside. You could even say the following: a company that is easily swayed by the secondary market is not worth investing in.
 
 Let's take another look at the equation that describes our returns: 
 
@@ -1394,7 +1394,7 @@ There is no secret to success. Or, if there are secrets, they are open secrets. 
 
 It's not an exaggeration to say that regular investing can change a person's life. 
 
-China enforced the One Child Policy from 1979 to 2015. People of child-rearing age in 1979 are around seventy now, and the are in a special state called "the loneliness of old age". They have been retired for ten or more years, and their only child is currently in the middle of their busiest stage of life, having just had kids. Because times have changed, more and more of them don't life in the same cities as their children, and so many of these parents no longer see their children regularly. They've got nothing to do, and no one to accompany them.
+China enforced the One Child Policy from 1979 to 2015. People of child-rearing age in 1979 are around seventy now, and they are in a special state called "the loneliness of old age". They have been retired for ten or more years, and their only child is currently in the middle of their busiest stage of life, having just had kids. Because times have changed, more and more of them don't live in the same cities as their children, and so many of these parents no longer see their children regularly. They've got nothing to do, and no one to accompany them.
 
 There is an awkward fact:
 
@@ -1418,7 +1418,7 @@ October 2019, Beijing
 
 >**Risk Warning**
 >
->The strategy of regular investment is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor must use their own money and time over the long term to take responsibility for their choices. Please be cautious.
+>The strategy of regular investing is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor must use their own money and time over the long term to take responsibility for their choices. Please be cautious.
 >
 >This section is primarily about how I chose BTC, EOS, and XIN to be the components of BOX, and it necessarily contains some of my own subjective judgements. You must use your own objective understanding of the objective world to choose your own investments.
 >
@@ -1496,9 +1496,9 @@ Mixin Network has taken a different technical development path.
 
 Other public chains have followed a *bottom-up* approach, first developing the public chain and then developing on-chain Dapps. This is called "building an ecosystem".
 
-Mixin Network has taken a *top-down* approach, first creating a great Dapp, Mixin Messenger, and then gradually completing the development of the base public chain. Thus, Mixin Messenger was first released in December of 2012, and, more than a year later, in February of 2019, the Mixin Network public chain was officially released. Dapps such as dice games can simply be bots running on Mixin Messenger. Ocean.one is a self-governing decentralized exchange running on Mixin Network, and it represents pioneering technology in the blockchain space. Other products that are being developed, like BOX and its b.watch exchange, would be impossible to realize without the Mixin Network public chain. It's not that I haven't tried other public chains, it's that they are unusable. This is the reason for XIN's allocation in BOX.
+Mixin Network has taken a *top-down* approach, first creating a great Dapp, Mixin Messenger, and then gradually completing the development of the base public chain. Thus, Mixin Messenger was first released in December of 2017, and, more than a year later, in February of 2019, the Mixin Network public chain was officially released. Dapps such as dice games can simply be bots running on Mixin Messenger. Ocean.one is a self-governing decentralized exchange running on Mixin Network, and it represents pioneering technology in the blockchain space. Other products that are being developed, like BOX and its b.watch exchange, would be impossible to realize without the Mixin Network public chain. It's not that I haven't tried other public chains, it's that they are unusable. This is the reason for XIN's allocation in BOX.
 
-In summary, BOX is an ETF product that I believe is very likely to succeed. If we lose money on it, it is because the blockchain industry has failed, and that is neither my fault nor yours. However, **as long as the blockchain industry does well, BOX will do well**, and the blockchain industry is just taking off, so were are likely to do well. It's that simple.
+In summary, BOX is an ETF product that I believe is very likely to succeed. If we lose money on it, it is because the blockchain industry has failed, and that is neither my fault nor yours. However, **as long as the blockchain industry does well, BOX will do well**, and the blockchain industry is just taking off, so we are likely to do well. It's that simple.
 
 ## 2. About b.watch
 
@@ -1516,9 +1516,9 @@ Later on, other sources of potential income may include:
 > * Income from an EOS Block Producer
 > * Income from XIN nodes
 
-It takes a large amount of reserves and preparation to become an EOS Block Producer or a XIN node. When the time is right, b.watch plans to run these nodes, and after deducting operation costs 100% of proceeds will be distributed to BOX holders. 
+It takes a large amount of reserves and preparation to become an EOS Block Producer or an XIN node. When the time is right, b.watch plans to run these nodes, and after deducting operation costs 100% of proceeds will be distributed to BOX holders. 
 
-Under this system, the corporate value of b.watch is basically a 0.5% commission on BOX redemptions and a 0.1% commission on BOX trading. After seven year, 100% of BOX shares will be distributed to my Regular Investing Practice Group members according to certain conditions. For instance:
+Under this system, the corporate value of b.watch is basically a 0.5% commission on BOX redemptions and a 0.1% commission on BOX trading. After seven years, 100% of the shares of b.watch will be distributed to my Regular Investing Practice Group members according to certain conditions. For instance:
 
 > * Time holding BOX
 > * Degree of successful completion of regular investing tasks
@@ -1573,11 +1573,11 @@ Mixin download links:
 >   * In China，[download on the Tencent App Store](https://a.app.qq.com/o/simple.jsp?pkgname=one.mixin.messenger)，or [download on the Xiaomi App Store](http://app.mi.com/details?id=one.mixin.messenger)
 >   * Outside of China, [download on the Google Play Store](https://play.google.com/store/apps/details?id=one.mixin.messenger)
 
-iOS users with Mainland China App Store accounts who download [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019) must add the wallet bot (ID: *7000101425*) in order to sent, receive and store digital assets.
+iOS users with Mainland China App Store accounts who download [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019) must add the wallet bot (ID: *7000101425*) in order to send, receive and store digital assets.
 
 ![](../images/miniwallet.png)
 
-Also, the exit bot (ID: 7000101276) provides OTC service within Mixin.
+Also, the exin bot (ID: 7000101276) provides OTC services within Mixin.
 
 ### 4.2 Adding the “BOX Regular Investing Practice Group” Bot
 
@@ -1587,11 +1587,11 @@ Search for *7000102069* to add the “BOX Regular Investing Practice Group” bo
 
 Search for and add the following bot: *7000102093*.
 
-I often hold open classes in this group, and you can also find recordings of previous open classes here. Just click on the robot icon and then the “course record” icon to access the recordings
+I often hold open classes in this group, and you can also find recordings of previous open classes here. Just click on the robot icon and then the “Course Record” icon to access the recordings
 
 ## About the Author
 
-Li Xiaolai is an investor and a lifelong learner. [http://lixiaolai.com]( http://lixiaolai.com) · [xiaolai@github](https://github.com/xiaolai)
+Xiaolai Li is an investor and a lifelong learner. [http://lixiaolai.com]( http://lixiaolai.com) · [xiaolai@github](https://github.com/xiaolai)
 
 ### Publications
 

@@ -5,7 +5,9 @@ rewritten in English by John Gordon & Xiaolai Li
 
 * [点击阅读中文版](/cn/) 
 * [Click to read English edition](/en/) 
-* 此书第二版已由果麦文化印刷发行
+* [한국어판을 읽으려면 클릭](/kr/)
+
+* 此书第二版（中文版）已由果麦文化印刷发行
     * [当当购买链接](http://product.dangdang.com/28493272.html?_utm_ad_id=83757)
     * [京东购买链接](https://item.jd.com/12605781.html)
 
