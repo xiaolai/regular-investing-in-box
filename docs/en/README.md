@@ -129,7 +129,7 @@ The core of the regular investing strategy is long-term holding. It's well recog
 
 >**How long is "long-term"?**
 
-If we don't have an accurate answer to this question, we can't even really use the concept of "long-term". For any concept to be useful it must be clearly defined, and since we must combine concepts together, if we have multiple unclear concepts then the accuracy of our judgement will be severely impacted, just as multiplying 80% by itself five times will leave us with less than 32%. In the course of reading this book, you will encounter several concepts that must be used together, and they must be clearly and accurately defined in order to be useful.
+If we don't have an accurate answer to this question, we can't even really use the concept of "long-term". For any concept to be useful it must be clearly defined, and since we must combine concepts together, if we have multiple unclear concepts then the accuracy of our judgement will be severely impacted, just as multiplying 80% by itself five times will leave us with less than 33%. In the course of reading this book, you will encounter several concepts that must be used together, and they must be clearly and accurately defined in order to be useful.
 
 Unlike most people, I have a fairly clear, accurate and useful definition of long-term:
 
