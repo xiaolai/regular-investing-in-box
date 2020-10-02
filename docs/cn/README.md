@@ -1439,6 +1439,7 @@ EOS 从这个角度望过去，就是个面向区块链企业的平台。而 Mix
 
 <p style="text-align: right;"><strong>李笑来</strong></p>
 <p style="text-align: right;">2019 年 10 月于北京</p>
+
 -----
 
 
