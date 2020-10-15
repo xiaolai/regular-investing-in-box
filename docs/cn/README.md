@@ -414,7 +414,7 @@
 
 ![Figure12](../images/Figure12.png)
 
-大家现在已经相当熟知的桥水基金创始人[瑞·达里奥](https://en.wikipedia.org/wiki/Ray_Dalio)亦是如此。[Principles](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/)（中译《原则》，2017）在正式出版之前，早在 2011 年就开始网上 [“开源” 发布](https://archive.org/stream/BridgewaterRayDalioPrinciples/Bridgewater%20-%20Ray%20Dalio%20-%20Principles_djvu.txt)。到了 2019 年，瑞·达里奥甚至专门雇了一个团队制作了一个移动 APP，[Principles in Action](https://apps.apple.com/us/app/principles-in-action/id1211294305)，以便读者能够更为方便地践行书中的原则……
+大家现在已经相当熟知的桥水基金创始人[瑞·达里奥](https://en.wikipedia.org/wiki/Ray_Dalio)亦是如此。[Principles](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/)（中译《原则》，2017）在正式出版之前，早在 2011 年就开始网上 [**开源**发布](https://archive.org/stream/BridgewaterRayDalioPrinciples/Bridgewater%20-%20Ray%20Dalio%20-%20Principles_djvu.txt)。到了 2019 年，瑞·达里奥甚至专门雇了一个团队制作了一个移动 APP，[Principles in Action](https://apps.apple.com/us/app/principles-in-action/id1211294305)，以便读者能够更为方便地践行书中的原则……
 
 在投资领域，必须用金钱、时间和行动才能产生实际业绩，所以，这里的人要么是 1 要么是 0 —— 只有那些获得了长期成功业绩的投资者才是 1，剩下的全是 0，而那些在各种媒体上天天忙着喊话却只不过是纸上谈兵拿不出业绩的各种所谓专家，同样是 0 —— 他们发出的，事实上全部都是噪音而已。甚至，那些真正长期持续成功的投资者，因为他们自己的讲演和著作都已经表达得再清楚不过了，对他们的见解以及行为进行任何解读都没有太大的意义。
 
