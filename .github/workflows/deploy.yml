@@ -1,0 +1,49 @@
+
+name: Build and deploy to production.
+
+env:
+  OSS_ENDPOINT: oss-cn-beijing.aliyuncs.com
+  AWS_REGION: us-east-1
+  APP_ENV: prod
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    if: github.repository_owner == 'fox-one'
+    steps:
+      - uses: actions/checkout@master
+
+      - uses: actions/cache@v2
+        with:
+          path: |
+            node_modules
+            **/node_modules
+          key: ${{ runner.os }}-${{ hashFiles('./yarn.lock') }}
+
+      - name: Setup node env
+        uses: actions/setup-node@master
+        with:
+          node-version: '12'
+
+      # upload to aliyun
+      - uses: yizhoumo/setup-ossutil@v1
+        with:
+          endpoint: ${{ env.OSS_ENDPOINT }}
+          access-key-id: ${{ secrets.GLOBAL_OSS_ACCESS_KEY_ID }}
+          access-key-secret: ${{ secrets.GLOBAL_OSS_ACCESS_KEY_SECRET }}
+      - run: ossutil cp -r -u -f docs/* ${{ secrets.OSS_URL_PROD }} -e ${{ env.OSS_ENDPOINT }}
+      - run: ossutil set-meta ${{ secrets.OSS_URL_PROD }}/index.html Cache-Control:no-cache --update -e ${{ env.OSS_ENDPOINT }}
+
+      # upload to aws
+      - uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-region: ${{ env.AWS_REGION }}
+          aws-access-key-id: ${{ secrets.GLOBAL_AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.GLOBAL_AWS_ACCESS_KEY_SECRET }}
+      - run: aws s3 cp --recursive docs/* ${{ secrets.S3_URL_PROD }} --acl public-read
+      - run: aws s3 cp docs/index.html ${{ secrets.S3_URL_PROD }} --cache-control "nocache" --acl public-read
