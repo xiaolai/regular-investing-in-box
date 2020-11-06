@@ -36,7 +36,7 @@ jobs:
           endpoint: ${{ env.OSS_ENDPOINT }}
           access-key-id: ${{ secrets.GLOBAL_OSS_ACCESS_KEY_ID }}
           access-key-secret: ${{ secrets.GLOBAL_OSS_ACCESS_KEY_SECRET }}
-      - run: ossutil cp -r -u -f docs/* ${{ secrets.OSS_URL_PROD }} -e ${{ env.OSS_ENDPOINT }}
+      - run: ossutil cp -r -u -f docs/ ${{ secrets.OSS_URL_PROD }} -e ${{ env.OSS_ENDPOINT }}
       - run: ossutil set-meta ${{ secrets.OSS_URL_PROD }}/index.html Cache-Control:no-cache --update -e ${{ env.OSS_ENDPOINT }}
 
       # upload to aws
