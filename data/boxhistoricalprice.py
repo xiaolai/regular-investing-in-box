@@ -32,13 +32,13 @@ import json
 
 todaysdate = date.today().strftime('%Y-%m-%d')
 
-BTCresponse = json.loads(requests.get("https://bigone.com/api/v3/asset_pairs/BTC-USDT/ticker", verify=False).text)
+BTCresponse = json.loads(requests.get("https://bigone.com/api/v3/asset_pairs/BTC-USDT/ticker", headers={'Connection':'close'}).text)
 btc_price = '${:,.2f}'.format(float(BTCresponse['data']['close']))
 
-EOSresponse = json.loads(requests.get("https://bigone.com/api/v3/asset_pairs/EOS-USDT/ticker", verify=False).text)
+EOSresponse = json.loads(requests.get("https://bigone.com/api/v3/asset_pairs/EOS-USDT/ticker", headers={'Connection':'close'}).text)
 eos_price = '${:,.2f}'.format(float(EOSresponse['data']['close']))
 
-XINresponse = json.loads(requests.get("https://bigone.com/api/v3/asset_pairs/XIN-USDT/ticker", verify=False).text)
+XINresponse = json.loads(requests.get("https://bigone.com/api/v3/asset_pairs/XIN-USDT/ticker", headers={'Connection':'close'}).text)
 xin_price = '${:,.2f}'.format(float(XINresponse['data']['close']))
 
 box_price = '${:,.2f}'.format((float(sub(r'[^\d.]', '', btc_price)) + float(sub(r'[^\d.]', '', eos_price)) * 1500 + float(sub(r'[^\d.]', '', xin_price)) * 8)/10000)
