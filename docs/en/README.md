@@ -10,7 +10,7 @@ While the financial trading markets are no doubt the best place to make money th
 
 > Investing is risky, so make your decisions carefully!
 
-As [Howard Stanley Marks](https://en.wikipedia.org/wiki/Howard_Marks_(investor)), who was listed as the 327<sup>th</sup> wealthiest person in the United States in 2017, once said:
+As [Howard Stanley Marks](https://en.wikipedia.org/wiki/Howard_Marks_(investor)), who was listed as the 374<sup>th</sup> wealthiest person in the United States in 2017, once said:
 
 > “There are *old* investors, and there are *bold* investors, but there are no *old bold* investors.”
 
