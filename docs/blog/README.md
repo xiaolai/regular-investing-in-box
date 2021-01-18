@@ -1,5 +1,9 @@
 # 博客
 
+## 2021.01.19 BOX 拟增加 4 个成分
+
+经过 558 天之后，BOX 讲进行首次调仓，拟增加是个成分。
+
 ## 2020.02.15 中英两个版本的 epub 已可下载
 
 > * [定投改变命运（第三版）epub](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/epub/OnRegularInvesting_cn.epub)
@@ -102,7 +106,7 @@ plt.show()
 > Buy.
 
 **Is there any way to have coins other than buying?**
-> Mine.
+> Mining.
 
 **Is it safe?**
 > Depends.
