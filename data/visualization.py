@@ -56,6 +56,10 @@ series["BTC Value Accumulated"] = BTC_value_accumulated
 btc_price_change = []
 eos_price_change = []
 xin_price_change = []
+eth_price_change = []
+dot_price_change = []
+mob_price_change = []
+uni_price_change = []
 box_price_change = []
 ri_box_change = []
 ri_btc_change = []
@@ -65,6 +69,10 @@ for i in range(0, number_of_rows):
     btc_price_change.append(float(sub(r"[^\d.]", "", series.at[i, "BTC Price"]))/float(sub(r"[^\d.]", "", series.at[0, "BTC Price"])) - 1)
     eos_price_change.append(float(sub(r"[^\d.]", "", series.at[i, "EOS Price"]))/float(sub(r"[^\d.]", "", series.at[0, "EOS Price"])) - 1)
     xin_price_change.append(float(sub(r"[^\d.]", "", series.at[i, "XIN Price"]))/float(sub(r"[^\d.]", "", series.at[0, "XIN Price"])) - 1)
+    eth_price_change.append(float(sub(r"[^\d.]", "", series.at[i, "ETH Price"]))/float(sub(r"[^\d.]", "", series.at[0, "ETH Price"])) - 1)
+    dot_price_change.append(float(sub(r"[^\d.]", "", series.at[i, "DOT Price"]))/float(sub(r"[^\d.]", "", series.at[0, "DOT Price"])) - 1)
+    mob_price_change.append(float(sub(r"[^\d.]", "", series.at[i, "MOB Price"]))/float(sub(r"[^\d.]", "", series.at[0, "MOB Price"])) - 1)
+    uni_price_change.append(float(sub(r"[^\d.]", "", series.at[i, "UNI Price"]))/float(sub(r"[^\d.]", "", series.at[0, "UNI Price"])) - 1)
     box_price_change.append(float(sub(r"[^\d.]", "", series.at[i, "BOX Price"]))/float(sub(r"[^\d.]", "", series.at[0, "BOX Price"])) - 1)    
     ri_box_change.append(series.at[i, "BOX Value Accumulated"]/series.at[i, "Total Invested"] - 1)
     ri_btc_change.append(series.at[i, "BTC Value Accumulated"]/series.at[i, "Total Invested"] - 1)
@@ -74,6 +82,10 @@ for i in range(0, number_of_rows):
 series["BTC"] = btc_price_change
 series["EOS"] = eos_price_change
 series["XIN"] = xin_price_change
+series["ETH"] = eth_price_change
+series["DOT"] = dot_price_change
+series["MOB"] = mob_price_change
+series["UNI"] = uni_price_change
 series["BOX"] = box_price_change
 series["RI-BOX"] = ri_box_change
 series["RI-BTC"] = ri_btc_change
@@ -84,14 +96,18 @@ BOX_Change = pstring("{0:.2%}".format(float(sub(r"[^\d.]", "", series.at[number_
 BTC_Change = pstring("{0:.2%}".format(float(sub(r"[^\d.]", "", series.at[number_of_rows - 1, "BTC Price"]))/float(sub(r"[^\d.]", "", series.at[0, "BTC Price"])) - 1))
 EOS_Change = pstring("{0:.2%}".format(float(sub(r"[^\d.]", "", series.at[number_of_rows - 1, "EOS Price"]))/float(sub(r"[^\d.]", "", series.at[0, "EOS Price"])) - 1))
 XIN_Change = pstring("{0:.2%}".format(float(sub(r"[^\d.]", "", series.at[number_of_rows - 1, "XIN Price"]))/float(sub(r"[^\d.]", "", series.at[0, "XIN Price"])) - 1))
+ETH_Change = pstring("{0:.2%}".format(float(sub(r"[^\d.]", "", series.at[number_of_rows - 1, "ETH Price"]))/float(sub(r"[^\d.]", "", series.at[0, "ETH Price"])) - 1))
+DOT_Change = pstring("{0:.2%}".format(float(sub(r"[^\d.]", "", series.at[number_of_rows - 1, "DOT Price"]))/float(sub(r"[^\d.]", "", series.at[0, "DOT Price"])) - 1))
+MOB_Change = pstring("{0:.2%}".format(float(sub(r"[^\d.]", "", series.at[number_of_rows - 1, "MOB Price"]))/float(sub(r"[^\d.]", "", series.at[0, "MOB Price"])) - 1))
+UNI_Change = pstring("{0:.2%}".format(float(sub(r"[^\d.]", "", series.at[number_of_rows - 1, "UNI Price"]))/float(sub(r"[^\d.]", "", series.at[0, "UNI Price"])) - 1))
 RIBOX_Change = pstring("{0:.2%}".format(float(series.at[number_of_rows - 1, "BOX Value Accumulated"]/series.at[number_of_rows - 1, "Total Invested"] - 1)))
 
 # draw the figure
 ax = plt.gca()
 ax.yaxis.set_major_formatter(FuncFormatter(lambda y, _: '{:.0%}'.format(y))) 
-series.plot(kind='line', x='Date', y='BTC', ax=ax, figsize = (20,10), color="red")
-series.plot(kind='line', x='Date', y='EOS', ax=ax, figsize = (20,10), color="brown")
-series.plot(kind='line', x='Date', y='XIN', ax=ax, figsize = (20,10), color="purple")
+# series.plot(kind='line', x='Date', y='BTC', ax=ax, figsize = (20,10), color="red")
+# series.plot(kind='line', x='Date', y='EOS', ax=ax, figsize = (20,10), color="brown")
+# series.plot(kind='line', x='Date', y='XIN', ax=ax, figsize = (20,10), color="purple")
 series.plot(kind='line', x='Date', y='BOX', ax=ax, figsize = (20,10), color="green")
 series.plot(kind='line', x='Date', y='RI-BOX', ax=ax, figsize = (20,10), color="blue")
 series.plot(kind='line', x='Date', y='RI-BTC', ax=ax, figsize = (20,10), color="black")
