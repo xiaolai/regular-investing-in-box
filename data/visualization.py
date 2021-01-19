@@ -94,7 +94,7 @@ series.plot(kind='line', x='Date', y='BTC', ax=ax, figsize = (20,10), color="red
 # series.plot(kind='line', x='Date', y='XIN', ax=ax, figsize = (20,10), color="purple")
 series.plot(kind='line', x='Date', y='BOX', ax=ax, figsize = (20,10), color="green")
 series.plot(kind='line', x='Date', y='RI-BOX', ax=ax, figsize = (20,10), color="blue")
-series.plot(kind='line', x='Date', y='RI-BTC', ax=ax, figsize = (20,10), color="black")
+# series.plot(kind='line', x='Date', y='RI-BTC', ax=ax, figsize = (20,10), color="black")
 series.plot(kind='line', linestyle='dotted', x='Date', y='Base', ax=ax, figsize = (20,10), color="gray")
 # plt.xlabel(f'\nResult of regularly investing in {number_of_rows} days\n\nBOX: {BOX_Change}; BTC: {BTC_Change}; EOS: {EOS_Change}; XIN: {XIN_Change}; RI-BOX: {RIBOX_Change}')
 plt.xlabel(f'\nResult of regularly investing in {number_of_rows} days\n\nBOX: {BOX_Change}; BTC: {BTC_Change}; RI-BOX: {RIBOX_Change}')
