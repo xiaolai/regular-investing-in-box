@@ -89,7 +89,7 @@ RIBOX_Change = pstring("{0:.2%}".format(float(series.at[number_of_rows - 1, "BOX
 # draw the figure
 ax = plt.gca()
 ax.yaxis.set_major_formatter(FuncFormatter(lambda y, _: '{:.0%}'.format(y))) 
-series.plot(kind='line', x='Date', y='BTC', ax=ax, figsize = (20,10), color="red")
+# series.plot(kind='line', x='Date', y='BTC', ax=ax, figsize = (20,10), color="red")
 # series.plot(kind='line', x='Date', y='EOS', ax=ax, figsize = (20,10), color="brown")
 # series.plot(kind='line', x='Date', y='XIN', ax=ax, figsize = (20,10), color="purple")
 series.plot(kind='line', x='Date', y='BOX', ax=ax, figsize = (20,10), color="green")
