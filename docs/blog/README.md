@@ -1,5 +1,17 @@
 # 博客
 
+## 2021.01.21 BOX 增加 4 个成分
+
+经过 558 天之后，BOX 将进行首次调仓，增加了另外 4 个成分，它们分别是：
+
+> * BTC
+> * ETH
+> * EOS
+> * DOT
+> * MOB
+> * UNI
+> * XIN
+
 ## 2020.02.15 中英两个版本的 epub 已可下载
 
 > * [定投改变命运（第三版）epub](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/epub/OnRegularInvesting_cn.epub)
@@ -102,7 +114,7 @@ plt.show()
 > Buy.
 
 **Is there any way to have coins other than buying?**
-> Mine.
+> Mining.
 
 **Is it safe?**
 > Depends.

@@ -10,7 +10,7 @@
 
 투자는 위험 부담이 많은 경제 행위이므로, 신중한 의사 결정이 필수임을 잊지 말자!
 
-2017년 기준 미국 부호 순위 327위에 오른 [하워드 스탠리 마크스](https://en.wikipedia.org/wiki/Howard_Marks_(investor))(Howard Stanley Marks)는 이렇게 말했다.
+2017년 기준 미국 부호 순위 374 위에 오른 [하워드 스탠리 마크스](https://en.wikipedia.org/wiki/Howard_Marks_(investor))(Howard Stanley Marks)는 이렇게 말했다.
 
 "세상에는 *늙은* 투자자와 *대담한* 투자자가 있다. 하지만 *늙고 대담한* 투자자는 없다."
 
