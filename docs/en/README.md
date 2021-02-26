@@ -548,10 +548,6 @@ It's extremely difficult to pick the best investment out of tens of thousands of
 
 >Making money is easy. All you need to have done is invested in the Internet 20 years ago, because at that time the Internet was the future of the world. Now, you should invest in AI, because AI is the future of the world. 
 
-Actually, I have already designed a no-carry, no-management-fee index fund. The working name is "Odyssey", and it should be issued in the US in October of 2020. It will be made up of about 30 investments, all in listed companies in the US and China. There is only one selection criterion:
-
->"Who has constantly growing user data?"
-
 I agree with Masayoshi Sun's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
 
 >No matter how good the algorithm is, it needs data to feed it. Public companies with large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
@@ -634,7 +630,7 @@ Major trends, which become apparent after many years, must initially go through 
 
 So, contrary to what most people think, the popping of a bubble quite possibly represents opportunity. Whether or not there actually is an opportunity depends on whether or not the object of the bubble has long-term sustainable value and growth potential. If it does, then there is an opportunity. It's possible, though, that bubbles may continue to occur until its value has been fully realized.
 
-After reaching an all-time high of \$19,800 in December of 2017, bitcoin entered a long bear market. As of October 2019, it remains in a bear market, with its price less than 43% of its all-time high. But is the popping of this bubble different from the popping of previous bubbles in the bitcoin market? As of October 11th, 2019, bitcoin had been pronounced dead [337 times](https://99bitcoins.com/bitcoin-obituaries/) since its inception. Each short bull market has been called a bubble, and they have all popped, but the popping of the bubble in 2017 has one difference from previous bubbles:
+After reaching an all-time high of \$19,800 in December of 2017, bitcoin entered a long bear market. As of October 2019, it remains in a bear market, with its price less than 43% of its all-time high. But is the popping of this bubble different from the popping of previous bubbles in the bitcoin market? From its inception through October 11th, 2019, bitcoin, the world's first blockchain application, was pronounced dead [337 times](https://99bitcoins.com/bitcoin-obituaries/). Each short bull market has been called a bubble, and they have all popped, but the popping of the bubble in 2017 has one difference from previous bubbles:
 
 >No one denies bitcoin's value. 
 
@@ -679,12 +675,12 @@ Below, I will take BOX as an example, because it is a combination of investments
 
 > The strategy of regular investing is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor must use their own money and time over the long term to take responsibility for their own choices. Please be cautious.
 >
-> This section is primarily about how I chose BTC, EOS, and XIN to be the components of BOX, and it necessarily contains some of my own subjective judgements. You must use your own objective understanding of the objective world to choose your own investments.
+> This section is primarily about why, in July of 2017, I chose BTC, EOS, and XIN to be the initial components of BOX, and it necessarily contains some of my own subjective judgements. You must use your own objective understanding of the objective world to choose your own investments.
 >
 > **Conflict of Interest Notice**
 >
 > * I am a long-term holder of BTC (from May of 2011)
-> * I was an angel investor in BlockOne, which developed EOS (May of 2017)
+> * I was an angel investor in BlockOne, which developed EOS (initial investment in May of 2017; all shares sold in 2018)
 > * I was an angel investor in Mixin Network (October of 2017)
 
 After eight years of observation, thinking and practice, I think that blockchain technology has a development path that is slowly becoming apparent: 
@@ -692,8 +688,6 @@ After eight years of observation, thinking and practice, I think that blockchain
 >Trusted ledger (BTC) → Trusted platform for code (ETH/EOS) → Trusted execution environment (Mixin) → Trusted hardware (?) ...
 
 [Bitcoin](https://bitcoin.org/) was the world's first blockchain application. At its core it is an open, transparent, immutable, distributed, trusted ledger. Projects such as [Ethereum](https://www.ethereum.org) and [EOS](https://eos.io), which came along later, have the goal of becoming a blockchain application platform, which is to say that application code can be written to and executed on an open, transparent, immutable, distributed, trusted ledger. Putting a ledger on a blockchain allowed for a trusted ledger, and putting application code on a blockchain allowed for trusted code. [Mixin Network](https://mixin.one) combines a Trusted Execution Environment (TEE) and a Directed Acyclic Graph (DAG) to create an open, transparent, immutable, distributed digital asset storage network, or a trusted execution environment. Maybe in the near future we will also see trusted hardware.
-
-The reasons for not choosing Ethereum are technical. It currently uses a [Proof-of Work (PoW)](https://en.wikipedia.org/wiki/Proof_of_work) consensus mechanism, and this type of consensus mechanism, which measures confirmations in minutes, is fundamentally unsuitable for an application platform. Ethereum's experience over the past three years has shown that this flaw cannot be resolved in a PoW system. Even if Ethereum switches to a Proof-of-Stake (PoS) system, it will necessarily require a hard fork. Ethereum already underwent a poorly considered hard fork in 2017 that gave birth to Ethereum Classic, which has no clear use case. All of this is to say that investors in Ethereum are faced with a great amount of risk.
 
 There is one final reason why I chose these investments. From inception until they are widely accepted, almost all technologies go through the following three stages:
 
@@ -703,29 +697,27 @@ From this perspective, EOS is a blockchain platform for businesses, and Mixin Ne
 
 Furthermore, these three investments have reached the "undeniable" stage. Of course they haven't been accepted by everyone, but no one can deny their value. This is the best time for regular investors to enter the market.
 
-The figure below shows the price fluctuations of BOX, BTC, EOS, and XIN, and the profit fluctuations of investing in BOX regularly (daily):
+In  January of 2021, more than 500 days after the establishment of the BOX Regular Investing Group, the components of BOX were adjusted for the first time. Currently BOX includes seven components:
+
+> * BTC
+> * EOS
+> * ETH
+> * DOT
+> * MOB
+> * UNI
+> * XIN
+
+At this point, BOX has evolved into a rather mature "Digital Assets Index ETF". The following chart shows the returns on BOX from July 12th, 2017:
 
 <img src="https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/data/box-historical-price-change.png" style="border-radius: 5px; border: 5px solid #ddd; max-width: 100%;"/>
 
-> Note: [click this link to view the data](https://github.com/xiaolai/regular-investing-in-box/tree/master/data)
-
-Let's take Odyssey, the no-carry, no-management-fee stock ETF that will be issued in the second half of 2020, as another example. As I mentioned in a previous chapter:
-
->I agree with Masayoshi Sun's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
->
->>No matter how good the algorithm is, it needs data to feed it. Public companies with large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
-
-The main point is in this sentence:
-
->Most algorithm companies will in the end be used by large companies with data.
-
-This sentence is making a judgment about an obvious trend that is itself in accordance with the trend. In this sector, this will definitely happen, so we should be prepared in advance.
+> Note: [Click this link to see the orignal data](https://github.com/xiaolai/regular-investing-in-box/tree/master/data)
 
 There has long been debate in the investment world about whether *alpha* -- results that beat the market -- actually exists, even though rare investors such as Warren Buffet, Joel Greenblatt and Ray Dalio have consistently beaten the market over the long term. There's a joke that shows the silliness of blind adherents to "efficient market theory":
 
 >A student saw a hundred dollar bill on the ground and exclaimed to his professor, "Look! Is that a hundred dollar bill?" The professor didn't even deign to look, saying, "That's impossible! If it were really a hundred dollar bill, somebody would have picked it up a long time ago."
 
-If the market were 100% efficient, then *alpha* could not exist. The problem is that, if we look at any given moment in the market in isolation, it's 100% inefficient. Price and value sometimes matching up doesn't mean anything -- a broken clock is right twice a day! If we put all of the individual moments back together, then over the long term the market should be efficient, but how long is long term? No one knows. If we look at it from the perspective of a regular investor, after two full cycles, the variance between the current price and the historical price at any given moment will seem even greater.
+If the market were 100% efficient, then *alpha* could not exist. The problem is that, if we look at any given moment in the market in isolation, it's 100% inefficient. Price and value sometimes matching up doesn't mean anything -- even a broken clock is right exactly twice a day! If we put all of the individual moments back together, then over the long term the market should be efficient, but how long is long term? No one knows. If we look at it from the perspective of a regular investor, after two full cycles, the variance between the current price and the historical price at any given moment will seem even greater.
 
 Obviously, I believe that *alpha* exists, and I'm always thinking about how to find better strategies to create it. If you do well, *alpha* is positive; if you do poorly, *alpha* is negative. As a regular investor, your final results can be described by the following formula:
 
