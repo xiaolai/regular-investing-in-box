@@ -548,10 +548,6 @@ It's extremely difficult to pick the best investment out of tens of thousands of
 
 >Making money is easy. All you need to have done is invested in the Internet 20 years ago, because at that time the Internet was the future of the world. Now, you should invest in AI, because AI is the future of the world. 
 
-Actually, I have already designed a no-carry, no-management-fee index fund. The working name is "Odyssey", and it should be issued in the US in October of 2020. It will be made up of about 30 investments, all in listed companies in the US and China. There is only one selection criterion:
-
->"Who has constantly growing user data?"
-
 I agree with Masayoshi Sun's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
 
 >No matter how good the algorithm is, it needs data to feed it. Public companies with large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
@@ -634,7 +630,7 @@ Major trends, which become apparent after many years, must initially go through 
 
 So, contrary to what most people think, the popping of a bubble quite possibly represents opportunity. Whether or not there actually is an opportunity depends on whether or not the object of the bubble has long-term sustainable value and growth potential. If it does, then there is an opportunity. It's possible, though, that bubbles may continue to occur until its value has been fully realized.
 
-After reaching an all-time high of \$19,800 in December of 2017, bitcoin entered a long bear market. As of October 2019, it remains in a bear market, with its price less than 43% of its all-time high. But is the popping of this bubble different from the popping of previous bubbles in the bitcoin market? As of October 11th, 2019, bitcoin had been pronounced dead [337 times](https://99bitcoins.com/bitcoin-obituaries/) since its inception. Each short bull market has been called a bubble, and they have all popped, but the popping of the bubble in 2017 has one difference from previous bubbles:
+After reaching an all-time high of \$19,800 in December of 2017, bitcoin entered a long bear market. As of October 2019, it remains in a bear market, with its price less than 43% of its all-time high. But is the popping of this bubble different from the popping of previous bubbles in the bitcoin market? From its inception through October 11th, 2019, bitcoin, the world's first blockchain application, was pronounced dead [337 times](https://99bitcoins.com/bitcoin-obituaries/). Each short bull market has been called a bubble, and they have all popped, but the popping of the bubble in 2017 has one difference from previous bubbles:
 
 >No one denies bitcoin's value. 
 
@@ -679,12 +675,12 @@ Below, I will take BOX as an example, because it is a combination of investments
 
 > The strategy of regular investing is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor must use their own money and time over the long term to take responsibility for their own choices. Please be cautious.
 >
-> This section is primarily about how I chose BTC, EOS, and XIN to be the components of BOX, and it necessarily contains some of my own subjective judgements. You must use your own objective understanding of the objective world to choose your own investments.
+> This section is primarily about why, in July of 2017, I chose BTC, EOS, and XIN to be the initial components of BOX, and it necessarily contains some of my own subjective judgements. You must use your own objective understanding of the objective world to choose your own investments.
 >
 > **Conflict of Interest Notice**
 >
 > * I am a long-term holder of BTC (from May of 2011)
-> * I was an angel investor in BlockOne, which developed EOS (May of 2017)
+> * I was an angel investor in BlockOne, which developed EOS (initial investment in May of 2017; all shares sold in 2018)
 > * I was an angel investor in Mixin Network (October of 2017)
 
 After eight years of observation, thinking and practice, I think that blockchain technology has a development path that is slowly becoming apparent: 
@@ -692,8 +688,6 @@ After eight years of observation, thinking and practice, I think that blockchain
 >Trusted ledger (BTC) → Trusted platform for code (ETH/EOS) → Trusted execution environment (Mixin) → Trusted hardware (?) ...
 
 [Bitcoin](https://bitcoin.org/) was the world's first blockchain application. At its core it is an open, transparent, immutable, distributed, trusted ledger. Projects such as [Ethereum](https://www.ethereum.org) and [EOS](https://eos.io), which came along later, have the goal of becoming a blockchain application platform, which is to say that application code can be written to and executed on an open, transparent, immutable, distributed, trusted ledger. Putting a ledger on a blockchain allowed for a trusted ledger, and putting application code on a blockchain allowed for trusted code. [Mixin Network](https://mixin.one) combines a Trusted Execution Environment (TEE) and a Directed Acyclic Graph (DAG) to create an open, transparent, immutable, distributed digital asset storage network, or a trusted execution environment. Maybe in the near future we will also see trusted hardware.
-
-The reasons for not choosing Ethereum are technical. It currently uses a [Proof-of Work (PoW)](https://en.wikipedia.org/wiki/Proof_of_work) consensus mechanism, and this type of consensus mechanism, which measures confirmations in minutes, is fundamentally unsuitable for an application platform. Ethereum's experience over the past three years has shown that this flaw cannot be resolved in a PoW system. Even if Ethereum switches to a Proof-of-Stake (PoS) system, it will necessarily require a hard fork. Ethereum already underwent a poorly considered hard fork in 2017 that gave birth to Ethereum Classic, which has no clear use case. All of this is to say that investors in Ethereum are faced with a great amount of risk.
 
 There is one final reason why I chose these investments. From inception until they are widely accepted, almost all technologies go through the following three stages:
 
@@ -703,29 +697,27 @@ From this perspective, EOS is a blockchain platform for businesses, and Mixin Ne
 
 Furthermore, these three investments have reached the "undeniable" stage. Of course they haven't been accepted by everyone, but no one can deny their value. This is the best time for regular investors to enter the market.
 
-The figure below shows the price fluctuations of BOX, BTC, EOS, and XIN, and the profit fluctuations of investing in BOX regularly (daily):
+In  January of 2021, more than 500 days after the establishment of the BOX Regular Investing Group, the components of BOX were adjusted for the first time. Currently BOX includes seven components:
+
+> * BTC
+> * EOS
+> * ETH
+> * DOT
+> * MOB
+> * UNI
+> * XIN
+
+At this point, BOX has evolved into a rather mature "Digital Assets Index ETF". The following chart shows the returns on BOX from July 12th, 2017:
 
 <img src="https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/data/box-historical-price-change.png" style="border-radius: 5px; border: 5px solid #ddd; max-width: 100%;"/>
 
-> Note: [click this link to view the data](https://github.com/xiaolai/regular-investing-in-box/tree/master/data)
-
-Let's take Odyssey, the no-carry, no-management-fee stock ETF that will be issued in the second half of 2020, as another example. As I mentioned in a previous chapter:
-
->I agree with Masayoshi Sun's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
->
->>No matter how good the algorithm is, it needs data to feed it. Public companies with large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
-
-The main point is in this sentence:
-
->Most algorithm companies will in the end be used by large companies with data.
-
-This sentence is making a judgment about an obvious trend that is itself in accordance with the trend. In this sector, this will definitely happen, so we should be prepared in advance.
+> Note: [Click this link to see the orignal data](https://github.com/xiaolai/regular-investing-in-box/tree/master/data)
 
 There has long been debate in the investment world about whether *alpha* -- results that beat the market -- actually exists, even though rare investors such as Warren Buffet, Joel Greenblatt and Ray Dalio have consistently beaten the market over the long term. There's a joke that shows the silliness of blind adherents to "efficient market theory":
 
 >A student saw a hundred dollar bill on the ground and exclaimed to his professor, "Look! Is that a hundred dollar bill?" The professor didn't even deign to look, saying, "That's impossible! If it were really a hundred dollar bill, somebody would have picked it up a long time ago."
 
-If the market were 100% efficient, then *alpha* could not exist. The problem is that, if we look at any given moment in the market in isolation, it's 100% inefficient. Price and value sometimes matching up doesn't mean anything -- a broken clock is right twice a day! If we put all of the individual moments back together, then over the long term the market should be efficient, but how long is long term? No one knows. If we look at it from the perspective of a regular investor, after two full cycles, the variance between the current price and the historical price at any given moment will seem even greater.
+If the market were 100% efficient, then *alpha* could not exist. The problem is that, if we look at any given moment in the market in isolation, it's 100% inefficient. Price and value sometimes matching up doesn't mean anything -- even a broken clock is right exactly twice a day! If we put all of the individual moments back together, then over the long term the market should be efficient, but how long is long term? No one knows. If we look at it from the perspective of a regular investor, after two full cycles, the variance between the current price and the historical price at any given moment will seem even greater.
 
 Obviously, I believe that *alpha* exists, and I'm always thinking about how to find better strategies to create it. If you do well, *alpha* is positive; if you do poorly, *alpha* is negative. As a regular investor, your final results can be described by the following formula:
 
@@ -1425,30 +1417,19 @@ October 2019, Beijing
 **Conflict of Interest Notice**
 >
 > * I am a long-term holder of BTC (from May of 2011)
-> * I was an angel investor in BlockOne, which developed EOS (May of 2017)
+> * I was an angel investor in BlockOne, which developed EOS (initial investment in May of 2017; all shares sold in 2018)
 > * I was an angel investor in Mixin Network (October of 2017)
 
-[BOX](https://b.watch/) is an abbreviation for **B**tc + e**O**s + **X**in, and it is a "box" of these three assets. The purchase and redemption of BOX can be done on the [b.watch](https://b.watch/) website. 
+[BOX](https://b.watch/) is an abbreviation for **B**tc + e**O**s + **X**in, which were the original three components of BOX. BOX is a "box" of assets, and as time goes on new assets will be added. The purchase and redemption of BOX can be done on the [b.watch](https://b.watch/) website. 
 
-### 1.1 Details of BOX
+### 1.1 Introduction to BOX
 
-Quite simply, BOX is **a blockchain token that tracks a basket of mainstream blockchain assets**. Its components are as follows:
+BOX is **a blockchain token that tracks a basket of mainstream blockchain assets**.
 
-> * 1 BTC
-> * 1500 EOS
-> * 8 XIN
->
-> ------
->
-> = 10,000 BOX
 
-Put another way, to exchange for 1 BOX, you would need 0.0001 BTC + 0.15 EOS + 0.00008 XIN.
 
-> * You can use the respective amounts of BTC, EOS, and XIN to exchange for BOX.
-> * After meeting certain conditions, you can also redeem BOX for the respective amounts of BTC, EOS, and XIN.
-> * You can also use USDT to directly purchase BOX on secondary markets. 
-
-The necessary conditions to redeem BOX for BTC, EOS, and XIN are as follows:
+The conditions for redeeming BOX are as follows:
+ 
 
 > If the market value of your BOX exceeds \$100,000, the redemption fee is 1%.
 > Alternatively, you can sell it directly on a secondary market, in which case both parties will be charged a commission of 0.1%.
@@ -1456,73 +1437,11 @@ The necessary conditions to redeem BOX for BTC, EOS, and XIN are as follows:
 
 BOX is an ETF product, but it is different from the funds you have seen before, in that it doesn't charge a management fee. Why? Because I don't want to earn a management fee. And I am also regularly investing in BOX.
 
-BOX is 100% open and transparent. The addresses in which assets are held are public, and you can check them at any time. All of the records are on the Mixin public chain, and you can find instructions to check the addresses on the b.watch website. How much BTC, EOS, and XIN are in BOX? How many corresponding BOX tokens are circulating? How many BOX tokens are still in "cold storage" (including those for future distribution and those that have been redeemed)? The data to answer all of these questions are open and transparent, so it is easy to check the current issuance of BOX and confirm its underlying assets. If BOX is listed on any exchange, users can use also use this data to confirm that the exchange is not artificially inflating the supply of BOX. (As to why this is important, it will take a novice some time to learn and understand.)
-
-### 1.2 The Advantages of BOX
-
-The components and allocation of BOX were determined in accordance with the following principles.
-
-### 1.2.1 It is best to invest in mainstream blockchain assets
-
-In the new round of trends, mainstream blockchain assets will receive disproportionate attention. The market has been educated by the bull and bear markets of 2017 and 2018, and the "blind optimism" around new tokens has been fully deflated. Projects that raised millions just based on writing a white paper have been discredited. In the new round, the assets that may see huge appreciation are either mainstream assets or multi-level marketing (MLM) assets. The reason to stay away from MLM assets isn't that they can't make money -- actually, they can make a lot of money! -- but because they can't succeed over the long term, and are thus not suitable choices for regular investing. Regular investors invest through more than one cycle, and thus they can only choose long-term investments. So, between mainstream assets and MLM assets, we can only choose mainstream assets. 
-
-### 1.2.2 The internal logic of the development of blockchain technology
-
-After eight years of observation, investment, practice and thinking, I believe that there is a development path that blockchain technology will follow in changing the world:
-
-> Trusted ledger (BTC) → Trusted platform for code (ETH/EOS) → Trusted execution environment (Mixin) → Trusted hardware (?) ...
-
-Actually, this is also the investment path I have followed. After bitcoin, the exchange that I invested in, Yunbi, became the first exchange to list Ethereum (ETH), and I was an angel investor in EOS and Mixin. The core of successful investing is investing in accordance with the way things are developing, which befriends trends and allows trends to constantly work in favor of your investments, rather than allowing trends to become enemies and obstacles to your investments. 
-
-The choice of components of BOX is in accordance with the internal logic of the development of blockchain technology.
-
-As to why EOS was chosen instead of ETH, despite the fact that ETH appeared before EOS in the trusted code stage, the difference between them is like the difference between DOS and Windows, in that EOS is multithreaded. Furthermore, BlockOne, the technical team behind EOS, is one of the most well-funded teams in the space, so EOS is a more reliable choice and is more likely to be successful over the long term.
-
-When our investments go from an individual investment (like BTC) to a combination of investments (like BOX), we both reduce opportunity cost and change from investing in one project to investing in an entire industry. This is an extremely reliable way to reduce risk.
-
-### 1.2.3 Thoughts on allocation
-
-As of July 2019, the "Bitcoin dominance index", which is the percentage of of all blockchain assets that bitcoin represents, was 63%. Although this number may continue to rise in the short term, it will drop as blockchain technology and applications become more widespread. It's not that bitcoin won't continue to develop, it's just that other assets are likely to develop faster than bitcoin over the long term. So, from a long-term perspective, it is reasonable to have a 50% allocation for bitcoin.
-
-The remaining 50% is allocated to EOS and XIN with a 4:1 ratio. This is because I think that XIN will develop rapidly, maybe even faster than EOS.
-
-**Note:** The 5:4:1 ratio is based on USD prices at the inception of BOX. Over time, these ratios are not fixed. The fixed ratios are based on the components:
-
-> 10,000 BOX = 1 BTC + 1,500 EOS + 8 XIN
-
-The main misunderstanding people have of [Mixin](https://mixin.one) is that they think Mixin is merely a chat app. Actually, while Mixin Messenger is a chat app, or a social networking app, Mixin Network is a public chain, and Mixin Messenger is Mixin Network's first Dapp. The vast majority of public chains (even including EOS as of July 2019) still have no good Dapps. Most Dapps are basically just dice games. 
-
-Mixin Network has taken a different technical development path. 
-
-Other public chains have followed a *bottom-up* approach, first developing the public chain and then developing on-chain Dapps. This is called "building an ecosystem".
-
-Mixin Network has taken a *top-down* approach, first creating a great Dapp, Mixin Messenger, and then gradually completing the development of the base public chain. Thus, Mixin Messenger was first released in December of 2017, and, more than a year later, in February of 2019, the Mixin Network public chain was officially released. Dapps such as dice games can simply be bots running on Mixin Messenger. Ocean.one is a self-governing decentralized exchange running on Mixin Network, and it represents pioneering technology in the blockchain space. Other products that are being developed, like BOX and its b.watch exchange, would be impossible to realize without the Mixin Network public chain. It's not that I haven't tried other public chains, it's that they are unusable. This is the reason for XIN's allocation in BOX.
-
-In summary, BOX is an ETF product that I believe is very likely to succeed. If we lose money on it, it is because the blockchain industry has failed, and that is neither my fault nor yours. However, **as long as the blockchain industry does well, BOX will do well**, and the blockchain industry is just taking off, so we are likely to do well. It's that simple.
+BOX is 100% open and transparent. The addresses in which assets are held are public, and you can check them at any time. All of the records are on the Mixin public chain, and you can find instructions to check the addresses on the b.watch website. What amount of digital assets are in BOX? How many corresponding BOX tokens are circulating? How many BOX tokens are still in "cold storage" (including those for future distribution and those that have been redeemed)? The data to answer all of these questions are open and transparent, so BOX can not be casually inflated, and its circulating supply cannot be casually increased. If BOX is listed on any exchange, users can use also use this data to confirm that the exchange is not artificially inflating the supply of BOX. (As to why this is important, it will take a novice some time to learn and understand.)
 
 ## 2. About b.watch
 
-[b.watch](https://b.watch) is an exchange to buy BOX and redeem it for its components.
-
-Currently b.watch's profits may come from two areas:
-
-> 1. A 1% commission when BOX is redeemed.
-> 2. A 0.1% commission charged to both buyer and seller when BOX is traded on secondary exchanges, for a total commission of 0.2%.
-
-50% of these earnings will be periodically distributed to BOX holders. At first, these earnings don't seem like much, but over time the development of BOX and b.watch will be amazing. 
-
-Later on, other sources of potential income may include:
-
-> * Income from an EOS Block Producer
-> * Income from XIN nodes
-
-It takes a large amount of reserves and preparation to become an EOS Block Producer or an XIN node. When the time is right, b.watch plans to run these nodes, and after deducting operation costs 100% of proceeds will be distributed to BOX holders. 
-
-Under this system, the corporate value of b.watch is basically a 0.5% commission on BOX redemptions and a 0.1% commission on BOX trading. After seven years, 100% of the shares of b.watch will be distributed to my Regular Investing Practice Group members according to certain conditions. For instance:
-
-> * Time holding BOX
-> * Degree of successful completion of regular investing tasks
-> * Affiliate sales of the Regular Investing Practice Group
+[b.watch](https://b.watch) is an exchange to buy BOX and redeem it for its components. (December 2019 update: in the near future the URL will be updated to [https://firesbox.com](https://firesbox.com).)
 
 ## 3. About the BOX Regular Investing Practice Group
 
@@ -1531,10 +1450,6 @@ The *"BOX Regular Investing Practice Group"* is my blockchain education product.
 But what you might not have thought of is that what I want to do even more is to make money with lots of other people by sharing reliable investing knowledge and following my own advice. It's rare to have a chance like I have with the Regular Investing Practice Group to help my students make money by sharing knowledge. Fortunately, the rapid development of the blockchain industry has given us an unprecedented opportunity. 
 
 The Regular Investing Practice Group is a place for me to make money from my knowledge, but more importantly it is a way for students to **make money outside of the market**. I am in charge of creating valuable content, and students, in addition to learning and putting the knowledge into practice, have the opportunity to earn bitcoin by selling memberships to the group. That's right, it's not just earning money, it's earning bitcoin, because the Regular Investing Practice Group only accepts bitcoin.
-
-In addition to earning bitcoin by selling memberships, those who put the knowledge presented in the class into practice by completing their regular investing tasks also have other benefits:
-
-> * They are eligible to receive shares in b.watch, the first on-chain ETF exchange in the world, thus benefiting not only from the development of BOX, but also from the development of b.watch.
 
 In brief, the Regular Investing Practice Group is is a place for me and my students to **develop together and make money together**.
 
