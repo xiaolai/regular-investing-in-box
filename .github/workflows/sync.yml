@@ -13,6 +13,7 @@ jobs:
     steps:
       - uses: tgymnich/fork-sync@v1.4
         with:
-          owner: llvm
+          owner: xiaolai
           base: master
           head: master
+          pr_title: "Sync from upstream"
