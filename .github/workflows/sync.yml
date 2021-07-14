@@ -13,7 +13,8 @@ jobs:
     steps:
       - uses: tgymnich/fork-sync@v1.4
         with:
-          owner: xiaolai
+          owner: fox-one
           base: master
           head: master
           pr_title: "Sync from upstream"
+          auto_approve: true
