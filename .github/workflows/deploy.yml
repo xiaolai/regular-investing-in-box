@@ -30,6 +30,10 @@ jobs:
         with:
           node-version: '12'
 
+      - uses: tool3/docsify-action@master
+        with:
+          github_token: ${{ secrets.GP_TOKEN }}
+
       # upload to aliyun
       - uses: yizhoumo/setup-ossutil@v1
         with:
