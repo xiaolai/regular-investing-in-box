@@ -22,7 +22,7 @@ It’s been ten years since I published [*Befriending Time*](https://item.jd.com
 
 >*Will this book still be useful to readers in ten years?*
 
-In addition to being bestsellers, my books are often perennial sellers. Here are my secrets for writing a book that continues to sell well over time: **simple**, **direct**, **brutal** and **effective**.
+In addition to being bestsellers, my books are often perennial sellers. The above-mentioned principle is my secret for writing many perennial sellers, which is **simple**, **direct**, **brutal** and **effective**.
 
 Because I have been writing in this simple, direct, brutal and effective way for so long, I have a deep understanding of the following fact: 
 
