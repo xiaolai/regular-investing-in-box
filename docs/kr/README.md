@@ -695,7 +695,7 @@ S&P 500의 가격 차트 기록을 다시 한 번 살펴보자. 차트에는 붉
 
 아래의 차트는 BOX, BTC, EOS, XIN의 가격 변동 추이와, BOX에 대한 적립식 투자(매일)의 수익 변동 추이를 보여주고 있다.
 
-<img src="https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/data/box-historical-price-change.png" style="border-radius: 5px; border: 5px solid #ddd; max-width: 100%;">
+<img src="https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/docs/images/box-historical-price-change.png" style="border-radius: 5px; border: 5px solid #ddd; max-width: 100%;">
 
 > 주: [여기](https://github.com/xiaolai/regular-investing-in-box/tree/master/data)를 클릭하면 자료를 볼 수 있다.
 

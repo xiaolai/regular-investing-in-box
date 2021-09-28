@@ -709,7 +709,7 @@ In  January of 2021, more than 500 days after the establishment of the BOX Regul
 
 At this point, BOX has evolved into a rather mature "Digital Assets Index ETF". The following chart shows the returns on BOX from July 12th, 2017:
 
-<img src="https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/data/box-historical-price-change.png" style="border-radius: 5px; border: 5px solid #ddd; max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/docs/images/box-historical-price-change.png" style="border-radius: 5px; border: 5px solid #ddd; max-width: 100%;"/>
 
 > Note: [Click this link to see the orignal data](https://github.com/xiaolai/regular-investing-in-box/tree/master/data)
 

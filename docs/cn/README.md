@@ -725,7 +725,7 @@ EOS 从这个角度望过去，就是个面向区块链企业的平台。而 Mix
 
 —— 至此，BOX 已经进化为一个相对成熟的「数字资产指数型 ETF」。以下图示，是从 2019 年 7 月 12 日开始算起，定投 BOX 收益的变化：
 
-<img src="https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/data/box-historical-price-change.png" style="border-radius: 5px; border: 5px solid #ddd; max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/docs/images/box-historical-price-change.png" style="border-radius: 5px; border: 5px solid #ddd; max-width: 100%;"/>
 
 > 注：[点击这个链接查看具体数据](https://github.com/xiaolai/regular-investing-in-box/tree/master/data)
 
