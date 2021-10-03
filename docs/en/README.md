@@ -560,7 +560,7 @@ This was the logical reasoning behind this feeling:
 
 >We've seen the incredible changes brought about by the Internet allowing information to flow rapidly with basically zero cost, so what kind of incredible changes would be brought about if assets could also flow rapidly with basically zero cost?
 >
->After ten years, the Internet is still bringing about massive change. Even if it isn't exactly what we initially imagined, it's still amazing. In the same way, ten years from now the financial Internet is extremely likely to have brought about incredible change, even if we can't know exactly what those changes will be...
+>After ten years, the Internet is still bringing about massive changes. Even if it isn't exactly what we initially imagined, it's still amazing. In the same way, ten years from now the financial Internet is extremely likely to have brought about incredible changes, even if we can't know exactly what those changes will be...
 
 So for me at the time, blockchain was the future, blockchain was a trend, and blockchain would likely be the fastest growing industry. Looking back from eight years later, it has become the fastest growing industry, and my investment has grown at a scale not even imaginable at the time.
 
