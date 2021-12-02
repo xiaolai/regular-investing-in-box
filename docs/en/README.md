@@ -129,7 +129,7 @@ The core of the regular investing strategy is long-term holding. It's well recog
 
 >**How long is "long-term"?**
 
-If we don't have an accurate answer to this question, we can't even really use the concept of "long-term". For any concept to be useful it must be clearly defined, and since we must combine concepts together, if we have multiple unclear concepts then the accuracy of our judgement will be severely impacted, just as multiplying 80% by itself five times will leave us with less than 33%. In the course of reading this book, you will encounter several concepts that must be used together, and they must be clearly and accurately defined in order to be useful.
+If we don't have an accurate answer to this question, we can't even really use the concept of "long-term". For any concept to be useful it must be clearly defined, and since we must combine concepts together, if we have multiple unclear concepts then the accuracy of our judgment will be severely impacted, just as multiplying 80% by itself five times will leave us with less than 33%. In the course of reading this book, you will encounter several concepts that must be used together, and they must be clearly and accurately defined in order to be useful.
 
 Unlike most people, I have a fairly clear, accurate and useful definition of long-term:
 
@@ -151,7 +151,7 @@ There are several details in this chart that are worth looking at closely. For e
 
 Why do we need to emphasize at least **two** market cycles? Because many people misunderstand **trends**. They see that today's price is higher than yesterday's, and that yesterday's price was higher than the day before, and they think they have identified an "upward trend". They then erroneously assume that tomorrow's price will be higher than today's. But it's actually impossible to judge a trend in the short term, even over the course of one entire cycle.
 
->Only after **two full cycles** can we make an **accurate** judgement about whether a trend is more likely to be upward or downward.
+>Only after **two full cycles** can we make an **accurate** judgment about whether a trend is more likely to be upward or downward.
 
 Furthermore, please note the use of "more likely to be" in the sentence above. Even after two full cycles, we still cannot be 100% sure about the future trend based on historical data. At this point in time (October 2019), bitcoin's price has still not returned to its historical high, and we cannot be 100% sure that Bitcoin will ever exceed its historical high. We will only be able to make this determination after the fact –- long after the fact. In the end, from any point in time, we can only make investment decisions based on less than 100% certainty. Since the future is full of risk and unknown factors, we can only use terms such as "more likely". Actually, this is precisely why investing is so interesting.
 
@@ -159,7 +159,7 @@ In the chart above, we can barely see the high reached in June of 2011. But if w
 
 ![Figure07](../images/Figure07.png)
 
-Each of these charts looks quite similar to the overall historical chart, which is to say that even as I am in the midst of my fourth full cycle, and even though I have made similar judgments based on "more likely" before, I still can't be completely sure this time. I still can only use "more likely" as the basis for my judgement. It's just that I've been quite lucky in that my previous three judgements based on "more likely" were proven to be correct.
+Each of these charts looks quite similar to the overall historical chart, which is to say that even as I am in the midst of my fourth full cycle, and even though I have made similar judgments based on "more likely" before, I still can't be completely sure this time. I still can only use "more likely" as the basis for my judgment. It's just that I've been quite lucky in that my previous three judgments based on "more likely" were proven to be correct.
 
 Let's briefly summarize what we have discussed thus far:
 
@@ -673,9 +673,9 @@ Below, I will take BOX as an example, because it is a combination of investments
 
 > **Risk Warning** 
 
-> The strategy of regular investing is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor must use their own money and time over the long term to take responsibility for their own choices. Please be cautious.
+> The strategy of regular investing is objectively correct, but it is impossible to remove subjective judgment from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor must use their own money and time over the long term to take responsibility for their own choices. Please be cautious.
 >
-> This section is primarily about why, in July of 2017, I chose BTC, EOS, and XIN to be the initial components of BOX, and it necessarily contains some of my own subjective judgements. You must use your own objective understanding of the objective world to choose your own investments.
+> This section is primarily about why, in July of 2017, I chose BTC, EOS, and XIN to be the initial components of BOX, and it necessarily contains some of my own subjective judgments. You must use your own objective understanding of the objective world to choose your own investments.
 >
 > **Conflict of Interest Notice**
 >
@@ -769,11 +769,11 @@ Regular investors are different. Each time they buy they are "buying low", becau
 
 Frequent traders are definitely not willing to concede this point. "How could I have a 50% chance of making a mistake?!" Alright, let's say you have an 80% chance of being right. Actually, you have to be right twice in a row, so your chances of success are only 80% x 80% = 64%. That's still much lower than 100%! Furthermore, if you have actually tried investing using your own money, you know that being right 80% of the time is incredibly unlikely. If you're right even 60% of the time you can be considered an expert! And if you're right 60% of the time, your chances of being right twice in a row drop to 36%. This explains why the vast majority of investors end up thinking that every action they took was wrong. Once you understand that short-term price movements are an unpredictable ["random walk"](https://en.wikipedia.org/wiki/Random_walk_hypothesis), you will understand why the chances of success are really 50% x 50% = 25%. No more no less.
 
-But we're not done yet! Another hidden and serious detail has been left out. Frequent traders don't understand that what they are depending on is **judgement after the fact**. Putting aside whether their judgement is correct or not, by the time they realize something, and think, "Oh, this must be an upward trend", they've already missed a portion of the rise in price. And by the time they realize, "Oh, this looks like a downward trend", they can't avoid having participated in some of the drop in price. 
+But we're not done yet! Another hidden and serious detail has been left out. Frequent traders don't understand that what they are depending on is **judgment after the fact**. Putting aside whether their judgment is correct or not, by the time they realize something, and think, "Oh, this must be an upward trend", they've already missed a portion of the rise in price. And by the time they realize, "Oh, this looks like a downward trend", they can't avoid having participated in some of the drop in price. 
 
 ![Figure20](../images/Figure20.png)
 
-This phenomenon is easy to see in the picture above. Even for the 25% of the time that they are right twice in a row, they actually only make about a third of the profit that they think they should. In their imagination, they buy at A and sell at B, but because their judgement of the short-term trend is actually made after the fact, they actually buy at A' and sell at B'.
+This phenomenon is easy to see in the picture above. Even for the 25% of the time that they are right twice in a row, they actually only make about a third of the profit that they think they should. In their imagination, they buy at A and sell at B, but because their judgment of the short-term trend is actually made after the fact, they actually buy at A' and sell at B'.
 
 >Just as an aside, the core problem with [momentum investing](https://en.wikipedia.org/wiki/Momentum_investing), which many people seem to fall in love with, is basically the same. Since you can only base decisions on judgments after the fact, even if you do everything right your gains are still smaller than you had imagined. 
 
@@ -787,7 +787,7 @@ This is why most investors who are truly able to reflect on their behavior after
 
 >Everything I tried to do was wrong.
 
-Their conclusion is not incorrect, because the more things they did the more likely they were to be wrong, and it all happened without their being aware of it. They didn't know that all of their short-term trading strategies depended on luck; they didn't know whether their strategies were really effective; they didn't know that they had to be right twice in a row to be successful; they didn't know that they were missing two thirds of their potential profits because they were making judgements after the fact; and they definitely didn't know that there is a cost to turning even correct knowledge into action. In the face of these factors, even the fees that Warren Buffett has called "vampires" -- because they can kill your returns -- don't seem so scary.
+Their conclusion is not incorrect, because the more things they did the more likely they were to be wrong, and it all happened without their being aware of it. They didn't know that all of their short-term trading strategies depended on luck; they didn't know whether their strategies were really effective; they didn't know that they had to be right twice in a row to be successful; they didn't know that they were missing two thirds of their potential profits because they were making judgments after the fact; and they definitely didn't know that there is a cost to turning even correct knowledge into action. In the face of these factors, even the fees that Warren Buffett has called "vampires" -- because they can kill your returns -- don't seem so scary.
 
 Behavioral economist [Meir Statman](https://www.scu.edu/business/finance/faculty/statman/) once referred to a Swedish study which showed, based on figures from 19 stock exchanges, that accounts which traded frequently lost an average of 1.9%-4% per year. A [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=219228) by Brad Barber and Terrance Odean showed that men traded 45% more frequently than women, and that men had 1.4% lower yearly returns. Single men traded 67% more frequently than women, and had 2.3% lower returns. A study by [Vanguard](https://investor.vanguard.com/corporate-portal/) discovered that the returns of accounts that frequently changed strategies lagged far behind those of accounts that never changed strategies (see Chapter 2 of Daniel Crosby's [*The Behavioral Investor*](https://www.amazon.com/dp/B07HH99WH8/)).
 
@@ -1410,9 +1410,9 @@ October 2019, Beijing
 
 >**Risk Warning**
 >
->The strategy of regular investing is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor must use their own money and time over the long term to take responsibility for their choices. Please be cautious.
+>The strategy of regular investing is objectively correct, but it is impossible to remove subjective judgment from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor must use their own money and time over the long term to take responsibility for their choices. Please be cautious.
 >
->This section is primarily about how I chose BTC, EOS, and XIN to be the components of BOX, and it necessarily contains some of my own subjective judgements. You must use your own objective understanding of the objective world to choose your own investments.
+>This section is primarily about how I chose BTC, EOS, and XIN to be the components of BOX, and it necessarily contains some of my own subjective judgments. You must use your own objective understanding of the objective world to choose your own investments.
 >
 **Conflict of Interest Notice**
 >
