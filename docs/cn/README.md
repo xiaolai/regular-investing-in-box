@@ -820,7 +820,7 @@ EOS 从这个角度望过去，就是个面向区块链企业的平台。而 Mix
 
 有天堂就有地狱，反过来，如若没有那么可怕的地狱存在，天堂恐怕也不会那么令人向往。
 
-人们会不由自主地想，如果我居然成功地避开了股市里最糟糕的日子，那该有多好！那何止是好啊，那应该是再好不过了！有人在 2015 年做过统计，在此之前的 *2,600* 天里，如果你竟然可以避开 **10** 个最差的日子，那么，你的收益可能增加 *104%*！（参阅 IESE 商学院的教授[贾维·埃斯特拉达](https://www.iese.edu/faculty-research/faculty/javier-estrada/)的相关论文：[Black swans, market timing and the Dow](https://pdfs.semanticscholar.org/9c64/3d7ed23a1ecdb862a169ff8654e9d1fd15ef.pdf)）
+人们会不由自主地想，如果我居然成功地避开了股市里最糟糕的日子，那该有多好！那何止是好啊，那应该是再好不过了！有人在 2015 年做过统计，在此之前的 *2,600* 天里，如果你竟然可以避开 **10** 个最差的日子，那么，你的收益可能增加 *206%*！（参阅 IESE 商学院的教授[贾维·埃斯特拉达](https://www.iese.edu/faculty-research/faculty/javier-estrada/)的相关论文：[Black swans, market timing and the Dow](https://pdfs.semanticscholar.org/9c64/3d7ed23a1ecdb862a169ff8654e9d1fd15ef.pdf)）
 
 ![Figure22](../images/Figure22.png)
 
