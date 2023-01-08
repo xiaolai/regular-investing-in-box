@@ -1,6 +1,6 @@
-# BOX 历史价格变化
+# BOX 投资收益率历史变化
 
-```box_price_history.txt``` 是 csv 格式的文本文件，每日北京时间晚 23:58 更新一次，BTC、EOS、XIN 的价格从 Coinmarketcap 抓取获得。
+```box_price_history.txt``` 是 csv 格式的文本文件，包含历史每日价格（BOX，及其各个成分。数据每日北京时间晚 23:58 更新一次，BTC、EOS、XIN 的价格从 Coinmarketcap 抓取获得。
 
 更新数据之后，图片 ```box-historical-price-change.png``` 亦会同步更新
 
