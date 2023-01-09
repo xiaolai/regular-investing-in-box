@@ -2,7 +2,6 @@ name: Build and deploy to production.
 
 env:
   OSS_ENDPOINT: oss-cn-beijing.aliyuncs.com
-  AWS_REGION: us-east-1
   APP_ENV: prod
 
 on:
@@ -13,7 +12,7 @@ on:
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
-    if: github.repository_owner == 'fox-one'
+    if: github.repository_owner == 'xiaolai'
     steps:
       - uses: actions/checkout@master
 
@@ -28,10 +27,6 @@ jobs:
         uses: actions/setup-node@master
         with:
           node-version: "12"
-
-      # - uses: tool3/docsify-action@master
-      #   with:
-      #     github_token: ${{ secrets.GP_TOKEN }}
 
       # upload to aliyun
       - uses: yizhoumo/setup-ossutil@v1
