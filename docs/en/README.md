@@ -275,7 +275,7 @@ Buffett is not just successful, he's also always very open in sharing his though
 
 >Warren Buffett has a zero cost of capital!
 
-Berkshire Hathaway's key turning point in its early years came in 1967, when it bought National Indemnity Company and entered the insurance industry. Remember, Berkshire was a textile company that Buffett took control of in a fit of anger, and he regretted getting into the textile industry for many years. It wasn't until 1985 that Berkshire finally exited the textile business, nearly 20 years after Buffett took control in 1965.
+Berkshire Hathaway's key turning point in its early years came in 1967, when it bought National Indemnity Company and entered the insurance industry. Remember, Berkshire was a textile company that Buffett took control of in a fit of anger, and he regretted getting into the textile industry for many years. It wasn't until 1985 that Berkshire finally exited the textile business, nearly 20 years after Buffett took control in 1964.
 
 But after entering the insurance market in 1967, Berkshire became an investing machine. The reason was simple: Buffett not only had a huge amount to invest, the funds also came at zero cost, and they could be used almost indefinitely. This was a huge relative advantage over all other investors in the world.
 
@@ -394,7 +394,7 @@ How can someone who doesn't even know what their criteria should be make a choic
 
 >The more long-term successful experience investors have, the more open they are.
 
-Warren Buffett started writing public letters to investors a long time ago, and later on he continued to share his investing ideas and decision-making process on television and through other media. Starting in 1965, Buffett has written a public letter to investors each year. As of 2019, he has been writing them for 54 years! Ever since 1973, he and Charlie Munger have held freewheeling Q&A sessions at yearly shareholder meetings. In 2019, the 46<sup>th</sup> year, a record 16,200 people attended, not including people watching online around the world.
+Warren Buffett started writing public letters to investors a long time ago, and later on he continued to share his investing ideas and decision-making process on television and through other media. Starting in 1964, Buffett has written a public letter to investors each year. As of 2019, he has been writing them for 54 years! Ever since 1973, he and Charlie Munger have held freewheeling Q&A sessions at yearly shareholder meetings. In 2019, the 46<sup>th</sup> year, a record 16,200 people attended, not including people watching online around the world.
 
 >Berkshire Hathaway's shareholder letters from 1977 to 2018 are available here: 
 >
