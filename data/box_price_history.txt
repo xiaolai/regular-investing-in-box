@@ -1,4 +1,4 @@
-Date	BTC Price	EOS Price	XIN Price	ETH Price	DOT Price	MOB Price	UNI Price	SOL Price   BOX Price
+Date	BTC Price	EOS Price	XIN Price	ETH Price	DOT Price	MOB Price	UNI Price	SOL Price	BOX Price
 2019-07-12	$11,798.52	$4.80	$228.27	$0.00	$0.00	$0.00	$0.00	$0.00   $2.08
 2019-07-13	$11,414.99	$4.76	$211.40	$0.00	$0.00	$0.00	$0.00	$0.00   $2.02
 2019-07-14	$10,267.75	$4.12	$195.16	$0.00	$0.00	$0.00	$0.00	$0.00   $1.80
