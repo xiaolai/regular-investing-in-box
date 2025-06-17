@@ -35,7 +35,7 @@ todaysdate = date.today().strftime('%Y-%m-%d')
 BTCresponse = json.loads(requests.get("https://bigone.com/api/v3/asset_pairs/BTC-USDT/ticker", headers={'Connection':'close'}).text)
 btc_price = '${:,.2f}'.format(float(BTCresponse['data']['close']))
 
-EOSresponse = json.loads(requests.get("https://bigone.com/api/v3/asset_pairs/EOS-USDT/ticker", headers={'Connection':'close'}).text)
+EOSresponse = json.loads(requests.get("https://bigone.com/api/v3/asset_pairs/A-USDT/ticker", headers={'Connection':'close'}).text)
 eos_price = '${:,.2f}'.format(float(EOSresponse['data']['close']))
 
 XINresponse = json.loads(requests.get("https://bigone.com/api/v3/asset_pairs/XIN-USDT/ticker", headers={'Connection':'close'}).text)
@@ -64,6 +64,6 @@ f.write(todaysdate + '\t' + btc_price + '\t' + eos_price + '\t' + xin_price + '\
 f.close()
 
 # on MacOSX, in terminal:
-# > ctrontab -e
+# > crontab -e
 # 0 8 * * * cd /root/regular-investing-in-box/data && /root/anaconda3/bin/python boxhistoricalprice.py && cd /root/regular-investing-in-box && git pull && git add . && git commit -a -m "box historical price auto-updated" && git push -u origin master 
 # > about ctron time setting, see: https://crontab.guru/#59_23_*_*_*
