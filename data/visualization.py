@@ -5,7 +5,7 @@ from re import sub
 
 # "https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/data/box_price_history.txt",
 series = pd.read_csv(
-    "/root/regular-investing-in-box/data/box_price_history.txt",
+    "/home/xiaolaidev/regular-investing-in-box/data/box_price_history.txt",
     sep="\t"
 )
 
