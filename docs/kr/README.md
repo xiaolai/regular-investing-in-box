@@ -614,7 +614,7 @@ S&P 500의 가격 차트 기록을 다시 한 번 살펴보자. 차트에는 붉
 
 역사를 보면, 대형 트렌드를 이끄는 산업 중 버블을 겪지 않은 산업은 없다. 튤립 버블과 인터넷 버블 사이에는 본질적인 차이점이 있다. 튤립은 그 자체로 아예 가치가 없던 것은 아니지만 그 가치가 지속 가능한 방식으로 성장할 여지는 없었던 한 편, 인터넷에는 시간이 지남에 따라 그 가치가 꾸준히 성장할 여지가 있었다. 인터넷 산업은 인터넷 버블을 겪는 과정에서도 끊임 없이 성장하고, 가치를 만들어냈으며, 세계를 바꾸어 놓았다.
 
-그렇다면 대형 트렌드는 어째서 모두 버블 시기를 통과하는 것일까? 존 피셔(John Fisher)의 [전환 곡선](https://www.ucd.ie/t4cms/Transition Curve Cranfield Article.pdf)(Transition Curve)을 활용해 이 현상을 들여다 보자.
+그렇다면 대형 트렌드는 어째서 모두 버블 시기를 통과하는 것일까? 존 피셔(John Fisher)의 [전환 곡선](https://www.ucd.ie/t4cms/Transition%20Curve%20Cranfield%20Article.pdf)(Transition Curve)을 활용해 이 현상을 들여다 보자.
 
 ![](../images/Figure18.png)
 
