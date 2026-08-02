@@ -60,7 +60,7 @@ box_price = '${:,.2f}'.format((float(sub(r'[^\d.]', '', btc_price)) * 1 + float(
 
 # f = open("box_price_history.txt", "a")
 f = open("/home/xiaolaidev/regular-investing-in-box/data/box_price_history.txt", "a")
-f.write(todaysdate + '\t' + btc_price + '\t' + eos_price + '\t' + xin_price + '\t' + eth_price + '\t' + dot_price + '\t' + mob_price + '\t' + uni_price + '\t' + sol_price + '\t' + box_price +'\r')
+f.write(todaysdate + '\t' + btc_price + '\t' + eos_price + '\t' + xin_price + '\t' + eth_price + '\t' + dot_price + '\t' + mob_price + '\t' + uni_price + '\t' + sol_price + '\t' + box_price +'\n')
 f.close()
 
 # on MacOSX, in terminal:
