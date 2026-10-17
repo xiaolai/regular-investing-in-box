@@ -10,6 +10,11 @@ series = pd.read_csv(
     sep="\t"
 )
 
+assert series.shape[0] > 0, "box_price_history.txt must contain at least one data row"
+required_cols = {"Date", "BOX Price", "BTC Price"}
+missing = required_cols - set(series.columns)
+assert not missing, f"Missing required columns: {missing}"
+
 number_of_rows = series.shape[0]
 
 daily_invested = 1
